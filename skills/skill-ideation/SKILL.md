@@ -5657,6 +5657,116 @@ Agent 應該：
 | **energy-optimization** | 能量優化 | 🛠️ Strategy |
 | **sustainable-energy** | 永續能量 | 💡 Goal |
 
+## 236. Developing Self-Discipline 🏋️
+
+*發展自我紀律*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **self-discipline-basics** | 自我紀律基礎 | 📚 Understanding |
+| **self-discipline-importance** | 自我紀律重要性 | 📚 Why |
+| **self-discipline-building** | 自我紀律建立 | 🛠️ Process |
+| **self-discipline-practice** | 自我紀律練習 | 🛠️ Practice |
+| **self-discipline-small** | 小紀律 | 🛠️ Start |
+| **self-discipline-willpower** | 紀律和意志力 | 📚 Connection |
+| **self-discipline-environment** | 紀律環境 | 🛠️ Design |
+| **self-discipline-habits** | 紀律習慣 | 🛠️ Connection |
+| **self-discipline-obstacles** | 紀律障礙 | 🧠 Overcoming |
+| **self-discipline-failure** | 紀律失敗 | 🛠️ Recovery |
+| **self-discipline-flexibility** | 紀律彈性 | 💡 Balance |
+| **self-discipline-motivation** | 紀律動機 | 🧠 Connection |
+| **self-discipline-rewards** | 紀律獎勵 | 🛠️ System |
+| **self-discipline-identity** | 紀律身份 | 🧠 Building |
+| **sustainable-discipline** | 永續紀律 | 💡 Philosophy |
+
+## 237. Building a Support System 🤗
+
+*建立支持系統*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **support-system-basics** | 支持系統基礎 | 📚 Understanding |
+| **support-system-importance** | 支持系統重要性 | 📚 Why |
+| **support-system-types** | 支持系統種類 | 📚 Framework |
+| **support-system-building** | 支持系統建立 | 🛠️ Process |
+| **support-system-assessment** | 支持系統評估 | 🛠️ Tool |
+| **support-system-gaps** | 支持系統缺口 | 🛠️ Identification |
+| **support-system-asking** | 請求支持 | 🛠️ Practice |
+| **support-system-giving** | 給予支持 | 🛠️ Practice |
+| **support-system-boundaries** | 支持系統邊界 | 🛠️ Setting |
+| **support-system-professional** | 專業支持 | 🛠️ Resources |
+| **support-system-community** | 社群支持 | 🛠️ Building |
+| **support-system-online** | 線上支持 | 🛠️ Options |
+| **support-system-maintenance** | 支持系統維護 | 🛠️ Practice |
+| **support-system-reciprocity** | 支持系統互惠 | 💡 Balance |
+| **healthy-support** | 健康支持 | 💡 Goal |
+
+## 238. Practicing Forgiveness 🕊️
+
+*練習原諒*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **forgiveness-basics** | 原諒基礎 | 📚 Understanding |
+| **forgiveness-importance** | 原諒重要性 | 📚 Why |
+| **forgiveness-process** | 原諒過程 | 🛠️ Framework |
+| **forgiveness-practice** | 原諒練習 | 🛠️ Practice |
+| **forgiveness-self** | 自我原諒 | 🛠️ Application |
+| **forgiveness-others** | 原諒他人 | 🛠️ Application |
+| **forgiveness-vs-reconciliation** | 原諒 vs 和解 | 📚 Distinction |
+| **forgiveness-vs-forgetting** | 原諒 vs 遺忘 | 📚 Distinction |
+| **forgiveness-boundaries** | 原諒和邊界 | 🛠️ Balance |
+| **forgiveness-obstacles** | 原諒障礙 | 🧠 Overcoming |
+| **forgiveness-anger** | 原諒和憤怒 | 🧠 Processing |
+| **forgiveness-hurt** | 原諒和傷害 | 🧠 Processing |
+| **forgiveness-time** | 原諒和時間 | 🧠 Understanding |
+| **forgiveness-benefits** | 原諒好處 | 📚 Understanding |
+| **forgiveness-freedom** | 原諒自由 | 💡 Philosophy |
+
+## 239. Developing Patience 🐢
+
+*發展耐心*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **patience-basics** | 耐心基礎 | 📚 Understanding |
+| **patience-importance** | 耐心重要性 | 📚 Why |
+| **patience-types** | 耐心種類 | 📚 Framework |
+| **patience-development** | 耐心發展 | 🛠️ Process |
+| **patience-practice** | 耐心練習 | 🛠️ Practice |
+| **patience-triggers** | 不耐煩觸發 | 🧠 Identification |
+| **patience-techniques** | 耐心技巧 | 🛠️ List |
+| **patience-self** | 對自己的耐心 | 🛠️ Application |
+| **patience-others** | 對他人的耐心 | 🛠️ Application |
+| **patience-process** | 對過程的耐心 | 🛠️ Application |
+| **patience-goals** | 目標的耐心 | 🛠️ Application |
+| **patience-growth** | 成長的耐心 | 🛠️ Application |
+| **patience-benefits** | 耐心好處 | 📚 Understanding |
+| **patience-vs-passivity** | 耐心 vs 被動 | 📚 Distinction |
+| **wise-patience** | 智慧的耐心 | 💡 Philosophy |
+
+## 240. Cultivating Inner Peace ☮️
+
+*培養內在平靜*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **inner-peace-basics** | 內在平靜基礎 | 📚 Understanding |
+| **inner-peace-importance** | 內在平靜重要性 | 📚 Why |
+| **inner-peace-obstacles** | 內在平靜障礙 | 🧠 Identification |
+| **inner-peace-practice** | 內在平靜練習 | 🛠️ Practice |
+| **inner-peace-meditation** | 冥想和平靜 | 🛠️ Connection |
+| **inner-peace-acceptance** | 接納和平靜 | 🛠️ Connection |
+| **inner-peace-letting-go** | 放下和平靜 | 🛠️ Connection |
+| **inner-peace-presence** | 臨在和平靜 | 🛠️ Connection |
+| **inner-peace-daily** | 日常平靜 | 🛠️ Practice |
+| **inner-peace-chaos** | 混亂中的平靜 | 🛠️ Practice |
+| **inner-peace-relationships** | 關係中的平靜 | 🛠️ Application |
+| **inner-peace-work** | 工作中的平靜 | 🛠️ Application |
+| **inner-peace-body** | 身體平靜 | 🛠️ Practice |
+| **inner-peace-mind** | 心靈平靜 | 🛠️ Practice |
+| **lasting-peace** | 持久平靜 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
