@@ -979,6 +979,57 @@ Agent 應該：
 
 ---
 
+# PROBLEM-DRIVEN GENERATORS
+
+## 萬用問題模板
+
+當需要從任何方向發散時，用這些問題：
+
+### The "What If" Generator
+- 如果 [X] 失敗了怎麼辦？
+- 如果 [X] 成功了然後呢？
+- 如果從沒學過 [X] 怎麼開始？
+- 如果 [X] 被誤解了，真相是什麼？
+- 如果 [X] 的反面才是對的？
+
+### The "Who Struggles" Generator
+- 誰在 [X] 上最常失敗？
+- 誰最需要 [X] 但不知道？
+- 誰以為懂 [X] 但其實不懂？
+- 誰在教 [X] 但教錯了？
+- 誰因為 [X] 而痛苦？
+
+### The "When Exactly" Generator
+- [X] 在什麼時刻最關鍵？
+- [X] 在什麼時刻會崩潰？
+- [X] 的轉折點是什麼？
+- 什麼時候該開始 [X]？
+- 什麼時候該停止 [X]？
+
+### The "Hidden Truth" Generator
+- [X] 的潛規則是什麼？
+- [X] 沒人說但大家都知道的是什麼？
+- [X] 最大的謊言是什麼？
+- [X] 最被低估的部分是什麼？
+- [X] 最被高估的部分是什麼？
+
+### The "Intersection" Generator
+- [X] + 錢 = ？
+- [X] + 關係 = ？
+- [X] + 時間 = ？
+- [X] + 健康 = ？
+- [X] + 科技 = ？
+- [X] + 文化差異 = ？
+
+### The "Lifecycle" Generator
+- [X] 的開始是什麼樣？
+- [X] 的中間是什麼樣？
+- [X] 的結束是什麼樣？
+- [X] 之前需要什麼？
+- [X] 之後會怎樣？
+
+---
+
 # QUALITY FILTERS
 
 Before suggesting, ask:
