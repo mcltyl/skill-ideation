@@ -9079,6 +9079,116 @@ Agent 應該：
 | **event-tools** | 活動規劃工具 | 🛠️ Selection |
 | **event-master** | 活動規劃大師 | 💡 Goal |
 
+## 391. Teaching and Training 👨‍🏫
+
+*教學和培訓*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **teaching-basics** | 教學基礎 | 📚 Understanding |
+| **teaching-design** | 教學設計 | 🛠️ Process |
+| **teaching-objectives** | 教學目標 | 🛠️ Setting |
+| **teaching-content** | 教學內容 | 🛠️ Development |
+| **teaching-delivery** | 教學呈現 | 🛠️ Practice |
+| **teaching-engagement** | 教學互動 | 🛠️ Practice |
+| **teaching-assessment** | 教學評估 | 🛠️ Practice |
+| **teaching-feedback** | 教學回饋 | 🛠️ Practice |
+| **teaching-virtual** | 線上教學 | 🛠️ Adaptation |
+| **teaching-daily** | 日常教學 | 🛠️ Practice |
+| **teaching-meaning** | 教學意義 | 💡 Connection |
+| **teaching-growth** | 教學成長 | 💡 Continuous |
+| **teaching-tools** | 教學工具 | 🛠️ Selection |
+| **teaching-improvement** | 教學改進 | 🛠️ Continuous |
+| **effective-teacher** | 有效的教師 | 💡 Goal |
+
+## 392. Presentation Design 📊
+
+*簡報設計*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **presentation-design-basics** | 簡報設計基礎 | 📚 Understanding |
+| **presentation-structure** | 簡報結構 | 🛠️ Framework |
+| **presentation-visuals** | 簡報視覺 | 🛠️ Design |
+| **presentation-text** | 簡報文字 | 🛠️ Crafting |
+| **presentation-data** | 簡報數據 | 🛠️ Visualization |
+| **presentation-story** | 簡報故事 | 🛠️ Weaving |
+| **presentation-slides** | 簡報投影片 | 🛠️ Design |
+| **presentation-tools** | 簡報工具 | 🛠️ Selection |
+| **presentation-templates** | 簡報模板 | 🛠️ Creation |
+| **presentation-daily** | 日常簡報設計 | 🛠️ Practice |
+| **presentation-meaning** | 簡報設計意義 | 💡 Connection |
+| **presentation-growth** | 簡報設計成長 | 💡 Continuous |
+| **presentation-simplicity** | 簡報簡單 | 💡 Principle |
+| **presentation-impact** | 簡報影響 | 💡 Goal |
+| **presentation-master** | 簡報設計大師 | 💡 Goal |
+
+## 393. Data Visualization 📈
+
+*數據視覺化*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **data-viz-basics** | 數據視覺化基礎 | 📚 Understanding |
+| **data-viz-types** | 數據視覺化種類 | 📚 Framework |
+| **data-viz-selection** | 數據視覺化選擇 | 🛠️ Decision |
+| **data-viz-design** | 數據視覺化設計 | 🛠️ Practice |
+| **data-viz-clarity** | 數據視覺化清晰 | 🛠️ Practice |
+| **data-viz-color** | 數據視覺化顏色 | 🛠️ Practice |
+| **data-viz-storytelling** | 數據視覺化說故事 | 🛠️ Practice |
+| **data-viz-tools** | 數據視覺化工具 | 🛠️ Selection |
+| **data-viz-daily** | 日常數據視覺化 | 🛠️ Practice |
+| **data-viz-meaning** | 數據視覺化意義 | 💡 Connection |
+| **data-viz-growth** | 數據視覺化成長 | 💡 Continuous |
+| **data-viz-ethics** | 數據視覺化道德 | 🛠️ Practice |
+| **data-viz-trends** | 數據視覺化趨勢 | 🛠️ Tracking |
+| **data-viz-impact** | 數據視覺化影響 | 💡 Goal |
+| **data-viz-master** | 數據視覺化大師 | 💡 Goal |
+
+## 394. UX Writing 📝
+
+*使用者體驗寫作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **ux-writing-basics** | UX 寫作基礎 | 📚 Understanding |
+| **ux-writing-principles** | UX 寫作原則 | 📚 Framework |
+| **ux-writing-clarity** | UX 寫作清晰 | 🛠️ Practice |
+| **ux-writing-concision** | UX 寫作簡潔 | 🛠️ Practice |
+| **ux-writing-voice** | UX 寫作聲音 | 🛠️ Development |
+| **ux-writing-microcopy** | UX 寫作微文案 | 🛠️ Practice |
+| **ux-writing-buttons** | UX 寫作按鈕 | 🛠️ Practice |
+| **ux-writing-errors** | UX 寫作錯誤 | 🛠️ Practice |
+| **ux-writing-onboarding** | UX 寫作入門 | 🛠️ Practice |
+| **ux-writing-daily** | 日常 UX 寫作 | 🛠️ Practice |
+| **ux-writing-meaning** | UX 寫作意義 | 💡 Connection |
+| **ux-writing-growth** | UX 寫作成長 | 💡 Continuous |
+| **ux-writing-tools** | UX 寫作工具 | 🛠️ Selection |
+| **ux-writing-testing** | UX 寫作測試 | 🛠️ Practice |
+| **ux-writing-master** | UX 寫作大師 | 💡 Goal |
+
+## 395. Copywriting 📝
+
+*文案寫作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **copywriting-basics** | 文案寫作基礎 | 📚 Understanding |
+| **copywriting-principles** | 文案寫作原則 | 📚 Framework |
+| **copywriting-headlines** | 文案寫作標題 | 🛠️ Practice |
+| **copywriting-hooks** | 文案寫作鉤子 | 🛠️ Practice |
+| **copywriting-benefits** | 文案寫作好處 | 🛠️ Practice |
+| **copywriting-cta** | 文案寫作行動呼籲 | 🛠️ Practice |
+| **copywriting-persuasion** | 文案寫作說服 | 🛠️ Practice |
+| **copywriting-formats** | 文案寫作格式 | 🛠️ Practice |
+| **copywriting-editing** | 文案寫作編輯 | 🛠️ Practice |
+| **copywriting-daily** | 日常文案寫作 | 🛠️ Practice |
+| **copywriting-meaning** | 文案寫作意義 | 💡 Connection |
+| **copywriting-growth** | 文案寫作成長 | 💡 Continuous |
+| **copywriting-tools** | 文案寫作工具 | 🛠️ Selection |
+| **copywriting-testing** | 文案寫作測試 | 🛠️ Practice |
+| **copywriting-master** | 文案寫作大師 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
