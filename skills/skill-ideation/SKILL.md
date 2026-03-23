@@ -2545,6 +2545,116 @@ Agent 應該：
 | **identity-in-change** | 改變中的身份 | 🧠 Preservation |
 | **embracing-change** | 擁抱改變 | 💡 Philosophy |
 
+## 96. Joy & Pleasure 🎉
+
+*喜悅和愉悅*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **joy-basics** | 喜悅基礎 | 📚 Understanding |
+| **joy-vs-happiness** | 喜悅 vs 快樂 | 📚 Distinction |
+| **pleasure-permission** | 愉悅許可 | 💡 Permission |
+| **joy-blockers** | 喜悅阻擋者 | 🧠 Awareness |
+| **savoring** | 品味 | 🛠️ Practice |
+| **celebrating** | 慶祝 | 🛠️ Practice |
+| **play-adult** | 成人的玩耍 | 💡 Permission |
+| **laughter** | 笑的力量 | 📚 Science |
+| **fun-audit** | 樂趣盤點 | 🛠️ Assessment |
+| **spontaneity** | 自發性 | 💡 Practice |
+| **simple-pleasures** | 簡單的愉悅 | 🛠️ Identification |
+| **joy-in-hard-times** | 困難時期的喜悅 | 🧠 Challenge |
+| **guilt-free-pleasure** | 無罪惡感的愉悅 | 💡 Permission |
+| **joy-spreading** | 散播喜悅 | 🛠️ Practice |
+| **micro-joys** | 微小喜悅 | 🛠️ Practice |
+
+## 97. Solitude & Alone Time 🧘‍♂️
+
+*獨處和一個人的時間*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **solitude-basics** | 獨處基礎 | 📚 Understanding |
+| **solitude-vs-loneliness** | 獨處 vs 孤獨 | 📚 Distinction |
+| **alone-time-need** | 獨處的需要 | 🧠 Recognition |
+| **solitude-benefits** | 獨處的好處 | 📚 Science |
+| **creating-solitude** | 創造獨處時間 | 🛠️ Practical |
+| **solitude-activities** | 獨處活動 | 🛠️ Ideas |
+| **dining-alone** | 一個人吃飯 | 🛠️ Practice |
+| **traveling-alone** | 一個人旅行 | 🛠️ Guide |
+| **movies-alone** | 一個人看電影 | 💡 Permission |
+| **solitude-fear** | 獨處恐懼 | 🧠 Psychology |
+| **solitude-in-relationship** | 關係中的獨處 | 🛠️ Balance |
+| **productive-solitude** | 生產性獨處 | 🛠️ Practice |
+| **restorative-solitude** | 恢復性獨處 | 🛠️ Practice |
+| **solitude-addiction** | 獨處成癮 | 🧠 Awareness |
+| **quality-alone-time** | 高品質獨處 | 🛠️ Framework |
+
+## 98. Connection & Belonging 💕
+
+*連結和歸屬*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **connection-need** | 連結的需要 | 📚 Psychology |
+| **belonging-basics** | 歸屬感基礎 | 📚 Understanding |
+| **finding-your-people** | 找到你的人 | 🛠️ Process |
+| **community-building** | 社群建立 | 🛠️ Practical |
+| **deepening-connections** | 深化連結 | 🛠️ Practice |
+| **vulnerability-connection** | 脆弱和連結 | 💡 Philosophy |
+| **loneliness-epidemic** | 孤獨流行病 | 🧠 Awareness |
+| **connection-barriers** | 連結障礙 | 🧠 Identification |
+| **digital-connection** | 數位連結 | 🛠️ Quality |
+| **in-person-connection** | 面對面連結 | 🛠️ Priority |
+| **connection-rituals** | 連結儀式 | 🛠️ Practice |
+| **reconnecting** | 重新連結 | 🛠️ Process |
+| **chosen-family** | 選擇的家人 | 💡 Philosophy |
+| **connection-quality** | 連結品質 | 🛠️ Assessment |
+| **belonging-without-fitting** | 歸屬不等於配合 | 💡 Philosophy |
+
+## 99. Self-Acceptance 💝
+
+*自我接納*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **self-acceptance-basics** | 自我接納基礎 | 📚 Understanding |
+| **self-acceptance-vs-change** | 接納 vs 改變 | 📚 Balance |
+| **radical-acceptance** | 徹底接納 | 💡 Philosophy |
+| **body-acceptance** | 身體接納 | 🧠 Practice |
+| **past-acceptance** | 過去接納 | 🧠 Process |
+| **imperfection-acceptance** | 不完美接納 | 💡 Permission |
+| **self-judgment** | 自我評判 | 🧠 Awareness |
+| **unconditional-self-regard** | 無條件自我正視 | 💡 Philosophy |
+| **shadow-work** | 陰影工作 | 🧠 Process |
+| **self-compassion** | 自我慈悲 | 🛠️ Practice |
+| **self-forgiveness** | 自我原諒 | 🧠 Process |
+| **enough-as-you-are** | 你已經夠好了 | 💡 Affirmation |
+| **self-worth** | 自我價值 | 🧠 Foundation |
+| **comparison-release** | 放下比較 | 🧠 Practice |
+| **self-love-practical** | 實用自愛 | 🛠️ Practice |
+
+## 100. Living Well (Integration) 🌈
+
+*好好生活（整合）*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **life-design** | 人生設計 | 🛠️ Framework |
+| **values-alignment** | 價值觀對齊 | 🛠️ Assessment |
+| **priorities-clarity** | 優先順序清晰 | 🛠️ Framework |
+| **life-audit** | 人生盤點 | 🛠️ Assessment |
+| **balance-myth** | 平衡的迷思 | 💡 Counter |
+| **integration-over-balance** | 整合而非平衡 | 💡 Philosophy |
+| **seasons-of-life** | 人生的季節 | 💡 Philosophy |
+| **good-enough-life** | 夠好的人生 | 💡 Permission |
+| **daily-rituals** | 日常儀式 | 🛠️ Practice |
+| **weekly-review** | 每週回顧 | 🛠️ Practice |
+| **yearly-reflection** | 年度反思 | 🛠️ Practice |
+| **intentional-living** | 有意識生活 | 💡 Philosophy |
+| **simplicity** | 簡單 | 💡 Philosophy |
+| **presence-in-life** | 生活中的臨在 | 💡 Practice |
+| **living-fully** | 充實地活 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
