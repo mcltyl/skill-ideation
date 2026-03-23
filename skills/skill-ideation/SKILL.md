@@ -18,7 +18,7 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 
 ---
 
-# QUICK INDEX (320 Categories, 4550+ Ideas) 🎉🎉🎉🎉🎉🎉🎉🎉
+# QUICK INDEX (340 Categories, 4850+ Ideas) 🎉🎉🎉🎉🎉🎉🎉🎉🎉
 
 | # | Category | # | Category |
 |---|----------|---|----------|
