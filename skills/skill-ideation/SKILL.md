@@ -7425,6 +7425,116 @@ Agent 應該：
 | **spiritual-exploration-personalization** | 靈性探索個人化 | 🛠️ Process |
 | **authentic-spirituality** | 真誠靈性 | 💡 Goal |
 
+## 316. Building Community 🏘️
+
+*建立社群*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **community-building-basics** | 社群建立基礎 | 📚 Understanding |
+| **community-building-motivation** | 社群建立動機 | 🧠 Reflection |
+| **community-building-types** | 社群建立種類 | 📚 Framework |
+| **community-building-starting** | 社群建立開始 | 🛠️ Process |
+| **community-building-engagement** | 社群建立參與 | 🛠️ Practice |
+| **community-building-growth** | 社群建立成長 | 🛠️ Strategy |
+| **community-building-leadership** | 社群建立領導 | 🛠️ Practice |
+| **community-building-conflicts** | 社群建立衝突 | 🛠️ Navigation |
+| **community-building-sustainability** | 社群建立永續 | 🛠️ Strategy |
+| **community-building-online** | 社群建立線上 | 🛠️ Practice |
+| **community-building-local** | 社群建立在地 | 🛠️ Practice |
+| **community-building-meaning** | 社群建立意義 | 💡 Connection |
+| **community-building-challenges** | 社群建立挑戰 | 🧠 Navigation |
+| **community-building-joy** | 社群建立喜悅 | 💡 Finding |
+| **thriving-community** | 蓬勃發展的社群 | 💡 Goal |
+
+## 317. Advocacy and Activism 📢
+
+*倡議和行動主義*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **activism-basics** | 行動主義基礎 | 📚 Understanding |
+| **activism-motivation** | 行動主義動機 | 🧠 Reflection |
+| **activism-cause** | 行動主義議題 | 🛠️ Selection |
+| **activism-action** | 行動主義行動 | 🛠️ Types |
+| **activism-strategy** | 行動主義策略 | 🛠️ Planning |
+| **activism-coalition** | 行動主義聯盟 | 🛠️ Building |
+| **activism-communication** | 行動主義溝通 | 🛠️ Practice |
+| **activism-burnout** | 行動主義倦怠 | 🧠 Prevention |
+| **activism-self-care** | 行動主義自我照顧 | 🛠️ Practice |
+| **activism-effectiveness** | 行動主義效果 | 🛠️ Assessment |
+| **activism-sustainability** | 行動主義永續 | 🛠️ Strategy |
+| **activism-meaning** | 行動主義意義 | 💡 Connection |
+| **activism-hope** | 行動主義希望 | 🧠 Maintaining |
+| **activism-growth** | 行動主義成長 | 💡 Continuous |
+| **sustainable-activism** | 永續行動主義 | 💡 Goal |
+
+## 318. Environmental Living 🌍
+
+*環保生活*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **eco-living-basics** | 環保生活基礎 | 📚 Understanding |
+| **eco-living-motivation** | 環保生活動機 | 🧠 Reflection |
+| **eco-living-assessment** | 環保生活評估 | 🛠️ Process |
+| **eco-living-home** | 環保生活居家 | 🛠️ Practice |
+| **eco-living-consumption** | 環保生活消費 | 🛠️ Practice |
+| **eco-living-food** | 環保生活飲食 | 🛠️ Practice |
+| **eco-living-transport** | 環保生活交通 | 🛠️ Practice |
+| **eco-living-waste** | 環保生活廢物 | 🛠️ Practice |
+| **eco-living-energy** | 環保生活能源 | 🛠️ Practice |
+| **eco-living-advocacy** | 環保生活倡議 | 🛠️ Practice |
+| **eco-living-balance** | 環保生活平衡 | 💡 Balance |
+| **eco-living-community** | 環保生活社群 | 🛠️ Building |
+| **eco-living-meaning** | 環保生活意義 | 💡 Connection |
+| **eco-living-guilt** | 環保生活罪惡感 | 🧠 Navigation |
+| **sustainable-living** | 永續生活 | 💡 Goal |
+
+## 319. Minimalist Living 🪴
+
+*極簡生活*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **minimalist-basics** | 極簡生活基礎 | 📚 Understanding |
+| **minimalist-motivation** | 極簡生活動機 | 🧠 Reflection |
+| **minimalist-assessment** | 極簡生活評估 | 🛠️ Process |
+| **minimalist-declutter** | 極簡生活整理 | 🛠️ Practice |
+| **minimalist-possessions** | 極簡生活物品 | 🛠️ Navigation |
+| **minimalist-digital** | 極簡生活數位 | 🛠️ Practice |
+| **minimalist-schedule** | 極簡生活時間 | 🛠️ Practice |
+| **minimalist-relationships** | 極簡生活關係 | 🛠️ Navigation |
+| **minimalist-finances** | 極簡生活財務 | 🛠️ Practice |
+| **minimalist-family** | 極簡生活家庭 | 🛠️ Navigation |
+| **minimalist-balance** | 極簡生活平衡 | 💡 Balance |
+| **minimalist-meaning** | 極簡生活意義 | 💡 Connection |
+| **minimalist-joy** | 極簡生活喜悅 | 💡 Finding |
+| **minimalist-sustainability** | 極簡生活永續 | 🛠️ Practice |
+| **intentional-minimalism** | 有意識的極簡 | 💡 Philosophy |
+
+## 320. Digital Nomad Life 🌏
+
+*數位遊牧生活*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **digital-nomad-basics** | 數位遊牧基礎 | 📚 Understanding |
+| **digital-nomad-decision** | 數位遊牧決策 | 🛠️ Framework |
+| **digital-nomad-work** | 數位遊牧工作 | 🛠️ Finding |
+| **digital-nomad-income** | 數位遊牧收入 | 🛠️ Building |
+| **digital-nomad-logistics** | 數位遊牧後勤 | 🛠️ Management |
+| **digital-nomad-destinations** | 數位遊牧目的地 | 🛠️ Selection |
+| **digital-nomad-routines** | 數位遊牧例行 | 🛠️ Building |
+| **digital-nomad-productivity** | 數位遊牧生產力 | 🛠️ Practice |
+| **digital-nomad-relationships** | 數位遊牧關係 | 🛠️ Navigation |
+| **digital-nomad-community** | 數位遊牧社群 | 🛠️ Finding |
+| **digital-nomad-loneliness** | 數位遊牧孤獨 | 🧠 Navigation |
+| **digital-nomad-burnout** | 數位遊牧倦怠 | 🧠 Prevention |
+| **digital-nomad-meaning** | 數位遊牧意義 | 💡 Connection |
+| **digital-nomad-sustainability** | 數位遊牧永續 | 🛠️ Strategy |
+| **intentional-nomadism** | 有意識的遊牧 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
