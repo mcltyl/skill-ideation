@@ -3669,6 +3669,116 @@ Agent 應該：
 | **public-accountability** | 公開問責 | 🛠️ Technique |
 | **accountability-grace** | 問責中的恩典 | 💡 Balance |
 
+## 146. Persistence 🏔️
+
+*堅持*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **persistence-basics** | 堅持基礎 | 📚 Understanding |
+| **persistence-practice** | 堅持練習 | 🛠️ Practice |
+| **persistence-vs-stubbornness** | 堅持 vs 固執 | 📚 Distinction |
+| **knowing-when-to-quit** | 知道何時放棄 | 🧠 Wisdom |
+| **persistence-motivation** | 堅持動力 | 🧠 Sources |
+| **persistence-obstacles** | 堅持障礙 | 🧠 Navigation |
+| **persistence-support** | 堅持支持 | 🛠️ Resources |
+| **persistence-rest** | 堅持中的休息 | 💡 Balance |
+| **persistence-goals** | 目標堅持 | 🛠️ Application |
+| **persistence-habits** | 習慣堅持 | 🛠️ Application |
+| **persistence-relationships** | 關係堅持 | 🛠️ Application |
+| **persistence-career** | 職涯堅持 | 🛠️ Application |
+| **persistence-failure** | 失敗後的堅持 | 🧠 Recovery |
+| **persistence-stories** | 堅持故事 | 💡 Inspiration |
+| **teaching-persistence** | 教授堅持 | 🛠️ Practice |
+
+## 147. Flexibility (Mental) 🧘
+
+*彈性（心理）*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **mental-flexibility-basics** | 心理彈性基礎 | 📚 Understanding |
+| **cognitive-flexibility** | 認知彈性 | 📚 Science |
+| **flexibility-practice** | 彈性練習 | 🛠️ Practice |
+| **perspective-shifting** | 觀點轉換 | 🛠️ Technique |
+| **plan-b-thinking** | B 計劃思維 | 🛠️ Practice |
+| **flexibility-vs-rigidity** | 彈性 vs 僵化 | 📚 Distinction |
+| **flexibility-stress** | 壓力下的彈性 | 🧠 Application |
+| **flexibility-relationships** | 關係中的彈性 | 🛠️ Application |
+| **flexibility-work** | 工作中的彈性 | 🛠️ Application |
+| **flexibility-expectations** | 期望的彈性 | 🧠 Practice |
+| **flexibility-boundaries** | 彈性的邊界 | 🧠 Balance |
+| **flexibility-values** | 價值觀的彈性 | 🧠 Navigation |
+| **flexibility-age** | 年齡和彈性 | 🧠 Awareness |
+| **flexibility-training** | 彈性訓練 | 🛠️ Practice |
+| **flexibility-creativity** | 彈性促進創意 | 💡 Connection |
+
+## 148. Self-Reliance 🏠
+
+*自力更生*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **self-reliance-basics** | 自力更生基礎 | 📚 Understanding |
+| **self-reliance-practice** | 自力更生練習 | 🛠️ Practice |
+| **self-reliance-vs-isolation** | 自力更生 vs 孤立 | 📚 Distinction |
+| **inner-resources** | 內在資源 | 🧠 Discovery |
+| **self-trust** | 自我信任 | 🧠 Building |
+| **decision-independence** | 決策獨立 | 🛠️ Practice |
+| **emotional-independence** | 情緒獨立 | 🧠 Practice |
+| **financial-independence** | 財務獨立 | 🛠️ Practice |
+| **self-reliance-skills** | 自力更生技能 | 🛠️ Building |
+| **asking-help-balance** | 求助的平衡 | 💡 Balance |
+| **self-reliance-relationships** | 關係中的自力更生 | 🛠️ Application |
+| **self-reliance-work** | 工作中的自力更生 | 🛠️ Application |
+| **interdependence** | 相互依賴 | 💡 Evolution |
+| **self-reliance-confidence** | 自力更生信心 | 🧠 Building |
+| **teaching-self-reliance** | 教授自力更生 | 🛠️ Practice |
+
+## 149. Open-Mindedness 🚪
+
+*開放心態*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **open-mindedness-basics** | 開放心態基礎 | 📚 Understanding |
+| **open-mindedness-practice** | 開放心態練習 | 🛠️ Practice |
+| **new-ideas** | 接受新想法 | 🧠 Practice |
+| **different-perspectives** | 不同觀點 | 🧠 Practice |
+| **challenging-beliefs** | 挑戰信念 | 🧠 Practice |
+| **open-vs-naive** | 開放 vs 天真 | 📚 Distinction |
+| **open-mindedness-limits** | 開放的限制 | 🧠 Balance |
+| **open-mindedness-work** | 工作中的開放 | 🛠️ Application |
+| **open-mindedness-relationships** | 關係中的開放 | 🛠️ Application |
+| **open-mindedness-learning** | 學習中的開放 | 🛠️ Application |
+| **closed-mindedness-signs** | 封閉心態徵兆 | 🧠 Awareness |
+| **opening-up** | 打開心態 | 🛠️ Process |
+| **open-mindedness-culture** | 開放文化 | 🛠️ Building |
+| **curiosity-openness** | 好奇和開放 | 💡 Connection |
+| **open-mindedness-growth** | 開放促進成長 | 💡 Philosophy |
+
+## 150. Wisdom (Practical) 🦉
+
+*智慧（實用）*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **wisdom-basics** | 智慧基礎 | 📚 Understanding |
+| **wisdom-vs-knowledge** | 智慧 vs 知識 | 📚 Distinction |
+| **wisdom-acquisition** | 獲取智慧 | 🧠 Process |
+| **wisdom-sources** | 智慧來源 | 📚 Reference |
+| **wisdom-practice** | 智慧練習 | 🛠️ Practice |
+| **wisdom-experience** | 經驗智慧 | 🧠 Learning |
+| **wisdom-others** | 他人的智慧 | 🛠️ Learning |
+| **wisdom-books** | 書籍智慧 | 📚 Resource |
+| **wisdom-traditions** | 傳統智慧 | 📚 Resource |
+| **wisdom-application** | 智慧應用 | 🛠️ Practice |
+| **wisdom-decision** | 明智決策 | 🛠️ Application |
+| **wisdom-relationships** | 關係智慧 | 🛠️ Application |
+| **wisdom-life** | 人生智慧 | 💡 Philosophy |
+| **wisdom-sharing** | 分享智慧 | 🛠️ Practice |
+| **wisdom-humility** | 智慧和謙卑 | 💡 Connection |
+
 ---
 
 # QUALITY FILTERS
