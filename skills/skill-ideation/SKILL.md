@@ -8859,6 +8859,116 @@ Agent 應該：
 | **personal-brand-authenticity** | 個人品牌真誠 | 💡 Balance |
 | **recognized-brand** | 被認可的品牌 | 💡 Goal |
 
+## 381. Thought Leadership 💡
+
+*思想領導*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **thought-leadership-basics** | 思想領導基礎 | 📚 Understanding |
+| **thought-leadership-niche** | 思想領導利基 | 🛠️ Identification |
+| **thought-leadership-expertise** | 思想領導專業 | 🛠️ Building |
+| **thought-leadership-voice** | 思想領導聲音 | 🛠️ Development |
+| **thought-leadership-content** | 思想領導內容 | 🛠️ Creation |
+| **thought-leadership-platform** | 思想領導平台 | 🛠️ Building |
+| **thought-leadership-speaking** | 思想領導演講 | 🛠️ Practice |
+| **thought-leadership-writing** | 思想領導寫作 | 🛠️ Practice |
+| **thought-leadership-network** | 思想領導人脈 | 🛠️ Building |
+| **thought-leadership-daily** | 日常思想領導 | 🛠️ Practice |
+| **thought-leadership-meaning** | 思想領導意義 | 💡 Connection |
+| **thought-leadership-growth** | 思想領導成長 | 💡 Continuous |
+| **thought-leadership-impact** | 思想領導影響 | 💡 Measurement |
+| **thought-leadership-authenticity** | 思想領導真誠 | 💡 Balance |
+| **recognized-thought-leader** | 被認可的思想領導者 | 💡 Goal |
+
+## 382. Content Creation 📱
+
+*內容創作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **content-creation-basics** | 內容創作基礎 | 📚 Understanding |
+| **content-creation-strategy** | 內容創作策略 | 🛠️ Planning |
+| **content-creation-ideas** | 內容創作點子 | 🛠️ Generation |
+| **content-creation-writing** | 內容創作寫作 | 🛠️ Practice |
+| **content-creation-video** | 內容創作影片 | 🛠️ Practice |
+| **content-creation-audio** | 內容創作音頻 | 🛠️ Practice |
+| **content-creation-visual** | 內容創作視覺 | 🛠️ Practice |
+| **content-creation-distribution** | 內容創作發布 | 🛠️ Practice |
+| **content-creation-engagement** | 內容創作互動 | 🛠️ Practice |
+| **content-creation-consistency** | 內容創作一致 | 🛠️ Practice |
+| **content-creation-daily** | 日常內容創作 | 🛠️ Practice |
+| **content-creation-meaning** | 內容創作意義 | 💡 Connection |
+| **content-creation-growth** | 內容創作成長 | 💡 Continuous |
+| **content-creation-tools** | 內容創作工具 | 🛠️ Selection |
+| **prolific-creator** | 多產的創作者 | 💡 Goal |
+
+## 383. Community Building 🏘️
+
+*社群建立*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **community-building-basics** | 社群建立基礎 | 📚 Understanding |
+| **community-building-purpose** | 社群建立目的 | 🛠️ Definition |
+| **community-building-platform** | 社群建立平台 | 🛠️ Selection |
+| **community-building-launch** | 社群建立啟動 | 🛠️ Process |
+| **community-building-engagement** | 社群建立互動 | 🛠️ Practice |
+| **community-building-content** | 社群建立內容 | 🛠️ Practice |
+| **community-building-events** | 社群建立活動 | 🛠️ Practice |
+| **community-building-moderation** | 社群建立管理 | 🛠️ Practice |
+| **community-building-growth** | 社群建立成長 | 🛠️ Strategy |
+| **community-building-retention** | 社群建立留存 | 🛠️ Practice |
+| **community-building-daily** | 日常社群建立 | 🛠️ Practice |
+| **community-building-meaning** | 社群建立意義 | 💡 Connection |
+| **community-building-sustainability** | 社群建立永續 | 🛠️ Strategy |
+| **community-building-tools** | 社群建立工具 | 🛠️ Selection |
+| **thriving-community** | 蓬勃發展的社群 | 💡 Goal |
+
+## 384. Email Marketing 📧
+
+*電子郵件行銷*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **email-marketing-basics** | 電子郵件行銷基礎 | 📚 Understanding |
+| **email-list-building** | 電子郵件名單建立 | 🛠️ Practice |
+| **email-content-strategy** | 電子郵件內容策略 | 🛠️ Planning |
+| **email-writing** | 電子郵件寫作 | 🛠️ Practice |
+| **email-subject-lines** | 電子郵件主旨 | 🛠️ Practice |
+| **email-design** | 電子郵件設計 | 🛠️ Practice |
+| **email-automation** | 電子郵件自動化 | 🛠️ Practice |
+| **email-segmentation** | 電子郵件分眾 | 🛠️ Practice |
+| **email-analytics** | 電子郵件分析 | 🛠️ Practice |
+| **email-daily** | 日常電子郵件 | 🛠️ Practice |
+| **email-meaning** | 電子郵件意義 | 💡 Connection |
+| **email-growth** | 電子郵件成長 | 💡 Continuous |
+| **email-tools** | 電子郵件工具 | 🛠️ Selection |
+| **email-ethics** | 電子郵件道德 | 🛠️ Practice |
+| **email-master** | 電子郵件大師 | 💡 Goal |
+
+## 385. Social Media Mastery 📱
+
+*社群媒體精通*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **social-media-basics** | 社群媒體基礎 | 📚 Understanding |
+| **social-media-strategy** | 社群媒體策略 | 🛠️ Planning |
+| **social-media-platforms** | 社群媒體平台 | 🛠️ Selection |
+| **social-media-content** | 社群媒體內容 | 🛠️ Practice |
+| **social-media-engagement** | 社群媒體互動 | 🛠️ Practice |
+| **social-media-growth** | 社群媒體成長 | 🛠️ Strategy |
+| **social-media-analytics** | 社群媒體分析 | 🛠️ Practice |
+| **social-media-tools** | 社群媒體工具 | 🛠️ Selection |
+| **social-media-scheduling** | 社群媒體排程 | 🛠️ Practice |
+| **social-media-daily** | 日常社群媒體 | 🛠️ Practice |
+| **social-media-meaning** | 社群媒體意義 | 💡 Connection |
+| **social-media-balance** | 社群媒體平衡 | 💡 Balance |
+| **social-media-authenticity** | 社群媒體真誠 | 💡 Practice |
+| **social-media-ethics** | 社群媒體道德 | 🛠️ Practice |
+| **social-media-master** | 社群媒體大師 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
