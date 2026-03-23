@@ -871,25 +871,73 @@ Include mix of:
 
 ---
 
-# SCHEDULING
+# FOLLOWING USER DIRECTION (核心原則)
 
-## Morning Brainstorm (08:00)
-Focus: **Productivity, Work, Systems**
-- How to start the day
-- Work frameworks
-- Energy management
+## Brainstorm 的本質
 
-## Noon Brainstorm (12:00)
-Focus: **Relationships, Communication, Culture**
-- People skills
-- Cultural context
-- Soft skills
+**使用者給種子，Agent 發散。**
 
-## Night Brainstorm (21:00)
-Focus: **Philosophy, Psychology, Reflection**
-- Deep thinking
-- Emotional intelligence
-- Life wisdom
+當使用者說「幫我想 X 方向的 skills」：
+
+1. **跟隨那個方向** — 不是回到預設分類
+2. **發散** — 從 X 延伸到相關、相反、相鄰
+3. **不限制** — 不說「這不在我的範圍內」
+4. **挖深** — 從 general X 到 specific X 的各種面向
+
+### 發散技巧
+
+從使用者給的方向 X：
+- **X 的子領域** — X 可以拆成什麼
+- **X 的相鄰** — 做 X 的人還會需要什麼
+- **X 的反面** — 不做 X / X 的對立面
+- **X 的情境** — 什麼時候需要 X
+- **X 的失敗** — X 常見的錯誤
+- **X 的進階** — X 的下一步是什麼
+- **X 的入門** — X 的起點是什麼
+- **X + Y** — X 跟其他東西的交集
+
+### 範例
+
+使用者說：「游泳」
+
+發散：
+- 游泳入門（怕水的人怎麼開始）
+- 游泳姿勢（自由式 vs 蛙式）
+- 游泳裝備（泳鏡怎麼選）
+- 游泳 + 健身（游泳的健身效果）
+- 游泳 + 心理（游泳的冥想狀態）
+- 游泳池禮儀（泳池的潛規則）
+- 開放水域游泳（海泳、鐵人三項）
+- 游泳教學（怎麼教小孩游泳）
+- 游泳恐懼（溺水經驗的心理影響）
+- 游泳 + 旅行（各國泳池文化）
+
+**不要說：「游泳不在我的分類裡」**
+
+---
+
+# SEARCH & LOOKUP
+
+## 搜尋現有 Ideas
+
+當需要避免重複或從現有 ideas 衍生：
+
+```
+在 skill-ideation 中搜尋關於 [keyword] 的 ideas
+```
+
+Agent 應該：
+1. 搜尋 SKILL.md 中相關的 ideas
+2. 列出找到的 ideas
+3. 提出「衍生 ideas」— 從現有延伸
+
+## 查找特定類型
+
+```
+找所有 🧠 Psychology 類型的 ideas
+找所有關於「第一週」的 ideas
+找所有 Micro-Moments 類的 ideas
+```
 
 ---
 
