@@ -3229,6 +3229,116 @@ Agent 應該：
 | **patience-techniques** | 耐心技巧 | 🛠️ Techniques |
 | **patience-wisdom** | 耐心的智慧 | 💡 Philosophy |
 
+## 126. Curiosity 🔍
+
+*好奇心*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **curiosity-basics** | 好奇心基礎 | 📚 Understanding |
+| **curiosity-cultivation** | 培養好奇心 | 🛠️ Practice |
+| **asking-why** | 問為什麼 | 🛠️ Practice |
+| **curiosity-vs-judgment** | 好奇 vs 評判 | 🧠 Distinction |
+| **curious-questions** | 好奇的問題 | 🛠️ Technique |
+| **curiosity-learning** | 好奇心學習 | 🛠️ Application |
+| **curiosity-relationships** | 關係中的好奇心 | 🛠️ Application |
+| **curiosity-work** | 工作中的好奇心 | 🛠️ Application |
+| **beginner-curiosity** | 初學者的好奇 | 💡 Mindset |
+| **curiosity-fear** | 好奇 vs 恐懼 | 🧠 Navigation |
+| **staying-curious** | 保持好奇 | 🛠️ Practice |
+| **curiosity-blocks** | 好奇心阻礙 | 🧠 Awareness |
+| **curiosity-recovery** | 好奇心恢復 | 🛠️ Practice |
+| **intellectual-curiosity** | 智識好奇 | 🛠️ Type |
+| **emotional-curiosity** | 情緒好奇 | 🛠️ Type |
+
+## 127. Courage 🦁
+
+*勇氣*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **courage-basics** | 勇氣基礎 | 📚 Understanding |
+| **courage-vs-fearless** | 勇氣 vs 無懼 | 📚 Distinction |
+| **everyday-courage** | 日常勇氣 | 🛠️ Recognition |
+| **moral-courage** | 道德勇氣 | 💡 Type |
+| **physical-courage** | 身體勇氣 | 💡 Type |
+| **social-courage** | 社交勇氣 | 💡 Type |
+| **vulnerability-courage** | 脆弱的勇氣 | 💡 Type |
+| **courage-practice** | 勇氣練習 | 🛠️ Practice |
+| **courage-building** | 建立勇氣 | 🛠️ Process |
+| **courage-role-models** | 勇氣榜樣 | 💡 Inspiration |
+| **courage-support** | 勇氣支持 | 🛠️ Resources |
+| **courage-fear-dance** | 勇氣和恐懼的舞蹈 | 🧠 Understanding |
+| **speaking-up-courage** | 說出來的勇氣 | 🛠️ Application |
+| **starting-courage** | 開始的勇氣 | 🛠️ Application |
+| **continuing-courage** | 繼續的勇氣 | 🛠️ Application |
+
+## 128. Humility 🙏
+
+*謙卑*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **humility-basics** | 謙卑基礎 | 📚 Understanding |
+| **humility-vs-low-self-esteem** | 謙卑 vs 低自尊 | 📚 Distinction |
+| **intellectual-humility** | 智識謙卑 | 💡 Type |
+| **humility-practice** | 謙卑練習 | 🛠️ Practice |
+| **admitting-wrong** | 承認錯誤 | 🛠️ Practice |
+| **asking-for-help** | 請求幫助 | 🛠️ Practice |
+| **learning-from-others** | 向他人學習 | 🛠️ Practice |
+| **humility-leadership** | 謙卑領導 | 🛠️ Application |
+| **humility-relationships** | 關係中的謙卑 | 🛠️ Application |
+| **humility-success** | 成功中的謙卑 | 🧠 Challenge |
+| **humility-failure** | 失敗中的謙卑 | 🧠 Navigation |
+| **false-humility** | 假謙卑 | 🧠 Awareness |
+| **confident-humility** | 自信的謙卑 | 💡 Balance |
+| **humility-growth** | 謙卑促進成長 | 💡 Philosophy |
+| **humility-wisdom** | 謙卑的智慧 | 💡 Philosophy |
+
+## 129. Resilience 💪
+
+*韌性*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **resilience-basics** | 韌性基礎 | 📚 Understanding |
+| **resilience-building** | 建立韌性 | 🛠️ Process |
+| **resilience-factors** | 韌性因素 | 📚 Framework |
+| **resilience-mindset** | 韌性心態 | 🧠 Framework |
+| **bounce-back** | 彈回 | 🛠️ Process |
+| **post-traumatic-growth** | 創傷後成長 | 📚 Concept |
+| **resilience-support** | 韌性支持 | 🛠️ Resources |
+| **resilience-practice** | 韌性練習 | 🛠️ Practice |
+| **stress-resilience** | 壓力韌性 | 🛠️ Application |
+| **emotional-resilience** | 情緒韌性 | 🛠️ Application |
+| **career-resilience** | 職涯韌性 | 🛠️ Application |
+| **relationship-resilience** | 關係韌性 | 🛠️ Application |
+| **resilience-limits** | 韌性的限制 | 🧠 Awareness |
+| **resilience-vs-endurance** | 韌性 vs 忍耐 | 📚 Distinction |
+| **resilience-recovery** | 韌性恢復 | 🛠️ Practice |
+
+## 130. Authenticity 🎭
+
+*真實*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **authenticity-basics** | 真實基礎 | 📚 Understanding |
+| **authentic-self** | 真實的自我 | 🧠 Discovery |
+| **authenticity-practice** | 真實練習 | 🛠️ Practice |
+| **authenticity-fear** | 真實的恐懼 | 🧠 Psychology |
+| **authenticity-cost** | 真實的代價 | 🧠 Awareness |
+| **authenticity-benefits** | 真實的好處 | 📚 Understanding |
+| **authenticity-relationships** | 關係中的真實 | 🛠️ Application |
+| **authenticity-work** | 工作中的真實 | 🛠️ Application |
+| **authenticity-online** | 線上的真實 | 🛠️ Application |
+| **authenticity-vs-oversharing** | 真實 vs 過度分享 | 🧠 Balance |
+| **authenticity-boundaries** | 真實的邊界 | 🛠️ Practice |
+| **inauthenticity-signs** | 不真實的徵兆 | 🧠 Awareness |
+| **authentic-expression** | 真實表達 | 🛠️ Practice |
+| **authentic-listening** | 真實聆聽 | 🛠️ Practice |
+| **authenticity-journey** | 真實的旅程 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
