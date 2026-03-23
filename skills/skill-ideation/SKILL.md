@@ -6211,6 +6211,116 @@ Agent 應該：
 | **nonprofit-meaning** | 非營利意義 | 💡 Connection |
 | **sustainable-nonprofit** | 永續非營利 | 💡 Philosophy |
 
+## 261. Tech Industry Navigation 💻
+
+*科技業導航*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **tech-industry-basics** | 科技業基礎 | 📚 Understanding |
+| **tech-career-entry** | 科技業入門 | 🛠️ Navigation |
+| **tech-career-growth** | 科技業成長 | 🛠️ Strategy |
+| **tech-interviews** | 科技業面試 | 🛠️ Preparation |
+| **tech-culture** | 科技業文化 | 🧠 Navigation |
+| **tech-skills** | 科技業技能 | 🛠️ Building |
+| **tech-learning** | 科技業學習 | 🛠️ Practice |
+| **tech-networking** | 科技業人脈 | 🛠️ Building |
+| **tech-imposter** | 科技業冒名頂替症候群 | 🧠 Processing |
+| **tech-burnout** | 科技業倦怠 | 🧠 Prevention |
+| **tech-balance** | 科技業平衡 | 🛠️ Practice |
+| **tech-remote** | 科技業遠端 | 🛠️ Navigation |
+| **tech-layoffs** | 科技業裁員 | 🧠 Navigation |
+| **tech-pivot** | 科技業轉向 | 🛠️ Decision |
+| **sustainable-tech-career** | 永續科技職涯 | 💡 Philosophy |
+
+## 262. Healthcare Career 🏥
+
+*醫療職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **healthcare-career-basics** | 醫療職涯基礎 | 📚 Understanding |
+| **healthcare-career-paths** | 醫療職涯路徑 | 🛠️ Navigation |
+| **healthcare-training** | 醫療訓練 | 🛠️ Navigation |
+| **healthcare-patient-care** | 患者照護 | 🛠️ Skill |
+| **healthcare-communication** | 醫療溝通 | 🛠️ Skill |
+| **healthcare-teamwork** | 醫療團隊 | 🛠️ Practice |
+| **healthcare-stress** | 醫療壓力 | 🧠 Management |
+| **healthcare-burnout** | 醫療倦怠 | 🧠 Prevention |
+| **healthcare-compassion-fatigue** | 同情疲勞 | 🧠 Prevention |
+| **healthcare-boundaries** | 醫療邊界 | 🛠️ Setting |
+| **healthcare-self-care** | 醫療自我照顧 | 🛠️ Practice |
+| **healthcare-ethics** | 醫療道德 | 🛠️ Navigation |
+| **healthcare-meaning** | 醫療意義 | 💡 Connection |
+| **healthcare-career-evolution** | 醫療職涯演變 | 🛠️ Process |
+| **sustainable-healthcare** | 永續醫療職涯 | 💡 Philosophy |
+
+## 263. Education Career 📚
+
+*教育職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **education-career-basics** | 教育職涯基礎 | 📚 Understanding |
+| **education-career-paths** | 教育職涯路徑 | 🛠️ Navigation |
+| **teaching-skills** | 教學技能 | 🛠️ Development |
+| **classroom-management** | 課堂管理 | 🛠️ Skill |
+| **student-relationships** | 學生關係 | 🛠️ Building |
+| **parent-communication** | 家長溝通 | 🛠️ Skill |
+| **education-bureaucracy** | 教育官僚 | 🛠️ Navigation |
+| **education-burnout** | 教育倦怠 | 🧠 Prevention |
+| **education-self-care** | 教育自我照顧 | 🛠️ Practice |
+| **education-impact** | 教育影響 | 💡 Connection |
+| **education-innovation** | 教育創新 | 🛠️ Practice |
+| **education-balance** | 教育平衡 | 🛠️ Practice |
+| **education-meaning** | 教育意義 | 💡 Connection |
+| **education-career-evolution** | 教育職涯演變 | 🛠️ Process |
+| **sustainable-education** | 永續教育職涯 | 💡 Philosophy |
+
+## 264. Legal Career ⚖️
+
+*法律職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **legal-career-basics** | 法律職涯基礎 | 📚 Understanding |
+| **legal-career-paths** | 法律職涯路徑 | 🛠️ Navigation |
+| **legal-skills** | 法律技能 | 🛠️ Development |
+| **legal-writing** | 法律寫作 | 🛠️ Skill |
+| **client-relationships** | 客戶關係 | 🛠️ Building |
+| **legal-ethics** | 法律道德 | 🛠️ Practice |
+| **legal-stress** | 法律壓力 | 🧠 Management |
+| **legal-burnout** | 法律倦怠 | 🧠 Prevention |
+| **legal-balance** | 法律平衡 | 🛠️ Practice |
+| **legal-billable-hours** | 計費時數 | 🛠️ Navigation |
+| **legal-firm-culture** | 事務所文化 | 🧠 Navigation |
+| **legal-alternatives** | 法律替代路徑 | 🛠️ Exploration |
+| **legal-meaning** | 法律意義 | 💡 Connection |
+| **legal-career-evolution** | 法律職涯演變 | 🛠️ Process |
+| **sustainable-legal** | 永續法律職涯 | 💡 Philosophy |
+
+## 265. Finance Career 💰
+
+*金融職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **finance-career-basics** | 金融職涯基礎 | 📚 Understanding |
+| **finance-career-paths** | 金融職涯路徑 | 🛠️ Navigation |
+| **finance-skills** | 金融技能 | 🛠️ Development |
+| **finance-certifications** | 金融證照 | 🛠️ Navigation |
+| **finance-networking** | 金融人脈 | 🛠️ Building |
+| **finance-culture** | 金融文化 | 🧠 Navigation |
+| **finance-stress** | 金融壓力 | 🧠 Management |
+| **finance-burnout** | 金融倦怠 | 🧠 Prevention |
+| **finance-balance** | 金融平衡 | 🛠️ Practice |
+| **finance-ethics** | 金融道德 | 🛠️ Practice |
+| **finance-competition** | 金融競爭 | 🧠 Navigation |
+| **finance-meaning** | 金融意義 | 💡 Connection |
+| **finance-alternatives** | 金融替代路徑 | 🛠️ Exploration |
+| **finance-career-evolution** | 金融職涯演變 | 🛠️ Process |
+| **sustainable-finance** | 永續金融職涯 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
