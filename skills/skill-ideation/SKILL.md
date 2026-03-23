@@ -11955,6 +11955,226 @@ Agent 應該：
 | **gratitude-abundance** | 感恩豐盛 | 🧠 Connection |
 | **grateful-life** | 感恩的生活 | 💡 Goal |
 
+## 521. Acceptance Practice 🌊
+
+*接受練習*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **acceptance-basics** | 接受基礎 | 📚 Understanding |
+| **acceptance-radical** | 激進接受 | 🧠 Practice |
+| **acceptance-vs-approval** | 接受 vs 認可 | 🧠 Clarification |
+| **acceptance-pain** | 接受痛苦 | 🧠 Practice |
+| **acceptance-change** | 接受改變 | 🧠 Practice |
+| **acceptance-self** | 接受自我 | 🧠 Practice |
+| **acceptance-daily** | 日常接受 | 🛠️ Practice |
+| **acceptance-meaning** | 接受意義 | 💡 Connection |
+| **acceptance-growth** | 接受成長 | 💡 Continuous |
+| **acceptance-meditation** | 接受冥想 | 🛠️ Practice |
+| **acceptance-journaling** | 接受日記 | 🛠️ Practice |
+| **acceptance-support** | 接受支持 | 🛠️ Resources |
+| **acceptance-joy** | 接受喜悅 | 💡 Finding |
+| **acceptance-peace** | 接受平靜 | 💡 Connection |
+| **accepting-life** | 接受的生活 | 💡 Goal |
+
+## 522. Letting Go 🍂
+
+*放下*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **letting-go-basics** | 放下基礎 | 📚 Understanding |
+| **letting-go-attachment** | 放下執著 | 🧠 Practice |
+| **letting-go-control** | 放下控制 | 🧠 Practice |
+| **letting-go-past** | 放下過去 | 🧠 Practice |
+| **letting-go-expectations** | 放下期待 | 🧠 Practice |
+| **letting-go-process** | 放下過程 | 🛠️ Navigation |
+| **letting-go-daily** | 日常放下 | 🛠️ Practice |
+| **letting-go-meaning** | 放下意義 | 💡 Connection |
+| **letting-go-growth** | 放下成長 | 💡 Continuous |
+| **letting-go-rituals** | 放下儀式 | 🛠️ Practice |
+| **letting-go-meditation** | 放下冥想 | 🛠️ Practice |
+| **letting-go-support** | 放下支持 | 🛠️ Resources |
+| **letting-go-joy** | 放下喜悅 | 💡 Finding |
+| **letting-go-freedom** | 放下自由 | 💡 Connection |
+| **free-life** | 自由的生活 | 💡 Goal |
+
+## 523. Present Moment Awareness 🌸
+
+*當下覺察*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **present-moment-basics** | 當下覺察基礎 | 📚 Understanding |
+| **present-moment-attention** | 當下覺察注意 | 🛠️ Practice |
+| **present-moment-senses** | 當下覺察感官 | 🛠️ Practice |
+| **present-moment-anchors** | 當下覺察錨點 | 🛠️ Practice |
+| **present-moment-wandering** | 當下覺察漫遊 | 🧠 Management |
+| **present-moment-return** | 當下覺察回歸 | 🛠️ Practice |
+| **present-moment-daily** | 日常當下覺察 | 🛠️ Practice |
+| **present-moment-meaning** | 當下覺察意義 | 💡 Connection |
+| **present-moment-growth** | 當下覺察成長 | 💡 Continuous |
+| **present-moment-activities** | 當下覺察活動 | 🛠️ Practice |
+| **present-moment-meditation** | 當下覺察冥想 | 🛠️ Practice |
+| **present-moment-community** | 當下覺察社群 | 🛠️ Finding |
+| **present-moment-joy** | 當下覺察喜悅 | 💡 Finding |
+| **present-moment-life** | 當下覺察生活 | 🛠️ Practice |
+| **present-living** | 當下生活 | 💡 Goal |
+
+## 524. Solitude and Silence 🤫
+
+*獨處和沉默*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **solitude-basics** | 獨處基礎 | 📚 Understanding |
+| **solitude-benefits** | 獨處好處 | 📚 Learning |
+| **solitude-comfort** | 獨處舒適 | 🧠 Building |
+| **solitude-practice** | 獨處練習 | 🛠️ Practice |
+| **silence-benefits** | 沉默好處 | 📚 Learning |
+| **silence-practice** | 沉默練習 | 🛠️ Practice |
+| **solitude-daily** | 日常獨處 | 🛠️ Practice |
+| **solitude-meaning** | 獨處意義 | 💡 Connection |
+| **solitude-growth** | 獨處成長 | 💡 Continuous |
+| **solitude-creativity** | 獨處創意 | 🛠️ Connection |
+| **solitude-retreat** | 獨處靜修 | 🛠️ Experience |
+| **solitude-balance** | 獨處平衡 | 💡 Balance |
+| **solitude-joy** | 獨處喜悅 | 💡 Finding |
+| **solitude-recharge** | 獨處充電 | 🛠️ Practice |
+| **peaceful-solitude** | 平靜的獨處 | 💡 Goal |
+
+## 525. Journaling Practice 📓
+
+*日記練習*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **journaling-basics** | 日記練習基礎 | 📚 Understanding |
+| **journaling-types** | 日記類型 | 📚 Framework |
+| **journaling-prompts** | 日記提示 | 🛠️ Practice |
+| **journaling-habit** | 日記習慣 | 🛠️ Building |
+| **journaling-reflection** | 日記反思 | 🛠️ Practice |
+| **journaling-processing** | 日記處理 | 🛠️ Practice |
+| **journaling-daily** | 日常日記 | 🛠️ Practice |
+| **journaling-meaning** | 日記意義 | 💡 Connection |
+| **journaling-growth** | 日記成長 | 💡 Continuous |
+| **journaling-tools** | 日記工具 | 🛠️ Selection |
+| **journaling-review** | 日記回顧 | 🛠️ Practice |
+| **journaling-community** | 日記社群 | 🛠️ Finding |
+| **journaling-joy** | 日記喜悅 | 💡 Finding |
+| **journaling-privacy** | 日記隱私 | 🛠️ Practice |
+| **journaling-life** | 日記生活 | 💡 Goal |
+
+## 526. Morning and Evening Routines ☀️🌙
+
+*早晚例行*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **routines-basics** | 例行基礎 | 📚 Understanding |
+| **morning-routine** | 早晨例行 | 🛠️ Building |
+| **evening-routine** | 晚間例行 | 🛠️ Building |
+| **routines-elements** | 例行元素 | 🛠️ Selection |
+| **routines-customization** | 例行客製 | 🛠️ Practice |
+| **routines-flexibility** | 例行彈性 | 💡 Balance |
+| **routines-daily** | 日常例行 | 🛠️ Practice |
+| **routines-meaning** | 例行意義 | 💡 Connection |
+| **routines-growth** | 例行成長 | 💡 Continuous |
+| **routines-energy** | 例行能量 | 🛠️ Alignment |
+| **routines-simplification** | 例行簡化 | 🛠️ Practice |
+| **routines-tools** | 例行工具 | 🛠️ Selection |
+| **routines-joy** | 例行喜悦 | 💡 Finding |
+| **routines-consistency** | 例行一致 | 🛠️ Practice |
+| **routine-mastery** | 例行精通 | 💡 Goal |
+
+## 527. Habit Formation 🔄
+
+*習慣形成*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **habit-basics** | 習慣形成基礎 | 📚 Understanding |
+| **habit-science** | 習慣科學 | 📚 Learning |
+| **habit-cue** | 習慣提示 | 🛠️ Design |
+| **habit-routine** | 習慣例行 | 🛠️ Building |
+| **habit-reward** | 習慣獎勵 | 🛠️ Design |
+| **habit-stacking** | 習慣堆疊 | 🛠️ Practice |
+| **habit-daily** | 日常習慣 | 🛠️ Practice |
+| **habit-meaning** | 習慣意義 | 💡 Connection |
+| **habit-growth** | 習慣成長 | 💡 Continuous |
+| **habit-tracking** | 習慣追蹤 | 🛠️ Practice |
+| **habit-breaking** | 習慣打破 | 🛠️ Practice |
+| **habit-tools** | 習慣工具 | 🛠️ Selection |
+| **habit-joy** | 習慣喜悅 | 💡 Finding |
+| **habit-patience** | 習慣耐心 | 🧠 Practice |
+| **habit-master** | 習慣大師 | 💡 Goal |
+
+## 528. Goal Setting 🎯
+
+*目標設定*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **goal-setting-basics** | 目標設定基礎 | 📚 Understanding |
+| **goal-setting-smart** | 目標設定 SMART | 🛠️ Framework |
+| **goal-setting-vision** | 目標設定願景 | 🛠️ Practice |
+| **goal-setting-action** | 目標設定行動 | 🛠️ Planning |
+| **goal-setting-tracking** | 目標設定追蹤 | 🛠️ Practice |
+| **goal-setting-adjustment** | 目標設定調整 | 🛠️ Practice |
+| **goal-setting-daily** | 日常目標設定 | 🛠️ Practice |
+| **goal-setting-meaning** | 目標設定意義 | 💡 Connection |
+| **goal-setting-growth** | 目標設定成長 | 💡 Continuous |
+| **goal-setting-tools** | 目標設定工具 | 🛠️ Selection |
+| **goal-setting-review** | 目標設定回顧 | 🛠️ Practice |
+| **goal-setting-accountability** | 目標設定責任 | 🛠️ Practice |
+| **goal-setting-joy** | 目標設定喜悅 | 💡 Finding |
+| **goal-setting-celebration** | 目標設定慶祝 | 🛠️ Practice |
+| **goal-achiever** | 目標達成者 | 💡 Goal |
+
+## 529. Life Review and Reflection 🔍
+
+*人生回顧和反思*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **life-review-basics** | 人生回顧基礎 | 📚 Understanding |
+| **life-review-process** | 人生回顧過程 | 🛠️ Practice |
+| **life-review-questions** | 人生回顧問題 | 🛠️ Practice |
+| **life-review-themes** | 人生回顧主題 | 🧠 Recognition |
+| **life-review-lessons** | 人生回顧教訓 | 🧠 Extraction |
+| **life-review-gratitude** | 人生回顧感恩 | 🛠️ Practice |
+| **life-review-daily** | 日常人生回顧 | 🛠️ Practice |
+| **life-review-meaning** | 人生回顧意義 | 💡 Connection |
+| **life-review-growth** | 人生回顧成長 | 💡 Continuous |
+| **life-review-annual** | 人生回顧年度 | 🛠️ Practice |
+| **life-review-journaling** | 人生回顧日記 | 🛠️ Practice |
+| **life-review-sharing** | 人生回顧分享 | 🛠️ Practice |
+| **life-review-joy** | 人生回顧喜悅 | 💡 Finding |
+| **life-review-direction** | 人生回顧方向 | 🛠️ Clarification |
+| **reflective-life** | 反思的生活 | 💡 Goal |
+
+## 530. Life Design 🎨
+
+*人生設計*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **life-design-basics** | 人生設計基礎 | 📚 Understanding |
+| **life-design-vision** | 人生設計願景 | 🛠️ Creation |
+| **life-design-values** | 人生設計價值觀 | 🛠️ Alignment |
+| **life-design-experiments** | 人生設計實驗 | 🛠️ Practice |
+| **life-design-prototypes** | 人生設計原型 | 🛠️ Practice |
+| **life-design-iteration** | 人生設計迭代 | 🛠️ Practice |
+| **life-design-daily** | 日常人生設計 | 🛠️ Practice |
+| **life-design-meaning** | 人生設計意義 | 💡 Connection |
+| **life-design-growth** | 人生設計成長 | 💡 Continuous |
+| **life-design-tools** | 人生設計工具 | 🛠️ Selection |
+| **life-design-community** | 人生設計社群 | 🛠️ Finding |
+| **life-design-flexibility** | 人生設計彈性 | 💡 Balance |
+| **life-design-joy** | 人生設計喜悅 | 💡 Finding |
+| **life-design-action** | 人生設計行動 | 🛠️ Practice |
+| **designed-life** | 設計的生活 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
