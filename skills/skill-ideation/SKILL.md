@@ -4443,6 +4443,116 @@ Agent 應該：
 | **burnout-career** | 倦怠和職涯 | 🧠 Navigation |
 | **burnout-culture** | 倦怠文化 | 🌍 Context |
 
+## 181. Building Trust 🤝
+
+*建立信任*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **trust-basics** | 信任基礎 | 📚 Understanding |
+| **trust-components** | 信任組成 | 📚 Framework |
+| **trust-building** | 建立信任 | 🛠️ Process |
+| **trust-practice** | 信任練習 | 🛠️ Practice |
+| **trust-work** | 工作信任 | 🛠️ Application |
+| **trust-relationships** | 關係信任 | 🛠️ Application |
+| **trust-quickly** | 快速建立信任 | 🛠️ Technique |
+| **trust-slowly** | 慢慢建立信任 | 🛠️ Practice |
+| **trust-broken** | 信任破裂 | 🧠 Recognition |
+| **trust-repair** | 信任修復 | 🛠️ Process |
+| **trust-vulnerability** | 信任和脆弱 | 💡 Connection |
+| **trust-consistency** | 信任和一致性 | 🛠️ Practice |
+| **earning-trust** | 贏得信任 | 🛠️ Practice |
+| **giving-trust** | 給予信任 | 🛠️ Practice |
+| **trust-culture** | 信任文化 | 🛠️ Building |
+
+## 182. Letting Go of Control 🙌
+
+*放下控制*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **control-basics** | 控制基礎 | 📚 Understanding |
+| **control-illusion** | 控制的幻覺 | 📚 Philosophy |
+| **control-need** | 控制的需要 | 🧠 Understanding |
+| **control-release** | 釋放控制 | 🛠️ Practice |
+| **control-vs-influence** | 控制 vs 影響 | 📚 Distinction |
+| **control-anxiety** | 控制和焦慮 | 🧠 Connection |
+| **control-delegation** | 控制和授權 | 🛠️ Connection |
+| **control-relationships** | 關係中的控制 | 🧠 Navigation |
+| **control-work** | 工作中的控制 | 🧠 Navigation |
+| **control-parenting** | 育兒中的控制 | 🧠 Application |
+| **control-outcomes** | 結果的控制 | 🧠 Release |
+| **control-others** | 他人的控制 | 🧠 Release |
+| **control-self** | 自我控制 | 🛠️ Practice |
+| **control-surrender** | 控制和臣服 | 💡 Philosophy |
+| **healthy-control** | 健康的控制 | 💡 Balance |
+
+## 183. Setting Boundaries at Work 🚧
+
+*工作中設定邊界*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **work-boundaries-basics** | 工作邊界基礎 | 📚 Understanding |
+| **work-boundaries-importance** | 工作邊界重要性 | 📚 Why |
+| **work-boundaries-types** | 工作邊界種類 | 📚 Framework |
+| **work-boundaries-setting** | 設定工作邊界 | 🛠️ Technique |
+| **work-boundaries-communication** | 溝通工作邊界 | 🛠️ Technique |
+| **work-hours-boundary** | 工作時間邊界 | 🛠️ Application |
+| **workload-boundary** | 工作量邊界 | 🛠️ Application |
+| **email-boundary** | Email 邊界 | 🛠️ Application |
+| **meeting-boundary** | 會議邊界 | 🛠️ Application |
+| **boss-boundary** | 和老闆的邊界 | 🛠️ Navigation |
+| **colleague-boundary** | 和同事的邊界 | 🛠️ Navigation |
+| **client-boundary** | 和客戶的邊界 | 🛠️ Navigation |
+| **work-boundary-pushback** | 邊界被推回 | 🧠 Response |
+| **work-boundary-guilt** | 邊界罪惡感 | 🧠 Processing |
+| **work-boundary-culture** | 邊界文化 | 🌍 Context |
+
+## 184. Quitting Your Job 🚪
+
+*辭職*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **quitting-basics** | 辭職基礎 | 📚 Understanding |
+| **quitting-decision** | 辭職決策 | 🛠️ Framework |
+| **quitting-timing** | 辭職時機 | 🛠️ Judgment |
+| **quitting-preparation** | 辭職準備 | 🛠️ Practical |
+| **resignation-letter** | 辭職信 | 🛠️ Practical |
+| **quitting-conversation** | 辭職對話 | 🛠️ Navigation |
+| **quitting-notice** | 預告期 | 🛠️ Navigation |
+| **quitting-transition** | 辭職交接 | 🛠️ Practical |
+| **quitting-relationships** | 辭職和關係 | 🧠 Navigation |
+| **quitting-emotions** | 辭職情緒 | 🧠 Processing |
+| **counter-offer** | 反提議 | 🛠️ Navigation |
+| **quitting-gracefully** | 優雅辭職 | 🛠️ Practice |
+| **quitting-bridges** | 保持橋樑 | 🛠️ Strategy |
+| **quitting-regret** | 辭職後悔 | 🧠 Processing |
+| **quitting-without-job** | 裸辭 | 🛠️ Navigation |
+
+## 185. Starting Fresh 🌱
+
+*重新開始*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **starting-fresh-basics** | 重新開始基礎 | 📚 Understanding |
+| **starting-fresh-mindset** | 重新開始心態 | 🧠 Framework |
+| **starting-fresh-reasons** | 重新開始原因 | 🧠 Reflection |
+| **starting-fresh-fear** | 重新開始恐懼 | 🧠 Processing |
+| **starting-fresh-excitement** | 重新開始興奮 | 🧠 Processing |
+| **starting-fresh-career** | 職涯重新開始 | 🛠️ Application |
+| **starting-fresh-city** | 新城市重新開始 | 🛠️ Application |
+| **starting-fresh-relationship** | 關係後重新開始 | 🧠 Application |
+| **starting-fresh-identity** | 身份重新開始 | 🧠 Process |
+| **starting-fresh-practical** | 重新開始實務 | 🛠️ Practical |
+| **starting-fresh-connections** | 重新建立連結 | 🛠️ Practice |
+| **starting-fresh-routines** | 重新建立習慣 | 🛠️ Practice |
+| **starting-fresh-past** | 處理過去 | 🧠 Process |
+| **starting-fresh-patience** | 重新開始耐心 | 🧠 Practice |
+| **starting-fresh-growth** | 重新開始成長 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
