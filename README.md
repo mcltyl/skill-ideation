@@ -31,7 +31,7 @@ Instead of listing categories, we start with questions:
 - What do you explain to others repeatedly?
 - What took you years to figure out?
 
-### 📦 80 Category Prompts (950+ Ideas)
+### 📦 100 Category Prompts (1250+ Ideas) 🎉
 
 Each category includes specific ideas, not just suggestions:
 
