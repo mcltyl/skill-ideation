@@ -1115,6 +1115,230 @@ Agent 應該：
 
 ---
 
+# MORE CATEGORIES
+
+## 36. LGBTQ+ Experience 🏳️‍🌈
+
+*身份、關係、社群特有的經驗*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **coming-out-timing** | 什麼時候出櫃，對誰出櫃 | 🧠 Framework |
+| **coming-out-workplace** | 職場出櫃的考量 | 🛠️ Practical |
+| **family-rejection** | 被家人拒絕後怎麼辦 | 🧠 Recovery |
+| **chosen-family** | 選擇的家人 | 💡 Concept |
+| **queer-dating** | LGBTQ+ 約會的特殊挑戰 | 🛠️ Practical |
+| **internalized-shame** | 內化的羞恥感 | 🧠 Psychology |
+| **gay-loneliness** | 為什麼圈內也很孤獨 | 🧠 Psychology |
+| **bi-erasure** | 雙性戀的隱形 | 🧠 Understanding |
+| **trans-basics** | 跨性別基礎知識（給盟友）| 📚 Education |
+| **ally-how** | 怎麼當好的盟友 | 🛠️ Practical |
+| **queer-asia** | 亞洲 LGBTQ+ 處境 | 🌍 Context |
+| **pride-fatigue** | 驕傲月的疲憊 | 🧠 Psychology |
+| **representation-matters** | 代表性為什麼重要 | 💡 Philosophy |
+| **queer-aging** | LGBTQ+ 老化的獨特挑戰 | 🧠 Future |
+| **labels-pressure** | 標籤的壓力與自由 | 💡 Philosophy |
+
+## 37. Immigration & Expat Life 🌏
+
+*跨國生活的獨特挑戰*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **visa-anxiety** | 簽證焦慮：合法身份的不確定 | 🧠 Psychology |
+| **culture-shock-phases** | 文化衝擊的階段 | 📚 Framework |
+| **reverse-culture-shock** | 回國後的不適應 | 🧠 Psychology |
+| **third-culture-kid** | TCK：哪裡都是家，哪裡都不是 | 🧠 Identity |
+| **language-identity** | 語言與身份認同 | 🧠 Identity |
+| **expat-bubble** | 外派圈泡泡：該不該出來 | 💡 Philosophy |
+| **local-integration** | 真正融入當地的挑戰 | 🛠️ Practical |
+| **home-definition** | 「家」的定義重構 | 💡 Philosophy |
+| **long-distance-family** | 遠距離家庭關係 | 🛠️ Practical |
+| **immigrant-guilt** | 移民的罪惡感 | 🧠 Psychology |
+| **code-switching** | 語言/文化切換 | 🛠️ Skill |
+| **bureaucracy-survival** | 官僚體系生存術 | 🛠️ Practical |
+| **making-friends-abroad** | 在異鄉交朋友 | 🛠️ Practical |
+| **career-abroad** | 海外職涯的特殊考量 | 🛠️ Career |
+| **returning-decision** | 要不要回國的掙扎 | 🧠 Decision |
+
+## 38. Startup & Entrepreneurship 🚀
+
+*創業特有的心理和實務*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **founder-loneliness** | 創辦人的孤獨 | 🧠 Psychology |
+| **startup-vs-corporate** | 新創 vs 大公司心態轉換 | 🧠 Transition |
+| **pivoting** | 什麼時候該轉向 | 🧠 Framework |
+| **failure-post-mortem** | 創業失敗後的復盤 | 🛠️ Process |
+| **fundraising-rejection** | 被拒絕一百次 | 🧠 Resilience |
+| **co-founder-conflict** | 共同創辦人衝突 | 🛠️ Practical |
+| **hiring-first** | 第一次招人 | 🛠️ Practical |
+| **firing-first** | 第一次開除人 | 🛠️ Practical |
+| **burn-rate-anxiety** | 燒錢焦慮 | 🧠 Psychology |
+| **product-market-fit** | PMF 到底是什麼感覺 | 💡 Understanding |
+| **scaling-pain** | 成長的痛 | 🧠 Phases |
+| **exit-psychology** | 賣掉公司後的空虛 | 🧠 Psychology |
+| **side-project-to-startup** | 從 side project 到正職 | 🛠️ Transition |
+| **bootstrapping-mindset** | 自力更生的心態 | 🧠 Mindset |
+| **saying-no-opportunities** | 創業者的 FOMO | 🧠 Framework |
+
+## 39. Minimalism & Intentional Living 🎯
+
+*有意識的生活方式*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **decluttering-psychology** | 斷捨離的心理學 | 🧠 Psychology |
+| **enough-stuff** | 多少東西才「夠」| 💡 Philosophy |
+| **digital-minimalism** | 數位極簡 | 🛠️ Practical |
+| **subscription-audit** | 訂閱服務盤點 | 🛠️ Practical |
+| **intentional-spending** | 有意識的消費 | 🛠️ Framework |
+| **experience-over-things** | 體驗 vs 物品 | 💡 Philosophy |
+| **minimalist-wardrobe** | 極簡衣櫃 | 🛠️ Practical |
+| **digital-hoarding** | 數位囤積症 | 🧠 Pattern |
+| **sentimental-items** | 紀念品的處理 | 🛠️ Practical |
+| **minimalism-family** | 家人不配合怎麼辦 | 🛠️ Practical |
+| **slow-living** | 慢活不是懶 | 💡 Philosophy |
+| **essentialism** | 本質主義：少但更好 | 📚 Philosophy |
+| **commitment-minimalism** | 承諾的極簡：少做但做好 | 🧠 Framework |
+| **information-diet** | 資訊節食 | 🛠️ Practical |
+| **attention-protection** | 注意力保護 | 🛠️ Practical |
+
+## 40. Power Dynamics & Influence 👔
+
+*權力、影響力、政治*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **office-politics** | 辦公室政治：不玩也要懂 | 🛠️ Awareness |
+| **power-mapping** | 權力地圖：誰真正有影響力 | 🛠️ Framework |
+| **managing-up** | 向上管理 | 🛠️ Skill |
+| **influence-without-authority** | 沒有職權的影響力 | 🛠️ Skill |
+| **credit-stealing** | 功勞被搶怎麼辦 | 🛠️ Recovery |
+| **micromanager-survival** | 微管理者生存術 | 🛠️ Practical |
+| **bad-boss-strategies** | 爛老闆應對策略 | 🛠️ Practical |
+| **negotiation-asymmetry** | 不對等談判 | 🛠️ Framework |
+| **saying-no-to-boss** | 對老闆說不 | 🛠️ Technique |
+| **visibility-career** | 能見度與職涯 | 🛠️ Strategy |
+| **sponsorship-vs-mentorship** | Sponsor vs Mentor | 📚 Understanding |
+| **political-savvy** | 政治敏銳度 | 🧠 Awareness |
+| **alliance-building** | 結盟的藝術 | 🛠️ Skill |
+| **exit-strategy** | 離開的時機與方式 | 🛠️ Strategy |
+| **whistleblower-dilemma** | 吹哨者的兩難 | 🧠 Ethics |
+
+## 41. Conflict & Difficult Situations ⚔️
+
+*衝突處理、困難對話*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **confrontation-avoidance** | 逃避衝突的代價 | 🧠 Awareness |
+| **healthy-conflict** | 健康的衝突 | 💡 Reframe |
+| **de-escalation** | 降溫技巧 | 🛠️ Technique |
+| **difficult-coworker** | 難搞同事 | 🛠️ Strategies |
+| **toxic-family** | 有毒家庭成員 | 🛠️ Boundaries |
+| **gaslighting-recognition** | 煤氣燈效應辨識 | 🧠 Awareness |
+| **passive-aggressive** | 被動攻擊的處理 | 🛠️ Technique |
+| **unfair-criticism** | 不公平的批評 | 🛠️ Response |
+| **public-embarrassment** | 公開出糗後的恢復 | 🧠 Recovery |
+| **betrayal-processing** | 被背叛後的處理 | 🧠 Psychology |
+| **grudge-release** | 放下怨恨 | 🧠 Process |
+| **mediation-basics** | 調解基礎 | 🛠️ Skill |
+| **cool-down-protocol** | 冷靜下來的步驟 | 🛠️ Technique |
+| **repair-relationship** | 修復關係 | 🛠️ Process |
+| **walking-away** | 知道何時離開 | 🧠 Wisdom |
+
+## 42. Productivity Anti-Patterns 🚫
+
+*生產力的陷阱和迷思*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **productivity-guilt** | 生產力罪惡感 | 🧠 Psychology |
+| **busy-trap** | 忙碌陷阱：忙 ≠ 有成效 | 💡 Counter |
+| **optimization-obsession** | 優化上癮 | 🧠 Pattern |
+| **tool-hopping** | 工具跳槽症 | 🧠 Pattern |
+| **planning-paralysis** | 計劃癱瘓 | 🧠 Pattern |
+| **inbox-zero-myth** | Inbox Zero 的迷思 | 💡 Counter |
+| **multitasking-lie** | 多工的謊言 | 🔬 Science |
+| **morning-routine-obsession** | 早晨儀式執念 | 💡 Counter |
+| **hustle-porn** | 努力色情片 | 💡 Critique |
+| **rest-resistance** | 抗拒休息 | 🧠 Pattern |
+| **good-enough-work** | 夠好就好 | 💡 Permission |
+| **done-list** | Done List vs To-Do List | 🛠️ Alternative |
+| **energy-management** | 能量管理 vs 時間管理 | 🧠 Reframe |
+| **default-diary** | 預設日程：保護空白時間 | 🛠️ Technique |
+| **productive-procrastination** | 生產性拖延 | 🧠 Pattern |
+
+## 43. Learning & Skill Acquisition 📖
+
+*學習的科學和藝術*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **learning-how-to-learn** | 學習如何學習 | 📚 Meta |
+| **deliberate-practice** | 刻意練習 | 📚 Framework |
+| **plateau-breaking** | 突破停滯期 | 🛠️ Technique |
+| **tutorial-hell** | Tutorial 地獄 | 🧠 Pattern |
+| **learn-by-doing** | 做中學 vs 學了再做 | 💡 Philosophy |
+| **forgetting-curve** | 遺忘曲線對策 | 🔬 Science |
+| **spaced-repetition** | 間隔重複 | 🛠️ Technique |
+| **feynman-technique** | Feynman 技巧 | 🛠️ Technique |
+| **skill-transfer** | 技能遷移 | 📚 Understanding |
+| **beginner-mindset** | 初學者心態 | 💡 Philosophy |
+| **learning-in-public** | 公開學習 | 🛠️ Strategy |
+| **note-taking-systems** | 筆記系統 | 🛠️ Practical |
+| **book-retention** | 讀書真的記得住嗎 | 🛠️ Technique |
+| **unlearning** | 反學習：放下舊知識 | 🧠 Process |
+| **mastery-path** | 精通之路 | 📚 Framework |
+
+## 44. Digital Life & Online Presence 💻
+
+*數位時代的自我管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **personal-brand** | 個人品牌（不噁心版）| 🛠️ Strategy |
+| **online-reputation** | 線上名聲管理 | 🛠️ Practical |
+| **privacy-practical** | 實用隱私保護 | 🛠️ Practical |
+| **password-sanity** | 密碼管理（真的會用的版本）| 🛠️ Practical |
+| **email-bankruptcy** | Email 破產：重新開始 | 🛠️ Technique |
+| **notification-audit** | 通知斷捨離 | 🛠️ Practical |
+| **screen-time-honest** | 螢幕時間：誠實面對 | 🧠 Awareness |
+| **digital-boundaries** | 數位邊界 | 🛠️ Framework |
+| **social-media-strategy** | 社群媒體策略（個人）| 🛠️ Strategy |
+| **content-consumption** | 內容消費習慣 | 🧠 Audit |
+| **digital-declutter** | 數位斷捨離 | 🛠️ Process |
+| **backup-sanity** | 備份（真的會做的版本）| 🛠️ Practical |
+| **two-factor-everywhere** | 2FA 全面啟用 | 🛠️ Practical |
+| **ai-tool-integration** | AI 工具整合進工作流 | 🛠️ Practical |
+| **digital-legacy** | 數位遺產：死後帳號怎麼辦 | 🛠️ Planning |
+
+## 45. Seasonal & Cyclical 🍂
+
+*週期性的挑戰和機會*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **new-year-resolution** | 新年新希望（有用版）| 🛠️ Framework |
+| **birthday-reflection** | 生日反思 | 🛠️ Practice |
+| **end-of-year-review** | 年終回顧 | 🛠️ Framework |
+| **seasonal-depression** | 季節性憂鬱 | 🧠 Awareness |
+| **monday-dread** | 週一恐懼 | 🧠 Psychology |
+| **friday-wind-down** | 週五收尾 | 🛠️ Practice |
+| **quarterly-planning** | 季度規劃 | 🛠️ Framework |
+| **holiday-survival** | 節日生存術（家庭聚會）| 🛠️ Practical |
+| **back-to-work** | 假期後回歸工作 | 🛠️ Transition |
+| **spring-cleaning** | 春季大掃除（物理+數位）| 🛠️ Practice |
+| **summer-slump** | 夏季低潮 | 🧠 Awareness |
+| **autumn-reset** | 秋天重啟 | 🛠️ Practice |
+| **winter-wellness** | 冬季健康 | 🛠️ Practical |
+| **anniversary-meaning** | 紀念日的意義 | 💡 Reflection |
+| **time-markers** | 時間標記的力量 | 💡 Philosophy |
+
+---
+
 # QUALITY FILTERS
 
 Before suggesting, ask:
