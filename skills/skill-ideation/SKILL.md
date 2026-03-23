@@ -18,7 +18,7 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 
 ---
 
-# QUICK INDEX (60 Categories, 650+ Ideas)
+# QUICK INDEX (65 Categories, 725+ Ideas)
 
 | # | Category | # | Category |
 |---|----------|---|----------|
@@ -57,6 +57,11 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 | | | 58 | Energy Management ⚡ |
 | | | 59 | Habits & Behavior 🔄 |
 | | | 60 | Aging & Life Stages 🌳 |
+| | | 61 | Gratitude 🙏 |
+| | | 62 | Boundaries (Deep) 🚧 |
+| | | 63 | Emotional Regulation 🎭 |
+| | | 64 | Self-Talk & Inner Critic 🗣️ |
+| | | 65 | Trust & Vulnerability 💝 |
 
 ---
 
