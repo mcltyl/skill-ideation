@@ -5217,6 +5217,116 @@ Agent 應該：
 | **saying-no-practice** | 說不練習 | 🛠️ Practice |
 | **empowered-no** | 有力量的不 | 💡 Philosophy |
 
+## 216. Building a Personal Brand 🏷️
+
+*建立個人品牌*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **personal-brand-basics** | 個人品牌基礎 | 📚 Understanding |
+| **personal-brand-importance** | 個人品牌重要性 | 📚 Why |
+| **personal-brand-discovery** | 個人品牌發現 | 🛠️ Process |
+| **personal-brand-values** | 個人品牌價值觀 | 🛠️ Foundation |
+| **personal-brand-story** | 個人品牌故事 | 🛠️ Crafting |
+| **personal-brand-online** | 線上個人品牌 | 🛠️ Application |
+| **personal-brand-linkedin** | LinkedIn 品牌 | 🛠️ Application |
+| **personal-brand-content** | 內容品牌 | 🛠️ Strategy |
+| **personal-brand-network** | 人脈品牌 | 🛠️ Strategy |
+| **personal-brand-consistency** | 品牌一致性 | 🛠️ Practice |
+| **personal-brand-evolution** | 品牌演變 | 🛠️ Process |
+| **personal-brand-authenticity** | 品牌真實性 | 💡 Balance |
+| **personal-brand-reputation** | 品牌聲譽 | 🛠️ Management |
+| **personal-brand-career** | 品牌和職涯 | 🛠️ Connection |
+| **personal-brand-beyond-work** | 工作外的品牌 | 💡 Extension |
+
+## 217. Developing Leadership Skills 👑
+
+*發展領導技能*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **leadership-basics** | 領導基礎 | 📚 Understanding |
+| **leadership-styles** | 領導風格 | 📚 Framework |
+| **leadership-vs-management** | 領導 vs 管理 | 📚 Distinction |
+| **leadership-development** | 領導發展 | 🛠️ Process |
+| **leadership-practice** | 領導練習 | 🛠️ Practice |
+| **leadership-vision** | 領導願景 | 🛠️ Skill |
+| **leadership-communication** | 領導溝通 | 🛠️ Skill |
+| **leadership-decision** | 領導決策 | 🛠️ Skill |
+| **leadership-delegation** | 領導授權 | 🛠️ Skill |
+| **leadership-feedback** | 領導回饋 | 🛠️ Skill |
+| **leadership-influence** | 領導影響 | 🛠️ Skill |
+| **leadership-integrity** | 領導正直 | 💡 Value |
+| **leadership-humility** | 領導謙卑 | 💡 Value |
+| **leadership-self** | 自我領導 | 🛠️ Foundation |
+| **everyday-leadership** | 日常領導 | 💡 Application |
+
+## 218. Cultivating Creativity 🎨
+
+*培養創造力*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **creativity-basics** | 創造力基礎 | 📚 Understanding |
+| **creativity-myths** | 創造力迷思 | 📚 Debunk |
+| **creativity-everyone** | 每個人的創造力 | 💡 Philosophy |
+| **creativity-cultivation** | 創造力培養 | 🛠️ Process |
+| **creativity-practice** | 創造力練習 | 🛠️ Practice |
+| **creativity-environment** | 創造力環境 | 🛠️ Design |
+| **creativity-habits** | 創造力習慣 | 🛠️ Building |
+| **creativity-blocks** | 創造力阻礙 | 🧠 Overcoming |
+| **creativity-fear** | 創造力恐懼 | 🧠 Processing |
+| **creativity-constraints** | 創造力限制 | 💡 Paradox |
+| **creativity-play** | 創造力玩耍 | 🛠️ Practice |
+| **creativity-curiosity** | 創造力好奇 | 🛠️ Practice |
+| **creativity-connection** | 創造力連結 | 🛠️ Technique |
+| **creativity-work** | 工作創造力 | 🛠️ Application |
+| **creative-confidence** | 創意信心 | 🧠 Building |
+
+## 219. Building Resilience in Relationships 💕
+
+*建立關係韌性*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **relationship-resilience-basics** | 關係韌性基礎 | 📚 Understanding |
+| **relationship-resilience-importance** | 關係韌性重要性 | 📚 Why |
+| **relationship-conflict** | 關係衝突 | 🛠️ Navigation |
+| **relationship-repair** | 關係修復 | 🛠️ Process |
+| **relationship-communication** | 關係溝通 | 🛠️ Skill |
+| **relationship-trust** | 關係信任 | 🛠️ Building |
+| **relationship-boundaries** | 關係邊界 | 🛠️ Setting |
+| **relationship-change** | 關係改變 | 🧠 Navigation |
+| **relationship-distance** | 關係距離 | 🛠️ Navigation |
+| **relationship-support** | 關係支持 | 🛠️ Practice |
+| **relationship-growth** | 關係成長 | 💡 Philosophy |
+| **relationship-flexibility** | 關係彈性 | 🛠️ Practice |
+| **relationship-forgiveness** | 關係原諒 | 🧠 Practice |
+| **relationship-commitment** | 關係承諾 | 🛠️ Practice |
+| **relationship-renewal** | 關係更新 | 🛠️ Practice |
+
+## 220. Finding Work-Life Integration 🔄
+
+*找到工作生活整合*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **integration-basics** | 整合基礎 | 📚 Understanding |
+| **integration-vs-balance** | 整合 vs 平衡 | 📚 Distinction |
+| **integration-definition** | 整合定義 | 📚 Philosophy |
+| **integration-assessment** | 整合評估 | 🛠️ Tool |
+| **integration-design** | 整合設計 | 🛠️ Process |
+| **integration-boundaries** | 整合邊界 | 🛠️ Setting |
+| **integration-flexibility** | 整合彈性 | 🛠️ Practice |
+| **integration-priorities** | 整合優先 | 🛠️ Alignment |
+| **integration-seasons** | 整合季節 | 💡 Philosophy |
+| **integration-work** | 工作整合 | 🛠️ Application |
+| **integration-family** | 家庭整合 | 🛠️ Application |
+| **integration-self** | 自我整合 | 🛠️ Application |
+| **integration-energy** | 能量整合 | 🛠️ Practice |
+| **integration-review** | 整合回顧 | 🛠️ Practice |
+| **sustainable-integration** | 永續整合 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
