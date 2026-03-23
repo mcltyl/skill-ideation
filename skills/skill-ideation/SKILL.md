@@ -9301,6 +9301,120 @@ Agent 應該：
 
 ---
 
+# LIFESTYLE & WELLBEING DOMAINS
+
+## 401. Sleep Optimization 😴
+
+*睡眠優化*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **sleep-basics** | 睡眠基礎 | 📚 Understanding |
+| **sleep-science** | 睡眠科學 | 📚 Science |
+| **sleep-hygiene** | 睡眠衛生 | 🛠️ Practice |
+| **sleep-schedule** | 睡眠時間表 | 🛠️ Building |
+| **sleep-environment** | 睡眠環境 | 🛠️ Design |
+| **sleep-routine** | 睡眠例行 | 🛠️ Building |
+| **sleep-wind-down** | 睡前放鬆 | 🛠️ Practice |
+| **sleep-obstacles** | 睡眠障礙 | 🧠 Overcoming |
+| **sleep-tracking** | 睡眠追蹤 | 🛠️ Tool |
+| **sleep-napping** | 午睡 | 🛠️ Practice |
+| **sleep-travel** | 旅行睡眠 | 🛠️ Adaptation |
+| **sleep-meaning** | 睡眠意義 | 💡 Connection |
+| **sleep-growth** | 睡眠成長 | 💡 Continuous |
+| **sleep-tools** | 睡眠工具 | 🛠️ Selection |
+| **restful-sleep** | 安睡 | 💡 Goal |
+
+## 402. Nutrition Mastery 🥗
+
+*營養精通*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **nutrition-basics** | 營養基礎 | 📚 Understanding |
+| **nutrition-science** | 營養科學 | 📚 Science |
+| **nutrition-macros** | 營養巨量 | 📚 Understanding |
+| **nutrition-micros** | 營養微量 | 📚 Understanding |
+| **nutrition-planning** | 營養規劃 | 🛠️ Practice |
+| **nutrition-cooking** | 營養烹飪 | 🛠️ Practice |
+| **nutrition-shopping** | 營養採購 | 🛠️ Practice |
+| **nutrition-tracking** | 營養追蹤 | 🛠️ Tool |
+| **nutrition-mindful** | 正念飲食 | 🛠️ Practice |
+| **nutrition-daily** | 日常營養 | 🛠️ Practice |
+| **nutrition-meaning** | 營養意義 | 💡 Connection |
+| **nutrition-growth** | 營養成長 | 💡 Continuous |
+| **nutrition-tools** | 營養工具 | 🛠️ Selection |
+| **nutrition-balance** | 營養平衡 | 💡 Balance |
+| **nourished-life** | 滋養的生活 | 💡 Goal |
+
+## 403. Fitness Fundamentals 🏋️
+
+*健身基礎*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **fitness-basics** | 健身基礎 | 📚 Understanding |
+| **fitness-science** | 健身科學 | 📚 Science |
+| **fitness-cardio** | 有氧運動 | 🛠️ Practice |
+| **fitness-strength** | 肌力訓練 | 🛠️ Practice |
+| **fitness-flexibility** | 柔軟度 | 🛠️ Practice |
+| **fitness-recovery** | 健身恢復 | 🛠️ Practice |
+| **fitness-routine** | 健身例行 | 🛠️ Building |
+| **fitness-tracking** | 健身追蹤 | 🛠️ Tool |
+| **fitness-motivation** | 健身動力 | 🧠 Maintaining |
+| **fitness-daily** | 日常健身 | 🛠️ Practice |
+| **fitness-meaning** | 健身意義 | 💡 Connection |
+| **fitness-growth** | 健身成長 | 💡 Continuous |
+| **fitness-tools** | 健身工具 | 🛠️ Selection |
+| **fitness-balance** | 健身平衡 | 💡 Balance |
+| **fit-life** | 健康的生活 | 💡 Goal |
+
+## 404. Stress Management 🧘
+
+*壓力管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **stress-basics** | 壓力基礎 | 📚 Understanding |
+| **stress-science** | 壓力科學 | 📚 Science |
+| **stress-recognition** | 壓力識別 | 🧠 Awareness |
+| **stress-triggers** | 壓力觸發 | 🧠 Identification |
+| **stress-techniques** | 壓力技巧 | 🛠️ Practice |
+| **stress-breathing** | 壓力呼吸 | 🛠️ Practice |
+| **stress-relaxation** | 壓力放鬆 | 🛠️ Practice |
+| **stress-exercise** | 壓力運動 | 🛠️ Practice |
+| **stress-lifestyle** | 壓力生活型態 | 🛠️ Adjustment |
+| **stress-daily** | 日常壓力管理 | 🛠️ Practice |
+| **stress-meaning** | 壓力意義 | 💡 Connection |
+| **stress-growth** | 壓力成長 | 💡 Continuous |
+| **stress-tools** | 壓力工具 | 🛠️ Selection |
+| **stress-balance** | 壓力平衡 | 💡 Balance |
+| **stress-resilient** | 壓力韌性 | 💡 Goal |
+
+## 405. Anxiety Management 🌿
+
+*焦慮管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **anxiety-basics** | 焦慮基礎 | 📚 Understanding |
+| **anxiety-science** | 焦慮科學 | 📚 Science |
+| **anxiety-recognition** | 焦慮識別 | 🧠 Awareness |
+| **anxiety-triggers** | 焦慮觸發 | 🧠 Identification |
+| **anxiety-techniques** | 焦慮技巧 | 🛠️ Practice |
+| **anxiety-grounding** | 焦慮接地 | 🛠️ Practice |
+| **anxiety-breathing** | 焦慮呼吸 | 🛠️ Practice |
+| **anxiety-thoughts** | 焦慮思維 | 🧠 Management |
+| **anxiety-lifestyle** | 焦慮生活型態 | 🛠️ Adjustment |
+| **anxiety-daily** | 日常焦慮管理 | 🛠️ Practice |
+| **anxiety-meaning** | 焦慮意義 | 💡 Connection |
+| **anxiety-growth** | 焦慮成長 | 💡 Continuous |
+| **anxiety-tools** | 焦慮工具 | 🛠️ Selection |
+| **anxiety-support** | 焦慮支持 | 🛠️ Resources |
+| **anxiety-calm** | 平靜 | 💡 Goal |
+
+---
+
 # QUALITY FILTERS
 
 Before suggesting, ask:
