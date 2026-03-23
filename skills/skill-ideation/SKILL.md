@@ -18,7 +18,7 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 
 ---
 
-# QUICK INDEX (75 Categories, 875+ Ideas)
+# QUICK INDEX (80 Categories, 950+ Ideas)
 
 | # | Category | # | Category |
 |---|----------|---|----------|
@@ -72,6 +72,11 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 | | | 73 | Influence & Persuasion 🎯 |
 | | | 74 | Stress Management 😤 |
 | | | 75 | Conflict Resolution 🤝 |
+| | | 76 | Goals & Achievement 🎯 |
+| | | 77 | Personal Leadership 👑 |
+| | | 78 | Networking 🔗 |
+| | | 79 | Public Speaking 🎤 |
+| | | 80 | Writing ✍️ |
 
 ---
 
@@ -2640,5 +2645,6 @@ This skill itself demonstrates:
 | 1.14 | 2026-03-24 | 5 more categories (#61-65), 75 new ideas |
 | 1.15 | 2026-03-24 | 5 more categories (#66-70), 75 new ideas |
 | 1.16 | 2026-03-24 | 5 more categories (#71-75), 75 new ideas |
+| 1.17 | 2026-03-24 | 5 more categories (#76-80), 75 new ideas |
 
-**Total: 75 categories, 875+ ideas, 2530+ lines**
+**Total: 80 categories, 950+ ideas, 2650+ lines**
