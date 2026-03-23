@@ -18,7 +18,7 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 
 ---
 
-# QUICK INDEX (70 Categories, 800+ Ideas)
+# QUICK INDEX (75 Categories, 875+ Ideas)
 
 | # | Category | # | Category |
 |---|----------|---|----------|
@@ -67,6 +67,11 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 | | | 68 | Purpose & Meaning 🌟 |
 | | | 69 | Intuition & Wisdom 🔮 |
 | | | 70 | Mindfulness & Presence 🧘 |
+| | | 71 | Self-Care (Deep) 🛁 |
+| | | 72 | Communication Styles 💬 |
+| | | 73 | Influence & Persuasion 🎯 |
+| | | 74 | Stress Management 😤 |
+| | | 75 | Conflict Resolution 🤝 |
 
 ---
 
