@@ -1582,6 +1582,114 @@ Skip ideas that are:
 
 ---
 
+# REAL IDEATION EXAMPLES
+
+## Example 1: User Says "游泳"
+
+**Input:** 「幫我想游泳相關的 skill ideas」
+
+**Process:**
+1. 游泳本身 → swimming-basics, freestyle-technique
+2. 游泳 + 心理 → water-fear, swimming-meditation
+3. 游泳 + 社交 → pool-etiquette, swimming-lane-rules
+4. 游泳 + 健身 → swimming-workout, swim-vs-gym
+5. 游泳 + 進階 → open-water, triathlon-swim
+6. 游泳 + 教學 → teaching-kids-swim, adult-beginner
+7. 游泳 + 旅行 → swimming-spots, hotel-pool-guide
+
+**Output:**
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| water-fear-overcome | 怕水的人怎麼開始 | 🧠 Psychology |
+| swimming-meditation | 游泳的冥想狀態 | 💡 Philosophy |
+| pool-etiquette | 泳池的潛規則 | 🌍 Culture |
+| swimming-laps-zen | 來回游的禪意 | 💡 Reflection |
+| open-water-101 | 海泳入門 | 🛠️ Practical |
+| teaching-kids-swim | 教小孩游泳 | 🛠️ Teaching |
+| adult-swim-beginner | 成人學游泳（不丟臉）| 🧠 Permission |
+| swimming-injury-prevention | 游泳傷害預防 | 🛠️ Practical |
+| lap-counting | 游幾圈了（數不清怎麼辦）| 🛠️ Technique |
+| swim-gear-minimal | 游泳裝備極簡 | 🛠️ Practical |
+
+---
+
+## Example 2: User Says "30 歲焦慮"
+
+**Input:** 「30 歲的焦慮可以做什麼 skills」
+
+**Process:**
+1. 30 歲核心焦慮 → 職涯、感情、財務、意義
+2. 30 歲 + 比較 → 跟同齡比、跟過去的自己比
+3. 30 歲 + 轉變 → 身體、心態、價值觀轉變
+4. 30 歲 + 社會期待 → 結婚、買房、生孩子
+5. 30 歲 + 重新定義 → 新的成功定義
+6. 30 歲 + 下一個十年 → 30-40 的規劃
+
+**Output:**
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| quarter-life-audit | 25-35：我在哪裡？| 🧠 Framework |
+| 30-unmarried | 30 歲未婚：社會壓力怎麼處理 | 🧠 Psychology |
+| 30-career-switch | 30 歲轉職：太晚了嗎（不）| 💡 Permission |
+| 30-savings-reality | 30 歲「應該」有多少存款 | 🛠️ Reality check |
+| 30-friendships-fade | 為什麼朋友越來越少 | 🧠 Understanding |
+| 30-vs-20 | 20 歲 vs 30 歲的心態差異 | 💡 Reflection |
+| 30-body-changes | 身體開始抗議了 | 🛠️ Awareness |
+| 30-parent-aging | 父母開始老了 | 🧠 Preparation |
+| 30-redefine-success | 重新定義成功 | 💡 Philosophy |
+| 30-decade-planning | 30-40：這十年怎麼過 | 🛠️ Framework |
+
+---
+
+## Example 3: User Says "沒有方向"
+
+**Input:** 「我沒有方向，給我一些隨機 ideas」
+
+**Process:**
+1. 從不同 category 各取 2-3 個
+2. 偏向「每個人都會遇到」的
+3. 混合類型（Framework + Practical + Psychology）
+
+**Output:**
+
+| Idea | Category | Type |
+|------|----------|------|
+| saying-no | Micro-Skills | 🛠️ |
+| imposter-antidote | Psychology | 🧠 |
+| first-week-fired | Micro-Moments | 🧠 |
+| money-scripts | Money Psychology | 🧠 |
+| boundary-setting | Abstract Concepts | 💡 |
+| sunday-scaries | Seasonal | 🧠 |
+| creative-block | Creative Blocks | 🧠 |
+| email-anxiety | Social Anxiety | 🧠 |
+| decluttering-psychology | Minimalism | 🧠 |
+| stoic-daily | Wisdom Traditions | 📚 |
+
+---
+
+## Example 4: User Gives Feedback
+
+**User:** 「前面那些太 soft skill 了，有沒有更 practical 的」
+
+**Adjust:** 轉向 🛠️ Practical 類型
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| salary-negotiation-script | 談薪水的具體話術 | 🛠️ Script |
+| email-templates | 各種情境 email 模板 | 🛠️ Template |
+| meeting-prep-checklist | 會議準備清單 | 🛠️ Checklist |
+| 1-on-1-questions | 一對一該問什麼 | 🛠️ Framework |
+| feedback-sandwich | 回饋的三明治結構 | 🛠️ Technique |
+| project-handoff | 專案交接 SOP | 🛠️ Process |
+| resume-action-verbs | 履歷動詞清單 | 🛠️ Reference |
+| interview-STAR | STAR 面試法 | 🛠️ Framework |
+| decision-matrix | 決策矩陣 | 🛠️ Tool |
+| habit-tracker-setup | 習慣追蹤設置 | 🛠️ Setup |
+
+---
+
 # META
 
 This skill itself demonstrates:
