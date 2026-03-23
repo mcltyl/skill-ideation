@@ -18,6 +18,38 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 
 ---
 
+# QUICK INDEX (50 Categories, 500+ Ideas)
+
+| # | Category | # | Category |
+|---|----------|---|----------|
+| 1 | Philosophy & Thinking | 26 | Life Logistics 🏠 |
+| 2 | Communication & Relationships | 27 | Contrarian 🔄 |
+| 3 | Career & Work | 28 | Niche but Universal 🎲 |
+| 4 | Technical (Narrow) | 29 | Wisdom Traditions 📿 |
+| 5 | Psychology & Emotions | 30 | Modern Phenomena 📱 |
+| 6 | Culture & Context | 31 | Body Wisdom 🫀 |
+| 7 | Lifestyle & Niche | 32 | Time Experience ⏰ |
+| 8 | Writing & Creating | 33 | Money Psychology 💰 |
+| 9 | Meta & Learning | 34 | Space & Environment 🏠 |
+| 10 | Travel & Solo Adventure 🧳 | 35 | Creativity & Expression 🎨 |
+| 11 | Parenting & Family 👶 | 36 | LGBTQ+ Experience 🏳️‍🌈 |
+| 12 | Life Philosophy & Mortality 💀 | 37 | Immigration & Expat 🌏 |
+| 13 | International Politics 🌍 | 38 | Startup & Entrepreneurship 🚀 |
+| 14 | Crafts & DIY 🔧 | 39 | Minimalism 🎯 |
+| 15 | Food, Cooking & Drink 🍳 | 40 | Power Dynamics 👔 |
+| 16 | Fashion & Style 👔 | 41 | Conflict & Difficult Situations ⚔️ |
+| 17 | Body & Health 💪 | 42 | Productivity Anti-Patterns 🚫 |
+| 18 | Asian Culture & Confucianism 🏯 | 43 | Learning & Skill Acquisition 📖 |
+| 19 | Gen Z, AI & Modern Life 🤖 | 44 | Digital Life 💻 |
+| 20 | Relationships & Dating ❤️ | 45 | Seasonal & Cyclical 🍂 |
+| 21 | Micro-Moments ⚡ | 46 | Aging Parents & Caregiving 👴 |
+| 22 | Micro-Skills 🎯 | 47 | Financial Transitions 💸 |
+| 23 | Identity Transitions 🔄 | 48 | Social Anxiety 😬 |
+| 24 | Personality Patterns 🔮 | 49 | Creative Blocks 🎨 |
+| 25 | Abstract Concepts 💭 | 50 | Mind-Body Health 🧠💪 |
+
+---
+
 # FIRST PRINCIPLES
 
 ## 核心原則：從問題出發，不是從分類出發
