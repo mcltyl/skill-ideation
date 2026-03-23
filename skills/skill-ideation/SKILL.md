@@ -6541,6 +6541,116 @@ Agent 應該：
 | **project-management-evolution** | 專案管理職涯演變 | 🛠️ Process |
 | **sustainable-project-management** | 永續專案管理職涯 | 💡 Philosophy |
 
+## 276. Customer Success Career 🤝
+
+*客戶成功職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **cs-career-basics** | 客戶成功職涯基礎 | 📚 Understanding |
+| **cs-career-paths** | 客戶成功職涯路徑 | 🛠️ Navigation |
+| **cs-skills** | 客戶成功技能 | 🛠️ Development |
+| **cs-relationships** | 客戶關係 | 🛠️ Building |
+| **cs-retention** | 客戶留存 | 🛠️ Practice |
+| **cs-difficult-customers** | 困難客戶 | 🛠️ Navigation |
+| **cs-communication** | 客戶溝通 | 🛠️ Skill |
+| **cs-metrics** | 客戶成功指標 | 🛠️ Understanding |
+| **cs-burnout** | 客戶成功倦怠 | 🧠 Prevention |
+| **cs-balance** | 客戶成功平衡 | 🛠️ Practice |
+| **cs-boundaries** | 客戶成功邊界 | 🛠️ Setting |
+| **cs-meaning** | 客戶成功意義 | 💡 Connection |
+| **cs-growth** | 客戶成功成長 | 🛠️ Strategy |
+| **cs-career-evolution** | 客戶成功職涯演變 | 🛠️ Process |
+| **sustainable-cs** | 永續客戶成功職涯 | 💡 Philosophy |
+
+## 277. Research Career 🔬
+
+*研究職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **research-career-basics** | 研究職涯基礎 | 📚 Understanding |
+| **research-career-paths** | 研究職涯路徑 | 🛠️ Navigation |
+| **research-skills** | 研究技能 | 🛠️ Development |
+| **research-methodology** | 研究方法 | 🛠️ Practice |
+| **research-writing** | 研究寫作 | 🛠️ Skill |
+| **research-publishing** | 研究發表 | 🛠️ Navigation |
+| **research-funding** | 研究資金 | 🛠️ Navigation |
+| **research-collaboration** | 研究合作 | 🛠️ Practice |
+| **research-burnout** | 研究倦怠 | 🧠 Prevention |
+| **research-balance** | 研究平衡 | 🛠️ Practice |
+| **research-imposter** | 研究冒名頂替症候群 | 🧠 Processing |
+| **research-meaning** | 研究意義 | 💡 Connection |
+| **research-growth** | 研究成長 | 🛠️ Strategy |
+| **research-career-evolution** | 研究職涯演變 | 🛠️ Process |
+| **sustainable-research** | 永續研究職涯 | 💡 Philosophy |
+
+## 278. Writing Career ✍️
+
+*寫作職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **writing-career-basics** | 寫作職涯基礎 | 📚 Understanding |
+| **writing-career-paths** | 寫作職涯路徑 | 🛠️ Navigation |
+| **writing-skills** | 寫作技能 | 🛠️ Development |
+| **writing-process** | 寫作流程 | 🛠️ Practice |
+| **writing-publishing** | 出版 | 🛠️ Navigation |
+| **writing-freelance** | 自由寫作 | 🛠️ Navigation |
+| **writing-income** | 寫作收入 | 🛠️ Strategy |
+| **writing-blocks** | 寫作瓶頸 | 🧠 Overcoming |
+| **writing-rejection** | 寫作拒絕 | 🧠 Processing |
+| **writing-burnout** | 寫作倦怠 | 🧠 Prevention |
+| **writing-balance** | 寫作平衡 | 🛠️ Practice |
+| **writing-meaning** | 寫作意義 | 💡 Connection |
+| **writing-growth** | 寫作成長 | 🛠️ Strategy |
+| **writing-career-evolution** | 寫作職涯演變 | 🛠️ Process |
+| **sustainable-writing** | 永續寫作職涯 | 💡 Philosophy |
+
+## 279. Performing Arts Career 🎭
+
+*表演藝術職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **performing-arts-basics** | 表演藝術職涯基礎 | 📚 Understanding |
+| **performing-arts-paths** | 表演藝術職涯路徑 | 🛠️ Navigation |
+| **performing-arts-skills** | 表演藝術技能 | 🛠️ Development |
+| **performing-arts-auditions** | 試鏡 | 🛠️ Navigation |
+| **performing-arts-rejection** | 表演藝術拒絕 | 🧠 Processing |
+| **performing-arts-income** | 表演藝術收入 | 🛠️ Strategy |
+| **performing-arts-side-jobs** | 表演藝術副業 | 🛠️ Navigation |
+| **performing-arts-network** | 表演藝術人脈 | 🛠️ Building |
+| **performing-arts-burnout** | 表演藝術倦怠 | 🧠 Prevention |
+| **performing-arts-balance** | 表演藝術平衡 | 🛠️ Practice |
+| **performing-arts-identity** | 表演藝術身份 | 🧠 Navigation |
+| **performing-arts-meaning** | 表演藝術意義 | 💡 Connection |
+| **performing-arts-growth** | 表演藝術成長 | 🛠️ Strategy |
+| **performing-arts-evolution** | 表演藝術職涯演變 | 🛠️ Process |
+| **sustainable-performing** | 永續表演藝術職涯 | 💡 Philosophy |
+
+## 280. Trades Career 🔧
+
+*技術工職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **trades-career-basics** | 技術工職涯基礎 | 📚 Understanding |
+| **trades-career-paths** | 技術工職涯路徑 | 🛠️ Navigation |
+| **trades-skills** | 技術工技能 | 🛠️ Development |
+| **trades-apprenticeship** | 學徒制 | 🛠️ Navigation |
+| **trades-certifications** | 技術工證照 | 🛠️ Navigation |
+| **trades-business** | 技術工創業 | 🛠️ Option |
+| **trades-physical** | 技術工身體 | 🛠️ Care |
+| **trades-safety** | 技術工安全 | 🛠️ Practice |
+| **trades-income** | 技術工收入 | 🛠️ Strategy |
+| **trades-burnout** | 技術工倦怠 | 🧠 Prevention |
+| **trades-balance** | 技術工平衡 | 🛠️ Practice |
+| **trades-meaning** | 技術工意義 | 💡 Connection |
+| **trades-growth** | 技術工成長 | 🛠️ Strategy |
+| **trades-career-evolution** | 技術工職涯演變 | 🛠️ Process |
+| **sustainable-trades** | 永續技術工職涯 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
