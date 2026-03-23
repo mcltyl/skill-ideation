@@ -6101,6 +6101,116 @@ Agent 應該：
 | **starting-over-40-examples** | 40 歲後榜樣 | 💡 Inspiration |
 | **midlife-reinvention** | 中年重塑 | 💡 Philosophy |
 
+## 256. Entrepreneurship Mindset 🚀
+
+*創業心態*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **entrepreneur-mindset-basics** | 創業心態基礎 | 📚 Understanding |
+| **entrepreneur-risk** | 創業風險 | 🧠 Navigation |
+| **entrepreneur-failure** | 創業失敗 | 🧠 Processing |
+| **entrepreneur-resilience** | 創業韌性 | 🧠 Building |
+| **entrepreneur-uncertainty** | 創業不確定 | 🧠 Navigation |
+| **entrepreneur-vision** | 創業願景 | 🛠️ Development |
+| **entrepreneur-action** | 創業行動 | 🛠️ Practice |
+| **entrepreneur-learning** | 創業學習 | 🛠️ Practice |
+| **entrepreneur-network** | 創業人脈 | 🛠️ Building |
+| **entrepreneur-self-care** | 創業自我照顧 | 🛠️ Practice |
+| **entrepreneur-relationships** | 創業和關係 | 🛠️ Balance |
+| **entrepreneur-identity** | 創業身份 | 🧠 Navigation |
+| **entrepreneur-passion** | 創業熱情 | 🧠 Sustaining |
+| **entrepreneur-pivot** | 創業轉向 | 🛠️ Decision |
+| **sustainable-entrepreneurship** | 永續創業 | 💡 Philosophy |
+
+## 257. Creative Career 🎨
+
+*創意職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **creative-career-basics** | 創意職涯基礎 | 📚 Understanding |
+| **creative-career-path** | 創意職涯路徑 | 🛠️ Navigation |
+| **creative-career-income** | 創意職涯收入 | 🛠️ Strategy |
+| **creative-career-portfolio** | 創意職涯作品集 | 🛠️ Building |
+| **creative-career-network** | 創意職涯人脈 | 🛠️ Building |
+| **creative-career-rejection** | 創意職涯拒絕 | 🧠 Processing |
+| **creative-career-blocks** | 創意職涯瓶頸 | 🧠 Overcoming |
+| **creative-career-balance** | 創意職涯平衡 | 🛠️ Practice |
+| **creative-career-business** | 創意職涯商業 | 🛠️ Skills |
+| **creative-career-sustainability** | 創意職涯永續 | 🛠️ Strategy |
+| **creative-career-identity** | 創意職涯身份 | 🧠 Navigation |
+| **creative-career-comparison** | 創意職涯比較 | 🧠 Navigation |
+| **creative-career-evolution** | 創意職涯演變 | 🛠️ Process |
+| **creative-career-meaning** | 創意職涯意義 | 💡 Connection |
+| **thriving-creative** | 蓬勃發展的創意人 | 💡 Goal |
+
+## 258. Academic Life 📚
+
+*學術生活*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **academic-life-basics** | 學術生活基礎 | 📚 Understanding |
+| **academic-research** | 學術研究 | 🛠️ Practice |
+| **academic-writing** | 學術寫作 | 🛠️ Skill |
+| **academic-publishing** | 學術發表 | 🛠️ Navigation |
+| **academic-teaching** | 學術教學 | 🛠️ Practice |
+| **academic-mentoring** | 學術指導 | 🛠️ Practice |
+| **academic-politics** | 學術政治 | 🛠️ Navigation |
+| **academic-networking** | 學術人脈 | 🛠️ Building |
+| **academic-career** | 學術職涯 | 🛠️ Navigation |
+| **academic-balance** | 學術平衡 | 🛠️ Practice |
+| **academic-imposter** | 學術冒名頂替症候群 | 🧠 Processing |
+| **academic-rejection** | 學術拒絕 | 🧠 Processing |
+| **academic-burnout** | 學術倦怠 | 🧠 Prevention |
+| **academic-meaning** | 學術意義 | 💡 Connection |
+| **academic-alternatives** | 學術替代 | 🛠️ Exploration |
+
+## 259. Public Service 🏛️
+
+*公共服務*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **public-service-basics** | 公共服務基礎 | 📚 Understanding |
+| **public-service-motivation** | 公共服務動機 | 🧠 Reflection |
+| **public-service-entry** | 公共服務入門 | 🛠️ Navigation |
+| **public-service-career** | 公共服務職涯 | 🛠️ Navigation |
+| **public-service-impact** | 公共服務影響 | 🛠️ Measurement |
+| **public-service-bureaucracy** | 公共服務官僚 | 🛠️ Navigation |
+| **public-service-politics** | 公共服務政治 | 🛠️ Navigation |
+| **public-service-ethics** | 公共服務道德 | 🛠️ Practice |
+| **public-service-burnout** | 公共服務倦怠 | 🧠 Prevention |
+| **public-service-resilience** | 公共服務韌性 | 🧠 Building |
+| **public-service-balance** | 公共服務平衡 | 🛠️ Practice |
+| **public-service-meaning** | 公共服務意義 | 💡 Connection |
+| **public-service-leadership** | 公共服務領導 | 🛠️ Development |
+| **public-service-change** | 公共服務改變 | 🛠️ Strategy |
+| **civic-engagement** | 公民參與 | 💡 Philosophy |
+
+## 260. Nonprofit Work 💚
+
+*非營利工作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **nonprofit-basics** | 非營利基礎 | 📚 Understanding |
+| **nonprofit-career** | 非營利職涯 | 🛠️ Navigation |
+| **nonprofit-mission** | 非營利使命 | 🛠️ Alignment |
+| **nonprofit-impact** | 非營利影響 | 🛠️ Measurement |
+| **nonprofit-fundraising** | 非營利募款 | 🛠️ Skill |
+| **nonprofit-management** | 非營利管理 | 🛠️ Skill |
+| **nonprofit-volunteers** | 非營利志工 | 🛠️ Management |
+| **nonprofit-board** | 非營利董事會 | 🛠️ Navigation |
+| **nonprofit-burnout** | 非營利倦怠 | 🧠 Prevention |
+| **nonprofit-salary** | 非營利薪資 | 🛠️ Navigation |
+| **nonprofit-balance** | 非營利平衡 | 🛠️ Practice |
+| **nonprofit-passion** | 非營利熱情 | 🧠 Sustaining |
+| **nonprofit-boundaries** | 非營利邊界 | 🛠️ Setting |
+| **nonprofit-meaning** | 非營利意義 | 💡 Connection |
+| **sustainable-nonprofit** | 永續非營利 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
