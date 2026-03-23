@@ -6321,6 +6321,116 @@ Agent 應該：
 | **finance-career-evolution** | 金融職涯演變 | 🛠️ Process |
 | **sustainable-finance** | 永續金融職涯 | 💡 Philosophy |
 
+## 266. Consulting Career 📊
+
+*顧問職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **consulting-career-basics** | 顧問職涯基礎 | 📚 Understanding |
+| **consulting-career-paths** | 顧問職涯路徑 | 🛠️ Navigation |
+| **consulting-skills** | 顧問技能 | 🛠️ Development |
+| **consulting-frameworks** | 顧問框架 | 🛠️ Learning |
+| **consulting-clients** | 顧問客戶 | 🛠️ Management |
+| **consulting-travel** | 顧問出差 | 🛠️ Navigation |
+| **consulting-culture** | 顧問文化 | 🧠 Navigation |
+| **consulting-burnout** | 顧問倦怠 | 🧠 Prevention |
+| **consulting-balance** | 顧問平衡 | 🛠️ Practice |
+| **consulting-exit** | 顧問出路 | 🛠️ Planning |
+| **consulting-independent** | 獨立顧問 | 🛠️ Transition |
+| **consulting-networking** | 顧問人脈 | 🛠️ Building |
+| **consulting-meaning** | 顧問意義 | 💡 Connection |
+| **consulting-career-evolution** | 顧問職涯演變 | 🛠️ Process |
+| **sustainable-consulting** | 永續顧問職涯 | 💡 Philosophy |
+
+## 267. Sales Career 💼
+
+*業務職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **sales-career-basics** | 業務職涯基礎 | 📚 Understanding |
+| **sales-career-paths** | 業務職涯路徑 | 🛠️ Navigation |
+| **sales-skills** | 業務技能 | 🛠️ Development |
+| **sales-mindset** | 業務心態 | 🧠 Development |
+| **sales-rejection** | 業務拒絕 | 🧠 Processing |
+| **sales-targets** | 業務目標 | 🛠️ Navigation |
+| **sales-relationships** | 業務關係 | 🛠️ Building |
+| **sales-ethics** | 業務道德 | 🛠️ Practice |
+| **sales-stress** | 業務壓力 | 🧠 Management |
+| **sales-burnout** | 業務倦怠 | 🧠 Prevention |
+| **sales-balance** | 業務平衡 | 🛠️ Practice |
+| **sales-growth** | 業務成長 | 🛠️ Strategy |
+| **sales-meaning** | 業務意義 | 💡 Connection |
+| **sales-career-evolution** | 業務職涯演變 | 🛠️ Process |
+| **sustainable-sales** | 永續業務職涯 | 💡 Philosophy |
+
+## 268. Marketing Career 📣
+
+*行銷職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **marketing-career-basics** | 行銷職涯基礎 | 📚 Understanding |
+| **marketing-career-paths** | 行銷職涯路徑 | 🛠️ Navigation |
+| **marketing-skills** | 行銷技能 | 🛠️ Development |
+| **marketing-creativity** | 行銷創意 | 🛠️ Practice |
+| **marketing-data** | 行銷數據 | 🛠️ Skill |
+| **marketing-trends** | 行銷趨勢 | 🛠️ Tracking |
+| **marketing-strategy** | 行銷策略 | 🛠️ Development |
+| **marketing-stakeholders** | 行銷利害關係人 | 🛠️ Management |
+| **marketing-burnout** | 行銷倦怠 | 🧠 Prevention |
+| **marketing-balance** | 行銷平衡 | 🛠️ Practice |
+| **marketing-ethics** | 行銷道德 | 🛠️ Practice |
+| **marketing-meaning** | 行銷意義 | 💡 Connection |
+| **marketing-growth** | 行銷成長 | 🛠️ Strategy |
+| **marketing-career-evolution** | 行銷職涯演變 | 🛠️ Process |
+| **sustainable-marketing** | 永續行銷職涯 | 💡 Philosophy |
+
+## 269. Product Management Career 🎯
+
+*產品管理職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **pm-career-basics** | PM 職涯基礎 | 📚 Understanding |
+| **pm-career-paths** | PM 職涯路徑 | 🛠️ Navigation |
+| **pm-skills** | PM 技能 | 🛠️ Development |
+| **pm-frameworks** | PM 框架 | 🛠️ Learning |
+| **pm-stakeholders** | PM 利害關係人 | 🛠️ Management |
+| **pm-engineers** | PM 和工程師 | 🛠️ Collaboration |
+| **pm-designers** | PM 和設計師 | 🛠️ Collaboration |
+| **pm-decisions** | PM 決策 | 🛠️ Practice |
+| **pm-prioritization** | PM 優先排序 | 🛠️ Skill |
+| **pm-burnout** | PM 倦怠 | 🧠 Prevention |
+| **pm-balance** | PM 平衡 | 🛠️ Practice |
+| **pm-imposter** | PM 冒名頂替症候群 | 🧠 Processing |
+| **pm-meaning** | PM 意義 | 💡 Connection |
+| **pm-career-evolution** | PM 職涯演變 | 🛠️ Process |
+| **sustainable-pm** | 永續 PM 職涯 | 💡 Philosophy |
+
+## 270. Engineering Career 🔧
+
+*工程師職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **engineering-career-basics** | 工程師職涯基礎 | 📚 Understanding |
+| **engineering-career-paths** | 工程師職涯路徑 | 🛠️ Navigation |
+| **engineering-skills** | 工程師技能 | 🛠️ Development |
+| **engineering-learning** | 工程師學習 | 🛠️ Practice |
+| **engineering-teamwork** | 工程師團隊 | 🛠️ Collaboration |
+| **engineering-communication** | 工程師溝通 | 🛠️ Skill |
+| **engineering-leadership** | 工程師領導 | 🛠️ Path |
+| **engineering-ic-vs-manager** | IC vs 管理 | 🛠️ Decision |
+| **engineering-burnout** | 工程師倦怠 | 🧠 Prevention |
+| **engineering-balance** | 工程師平衡 | 🛠️ Practice |
+| **engineering-imposter** | 工程師冒名頂替症候群 | 🧠 Processing |
+| **engineering-meaning** | 工程師意義 | 💡 Connection |
+| **engineering-growth** | 工程師成長 | 🛠️ Strategy |
+| **engineering-career-evolution** | 工程師職涯演變 | 🛠️ Process |
+| **sustainable-engineering** | 永續工程師職涯 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
