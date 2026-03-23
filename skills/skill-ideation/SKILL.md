@@ -2100,6 +2100,116 @@ Agent 應該：
 | **values-conflict** | 價值觀衝突 | 🧠 Understanding |
 | **conflict-aftermath** | 衝突之後 | 🛠️ Recovery |
 
+## 76. Setting & Achieving Goals 🎯
+
+*目標設定和達成*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **goal-setting-basics** | 目標設定基礎 | 📚 Framework |
+| **smart-goals** | SMART 目標（和它的限制）| 📚 Framework |
+| **goal-vs-system** | 目標 vs 系統 | 💡 Philosophy |
+| **outcome-vs-process** | 結果 vs 過程目標 | 🧠 Distinction |
+| **stretch-goals** | 延伸目標 | 🧠 Concept |
+| **goal-overwhelm** | 目標壓力 | 🧠 Pattern |
+| **goal-abandonment** | 放棄目標 | 🧠 Pattern |
+| **goal-revision** | 目標修正 | 🛠️ Process |
+| **milestone-setting** | 里程碑設定 | 🛠️ Technique |
+| **progress-tracking** | 進度追蹤 | 🛠️ Practical |
+| **goal-alignment** | 目標對齊 | 🧠 Check |
+| **competing-goals** | 競爭目標 | 🧠 Navigation |
+| **goal-celebration** | 目標慶祝 | 🛠️ Practice |
+| **post-goal-slump** | 達成目標後的低潮 | 🧠 Pattern |
+| **identity-based-goals** | 身份認同目標 | 🧠 Framework |
+
+## 77. Leadership (Personal) 👑
+
+*個人領導力*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **self-leadership** | 自我領導 | 🧠 Foundation |
+| **leading-without-title** | 無頭銜領導 | 🛠️ Framework |
+| **influence-leadership** | 影響力領導 | 🛠️ Technique |
+| **servant-leadership** | 僕人式領導 | 💡 Philosophy |
+| **authentic-leadership** | 真實領導 | 💡 Philosophy |
+| **leadership-presence** | 領導氣場 | 🛠️ Skill |
+| **vision-casting** | 願景描繪 | 🛠️ Technique |
+| **inspiring-others** | 激勵他人 | 🛠️ Technique |
+| **leading-by-example** | 以身作則 | 💡 Philosophy |
+| **accountability-leadership** | 問責領導 | 🛠️ Framework |
+| **empowering-others** | 賦權他人 | 🛠️ Technique |
+| **leadership-failure** | 領導失敗 | 🧠 Recovery |
+| **leadership-growth** | 領導力成長 | 🧠 Development |
+| **quiet-leadership** | 安靜領導 | 💡 Style |
+| **leadership-burden** | 領導的重擔 | 🧠 Psychology |
+
+## 78. Networking & Connections 🔗
+
+*人脈和連結*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **networking-mindset** | 人脈心態 | 🧠 Reframe |
+| **authentic-networking** | 真誠人脈 | 🛠️ Approach |
+| **networking-introverts** | 內向者人脈 | 🛠️ Adaptation |
+| **networking-events** | 人脈活動 | 🛠️ Navigation |
+| **online-networking** | 線上人脈 | 🛠️ Practical |
+| **weak-ties** | 弱連結的力量 | 📚 Understanding |
+| **relationship-maintenance** | 關係維護 | 🛠️ Practice |
+| **asking-for-introductions** | 請求介紹 | 🛠️ Technique |
+| **follow-up** | 跟進的藝術 | 🛠️ Technique |
+| **giving-first** | 先給予 | 💡 Philosophy |
+| **network-diversity** | 人脈多元化 | 🛠️ Strategy |
+| **mentor-finding** | 找導師 | 🛠️ Practical |
+| **mentoring-others** | 指導他人 | 🛠️ Practical |
+| **networking-guilt** | 人脈罪惡感 | 🧠 Psychology |
+| **quality-over-quantity** | 質量 vs 數量 | 💡 Philosophy |
+
+## 79. Public Speaking & Presentation 🎤
+
+*公開演講和簡報*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **public-speaking-fear** | 公開演講恐懼 | 🧠 Psychology |
+| **speech-preparation** | 演講準備 | 🛠️ Process |
+| **storytelling-speaking** | 演講中的故事 | 🛠️ Technique |
+| **opening-hooks** | 開場吸引 | 🛠️ Technique |
+| **closing-impact** | 結尾收尾 | 🛠️ Technique |
+| **body-language-speaking** | 演講肢體語言 | 🛠️ Technique |
+| **voice-control** | 聲音控制 | 🛠️ Technique |
+| **handling-nerves** | 處理緊張 | 🛠️ Technique |
+| **q-and-a** | 問答環節 | 🛠️ Technique |
+| **slide-design** | 投影片設計 | 🛠️ Practical |
+| **virtual-presentations** | 線上簡報 | 🛠️ Adaptation |
+| **impromptu-speaking** | 即興演講 | 🛠️ Skill |
+| **technical-presentations** | 技術簡報 | 🛠️ Context |
+| **audience-engagement** | 觀眾互動 | 🛠️ Technique |
+| **speaking-practice** | 演講練習 | 🛠️ Practice |
+
+## 80. Writing (Personal & Professional) ✍️
+
+*個人和專業寫作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **writing-habit** | 寫作習慣 | 🛠️ Practice |
+| **overcoming-blank-page** | 克服空白頁 | 🛠️ Technique |
+| **writing-voice** | 寫作聲音 | 🛠️ Development |
+| **clarity-writing** | 清晰寫作 | 🛠️ Technique |
+| **editing-self** | 自我編輯 | 🛠️ Skill |
+| **email-writing** | Email 寫作 | 🛠️ Practical |
+| **business-writing** | 商業寫作 | 🛠️ Context |
+| **journaling** | 日記 | 🛠️ Practice |
+| **writing-for-thinking** | 寫作即思考 | 💡 Philosophy |
+| **writing-publicly** | 公開寫作 | 🛠️ Courage |
+| **feedback-on-writing** | 寫作回饋 | 🛠️ Processing |
+| **writing-blocks** | 寫作卡關 | 🧠 Recovery |
+| **concise-writing** | 簡潔寫作 | 🛠️ Technique |
+| **persuasive-writing** | 說服性寫作 | 🛠️ Technique |
+| **writing-process** | 寫作流程 | 🛠️ Framework |
+
 ---
 
 # QUALITY FILTERS
