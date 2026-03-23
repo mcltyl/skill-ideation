@@ -4663,6 +4663,116 @@ Agent 應該：
 | **toxic-support** | 有毒關係支持 | 🛠️ Resources |
 | **healthy-relationships** | 健康關係 | 💡 Contrast |
 
+## 191. Coping with Anxiety 😰
+
+*應對焦慮*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **anxiety-basics** | 焦慮基礎 | 📚 Understanding |
+| **anxiety-types** | 焦慮種類 | 📚 Framework |
+| **anxiety-recognition** | 焦慮認識 | 🧠 Recognition |
+| **anxiety-triggers** | 焦慮觸發 | 🧠 Identification |
+| **anxiety-management** | 焦慮管理 | 🛠️ Framework |
+| **anxiety-techniques** | 焦慮技巧 | 🛠️ List |
+| **anxiety-breathing** | 焦慮呼吸 | 🛠️ Technique |
+| **anxiety-grounding** | 焦慮接地 | 🛠️ Technique |
+| **anxiety-thought-work** | 焦慮思維工作 | 🛠️ Technique |
+| **anxiety-body** | 焦慮和身體 | 🧠 Connection |
+| **anxiety-work** | 工作焦慮 | 🛠️ Application |
+| **anxiety-social** | 社交焦慮 | 🛠️ Application |
+| **anxiety-professional** | 專業焦慮幫助 | 🛠️ Resources |
+| **anxiety-support** | 焦慮支持 | 🛠️ Resources |
+| **living-with-anxiety** | 與焦慮共處 | 💡 Philosophy |
+
+## 192. Building Self-Esteem 💪
+
+*建立自尊*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **self-esteem-basics** | 自尊基礎 | 📚 Understanding |
+| **self-esteem-vs-confidence** | 自尊 vs 信心 | 📚 Distinction |
+| **self-esteem-assessment** | 自尊評估 | 🛠️ Tool |
+| **self-esteem-building** | 建立自尊 | 🛠️ Process |
+| **self-esteem-practice** | 自尊練習 | 🛠️ Practice |
+| **self-esteem-thoughts** | 自尊思維 | 🧠 Work |
+| **self-esteem-actions** | 自尊行動 | 🛠️ Practice |
+| **self-esteem-relationships** | 自尊和關係 | 🧠 Connection |
+| **self-esteem-work** | 自尊和工作 | 🧠 Connection |
+| **self-esteem-comparison** | 自尊和比較 | 🧠 Awareness |
+| **self-esteem-boundaries** | 自尊和邊界 | 🛠️ Connection |
+| **self-esteem-achievements** | 自尊和成就 | 🧠 Connection |
+| **self-esteem-setbacks** | 自尊和挫折 | 🧠 Navigation |
+| **self-esteem-affirmations** | 自尊肯定 | 🛠️ Tool |
+| **healthy-self-esteem** | 健康的自尊 | 💡 Goal |
+
+## 193. Managing Anger 😤
+
+*管理憤怒*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **anger-basics** | 憤怒基礎 | 📚 Understanding |
+| **anger-purpose** | 憤怒的目的 | 📚 Reframe |
+| **anger-recognition** | 憤怒認識 | 🧠 Recognition |
+| **anger-triggers** | 憤怒觸發 | 🧠 Identification |
+| **anger-management** | 憤怒管理 | 🛠️ Framework |
+| **anger-techniques** | 憤怒技巧 | 🛠️ List |
+| **anger-pause** | 憤怒暫停 | 🛠️ Technique |
+| **anger-expression** | 憤怒表達 | 🛠️ Practice |
+| **anger-constructive** | 建設性憤怒 | 🛠️ Practice |
+| **anger-relationships** | 憤怒和關係 | 🧠 Navigation |
+| **anger-work** | 工作中的憤怒 | 🛠️ Navigation |
+| **anger-suppression** | 憤怒壓抑 | 🧠 Awareness |
+| **anger-underneath** | 憤怒底下 | 🧠 Exploration |
+| **anger-others** | 他人的憤怒 | 🛠️ Response |
+| **healthy-anger** | 健康的憤怒 | 💡 Goal |
+
+## 194. Overcoming Imposter Syndrome 🎭
+
+*克服冒名頂替症候群*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **imposter-basics** | 冒名頂替症候群基礎 | 📚 Understanding |
+| **imposter-recognition** | 冒名頂替認識 | 🧠 Recognition |
+| **imposter-types** | 冒名頂替種類 | 📚 Framework |
+| **imposter-causes** | 冒名頂替原因 | 🧠 Understanding |
+| **imposter-overcoming** | 克服冒名頂替 | 🛠️ Process |
+| **imposter-techniques** | 冒名頂替技巧 | 🛠️ List |
+| **imposter-evidence** | 冒名頂替證據 | 🛠️ Collection |
+| **imposter-reframe** | 冒名頂替重構 | 🧠 Technique |
+| **imposter-work** | 工作冒名頂替 | 🛠️ Application |
+| **imposter-new-role** | 新角色冒名頂替 | 🛠️ Application |
+| **imposter-success** | 成功後冒名頂替 | 🧠 Paradox |
+| **imposter-support** | 冒名頂替支持 | 🛠️ Resources |
+| **imposter-talk** | 冒名頂替對話 | 🛠️ Practice |
+| **imposter-acceptance** | 冒名頂替接納 | 🧠 Practice |
+| **imposter-growth** | 冒名頂替成長 | 💡 Philosophy |
+
+## 195. Finding Purpose 🌟
+
+*找到目的*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **purpose-basics** | 目的基礎 | 📚 Understanding |
+| **purpose-vs-passion** | 目的 vs 熱情 | 📚 Distinction |
+| **purpose-search** | 目的搜尋 | 🧠 Process |
+| **purpose-discovery** | 目的發現 | 🛠️ Process |
+| **purpose-questions** | 目的問題 | 🛠️ Framework |
+| **purpose-values** | 目的和價值觀 | 🛠️ Connection |
+| **purpose-skills** | 目的和技能 | 🛠️ Connection |
+| **purpose-needs** | 目的和需求 | 🛠️ Connection |
+| **purpose-work** | 工作中的目的 | 🛠️ Application |
+| **purpose-beyond-work** | 工作外的目的 | 🛠️ Application |
+| **purpose-evolution** | 目的演變 | 🧠 Acceptance |
+| **purpose-pressure** | 目的壓力 | 🧠 Release |
+| **purpose-action** | 目的到行動 | 🛠️ Bridge |
+| **purpose-daily** | 日常目的 | 🛠️ Practice |
+| **purpose-peace** | 目的和平靜 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
