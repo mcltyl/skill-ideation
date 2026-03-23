@@ -4333,6 +4333,116 @@ Agent 應該：
 | **criticism-growth-mindset** | 批評和成長心態 | 🧠 Connection |
 | **giving-work-criticism** | 給予工作批評 | 🛠️ Technique |
 
+## 176. First-Time Manager 👔
+
+*第一次當主管*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **first-manager-basics** | 新手主管基礎 | 📚 Understanding |
+| **first-manager-mindset** | 新手主管心態 | 🧠 Shift |
+| **first-manager-mistakes** | 新手主管常見錯誤 | 🧠 Awareness |
+| **managing-former-peers** | 管理前同事 | 🛠️ Navigation |
+| **first-one-on-one** | 第一次一對一 | 🛠️ Practical |
+| **first-team-meeting** | 第一次團隊會議 | 🛠️ Practical |
+| **setting-expectations-team** | 設定團隊期望 | 🛠️ Practice |
+| **first-difficult-conversation** | 第一次困難對話 | 🛠️ Navigation |
+| **first-performance-review** | 第一次績效評估 | 🛠️ Practical |
+| **manager-imposter** | 主管冒名頂替症候群 | 🧠 Pattern |
+| **manager-learning** | 主管學習 | 🛠️ Resources |
+| **manager-support** | 主管支持 | 🛠️ Resources |
+| **manager-time** | 主管時間管理 | 🛠️ Challenge |
+| **manager-boundaries** | 主管邊界 | 🛠️ Setting |
+| **manager-identity** | 主管身份 | 🧠 Development |
+
+## 177. Receiving a Promotion 🎉
+
+*獲得升遷*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **promotion-basics** | 升遷基礎 | 📚 Understanding |
+| **promotion-reaction** | 升遷反應 | 🧠 Processing |
+| **promotion-celebration** | 升遷慶祝 | 🛠️ Practice |
+| **promotion-transition** | 升遷轉變 | 🛠️ Navigation |
+| **promotion-expectations** | 升遷期望 | 🛠️ Setting |
+| **promotion-relationships** | 升遷和關係 | 🧠 Navigation |
+| **promotion-peer-envy** | 同事嫉妒 | 🧠 Handling |
+| **promotion-new-skills** | 新技能 | 🛠️ Building |
+| **promotion-mistakes** | 升遷後錯誤 | 🧠 Awareness |
+| **promotion-imposter** | 升遷冒名頂替症候群 | 🧠 Pattern |
+| **promotion-negotiation** | 升遷談判 | 🛠️ Technique |
+| **promotion-declined** | 拒絕升遷 | 🛠️ Decision |
+| **promotion-readiness** | 升遷準備 | 🛠️ Assessment |
+| **promotion-first-90** | 升遷後前 90 天 | 🛠️ Framework |
+| **promotion-long-term** | 升遷後長期 | 🛠️ Strategy |
+
+## 178. Starting a Side Hustle 💼
+
+*開始副業*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **side-hustle-basics** | 副業基礎 | 📚 Understanding |
+| **side-hustle-ideas** | 副業點子 | 🛠️ Generation |
+| **side-hustle-validation** | 副業驗證 | 🛠️ Process |
+| **side-hustle-start** | 開始副業 | 🛠️ Practical |
+| **side-hustle-time** | 副業時間 | 🛠️ Management |
+| **side-hustle-energy** | 副業能量 | 🛠️ Management |
+| **side-hustle-money** | 副業金錢 | 🛠️ Management |
+| **side-hustle-legal** | 副業法律 | 📚 Awareness |
+| **side-hustle-employer** | 雇主和副業 | 🛠️ Navigation |
+| **side-hustle-growth** | 副業成長 | 🛠️ Strategy |
+| **side-hustle-quit** | 副業放棄 | 🛠️ Decision |
+| **side-hustle-full-time** | 副業轉正職 | 🛠️ Transition |
+| **side-hustle-burnout** | 副業倦怠 | 🧠 Prevention |
+| **side-hustle-balance** | 副業平衡 | 🛠️ Practice |
+| **side-hustle-mindset** | 副業心態 | 🧠 Framework |
+
+## 179. Making Big Decisions 🎯
+
+*做重大決策*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **big-decisions-basics** | 重大決策基礎 | 📚 Understanding |
+| **big-decisions-process** | 重大決策過程 | 🛠️ Framework |
+| **big-decisions-tools** | 重大決策工具 | 🛠️ List |
+| **big-decisions-analysis** | 重大決策分析 | 🛠️ Technique |
+| **big-decisions-intuition** | 重大決策直覺 | 🧠 Role |
+| **big-decisions-values** | 重大決策價值觀 | 🛠️ Alignment |
+| **big-decisions-timing** | 重大決策時機 | 🛠️ Judgment |
+| **big-decisions-input** | 重大決策諮詢 | 🛠️ Practice |
+| **big-decisions-fear** | 重大決策恐懼 | 🧠 Management |
+| **big-decisions-commitment** | 重大決策承諾 | 🛠️ Practice |
+| **big-decisions-regret** | 重大決策後悔 | 🧠 Navigation |
+| **big-decisions-reversible** | 可逆 vs 不可逆 | 📚 Framework |
+| **big-decisions-paralysis** | 決策癱瘓 | 🧠 Overcoming |
+| **big-decisions-communication** | 決策溝通 | 🛠️ Practice |
+| **living-with-decisions** | 和決策共處 | 🧠 Practice |
+
+## 180. Dealing with Burnout 🔥
+
+*處理倦怠*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **burnout-basics** | 倦怠基礎 | 📚 Understanding |
+| **burnout-signs** | 倦怠徵兆 | 🧠 Recognition |
+| **burnout-causes** | 倦怠原因 | 🧠 Identification |
+| **burnout-prevention** | 倦怠預防 | 🛠️ Strategy |
+| **burnout-recovery** | 倦怠恢復 | 🛠️ Process |
+| **burnout-work** | 工作倦怠 | 🛠️ Application |
+| **burnout-parenting** | 育兒倦怠 | 🛠️ Application |
+| **burnout-caregiving** | 照護者倦怠 | 🛠️ Application |
+| **burnout-creative** | 創意倦怠 | 🛠️ Application |
+| **burnout-boundaries** | 倦怠和邊界 | 🛠️ Connection |
+| **burnout-rest** | 倦怠和休息 | 🛠️ Practice |
+| **burnout-support** | 倦怠支持 | 🛠️ Resources |
+| **burnout-communication** | 倦怠溝通 | 🛠️ Practice |
+| **burnout-career** | 倦怠和職涯 | 🧠 Navigation |
+| **burnout-culture** | 倦怠文化 | 🌍 Context |
+
 ---
 
 # QUALITY FILTERS
