@@ -6431,6 +6431,116 @@ Agent 應該：
 | **engineering-career-evolution** | 工程師職涯演變 | 🛠️ Process |
 | **sustainable-engineering** | 永續工程師職涯 | 💡 Philosophy |
 
+## 271. Design Career 🎨
+
+*設計職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **design-career-basics** | 設計職涯基礎 | 📚 Understanding |
+| **design-career-paths** | 設計職涯路徑 | 🛠️ Navigation |
+| **design-skills** | 設計技能 | 🛠️ Development |
+| **design-portfolio** | 設計作品集 | 🛠️ Building |
+| **design-process** | 設計流程 | 🛠️ Practice |
+| **design-stakeholders** | 設計利害關係人 | 🛠️ Management |
+| **design-feedback** | 設計回饋 | 🛠️ Navigation |
+| **design-critique** | 設計評論 | 🛠️ Skill |
+| **design-burnout** | 設計倦怠 | 🧠 Prevention |
+| **design-balance** | 設計平衡 | 🛠️ Practice |
+| **design-imposter** | 設計冒名頂替症候群 | 🧠 Processing |
+| **design-meaning** | 設計意義 | 💡 Connection |
+| **design-growth** | 設計成長 | 🛠️ Strategy |
+| **design-career-evolution** | 設計職涯演變 | 🛠️ Process |
+| **sustainable-design** | 永續設計職涯 | 💡 Philosophy |
+
+## 272. Data Science Career 📊
+
+*資料科學職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **data-career-basics** | 資料科學職涯基礎 | 📚 Understanding |
+| **data-career-paths** | 資料科學職涯路徑 | 🛠️ Navigation |
+| **data-skills** | 資料科學技能 | 🛠️ Development |
+| **data-learning** | 資料科學學習 | 🛠️ Practice |
+| **data-communication** | 資料科學溝通 | 🛠️ Skill |
+| **data-stakeholders** | 資料科學利害關係人 | 🛠️ Management |
+| **data-ethics** | 資料科學道德 | 🛠️ Practice |
+| **data-projects** | 資料科學專案 | 🛠️ Navigation |
+| **data-burnout** | 資料科學倦怠 | 🧠 Prevention |
+| **data-balance** | 資料科學平衡 | 🛠️ Practice |
+| **data-imposter** | 資料科學冒名頂替症候群 | 🧠 Processing |
+| **data-meaning** | 資料科學意義 | 💡 Connection |
+| **data-growth** | 資料科學成長 | 🛠️ Strategy |
+| **data-career-evolution** | 資料科學職涯演變 | 🛠️ Process |
+| **sustainable-data** | 永續資料科學職涯 | 💡 Philosophy |
+
+## 273. Operations Career ⚙️
+
+*營運職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **ops-career-basics** | 營運職涯基礎 | 📚 Understanding |
+| **ops-career-paths** | 營運職涯路徑 | 🛠️ Navigation |
+| **ops-skills** | 營運技能 | 🛠️ Development |
+| **ops-systems** | 營運系統 | 🛠️ Building |
+| **ops-processes** | 營運流程 | 🛠️ Development |
+| **ops-efficiency** | 營運效率 | 🛠️ Optimization |
+| **ops-stakeholders** | 營運利害關係人 | 🛠️ Management |
+| **ops-crisis** | 營運危機 | 🛠️ Management |
+| **ops-burnout** | 營運倦怠 | 🧠 Prevention |
+| **ops-balance** | 營運平衡 | 🛠️ Practice |
+| **ops-visibility** | 營運能見度 | 🛠️ Strategy |
+| **ops-meaning** | 營運意義 | 💡 Connection |
+| **ops-growth** | 營運成長 | 🛠️ Strategy |
+| **ops-career-evolution** | 營運職涯演變 | 🛠️ Process |
+| **sustainable-ops** | 永續營運職涯 | 💡 Philosophy |
+
+## 274. HR Career 👥
+
+*人力資源職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **hr-career-basics** | HR 職涯基礎 | 📚 Understanding |
+| **hr-career-paths** | HR 職涯路徑 | 🛠️ Navigation |
+| **hr-skills** | HR 技能 | 🛠️ Development |
+| **hr-employee-relations** | 員工關係 | 🛠️ Practice |
+| **hr-hiring** | HR 招募 | 🛠️ Skill |
+| **hr-policies** | HR 政策 | 🛠️ Development |
+| **hr-confidentiality** | HR 保密 | 🛠️ Practice |
+| **hr-difficult-conversations** | HR 困難對話 | 🛠️ Navigation |
+| **hr-burnout** | HR 倦怠 | 🧠 Prevention |
+| **hr-balance** | HR 平衡 | 🛠️ Practice |
+| **hr-boundaries** | HR 邊界 | 🛠️ Setting |
+| **hr-meaning** | HR 意義 | 💡 Connection |
+| **hr-growth** | HR 成長 | 🛠️ Strategy |
+| **hr-career-evolution** | HR 職涯演變 | 🛠️ Process |
+| **sustainable-hr** | 永續 HR 職涯 | 💡 Philosophy |
+
+## 275. Project Management Career 📋
+
+*專案管理職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **project-management-basics** | 專案管理職涯基礎 | 📚 Understanding |
+| **project-management-paths** | 專案管理職涯路徑 | 🛠️ Navigation |
+| **project-management-skills** | 專案管理技能 | 🛠️ Development |
+| **project-management-certifications** | 專案管理證照 | 🛠️ Navigation |
+| **project-management-tools** | 專案管理工具 | 🛠️ Selection |
+| **project-management-stakeholders** | 專案管理利害關係人 | 🛠️ Management |
+| **project-management-risk** | 專案管理風險 | 🛠️ Practice |
+| **project-management-scope** | 專案管理範圍 | 🛠️ Management |
+| **project-management-burnout** | 專案管理倦怠 | 🧠 Prevention |
+| **project-management-balance** | 專案管理平衡 | 🛠️ Practice |
+| **project-management-visibility** | 專案管理能見度 | 🛠️ Strategy |
+| **project-management-meaning** | 專案管理意義 | 💡 Connection |
+| **project-management-growth** | 專案管理成長 | 🛠️ Strategy |
+| **project-management-evolution** | 專案管理職涯演變 | 🛠️ Process |
+| **sustainable-project-management** | 永續專案管理職涯 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
