@@ -9189,6 +9189,116 @@ Agent 應該：
 | **copywriting-testing** | 文案寫作測試 | 🛠️ Practice |
 | **copywriting-master** | 文案寫作大師 | 💡 Goal |
 
+## 396. Design Thinking 🎨
+
+*設計思維*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **design-thinking-basics** | 設計思維基礎 | 📚 Understanding |
+| **design-thinking-process** | 設計思維過程 | 📚 Framework |
+| **design-thinking-empathy** | 設計思維同理 | 🛠️ Practice |
+| **design-thinking-define** | 設計思維定義 | 🛠️ Practice |
+| **design-thinking-ideate** | 設計思維發想 | 🛠️ Practice |
+| **design-thinking-prototype** | 設計思維原型 | 🛠️ Practice |
+| **design-thinking-test** | 設計思維測試 | 🛠️ Practice |
+| **design-thinking-iterate** | 設計思維迭代 | 🛠️ Practice |
+| **design-thinking-facilitation** | 設計思維引導 | 🛠️ Practice |
+| **design-thinking-daily** | 日常設計思維 | 🛠️ Practice |
+| **design-thinking-meaning** | 設計思維意義 | 💡 Connection |
+| **design-thinking-growth** | 設計思維成長 | 💡 Continuous |
+| **design-thinking-tools** | 設計思維工具 | 🛠️ Selection |
+| **design-thinking-mindset** | 設計思維心態 | 🧠 Development |
+| **design-thinker** | 設計思維者 | 💡 Goal |
+
+## 397. Product Thinking 📦
+
+*產品思維*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **product-thinking-basics** | 產品思維基礎 | 📚 Understanding |
+| **product-thinking-user** | 產品思維用戶 | 🛠️ Focus |
+| **product-thinking-problem** | 產品思維問題 | 🛠️ Definition |
+| **product-thinking-solution** | 產品思維解決 | 🛠️ Development |
+| **product-thinking-value** | 產品思維價值 | 🛠️ Proposition |
+| **product-thinking-metrics** | 產品思維指標 | 🛠️ Selection |
+| **product-thinking-prioritization** | 產品思維優先 | 🛠️ Practice |
+| **product-thinking-roadmap** | 產品思維路線圖 | 🛠️ Planning |
+| **product-thinking-iteration** | 產品思維迭代 | 🛠️ Practice |
+| **product-thinking-daily** | 日常產品思維 | 🛠️ Practice |
+| **product-thinking-meaning** | 產品思維意義 | 💡 Connection |
+| **product-thinking-growth** | 產品思維成長 | 💡 Continuous |
+| **product-thinking-tools** | 產品思維工具 | 🛠️ Selection |
+| **product-thinking-mindset** | 產品思維心態 | 🧠 Development |
+| **product-thinker** | 產品思維者 | 💡 Goal |
+
+## 398. Business Model Innovation 💡
+
+*商業模式創新*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **biz-model-basics** | 商業模式基礎 | 📚 Understanding |
+| **biz-model-canvas** | 商業模式畫布 | 🛠️ Tool |
+| **biz-model-value** | 商業模式價值 | 🛠️ Proposition |
+| **biz-model-customer** | 商業模式客戶 | 🛠️ Segment |
+| **biz-model-channels** | 商業模式通路 | 🛠️ Selection |
+| **biz-model-revenue** | 商業模式營收 | 🛠️ Design |
+| **biz-model-resources** | 商業模式資源 | 🛠️ Identification |
+| **biz-model-partners** | 商業模式夥伴 | 🛠️ Selection |
+| **biz-model-innovation** | 商業模式創新 | 🛠️ Practice |
+| **biz-model-daily** | 日常商業模式 | 🛠️ Practice |
+| **biz-model-meaning** | 商業模式意義 | 💡 Connection |
+| **biz-model-growth** | 商業模式成長 | 💡 Continuous |
+| **biz-model-tools** | 商業模式工具 | 🛠️ Selection |
+| **biz-model-testing** | 商業模式測試 | 🛠️ Practice |
+| **business-innovator** | 商業創新者 | 💡 Goal |
+
+## 399. Lean Startup Methods 🚀
+
+*精實創業方法*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **lean-startup-basics** | 精實創業基礎 | 📚 Understanding |
+| **lean-startup-build** | 精實創業建造 | 🛠️ Phase |
+| **lean-startup-measure** | 精實創業測量 | 🛠️ Phase |
+| **lean-startup-learn** | 精實創業學習 | 🛠️ Phase |
+| **lean-startup-mvp** | 精實創業 MVP | 🛠️ Development |
+| **lean-startup-hypothesis** | 精實創業假設 | 🛠️ Formation |
+| **lean-startup-experiment** | 精實創業實驗 | 🛠️ Design |
+| **lean-startup-pivot** | 精實創業轉向 | 🛠️ Decision |
+| **lean-startup-metrics** | 精實創業指標 | 🛠️ Selection |
+| **lean-startup-daily** | 日常精實創業 | 🛠️ Practice |
+| **lean-startup-meaning** | 精實創業意義 | 💡 Connection |
+| **lean-startup-growth** | 精實創業成長 | 💡 Continuous |
+| **lean-startup-tools** | 精實創業工具 | 🛠️ Selection |
+| **lean-startup-mindset** | 精實創業心態 | 🧠 Development |
+| **lean-entrepreneur** | 精實創業家 | 💡 Goal |
+
+## 400. Agile Methodologies 🏃
+
+*敏捷方法論*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **agile-basics** | 敏捷基礎 | 📚 Understanding |
+| **agile-principles** | 敏捷原則 | 📚 Framework |
+| **agile-scrum** | 敏捷 Scrum | 🛠️ Framework |
+| **agile-kanban** | 敏捷看板 | 🛠️ Framework |
+| **agile-sprints** | 敏捷衝刺 | 🛠️ Practice |
+| **agile-backlog** | 敏捷待辦 | 🛠️ Management |
+| **agile-standups** | 敏捷站立會議 | 🛠️ Practice |
+| **agile-retrospectives** | 敏捷回顧 | 🛠️ Practice |
+| **agile-estimation** | 敏捷估算 | 🛠️ Practice |
+| **agile-daily** | 日常敏捷 | 🛠️ Practice |
+| **agile-meaning** | 敏捷意義 | 💡 Connection |
+| **agile-growth** | 敏捷成長 | 💡 Continuous |
+| **agile-tools** | 敏捷工具 | 🛠️ Selection |
+| **agile-mindset** | 敏捷心態 | 🧠 Development |
+| **agile-practitioner** | 敏捷實踐者 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
