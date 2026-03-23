@@ -2899,6 +2899,116 @@ Agent 應該：
 | **idea-selection** | 想法篩選 | 🛠️ Framework |
 | **creative-collaboration** | 創意協作 | 🛠️ Technique |
 
+## 111. Time Blocking & Scheduling ⏰
+
+*時間區塊和排程*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **time-blocking-basics** | 時間區塊基礎 | 📚 Framework |
+| **calendar-management** | 日曆管理 | 🛠️ Practical |
+| **scheduling-philosophy** | 排程哲學 | 💡 Philosophy |
+| **buffer-time** | 緩衝時間 | 🛠️ Technique |
+| **theme-days** | 主題日 | 🛠️ Technique |
+| **deep-work-blocks** | 深度工作區塊 | 🛠️ Practice |
+| **meeting-batching** | 會議批次 | 🛠️ Technique |
+| **schedule-protection** | 排程保護 | 🛠️ Practice |
+| **flexible-structure** | 彈性結構 | 💡 Balance |
+| **overcommitment** | 過度承諾 | 🧠 Awareness |
+| **saying-no-schedule** | 對排程說不 | 🛠️ Technique |
+| **schedule-review** | 排程回顧 | 🛠️ Practice |
+| **ideal-week** | 理想週 | 🛠️ Design |
+| **schedule-anxiety** | 排程焦慮 | 🧠 Psychology |
+| **spontaneity-schedule** | 排程中的自發性 | 💡 Balance |
+
+## 112. Email Management 📧
+
+*Email 管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **email-basics** | Email 基礎 | 📚 Framework |
+| **inbox-zero** | Inbox Zero（和它的迷思）| 📚 Critique |
+| **email-processing** | Email 處理 | 🛠️ System |
+| **email-batching** | Email 批次 | 🛠️ Technique |
+| **email-writing** | Email 撰寫 | 🛠️ Technique |
+| **email-etiquette** | Email 禮儀 | 🛠️ Practice |
+| **email-response-time** | Email 回覆時間 | 🛠️ Expectation |
+| **email-folders** | Email 資料夾 | 🛠️ Organization |
+| **email-search** | Email 搜尋 | 🛠️ Skill |
+| **email-templates** | Email 模板 | 🛠️ Tool |
+| **unsubscribe** | 退訂 | 🛠️ Maintenance |
+| **email-anxiety** | Email 焦慮 | 🧠 Psychology |
+| **email-boundaries** | Email 邊界 | 🛠️ Practice |
+| **email-delegation** | Email 授權 | 🛠️ Technique |
+| **email-detox** | Email 斷捨離 | 🛠️ Practice |
+
+## 113. Documentation & Note-Taking 📝
+
+*文件和筆記*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **note-taking-basics** | 筆記基礎 | 📚 Framework |
+| **note-taking-methods** | 筆記方法 | 📚 Overview |
+| **zettelkasten** | 卡片盒筆記法 | 🛠️ System |
+| **cornell-method** | 康乃爾筆記法 | 🛠️ Technique |
+| **digital-vs-analog** | 數位 vs 類比筆記 | 🛠️ Decision |
+| **second-brain** | 第二大腦 | 🛠️ System |
+| **note-organization** | 筆記整理 | 🛠️ System |
+| **linking-notes** | 筆記連結 | 🛠️ Technique |
+| **note-review** | 筆記回顧 | 🛠️ Practice |
+| **documentation-work** | 工作文件 | 🛠️ Practice |
+| **documentation-personal** | 個人文件 | 🛠️ Practice |
+| **knowledge-management** | 知識管理 | 🛠️ System |
+| **capture-habit** | 捕捉習慣 | 🛠️ Practice |
+| **note-search** | 筆記搜尋 | 🛠️ Skill |
+| **note-maintenance** | 筆記維護 | 🛠️ Practice |
+
+## 114. Automation & Systems 🤖
+
+*自動化和系統*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **automation-basics** | 自動化基礎 | 📚 Introduction |
+| **automation-mindset** | 自動化心態 | 🧠 Framework |
+| **what-to-automate** | 什麼該自動化 | 🛠️ Decision |
+| **personal-systems** | 個人系統 | 🛠️ Framework |
+| **habit-systems** | 習慣系統 | 🛠️ Framework |
+| **workflow-design** | 工作流設計 | 🛠️ Process |
+| **templates** | 模板 | 🛠️ Tool |
+| **checklists** | 檢查清單 | 🛠️ Tool |
+| **routines** | 例行公事 | 🛠️ Practice |
+| **system-review** | 系統回顧 | 🛠️ Practice |
+| **system-simplification** | 系統簡化 | 🛠️ Practice |
+| **system-failure** | 系統失敗 | 🛠️ Recovery |
+| **over-systematization** | 過度系統化 | 🧠 Awareness |
+| **system-flexibility** | 系統彈性 | 💡 Balance |
+| **system-documentation** | 系統文件 | 🛠️ Practice |
+
+## 115. Learning Languages 🌍
+
+*語言學習*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **language-learning-basics** | 語言學習基礎 | 📚 Framework |
+| **language-goals** | 語言目標 | 🛠️ Setting |
+| **language-resources** | 語言資源 | 🛠️ Overview |
+| **immersion** | 沉浸式學習 | 🛠️ Strategy |
+| **language-apps** | 語言 App | 🛠️ Tools |
+| **speaking-practice** | 口說練習 | 🛠️ Practice |
+| **listening-practice** | 聽力練習 | 🛠️ Practice |
+| **reading-practice** | 閱讀練習 | 🛠️ Practice |
+| **writing-practice** | 寫作練習 | 🛠️ Practice |
+| **vocabulary-building** | 詞彙建立 | 🛠️ Technique |
+| **grammar-approach** | 文法方法 | 🛠️ Strategy |
+| **language-plateau** | 語言停滯 | 🧠 Pattern |
+| **language-motivation** | 語言動力 | 🧠 Psychology |
+| **language-anxiety** | 語言焦慮 | 🧠 Psychology |
+| **multilingual-maintenance** | 多語維護 | 🛠️ Practice |
+
 ---
 
 # QUALITY FILTERS
