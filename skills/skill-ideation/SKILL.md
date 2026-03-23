@@ -4997,6 +4997,116 @@ Agent 應該：
 | **fomo-presence** | FOMO 和臨在 | 🛠️ Practice |
 | **fomo-contentment** | FOMO 和知足 | 💡 Philosophy |
 
+## 206. Working from Home 🏠
+
+*在家工作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **wfh-basics** | 在家工作基礎 | 📚 Understanding |
+| **wfh-setup** | 在家工作設置 | 🛠️ Practical |
+| **wfh-routine** | 在家工作例行 | 🛠️ Building |
+| **wfh-boundaries** | 在家工作邊界 | 🛠️ Setting |
+| **wfh-productivity** | 在家工作生產力 | 🛠️ Optimization |
+| **wfh-distractions** | 在家工作干擾 | 🛠️ Management |
+| **wfh-communication** | 在家工作溝通 | 🛠️ Practice |
+| **wfh-meetings** | 在家工作會議 | 🛠️ Navigation |
+| **wfh-isolation** | 在家工作孤立 | 🧠 Management |
+| **wfh-burnout** | 在家工作倦怠 | 🧠 Prevention |
+| **wfh-family** | 在家工作和家人 | 🛠️ Navigation |
+| **wfh-roommates** | 在家工作和室友 | 🛠️ Navigation |
+| **wfh-self-care** | 在家工作自我照顧 | 🛠️ Practice |
+| **wfh-career** | 在家工作和職涯 | 🛠️ Strategy |
+| **wfh-hybrid** | 混合工作模式 | 🛠️ Navigation |
+
+## 207. Dealing with Difficult People 🚧
+
+*處理難相處的人*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **difficult-people-basics** | 難相處的人基礎 | 📚 Understanding |
+| **difficult-people-types** | 難相處的人種類 | 📚 Framework |
+| **difficult-people-recognition** | 難相處的人認識 | 🧠 Recognition |
+| **difficult-people-strategies** | 難相處的人策略 | 🛠️ Framework |
+| **difficult-boss** | 難相處的老闆 | 🛠️ Navigation |
+| **difficult-colleague** | 難相處的同事 | 🛠️ Navigation |
+| **difficult-client** | 難相處的客戶 | 🛠️ Navigation |
+| **difficult-family** | 難相處的家人 | 🧠 Navigation |
+| **difficult-friend** | 難相處的朋友 | 🧠 Navigation |
+| **difficult-communication** | 和難相處的人溝通 | 🛠️ Technique |
+| **difficult-boundaries** | 難相處的人邊界 | 🛠️ Setting |
+| **difficult-emotions** | 難相處的人情緒 | 🧠 Management |
+| **difficult-empathy** | 難相處的人同理 | 🛠️ Practice |
+| **difficult-self-reflection** | 難相處的人自我反思 | 🧠 Practice |
+| **difficult-exit** | 離開難相處的人 | 🛠️ Decision |
+
+## 208. Making New Habits Stick 📌
+
+*讓新習慣持續*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **habit-sticking-basics** | 習慣持續基礎 | 📚 Understanding |
+| **habit-sticking-science** | 習慣持續科學 | 📚 Science |
+| **habit-21-days-myth** | 21 天迷思 | 📚 Debunk |
+| **habit-identity** | 習慣和身份 | 🧠 Connection |
+| **habit-environment** | 習慣環境 | 🛠️ Design |
+| **habit-friction** | 習慣摩擦 | 🛠️ Reduction |
+| **habit-cue** | 習慣線索 | 🛠️ Design |
+| **habit-reward** | 習慣獎勵 | 🛠️ Design |
+| **habit-tracking** | 習慣追蹤 | 🛠️ Tool |
+| **habit-streak** | 習慣連勝 | 🛠️ Motivation |
+| **habit-miss** | 錯過習慣 | 🛠️ Recovery |
+| **habit-restart** | 習慣重啟 | 🛠️ Process |
+| **habit-compound** | 複合習慣 | 💡 Philosophy |
+| **habit-patience** | 習慣耐心 | 🧠 Practice |
+| **habit-celebration** | 習慣慶祝 | 🛠️ Practice |
+
+## 209. Rebuilding After Failure 🔄
+
+*失敗後重建*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **rebuild-basics** | 重建基礎 | 📚 Understanding |
+| **rebuild-process** | 重建過程 | 🛠️ Framework |
+| **rebuild-emotions** | 重建情緒 | 🧠 Processing |
+| **rebuild-assessment** | 重建評估 | 🛠️ Step |
+| **rebuild-learning** | 重建學習 | 🛠️ Step |
+| **rebuild-planning** | 重建規劃 | 🛠️ Step |
+| **rebuild-action** | 重建行動 | 🛠️ Step |
+| **rebuild-support** | 重建支持 | 🛠️ Resources |
+| **rebuild-career** | 職涯重建 | 🛠️ Application |
+| **rebuild-relationship** | 關係重建 | 🧠 Application |
+| **rebuild-business** | 事業重建 | 🛠️ Application |
+| **rebuild-health** | 健康重建 | 🛠️ Application |
+| **rebuild-identity** | 身份重建 | 🧠 Process |
+| **rebuild-patience** | 重建耐心 | 🧠 Practice |
+| **rebuild-growth** | 重建成長 | 💡 Philosophy |
+
+## 210. Embracing Change 🦋
+
+*擁抱改變*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **change-basics** | 改變基礎 | 📚 Understanding |
+| **change-psychology** | 改變心理學 | 📚 Science |
+| **change-resistance** | 改變抗拒 | 🧠 Understanding |
+| **change-acceptance** | 改變接受 | 🧠 Process |
+| **change-embrace** | 擁抱改變 | 🛠️ Practice |
+| **change-techniques** | 改變技巧 | 🛠️ List |
+| **change-reframe** | 改變重構 | 🧠 Technique |
+| **change-opportunities** | 改變機會 | 💡 Reframe |
+| **change-control** | 改變和控制 | 🧠 Release |
+| **change-grief** | 改變悲傷 | 🧠 Processing |
+| **change-excitement** | 改變興奮 | 🧠 Cultivation |
+| **change-support** | 改變支持 | 🛠️ Resources |
+| **change-self-care** | 改變自我照顧 | 🛠️ Practice |
+| **change-growth** | 改變成長 | 💡 Philosophy |
+| **change-mastery** | 改變精通 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
