@@ -5989,6 +5989,120 @@ Agent 應該：
 
 ---
 
+# SPECIALIZED DOMAIN CATEGORIES
+
+## 251. Parenting Basics 👶
+
+*育兒基礎*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **parenting-basics** | 育兒基礎 | 📚 Understanding |
+| **parenting-styles** | 育兒風格 | 📚 Framework |
+| **parenting-values** | 育兒價值觀 | 🛠️ Foundation |
+| **parenting-communication** | 育兒溝通 | 🛠️ Skill |
+| **parenting-discipline** | 育兒紀律 | 🛠️ Approach |
+| **parenting-boundaries** | 育兒邊界 | 🛠️ Setting |
+| **parenting-self-care** | 父母自我照顧 | 🛠️ Practice |
+| **parenting-partner** | 與伴侶共同育兒 | 🛠️ Navigation |
+| **parenting-solo** | 單親育兒 | 🛠️ Navigation |
+| **parenting-mistakes** | 育兒錯誤 | 🧠 Recovery |
+| **parenting-guilt** | 育兒罪惡感 | 🧠 Processing |
+| **parenting-patience** | 育兒耐心 | 🛠️ Practice |
+| **parenting-joy** | 育兒喜悅 | 💡 Cultivation |
+| **parenting-growth** | 育兒成長 | 💡 Philosophy |
+| **good-enough-parenting** | 夠好的育兒 | 💡 Permission |
+
+## 252. Caring for Aging Parents 👵
+
+*照顧年邁父母*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **aging-parents-basics** | 照顧年邁父母基礎 | 📚 Understanding |
+| **aging-parents-conversations** | 和年邁父母對話 | 🛠️ Technique |
+| **aging-parents-roles** | 角色轉變 | 🧠 Navigation |
+| **aging-parents-decisions** | 照顧決策 | 🛠️ Framework |
+| **aging-parents-boundaries** | 照顧邊界 | 🛠️ Setting |
+| **aging-parents-siblings** | 和兄弟姊妹協調 | 🛠️ Navigation |
+| **aging-parents-distance** | 遠距離照顧 | 🛠️ Navigation |
+| **aging-parents-health** | 健康管理 | 🛠️ Practice |
+| **aging-parents-finances** | 財務管理 | 🛠️ Practice |
+| **aging-parents-grief** | 預期性悲傷 | 🧠 Processing |
+| **aging-parents-guilt** | 照顧罪惡感 | 🧠 Processing |
+| **aging-parents-burnout** | 照顧者倦怠 | 🧠 Prevention |
+| **aging-parents-support** | 照顧支持 | 🛠️ Resources |
+| **aging-parents-relationship** | 和年邁父母的關係 | 🧠 Navigation |
+| **aging-parents-meaning** | 照顧的意義 | 💡 Philosophy |
+
+## 253. Managing Chronic Illness 🏥
+
+*管理慢性病*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **chronic-illness-basics** | 慢性病基礎 | 📚 Understanding |
+| **chronic-illness-diagnosis** | 慢性病診斷 | 🧠 Processing |
+| **chronic-illness-management** | 慢性病管理 | 🛠️ Framework |
+| **chronic-illness-treatment** | 慢性病治療 | 🛠️ Navigation |
+| **chronic-illness-doctors** | 和醫生溝通 | 🛠️ Technique |
+| **chronic-illness-self-care** | 慢性病自我照顧 | 🛠️ Practice |
+| **chronic-illness-energy** | 慢性病能量管理 | 🛠️ Practice |
+| **chronic-illness-work** | 慢性病和工作 | 🛠️ Navigation |
+| **chronic-illness-relationships** | 慢性病和關係 | 🛠️ Navigation |
+| **chronic-illness-identity** | 慢性病和身份 | 🧠 Navigation |
+| **chronic-illness-grief** | 慢性病悲傷 | 🧠 Processing |
+| **chronic-illness-acceptance** | 慢性病接納 | 🧠 Process |
+| **chronic-illness-support** | 慢性病支持 | 🛠️ Resources |
+| **chronic-illness-advocacy** | 慢性病倡議 | 🛠️ Practice |
+| **chronic-illness-meaning** | 慢性病意義 | 💡 Philosophy |
+
+## 254. Navigating Divorce 💔
+
+*經歷離婚*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **divorce-basics** | 離婚基礎 | 📚 Understanding |
+| **divorce-decision** | 離婚決策 | 🧠 Process |
+| **divorce-process** | 離婚過程 | 🛠️ Navigation |
+| **divorce-emotions** | 離婚情緒 | 🧠 Processing |
+| **divorce-grief** | 離婚悲傷 | 🧠 Processing |
+| **divorce-communication** | 離婚溝通 | 🛠️ Technique |
+| **divorce-children** | 離婚和孩子 | 🛠️ Navigation |
+| **divorce-finances** | 離婚財務 | 🛠️ Navigation |
+| **divorce-support** | 離婚支持 | 🛠️ Resources |
+| **divorce-identity** | 離婚後身份 | 🧠 Rebuilding |
+| **divorce-co-parenting** | 離婚後共同育兒 | 🛠️ Navigation |
+| **divorce-dating** | 離婚後約會 | 🛠️ Navigation |
+| **divorce-healing** | 離婚療癒 | 🧠 Process |
+| **divorce-growth** | 離婚成長 | 💡 Philosophy |
+| **post-divorce-life** | 離婚後的人生 | 💡 Building |
+
+## 255. Starting Over After 40 🔄
+
+*40 歲後重新開始*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **starting-over-40-basics** | 40 歲後重新開始基礎 | 📚 Understanding |
+| **starting-over-40-mindset** | 40 歲後心態 | 🧠 Framework |
+| **starting-over-40-career** | 40 歲後職涯 | 🛠️ Application |
+| **starting-over-40-relationships** | 40 歲後關係 | 🛠️ Application |
+| **starting-over-40-health** | 40 歲後健康 | 🛠️ Application |
+| **starting-over-40-finances** | 40 歲後財務 | 🛠️ Application |
+| **starting-over-40-learning** | 40 歲後學習 | 🛠️ Practice |
+| **starting-over-40-identity** | 40 歲後身份 | 🧠 Navigation |
+| **starting-over-40-fear** | 40 歲後恐懼 | 🧠 Processing |
+| **starting-over-40-comparison** | 40 歲後比較 | 🧠 Navigation |
+| **starting-over-40-advantages** | 40 歲後優勢 | 💡 Reframe |
+| **starting-over-40-support** | 40 歲後支持 | 🛠️ Resources |
+| **starting-over-40-patience** | 40 歲後耐心 | 🧠 Practice |
+| **starting-over-40-examples** | 40 歲後榜樣 | 💡 Inspiration |
+| **midlife-reinvention** | 中年重塑 | 💡 Philosophy |
+
+---
+
 # QUALITY FILTERS
 
 Before suggesting, ask:
