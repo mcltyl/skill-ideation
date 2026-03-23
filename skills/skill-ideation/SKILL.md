@@ -8969,6 +8969,116 @@ Agent 應該：
 | **social-media-ethics** | 社群媒體道德 | 🛠️ Practice |
 | **social-media-master** | 社群媒體大師 | 💡 Goal |
 
+## 386. SEO and Discoverability 🔍
+
+*SEO 和可發現性*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **seo-basics** | SEO 基礎 | 📚 Understanding |
+| **seo-keywords** | SEO 關鍵字 | 🛠️ Research |
+| **seo-content** | SEO 內容 | 🛠️ Practice |
+| **seo-technical** | SEO 技術 | 🛠️ Practice |
+| **seo-links** | SEO 連結 | 🛠️ Building |
+| **seo-local** | 本地 SEO | 🛠️ Practice |
+| **seo-analytics** | SEO 分析 | 🛠️ Practice |
+| **seo-tools** | SEO 工具 | 🛠️ Selection |
+| **seo-daily** | 日常 SEO | 🛠️ Practice |
+| **seo-meaning** | SEO 意義 | 💡 Connection |
+| **seo-growth** | SEO 成長 | 💡 Continuous |
+| **seo-trends** | SEO 趨勢 | 🛠️ Tracking |
+| **seo-ethics** | SEO 道德 | 🛠️ Practice |
+| **discoverability** | 可發現性 | 🛠️ Strategy |
+| **seo-master** | SEO 大師 | 💡 Goal |
+
+## 387. Public Relations 📰
+
+*公共關係*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **pr-basics** | 公共關係基礎 | 📚 Understanding |
+| **pr-strategy** | 公共關係策略 | 🛠️ Planning |
+| **pr-storytelling** | 公共關係說故事 | 🛠️ Practice |
+| **pr-media-relations** | 媒體關係 | 🛠️ Building |
+| **pr-press-release** | 新聞稿 | 🛠️ Writing |
+| **pr-pitching** | 公共關係提案 | 🛠️ Practice |
+| **pr-interviews** | 公共關係訪談 | 🛠️ Practice |
+| **pr-crisis** | 公共關係危機 | 🛠️ Management |
+| **pr-measurement** | 公共關係測量 | 🛠️ Practice |
+| **pr-daily** | 日常公共關係 | 🛠️ Practice |
+| **pr-meaning** | 公共關係意義 | 💡 Connection |
+| **pr-growth** | 公共關係成長 | 💡 Continuous |
+| **pr-tools** | 公共關係工具 | 🛠️ Selection |
+| **pr-ethics** | 公共關係道德 | 🛠️ Practice |
+| **pr-master** | 公共關係大師 | 💡 Goal |
+
+## 388. Video Production 🎬
+
+*影片製作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **video-production-basics** | 影片製作基礎 | 📚 Understanding |
+| **video-planning** | 影片規劃 | 🛠️ Process |
+| **video-scripting** | 影片腳本 | 🛠️ Writing |
+| **video-filming** | 影片拍攝 | 🛠️ Practice |
+| **video-lighting** | 影片燈光 | 🛠️ Practice |
+| **video-audio** | 影片音頻 | 🛠️ Practice |
+| **video-editing** | 影片剪輯 | 🛠️ Practice |
+| **video-graphics** | 影片圖形 | 🛠️ Practice |
+| **video-distribution** | 影片發布 | 🛠️ Practice |
+| **video-daily** | 日常影片製作 | 🛠️ Practice |
+| **video-meaning** | 影片製作意義 | 💡 Connection |
+| **video-growth** | 影片製作成長 | 💡 Continuous |
+| **video-tools** | 影片製作工具 | 🛠️ Selection |
+| **video-equipment** | 影片製作設備 | 🛠️ Selection |
+| **video-master** | 影片製作大師 | 💡 Goal |
+
+## 389. Podcasting 🎙️
+
+*播客*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **podcasting-basics** | 播客基礎 | 📚 Understanding |
+| **podcasting-concept** | 播客概念 | 🛠️ Development |
+| **podcasting-format** | 播客格式 | 🛠️ Selection |
+| **podcasting-recording** | 播客錄音 | 🛠️ Practice |
+| **podcasting-editing** | 播客剪輯 | 🛠️ Practice |
+| **podcasting-hosting** | 播客託管 | 🛠️ Selection |
+| **podcasting-distribution** | 播客發布 | 🛠️ Practice |
+| **podcasting-guests** | 播客來賓 | 🛠️ Booking |
+| **podcasting-promotion** | 播客推廣 | 🛠️ Practice |
+| **podcasting-daily** | 日常播客 | 🛠️ Practice |
+| **podcasting-meaning** | 播客意義 | 💡 Connection |
+| **podcasting-growth** | 播客成長 | 💡 Continuous |
+| **podcasting-tools** | 播客工具 | 🛠️ Selection |
+| **podcasting-monetization** | 播客變現 | 🛠️ Strategy |
+| **podcast-master** | 播客大師 | 💡 Goal |
+
+## 390. Event Planning 🎉
+
+*活動規劃*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **event-planning-basics** | 活動規劃基礎 | 📚 Understanding |
+| **event-concept** | 活動概念 | 🛠️ Development |
+| **event-budget** | 活動預算 | 🛠️ Planning |
+| **event-venue** | 活動場地 | 🛠️ Selection |
+| **event-logistics** | 活動後勤 | 🛠️ Management |
+| **event-promotion** | 活動推廣 | 🛠️ Practice |
+| **event-registration** | 活動報名 | 🛠️ Management |
+| **event-program** | 活動議程 | 🛠️ Design |
+| **event-execution** | 活動執行 | 🛠️ Practice |
+| **event-virtual** | 線上活動 | 🛠️ Adaptation |
+| **event-daily** | 日常活動規劃 | 🛠️ Practice |
+| **event-meaning** | 活動規劃意義 | 💡 Connection |
+| **event-growth** | 活動規劃成長 | 💡 Continuous |
+| **event-tools** | 活動規劃工具 | 🛠️ Selection |
+| **event-master** | 活動規劃大師 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
