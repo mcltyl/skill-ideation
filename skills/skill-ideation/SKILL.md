@@ -11071,6 +11071,446 @@ Agent 應該：
 | **operations-scaling** | 營運管理規模 | 🛠️ Practice |
 | **operations-expert** | 營運管理專家 | 💡 Goal |
 
+## 481. Project Management 📋
+
+*專案管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **project-management-basics** | 專案管理基礎 | 📚 Understanding |
+| **project-management-planning** | 專案管理規劃 | 🛠️ Practice |
+| **project-management-scope** | 專案管理範圍 | 🛠️ Definition |
+| **project-management-schedule** | 專案管理時程 | 🛠️ Management |
+| **project-management-budget** | 專案管理預算 | 🛠️ Management |
+| **project-management-team** | 專案管理團隊 | 🛠️ Leadership |
+| **project-management-daily** | 日常專案管理 | 🛠️ Practice |
+| **project-management-meaning** | 專案管理意義 | 💡 Connection |
+| **project-management-growth** | 專案管理成長 | 💡 Continuous |
+| **project-management-risk** | 專案管理風險 | 🛠️ Management |
+| **project-management-communication** | 專案管理溝通 | 🛠️ Practice |
+| **project-management-tools** | 專案管理工具 | 🛠️ Selection |
+| **project-management-joy** | 專案管理喜悅 | 💡 Finding |
+| **project-management-certification** | 專案管理認證 | 🛠️ Goal |
+| **project-manager** | 專案經理 | 💡 Goal |
+
+## 482. Product Management 📦
+
+*產品管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **product-management-basics** | 產品管理基礎 | 📚 Understanding |
+| **product-management-discovery** | 產品管理發現 | 🛠️ Practice |
+| **product-management-strategy** | 產品管理策略 | 🛠️ Development |
+| **product-management-roadmap** | 產品管理路線圖 | 🛠️ Planning |
+| **product-management-prioritization** | 產品管理優先 | 🛠️ Practice |
+| **product-management-stakeholders** | 產品管理利害關係人 | 🛠️ Management |
+| **product-management-daily** | 日常產品管理 | 🛠️ Practice |
+| **product-management-meaning** | 產品管理意義 | 💡 Connection |
+| **product-management-growth** | 產品管理成長 | 💡 Continuous |
+| **product-management-metrics** | 產品管理指標 | 🛠️ Tracking |
+| **product-management-user-research** | 產品管理用戶研究 | 🛠️ Practice |
+| **product-management-tools** | 產品管理工具 | 🛠️ Selection |
+| **product-management-joy** | 產品管理喜悅 | 💡 Finding |
+| **product-management-leadership** | 產品管理領導 | 🛠️ Development |
+| **product-manager** | 產品經理 | 💡 Goal |
+
+## 483. People Management 👥
+
+*人員管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **people-management-basics** | 人員管理基礎 | 📚 Understanding |
+| **people-management-hiring** | 人員管理招聘 | 🛠️ Practice |
+| **people-management-onboarding** | 人員管理入職 | 🛠️ Practice |
+| **people-management-development** | 人員管理發展 | 🛠️ Practice |
+| **people-management-feedback** | 人員管理回饋 | 🛠️ Practice |
+| **people-management-motivation** | 人員管理動機 | 🛠️ Practice |
+| **people-management-daily** | 日常人員管理 | 🛠️ Practice |
+| **people-management-meaning** | 人員管理意義 | 💡 Connection |
+| **people-management-growth** | 人員管理成長 | 💡 Continuous |
+| **people-management-difficult** | 人員管理困難 | 🛠️ Handling |
+| **people-management-remote** | 人員管理遠距 | 🛠️ Practice |
+| **people-management-tools** | 人員管理工具 | 🛠️ Selection |
+| **people-management-joy** | 人員管理喜悅 | 💡 Finding |
+| **people-management-culture** | 人員管理文化 | 🛠️ Building |
+| **people-leader** | 人員領導者 | 💡 Goal |
+
+## 484. Financial Management 💵
+
+*財務管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **financial-management-basics** | 財務管理基礎 | 📚 Understanding |
+| **financial-management-statements** | 財務管理報表 | 🛠️ Reading |
+| **financial-management-budgeting** | 財務管理預算 | 🛠️ Practice |
+| **financial-management-cash-flow** | 財務管理現金流 | 🛠️ Management |
+| **financial-management-forecasting** | 財務管理預測 | 🛠️ Practice |
+| **financial-management-analysis** | 財務管理分析 | 🛠️ Practice |
+| **financial-management-daily** | 日常財務管理 | 🛠️ Practice |
+| **financial-management-meaning** | 財務管理意義 | 💡 Connection |
+| **financial-management-growth** | 財務管理成長 | 💡 Continuous |
+| **financial-management-reporting** | 財務管理報告 | 🛠️ Practice |
+| **financial-management-compliance** | 財務管理合規 | 🛠️ Practice |
+| **financial-management-tools** | 財務管理工具 | 🛠️ Selection |
+| **financial-management-joy** | 財務管理喜悅 | 💡 Finding |
+| **financial-management-strategy** | 財務管理策略 | 🛠️ Development |
+| **financial-manager** | 財務經理 | 💡 Goal |
+
+## 485. Legal Basics 📜
+
+*法律基礎*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **legal-basics** | 法律基礎 | 📚 Understanding |
+| **legal-contracts** | 法律合約 | 🛠️ Understanding |
+| **legal-intellectual-property** | 法律智慧財產 | 🛠️ Understanding |
+| **legal-business-structure** | 法律公司架構 | 🛠️ Understanding |
+| **legal-employment** | 法律僱傭 | 🛠️ Understanding |
+| **legal-compliance** | 法律合規 | 🛠️ Practice |
+| **legal-daily** | 日常法律 | 🛠️ Practice |
+| **legal-meaning** | 法律意義 | 💡 Connection |
+| **legal-growth** | 法律成長 | 💡 Continuous |
+| **legal-resources** | 法律資源 | 🛠️ Finding |
+| **legal-when-to-hire** | 法律何時聘請 | 🛠️ Decision |
+| **legal-tools** | 法律工具 | 🛠️ Selection |
+| **legal-joy** | 法律喜悅 | 💡 Finding |
+| **legal-prevention** | 法律預防 | 🛠️ Practice |
+| **legally-savvy** | 法律精明 | 💡 Goal |
+
+## 486. Investor Relations 📈
+
+*投資者關係*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **investor-relations-basics** | 投資者關係基礎 | 📚 Understanding |
+| **investor-relations-pitch** | 投資者關係簡報 | 🛠️ Practice |
+| **investor-relations-deck** | 投資者關係投影片 | 🛠️ Building |
+| **investor-relations-financials** | 投資者關係財務 | 🛠️ Preparation |
+| **investor-relations-negotiation** | 投資者關係談判 | 🛠️ Practice |
+| **investor-relations-communication** | 投資者關係溝通 | 🛠️ Practice |
+| **investor-relations-daily** | 日常投資者關係 | 🛠️ Practice |
+| **investor-relations-meaning** | 投資者關係意義 | 💡 Connection |
+| **investor-relations-growth** | 投資者關係成長 | 💡 Continuous |
+| **investor-relations-reporting** | 投資者關係報告 | 🛠️ Practice |
+| **investor-relations-network** | 投資者關係人脈 | 🛠️ Building |
+| **investor-relations-tools** | 投資者關係工具 | 🛠️ Selection |
+| **investor-relations-joy** | 投資者關係喜悅 | 💡 Finding |
+| **investor-relations-trust** | 投資者關係信任 | 🛠️ Building |
+| **investor-ready** | 投資者就緒 | 💡 Goal |
+
+## 487. Partnerships and Alliances 🤝
+
+*合作夥伴和聯盟*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **partnerships-basics** | 合作夥伴基礎 | 📚 Understanding |
+| **partnerships-identification** | 合作夥伴識別 | 🛠️ Process |
+| **partnerships-approach** | 合作夥伴接觸 | 🛠️ Practice |
+| **partnerships-negotiation** | 合作夥伴談判 | 🛠️ Practice |
+| **partnerships-structure** | 合作夥伴架構 | 🛠️ Design |
+| **partnerships-management** | 合作夥伴管理 | 🛠️ Practice |
+| **partnerships-daily** | 日常合作夥伴 | 🛠️ Practice |
+| **partnerships-meaning** | 合作夥伴意義 | 💡 Connection |
+| **partnerships-growth** | 合作夥伴成長 | 💡 Continuous |
+| **partnerships-metrics** | 合作夥伴指標 | 🛠️ Tracking |
+| **partnerships-communication** | 合作夥伴溝通 | 🛠️ Practice |
+| **partnerships-tools** | 合作夥伴工具 | 🛠️ Selection |
+| **partnerships-joy** | 合作夥伴喜悅 | 💡 Finding |
+| **partnerships-trust** | 合作夥伴信任 | 🛠️ Building |
+| **partnership-builder** | 合作夥伴建立者 | 💡 Goal |
+
+## 488. E-commerce 🛒
+
+*電子商務*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **ecommerce-basics** | 電子商務基礎 | 📚 Understanding |
+| **ecommerce-platform** | 電子商務平台 | 🛠️ Selection |
+| **ecommerce-products** | 電子商務產品 | 🛠️ Selection |
+| **ecommerce-pricing** | 電子商務定價 | 🛠️ Strategy |
+| **ecommerce-marketing** | 電子商務行銷 | 🛠️ Practice |
+| **ecommerce-fulfillment** | 電子商務履行 | 🛠️ Practice |
+| **ecommerce-daily** | 日常電子商務 | 🛠️ Practice |
+| **ecommerce-meaning** | 電子商務意義 | 💡 Connection |
+| **ecommerce-growth** | 電子商務成長 | 🛠️ Strategy |
+| **ecommerce-analytics** | 電子商務分析 | 🛠️ Practice |
+| **ecommerce-customer-service** | 電子商務客服 | 🛠️ Practice |
+| **ecommerce-tools** | 電子商務工具 | 🛠️ Selection |
+| **ecommerce-joy** | 電子商務喜悅 | 💡 Finding |
+| **ecommerce-scaling** | 電子商務規模 | 🛠️ Practice |
+| **ecommerce-entrepreneur** | 電子商務創業家 | 💡 Goal |
+
+## 489. SaaS Business 💻
+
+*SaaS 業務*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **saas-basics** | SaaS 基礎 | 📚 Understanding |
+| **saas-model** | SaaS 模式 | 📚 Understanding |
+| **saas-product** | SaaS 產品 | 🛠️ Development |
+| **saas-pricing** | SaaS 定價 | 🛠️ Strategy |
+| **saas-acquisition** | SaaS 獲客 | 🛠️ Practice |
+| **saas-retention** | SaaS 留存 | 🛠️ Practice |
+| **saas-daily** | 日常 SaaS | 🛠️ Practice |
+| **saas-meaning** | SaaS 意義 | 💡 Connection |
+| **saas-growth** | SaaS 成長 | 🛠️ Strategy |
+| **saas-metrics** | SaaS 指標 | 🛠️ Tracking |
+| **saas-churn** | SaaS 流失 | 🛠️ Reduction |
+| **saas-tools** | SaaS 工具 | 🛠️ Selection |
+| **saas-joy** | SaaS 喜悅 | 💡 Finding |
+| **saas-scaling** | SaaS 規模 | 🛠️ Practice |
+| **saas-founder** | SaaS 創辦人 | 💡 Goal |
+
+## 490. Creator Economy 🎬
+
+*創作者經濟*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **creator-economy-basics** | 創作者經濟基礎 | 📚 Understanding |
+| **creator-economy-niche** | 創作者經濟利基 | 🛠️ Selection |
+| **creator-economy-content** | 創作者經濟內容 | 🛠️ Creation |
+| **creator-economy-audience** | 創作者經濟受眾 | 🛠️ Building |
+| **creator-economy-monetization** | 創作者經濟變現 | 🛠️ Strategy |
+| **creator-economy-platforms** | 創作者經濟平台 | 🛠️ Selection |
+| **creator-economy-daily** | 日常創作者經濟 | 🛠️ Practice |
+| **creator-economy-meaning** | 創作者經濟意義 | 💡 Connection |
+| **creator-economy-growth** | 創作者經濟成長 | 💡 Continuous |
+| **creator-economy-community** | 創作者經濟社群 | 🛠️ Building |
+| **creator-economy-sustainability** | 創作者經濟永續 | 🛠️ Practice |
+| **creator-economy-tools** | 創作者經濟工具 | 🛠️ Selection |
+| **creator-economy-joy** | 創作者經濟喜悅 | 💡 Finding |
+| **creator-economy-balance** | 創作者經濟平衡 | 💡 Balance |
+| **successful-creator** | 成功的創作者 | 💡 Goal |
+
+## 491. Passive Income 💸
+
+*被動收入*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **passive-income-basics** | 被動收入基礎 | 📚 Understanding |
+| **passive-income-types** | 被動收入類型 | 📚 Framework |
+| **passive-income-selection** | 被動收入選擇 | 🛠️ Decision |
+| **passive-income-building** | 被動收入建立 | 🛠️ Practice |
+| **passive-income-automation** | 被動收入自動化 | 🛠️ Practice |
+| **passive-income-maintenance** | 被動收入維護 | 🛠️ Practice |
+| **passive-income-daily** | 日常被動收入 | 🛠️ Practice |
+| **passive-income-meaning** | 被動收入意義 | 💡 Connection |
+| **passive-income-growth** | 被動收入成長 | 💡 Continuous |
+| **passive-income-diversification** | 被動收入多元化 | 🛠️ Strategy |
+| **passive-income-realistic** | 被動收入現實 | 🧠 Expectations |
+| **passive-income-tools** | 被動收入工具 | 🛠️ Selection |
+| **passive-income-joy** | 被動收入喜悅 | 💡 Finding |
+| **passive-income-patience** | 被動收入耐心 | 🧠 Practice |
+| **income-freedom** | 收入自由 | 💡 Goal |
+
+## 492. Real Estate Basics 🏠
+
+*房地產基礎*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **real-estate-basics** | 房地產基礎 | 📚 Understanding |
+| **real-estate-types** | 房地產類型 | 📚 Framework |
+| **real-estate-research** | 房地產研究 | 🛠️ Practice |
+| **real-estate-financing** | 房地產融資 | 🛠️ Understanding |
+| **real-estate-analysis** | 房地產分析 | 🛠️ Practice |
+| **real-estate-buying** | 房地產購買 | 🛠️ Process |
+| **real-estate-daily** | 日常房地產 | 🛠️ Practice |
+| **real-estate-meaning** | 房地產意義 | 💡 Connection |
+| **real-estate-growth** | 房地產成長 | 💡 Continuous |
+| **real-estate-management** | 房地產管理 | 🛠️ Practice |
+| **real-estate-investing** | 房地產投資 | 🛠️ Practice |
+| **real-estate-tools** | 房地產工具 | 🛠️ Selection |
+| **real-estate-joy** | 房地產喜悅 | 💡 Finding |
+| **real-estate-network** | 房地產人脈 | 🛠️ Building |
+| **real-estate-investor** | 房地產投資者 | 💡 Goal |
+
+## 493. Stock Market Investing 📊
+
+*股票市場投資*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **stock-investing-basics** | 股票投資基礎 | 📚 Understanding |
+| **stock-investing-research** | 股票投資研究 | 🛠️ Practice |
+| **stock-investing-analysis** | 股票投資分析 | 🛠️ Practice |
+| **stock-investing-strategy** | 股票投資策略 | 🛠️ Development |
+| **stock-investing-portfolio** | 股票投資組合 | 🛠️ Building |
+| **stock-investing-risk** | 股票投資風險 | 🛠️ Management |
+| **stock-investing-daily** | 日常股票投資 | 🛠️ Practice |
+| **stock-investing-meaning** | 股票投資意義 | 💡 Connection |
+| **stock-investing-growth** | 股票投資成長 | 💡 Continuous |
+| **stock-investing-psychology** | 股票投資心理 | 🧠 Management |
+| **stock-investing-tools** | 股票投資工具 | 🛠️ Selection |
+| **stock-investing-mistakes** | 股票投資錯誤 | 🧠 Avoidance |
+| **stock-investing-joy** | 股票投資喜悅 | 💡 Finding |
+| **stock-investing-patience** | 股票投資耐心 | 🧠 Practice |
+| **stock-investor** | 股票投資者 | 💡 Goal |
+
+## 494. Crypto and Blockchain 🔗
+
+*加密貨幣和區塊鏈*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **crypto-basics** | 加密貨幣基礎 | 📚 Understanding |
+| **crypto-blockchain** | 區塊鏈基礎 | 📚 Understanding |
+| **crypto-wallets** | 加密貨幣錢包 | 🛠️ Selection |
+| **crypto-security** | 加密貨幣安全 | 🛠️ Practice |
+| **crypto-investing** | 加密貨幣投資 | 🛠️ Practice |
+| **crypto-defi** | 加密貨幣 DeFi | 🛠️ Understanding |
+| **crypto-daily** | 日常加密貨幣 | 🛠️ Practice |
+| **crypto-meaning** | 加密貨幣意義 | 💡 Connection |
+| **crypto-growth** | 加密貨幣成長 | 💡 Continuous |
+| **crypto-risk** | 加密貨幣風險 | 🛠️ Management |
+| **crypto-taxes** | 加密貨幣稅務 | 🛠️ Understanding |
+| **crypto-tools** | 加密貨幣工具 | 🛠️ Selection |
+| **crypto-joy** | 加密貨幣喜悅 | 💡 Finding |
+| **crypto-trends** | 加密貨幣趨勢 | 🛠️ Tracking |
+| **crypto-savvy** | 加密貨幣精明 | 💡 Goal |
+
+## 495. Retirement Planning 🏖️
+
+*退休規劃*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **retirement-basics** | 退休規劃基礎 | 📚 Understanding |
+| **retirement-goals** | 退休規劃目標 | 🛠️ Setting |
+| **retirement-timeline** | 退休規劃時間表 | 🛠️ Planning |
+| **retirement-savings** | 退休規劃儲蓄 | 🛠️ Practice |
+| **retirement-investing** | 退休規劃投資 | 🛠️ Practice |
+| **retirement-accounts** | 退休規劃帳戶 | 🛠️ Selection |
+| **retirement-daily** | 日常退休規劃 | 🛠️ Practice |
+| **retirement-meaning** | 退休規劃意義 | 💡 Connection |
+| **retirement-growth** | 退休規劃成長 | 💡 Continuous |
+| **retirement-lifestyle** | 退休規劃生活 | 🛠️ Design |
+| **retirement-healthcare** | 退休規劃醫療 | 🛠️ Planning |
+| **retirement-tools** | 退休規劃工具 | 🛠️ Selection |
+| **retirement-joy** | 退休規劃喜悅 | 💡 Finding |
+| **retirement-flexibility** | 退休規劃彈性 | 💡 Balance |
+| **retirement-ready** | 退休就緒 | 💡 Goal |
+
+## 496. Tax Planning 📋
+
+*稅務規劃*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **tax-planning-basics** | 稅務規劃基礎 | 📚 Understanding |
+| **tax-planning-income** | 稅務規劃收入 | 🛠️ Understanding |
+| **tax-planning-deductions** | 稅務規劃扣除 | 🛠️ Understanding |
+| **tax-planning-strategies** | 稅務規劃策略 | 🛠️ Practice |
+| **tax-planning-records** | 稅務規劃記錄 | 🛠️ Practice |
+| **tax-planning-filing** | 稅務規劃申報 | 🛠️ Practice |
+| **tax-planning-daily** | 日常稅務規劃 | 🛠️ Practice |
+| **tax-planning-meaning** | 稅務規劃意義 | 💡 Connection |
+| **tax-planning-growth** | 稅務規劃成長 | 💡 Continuous |
+| **tax-planning-professional** | 稅務規劃專業人士 | 🛠️ When to hire |
+| **tax-planning-business** | 稅務規劃企業 | 🛠️ Understanding |
+| **tax-planning-tools** | 稅務規劃工具 | 🛠️ Selection |
+| **tax-planning-joy** | 稅務規劃喜悅 | 💡 Finding |
+| **tax-planning-year-round** | 稅務規劃全年 | 🛠️ Practice |
+| **tax-savvy** | 稅務精明 | 💡 Goal |
+
+## 497. Insurance Planning 🛡️
+
+*保險規劃*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **insurance-basics** | 保險規劃基礎 | 📚 Understanding |
+| **insurance-types** | 保險規劃類型 | 📚 Framework |
+| **insurance-needs** | 保險規劃需求 | 🛠️ Assessment |
+| **insurance-selection** | 保險規劃選擇 | 🛠️ Practice |
+| **insurance-comparison** | 保險規劃比較 | 🛠️ Practice |
+| **insurance-claims** | 保險規劃理賠 | 🛠️ Process |
+| **insurance-daily** | 日常保險規劃 | 🛠️ Practice |
+| **insurance-meaning** | 保險規劃意義 | 💡 Connection |
+| **insurance-growth** | 保險規劃成長 | 💡 Continuous |
+| **insurance-review** | 保險規劃審查 | 🛠️ Practice |
+| **insurance-life-changes** | 保險規劃生活變化 | 🛠️ Adjustment |
+| **insurance-tools** | 保險規劃工具 | 🛠️ Selection |
+| **insurance-joy** | 保險規劃喜悅 | 💡 Finding |
+| **insurance-balance** | 保險規劃平衡 | 💡 Balance |
+| **well-insured** | 完善保險 | 💡 Goal |
+
+## 498. Estate Planning 📜
+
+*遺產規劃*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **estate-planning-basics** | 遺產規劃基礎 | 📚 Understanding |
+| **estate-planning-will** | 遺產規劃遺囑 | 🛠️ Practice |
+| **estate-planning-trust** | 遺產規劃信託 | 🛠️ Understanding |
+| **estate-planning-beneficiaries** | 遺產規劃受益人 | 🛠️ Designation |
+| **estate-planning-power** | 遺產規劃授權 | 🛠️ Practice |
+| **estate-planning-healthcare** | 遺產規劃醫療 | 🛠️ Practice |
+| **estate-planning-daily** | 日常遺產規劃 | 🛠️ Practice |
+| **estate-planning-meaning** | 遺產規劃意義 | 💡 Connection |
+| **estate-planning-growth** | 遺產規劃成長 | 💡 Continuous |
+| **estate-planning-update** | 遺產規劃更新 | 🛠️ Practice |
+| **estate-planning-professional** | 遺產規劃專業人士 | 🛠️ When to hire |
+| **estate-planning-tools** | 遺產規劃工具 | 🛠️ Selection |
+| **estate-planning-joy** | 遺產規劃喜悅 | 💡 Finding |
+| **estate-planning-conversation** | 遺產規劃對話 | 🛠️ Practice |
+| **estate-ready** | 遺產就緒 | 💡 Goal |
+
+## 499. Wealth Building 💎
+
+*財富建立*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **wealth-building-basics** | 財富建立基礎 | 📚 Understanding |
+| **wealth-building-mindset** | 財富建立心態 | 🧠 Development |
+| **wealth-building-income** | 財富建立收入 | 🛠️ Increasing |
+| **wealth-building-saving** | 財富建立儲蓄 | 🛠️ Practice |
+| **wealth-building-investing** | 財富建立投資 | 🛠️ Practice |
+| **wealth-building-protection** | 財富建立保護 | 🛠️ Practice |
+| **wealth-building-daily** | 日常財富建立 | 🛠️ Practice |
+| **wealth-building-meaning** | 財富建立意義 | 💡 Connection |
+| **wealth-building-growth** | 財富建立成長 | 💡 Continuous |
+| **wealth-building-diversification** | 財富建立多元化 | 🛠️ Strategy |
+| **wealth-building-automation** | 財富建立自動化 | 🛠️ Practice |
+| **wealth-building-tools** | 財富建立工具 | 🛠️ Selection |
+| **wealth-building-joy** | 財富建立喜悅 | 💡 Finding |
+| **wealth-building-patience** | 財富建立耐心 | 🧠 Practice |
+| **wealth-builder** | 財富建立者 | 💡 Goal |
+
+## 500. Living Your Legacy 🌟
+
+*活出你的遺產*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **legacy-basics** | 遺產基礎 | 📚 Understanding |
+| **legacy-definition** | 遺產定義 | 🛠️ Practice |
+| **legacy-values** | 遺產價值觀 | 🛠️ Identification |
+| **legacy-impact** | 遺產影響 | 🛠️ Design |
+| **legacy-action** | 遺產行動 | 🛠️ Practice |
+| **legacy-relationships** | 遺產關係 | 🛠️ Building |
+| **legacy-daily** | 日常遺產 | 🛠️ Practice |
+| **legacy-meaning** | 遺產意義 | 💡 Connection |
+| **legacy-growth** | 遺產成長 | 💡 Continuous |
+| **legacy-stories** | 遺產故事 | 🛠️ Sharing |
+| **legacy-giving** | 遺產給予 | 🛠️ Practice |
+| **legacy-wisdom** | 遺產智慧 | 🛠️ Passing |
+| **legacy-joy** | 遺產喜悅 | 💡 Finding |
+| **legacy-now** | 遺產現在 | 🛠️ Practice |
+| **living-legacy** | 活出遺產 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
