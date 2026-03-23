@@ -2325,6 +2325,116 @@ Agent 應該：
 | **money-mindset** | 金錢心態 | 🧠 Psychology |
 | **financial-independence** | 財務獨立 | 💡 Philosophy |
 
+## 86. Home & Living Space 🏠
+
+*居家和生活空間*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **home-organization** | 居家整理 | 🛠️ Practical |
+| **decluttering** | 斷捨離 | 🛠️ Process |
+| **cleaning-systems** | 清潔系統 | 🛠️ Practical |
+| **home-maintenance** | 居家維護 | 🛠️ Practical |
+| **space-optimization** | 空間優化 | 🛠️ Practical |
+| **moving-house** | 搬家 | 🛠️ Process |
+| **first-apartment** | 第一間公寓 | 🛠️ Practical |
+| **renting-tips** | 租屋技巧 | 🛠️ Practical |
+| **roommate-living** | 室友生活 | 🛠️ Navigation |
+| **home-office** | 居家辦公空間 | 🛠️ Setup |
+| **home-feeling** | 讓空間變家 | 💡 Philosophy |
+| **minimalist-home** | 極簡居家 | 🛠️ Style |
+| **sustainable-home** | 永續居家 | 🛠️ Practice |
+| **home-emergency** | 居家緊急情況 | 🛠️ Preparation |
+| **leaving-home** | 離開家 | 🧠 Transition |
+
+## 87. Cooking & Nutrition 🥗
+
+*烹飪和營養*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **cooking-basics** | 烹飪基礎 | 🛠️ Skills |
+| **meal-planning** | 餐食規劃 | 🛠️ System |
+| **grocery-shopping** | 買菜技巧 | 🛠️ Practical |
+| **kitchen-essentials** | 廚房必備 | 🛠️ Setup |
+| **cooking-for-one** | 一人烹飪 | 🛠️ Practical |
+| **batch-cooking** | 批量烹飪 | 🛠️ Technique |
+| **quick-meals** | 快速餐點 | 🛠️ Practical |
+| **nutrition-basics** | 營養基礎 | 📚 Education |
+| **eating-well-budget** | 省錢吃好 | 🛠️ Practical |
+| **food-waste** | 減少食物浪費 | 🛠️ Practice |
+| **dietary-restrictions** | 飲食限制應對 | 🛠️ Practical |
+| **intuitive-eating** | 直覺飲食 | 💡 Philosophy |
+| **mindful-eating** | 正念飲食 | 🛠️ Practice |
+| **cooking-confidence** | 烹飪信心 | 🧠 Mindset |
+| **food-as-self-care** | 食物作為自我照顧 | 💡 Reframe |
+
+## 88. Exercise & Movement 🏃
+
+*運動和動態*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **exercise-start** | 開始運動 | 🛠️ Beginner |
+| **exercise-habit** | 運動習慣 | 🛠️ Practice |
+| **exercise-types** | 運動種類 | 📚 Overview |
+| **finding-your-exercise** | 找到適合的運動 | 🛠️ Exploration |
+| **gym-anxiety** | 健身房焦慮 | 🧠 Psychology |
+| **home-workout** | 居家運動 | 🛠️ Practical |
+| **walking-power** | 走路的力量 | 💡 Appreciation |
+| **stretching** | 伸展 | 🛠️ Practice |
+| **strength-basics** | 力量訓練基礎 | 🛠️ Introduction |
+| **cardio-basics** | 有氧基礎 | 🛠️ Introduction |
+| **exercise-injury** | 運動傷害預防 | 🛠️ Prevention |
+| **rest-days** | 休息日 | 🛠️ Practice |
+| **exercise-motivation** | 運動動力 | 🧠 Psychology |
+| **exercise-guilt** | 運動罪惡感 | 🧠 Pattern |
+| **movement-over-exercise** | 動態 vs 運動 | 💡 Reframe |
+
+## 89. Nature & Outdoors 🌲
+
+*自然和戶外*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **nature-connection** | 自然連結 | 💡 Philosophy |
+| **nature-deficit** | 自然缺失症 | 🧠 Awareness |
+| **outdoor-activities** | 戶外活動入門 | 🛠️ Practical |
+| **hiking-basics** | 健行基礎 | 🛠️ Practical |
+| **camping-intro** | 露營入門 | 🛠️ Practical |
+| **urban-nature** | 都市自然 | 🛠️ Finding |
+| **forest-bathing** | 森林浴 | 🛠️ Practice |
+| **gardening-start** | 園藝入門 | 🛠️ Practical |
+| **plant-care** | 植物照顧 | 🛠️ Practical |
+| **weather-awareness** | 天氣意識 | 🛠️ Practical |
+| **outdoor-safety** | 戶外安全 | 🛠️ Practical |
+| **seasonal-living** | 季節生活 | 💡 Philosophy |
+| **nature-appreciation** | 自然欣賞 | 💡 Practice |
+| **solitude-nature** | 自然中的獨處 | 💡 Experience |
+| **eco-anxiety** | 生態焦慮 | 🧠 Psychology |
+
+## 90. Technology Use & Digital Wellness 📱
+
+*科技使用和數位健康*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **digital-wellness** | 數位健康 | 🛠️ Framework |
+| **screen-time-balance** | 螢幕時間平衡 | 🛠️ Practice |
+| **social-media-health** | 社群媒體健康 | 🛠️ Practice |
+| **tech-boundaries** | 科技邊界 | 🛠️ Framework |
+| **digital-sabbath** | 數位安息日 | 🛠️ Practice |
+| **tech-intentionality** | 有意識的科技使用 | 💡 Philosophy |
+| **notification-freedom** | 通知自由 | 🛠️ Practice |
+| **email-boundaries** | Email 邊界 | 🛠️ Practice |
+| **comparison-social-media** | 社群媒體比較 | 🧠 Awareness |
+| **fomo-management** | FOMO 管理 | 🧠 Technique |
+| **tech-for-wellbeing** | 促進健康的科技 | 🛠️ Selection |
+| **privacy-basics** | 隱私基礎 | 🛠️ Practical |
+| **digital-declutter** | 數位斷捨離 | 🛠️ Process |
+| **tech-addiction** | 科技成癮 | 🧠 Recognition |
+| **tech-balance-kids** | 孩子的科技平衡 | 🛠️ Parenting |
+
 ---
 
 # QUALITY FILTERS
