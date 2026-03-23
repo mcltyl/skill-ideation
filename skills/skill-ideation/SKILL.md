@@ -1985,6 +1985,116 @@ Agent 應該：
 | **acceptance** | 接納 | 💡 Philosophy |
 | **mindfulness-daily** | 日常正念 | 🛠️ Integration |
 
+## 71. Self-Care (Beyond Bubble Baths) 🛁
+
+*真正的自我照顧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **self-care-audit** | 自我照顧盤點 | 🛠️ Assessment |
+| **self-care-types** | 自我照顧的種類 | 📚 Framework |
+| **basic-needs** | 基本需求優先 | 🛠️ Foundation |
+| **self-care-guilt** | 自我照顧罪惡感 | 🧠 Psychology |
+| **self-care-vs-avoidance** | 自我照顧 vs 逃避 | 🧠 Distinction |
+| **sustainable-self-care** | 可持續的自我照顧 | 🛠️ Framework |
+| **self-care-budget** | 自我照顧預算 | 🛠️ Practical |
+| **emergency-self-care** | 緊急自我照顧 | 🛠️ Protocol |
+| **self-care-resistance** | 自我照顧抗拒 | 🧠 Pattern |
+| **self-care-schedule** | 自我照顧排程 | 🛠️ Practical |
+| **saying-no-self-care** | 說不作為自我照顧 | 💡 Reframe |
+| **rest-as-self-care** | 休息作為自我照顧 | 💡 Permission |
+| **social-self-care** | 社交自我照顧 | 🛠️ Practice |
+| **intellectual-self-care** | 智識自我照顧 | 🛠️ Practice |
+| **spiritual-self-care** | 靈性自我照顧 | 🛠️ Practice |
+
+## 72. Communication Styles 💬
+
+*溝通風格*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **communication-styles** | 溝通風格種類 | 📚 Framework |
+| **assertive-communication** | 自信溝通 | 🛠️ Technique |
+| **passive-communication** | 被動溝通 | 🧠 Pattern |
+| **aggressive-communication** | 攻擊溝通 | 🧠 Pattern |
+| **passive-aggressive** | 被動攻擊 | 🧠 Pattern |
+| **style-flexing** | 風格彈性 | 🛠️ Skill |
+| **direct-vs-indirect** | 直接 vs 間接 | 🌍 Culture |
+| **high-vs-low-context** | 高語境 vs 低語境 | 🌍 Culture |
+| **tone-awareness** | 語氣覺察 | 🧠 Awareness |
+| **nonverbal-communication** | 非語言溝通 | 📚 Understanding |
+| **written-vs-spoken** | 書面 vs 口語 | 🛠️ Adaptation |
+| **communication-mismatch** | 溝通不匹配 | 🧠 Diagnosis |
+| **overcommunication** | 過度溝通 | 🧠 Pattern |
+| **undercommunication** | 溝通不足 | 🧠 Pattern |
+| **meta-communication** | 元溝通 | 📚 Concept |
+
+## 73. Influence & Persuasion 🎯
+
+*影響力和說服*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **influence-ethics** | 影響力倫理 | 💡 Philosophy |
+| **persuasion-principles** | 說服原理 | 📚 Framework |
+| **cialdini-principles** | Cialdini 六原則 | 📚 Framework |
+| **logical-persuasion** | 邏輯說服 | 🛠️ Technique |
+| **emotional-persuasion** | 情感說服 | 🛠️ Technique |
+| **storytelling-influence** | 故事影響力 | 🛠️ Technique |
+| **framing-effect** | 框架效應 | 🧠 Understanding |
+| **anchoring** | 錨定效應 | 🧠 Technique |
+| **social-proof** | 社會認同 | 🧠 Mechanism |
+| **reciprocity** | 互惠原則 | 🧠 Mechanism |
+| **scarcity** | 稀缺性 | 🧠 Mechanism |
+| **resistance-to-persuasion** | 抵抗說服 | 🛠️ Defense |
+| **manipulation-detection** | 操弄識別 | 🛠️ Defense |
+| **ethical-influence** | 道德影響 | 🛠️ Framework |
+| **self-persuasion** | 自我說服 | 🧠 Technique |
+
+## 74. Stress Management 😤
+
+*壓力管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **stress-basics** | 壓力基礎 | 📚 Understanding |
+| **stress-types** | 壓力種類 | 📚 Framework |
+| **eustress** | 良性壓力 | 📚 Concept |
+| **chronic-stress** | 慢性壓力 | 🧠 Understanding |
+| **stress-response** | 壓力反應 | 🔬 Science |
+| **stress-signals** | 壓力信號 | 🧠 Awareness |
+| **stress-audit** | 壓力盤點 | 🛠️ Assessment |
+| **stress-reduction** | 壓力減少 | 🛠️ Techniques |
+| **stress-tolerance** | 壓力耐受 | 🧠 Building |
+| **stress-mindset** | 壓力心態 | 💡 Reframe |
+| **acute-stress-response** | 急性壓力反應 | 🛠️ Protocol |
+| **stress-recovery** | 壓力恢復 | 🛠️ Practice |
+| **stress-prevention** | 壓力預防 | 🛠️ Strategy |
+| **stress-in-relationship** | 關係中的壓力 | 🛠️ Navigation |
+| **stress-at-work** | 職場壓力 | 🛠️ Management |
+
+## 75. Conflict Resolution 🤝
+
+*衝突解決*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **conflict-styles** | 衝突風格 | 📚 Framework |
+| **conflict-avoidance** | 衝突逃避 | 🧠 Pattern |
+| **conflict-seeking** | 衝突追求 | 🧠 Pattern |
+| **healthy-conflict** | 健康衝突 | 💡 Reframe |
+| **conflict-escalation** | 衝突升級 | 🧠 Understanding |
+| **de-escalation** | 降級技巧 | 🛠️ Technique |
+| **win-win** | 雙贏思維 | 🧠 Framework |
+| **compromise** | 妥協的藝術 | 🛠️ Technique |
+| **collaboration** | 合作解決 | 🛠️ Technique |
+| **conflict-timing** | 衝突時機 | 🛠️ Judgment |
+| **conflict-repair** | 衝突修復 | 🛠️ Process |
+| **third-party-conflict** | 第三方衝突介入 | 🛠️ Role |
+| **recurring-conflict** | 重複衝突 | 🧠 Pattern |
+| **values-conflict** | 價值觀衝突 | 🧠 Understanding |
+| **conflict-aftermath** | 衝突之後 | 🛠️ Recovery |
+
 ---
 
 # QUALITY FILTERS
