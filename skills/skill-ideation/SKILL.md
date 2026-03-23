@@ -2215,6 +2215,116 @@ Agent 應該：
 | **persuasive-writing** | 說服性寫作 | 🛠️ Technique |
 | **writing-process** | 寫作流程 | 🛠️ Framework |
 
+## 81. Reading & Learning from Books 📚
+
+*閱讀和從書中學習*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **reading-habit** | 閱讀習慣 | 🛠️ Practice |
+| **book-selection** | 選書技巧 | 🛠️ Framework |
+| **reading-speed** | 閱讀速度（和它的迷思）| 🧠 Understanding |
+| **active-reading** | 主動閱讀 | 🛠️ Technique |
+| **note-taking-books** | 讀書筆記 | 🛠️ Technique |
+| **book-retention** | 讀書記憶 | 🛠️ Technique |
+| **reading-list-overwhelm** | 待讀清單焦慮 | 🧠 Pattern |
+| **abandoning-books** | 放棄一本書 | 💡 Permission |
+| **re-reading** | 重讀的價值 | 💡 Philosophy |
+| **reading-diverse** | 多元閱讀 | 🛠️ Strategy |
+| **audiobooks** | 有聲書 | 🛠️ Alternative |
+| **book-clubs** | 讀書會 | 🛠️ Social |
+| **applying-books** | 應用所讀 | 🛠️ Challenge |
+| **reading-burnout** | 閱讀倦怠 | 🧠 Recovery |
+| **reading-for-fun** | 為樂趣而讀 | 💡 Permission |
+
+## 82. Sleep & Rest 😴
+
+*睡眠和休息*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **sleep-basics** | 睡眠基礎 | 📚 Science |
+| **sleep-hygiene** | 睡眠衛生 | 🛠️ Practical |
+| **sleep-schedule** | 睡眠時程 | 🛠️ Practical |
+| **insomnia-toolkit** | 失眠工具箱 | 🛠️ Practical |
+| **sleep-anxiety** | 睡眠焦慮 | 🧠 Pattern |
+| **napping** | 小睡的藝術 | 🛠️ Technique |
+| **sleep-debt** | 睡眠債 | 📚 Understanding |
+| **sleep-tracking** | 睡眠追蹤（有用嗎）| 🧠 Evaluation |
+| **wind-down-routine** | 睡前儀式 | 🛠️ Practice |
+| **waking-up** | 起床的挑戰 | 🛠️ Technique |
+| **sleep-environment** | 睡眠環境 | 🛠️ Optimization |
+| **dream-journaling** | 夢境日記 | 🛠️ Practice |
+| **sleep-disorders** | 睡眠障礙認識 | 📚 Awareness |
+| **rest-vs-sleep** | 休息 vs 睡眠 | 📚 Distinction |
+| **sacred-rest** | 神聖休息 | 💡 Philosophy |
+
+## 83. Attention & Focus 🎯
+
+*注意力和專注*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **attention-basics** | 注意力基礎 | 📚 Understanding |
+| **attention-economy** | 注意力經濟 | 🧠 Awareness |
+| **deep-work** | 深度工作 | 📚 Framework |
+| **focus-sessions** | 專注時段 | 🛠️ Technique |
+| **distraction-audit** | 干擾盤點 | 🛠️ Assessment |
+| **phone-addiction** | 手機成癮 | 🧠 Pattern |
+| **notification-management** | 通知管理 | 🛠️ Practical |
+| **single-tasking** | 單工處理 | 🛠️ Practice |
+| **attention-residue** | 注意力殘留 | 🧠 Understanding |
+| **focus-music** | 專注音樂 | 🛠️ Tool |
+| **focus-environment** | 專注環境 | 🛠️ Setup |
+| **attention-restoration** | 注意力恢復 | 🛠️ Practice |
+| **wandering-mind** | 心猿意馬 | 🧠 Understanding |
+| **flow-state** | 心流狀態 | 📚 Concept |
+| **focus-for-adhd** | ADHD 的專注 | 🛠️ Adaptation |
+
+## 84. Memory & Recall 🧠
+
+*記憶和回想*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **memory-basics** | 記憶基礎 | 📚 Science |
+| **memory-techniques** | 記憶技巧 | 🛠️ Techniques |
+| **spaced-repetition** | 間隔重複 | 🛠️ Technique |
+| **mnemonics** | 助記法 | 🛠️ Technique |
+| **memory-palace** | 記憶宮殿 | 🛠️ Technique |
+| **forgetting-curve** | 遺忘曲線 | 📚 Understanding |
+| **remembering-names** | 記住名字 | 🛠️ Practical |
+| **studying-memory** | 學習記憶 | 🛠️ Application |
+| **memory-aging** | 記憶和年齡 | 📚 Understanding |
+| **memory-enhancement** | 記憶增強 | 🛠️ Strategies |
+| **working-memory** | 工作記憶 | 📚 Understanding |
+| **long-term-memory** | 長期記憶 | 📚 Understanding |
+| **external-memory** | 外部記憶（筆記系統）| 🛠️ System |
+| **memory-trust** | 記憶的可靠性 | 🧠 Awareness |
+| **meaningful-encoding** | 有意義編碼 | 🛠️ Technique |
+
+## 85. Personal Finance Basics 💵
+
+*個人理財基礎*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **budgeting-basics** | 預算基礎 | 🛠️ Framework |
+| **tracking-spending** | 追蹤支出 | 🛠️ Practice |
+| **saving-habit** | 儲蓄習慣 | 🛠️ Practice |
+| **emergency-fund** | 緊急預備金 | 🛠️ Priority |
+| **debt-management** | 債務管理 | 🛠️ Strategy |
+| **investing-start** | 投資入門 | 🛠️ Practical |
+| **compound-interest** | 複利的力量 | 📚 Concept |
+| **retirement-basics** | 退休基礎 | 🛠️ Planning |
+| **insurance-basics** | 保險基礎 | 📚 Understanding |
+| **tax-basics** | 稅務基礎 | 📚 Understanding |
+| **financial-goals** | 財務目標 | 🛠️ Framework |
+| **lifestyle-inflation** | 生活方式膨脹 | 🧠 Awareness |
+| **financial-literacy** | 財務素養 | 📚 Education |
+| **money-mindset** | 金錢心態 | 🧠 Psychology |
+| **financial-independence** | 財務獨立 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
