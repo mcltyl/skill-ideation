@@ -1525,6 +1525,116 @@ Agent 應該：
 | **breath-stress** | 呼吸與壓力 | 🛠️ Technique |
 | **somatic-therapy-basics** | 身體取向療法入門 | 📚 Understanding |
 
+## 51. Pet Ownership 🐕
+
+*毛小孩照顧和關係*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **first-pet-decision** | 該不該養寵物 | 🧠 Decision |
+| **pet-adoption** | 領養 vs 購買 | 💡 Philosophy |
+| **puppy-first-week** | 新養狗的第一週 | 🛠️ Survival |
+| **cat-behavior** | 貓行為解讀 | 📚 Understanding |
+| **dog-training-basics** | 狗訓練基礎 | 🛠️ Practical |
+| **pet-anxiety** | 寵物分離焦慮 | 🛠️ Training |
+| **vet-visit-prep** | 看獸醫準備 | 🛠️ Practical |
+| **pet-loss-grief** | 寵物離世的悲傷 | 🧠 Psychology |
+| **pet-budget** | 養寵物的真實花費 | 🛠️ Planning |
+| **renting-with-pets** | 租屋養寵物 | 🛠️ Practical |
+| **travel-with-pets** | 帶寵物旅行 | 🛠️ Practical |
+| **pet-in-relationship** | 伴侶不喜歡我的寵物 | 🛠️ Navigation |
+| **elderly-pet-care** | 老年寵物照顧 | 🛠️ Care |
+| **pet-emergency** | 寵物緊急狀況 | 🛠️ Emergency |
+| **responsible-owner** | 負責任的飼主 | 💡 Reflection |
+
+## 52. Hobbies & Side Interests 🎮
+
+*興趣發展和社群*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **finding-hobby** | 找到適合的興趣 | 🛠️ Exploration |
+| **hobby-guilt** | 興趣的罪惡感（「浪費時間」）| 🧠 Permission |
+| **hobby-community** | 興趣社群怎麼找 | 🛠️ Practical |
+| **beginner-plateau** | 初學者停滯期 | 🧠 Pattern |
+| **hobby-to-side-hustle** | 興趣變副業？| 💡 Decision |
+| **collecting-psychology** | 收藏的心理學 | 🧠 Understanding |
+| **competitive-hobby** | 競技型興趣的壓力 | 🧠 Psychology |
+| **hobby-burn-out** | 興趣倦怠 | 🧠 Recovery |
+| **multiple-hobbies** | 興趣太多怎麼辦 | 🛠️ Management |
+| **sharing-hobby** | 分享興趣（伴侶不感興趣）| 🛠️ Navigation |
+| **hobby-spending** | 興趣花費控制 | 🛠️ Practical |
+| **solo-hobby** | 獨處型興趣的價值 | 💡 Philosophy |
+| **social-hobby** | 社交型興趣 | 🛠️ Practical |
+| **digital-hobby** | 數位興趣（遊戲、創作）| 🌍 Context |
+| **outdoor-hobby** | 戶外興趣入門 | 🛠️ Practical |
+
+## 53. News & Media Literacy 📰
+
+*資訊素養*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **news-diet** | 新聞節食 | 🛠️ Practical |
+| **source-verification** | 來源查證 | 🛠️ Technique |
+| **bias-detection** | 偏見識別 | 🛠️ Framework |
+| **misinformation** | 假訊息辨識 | 🛠️ Technique |
+| **echo-chamber** | 同溫層覺察 | 🧠 Awareness |
+| **doomscrolling-quit** | 戒掉末日滑 | 🛠️ Practical |
+| **news-anxiety** | 新聞焦慮 | 🧠 Psychology |
+| **staying-informed** | 保持知情但不焦慮 | 🛠️ Balance |
+| **media-literacy** | 媒體素養基礎 | 📚 Framework |
+| **propaganda-recognition** | 宣傳識別 | 📚 Framework |
+| **statistics-skeptic** | 統計數字懷疑 | 🛠️ Technique |
+| **headline-reading** | 標題陷阱 | 🛠️ Awareness |
+| **opinion-vs-news** | 評論 vs 新聞 | 📚 Distinction |
+| **local-news-value** | 地方新聞的價值 | 💡 Philosophy |
+| **news-conversation** | 如何討論新聞 | 🛠️ Technique |
+
+## 54. Technology & Digital Skills 💾
+
+*一般人需要的數位技能*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **smartphone-basics** | 智慧型手機基礎（給不熟的人）| 🛠️ Tutorial |
+| **password-security** | 密碼安全（真的會做的版本）| 🛠️ Practical |
+| **cloud-storage** | 雲端儲存理解 | 📚 Understanding |
+| **wifi-troubleshoot** | WiFi 問題排除 | 🛠️ Practical |
+| **backup-habit** | 備份習慣 | 🛠️ Practical |
+| **scam-recognition** | 詐騙識別 | 🛠️ Awareness |
+| **privacy-settings** | 隱私設定 | 🛠️ Practical |
+| **new-app-evaluation** | 新 App 要不要裝 | 🛠️ Framework |
+| **tech-support-parent** | 幫父母解決電腦問題 | 🛠️ Patience |
+| **digital-inheritance** | 數位遺產規劃 | 🛠️ Planning |
+| **subscription-management** | 訂閱管理 | 🛠️ Practical |
+| **ai-tools-basics** | AI 工具入門 | 🛠️ Practical |
+| **video-call-etiquette** | 視訊通話禮儀 | 🛠️ Practical |
+| **screen-sharing** | 螢幕分享技巧 | 🛠️ Technique |
+| **tech-overwhelm** | 科技焦慮 | 🧠 Psychology |
+
+## 55. Civic Engagement & Community 🏛️
+
+*公民參與*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **voting-informed** | 知情投票 | 🛠️ Framework |
+| **local-politics** | 地方政治參與 | 🛠️ Practical |
+| **contacting-reps** | 聯繫民意代表 | 🛠️ How-to |
+| **community-meeting** | 社區會議參與 | 🛠️ Practical |
+| **volunteer-finding** | 找到適合的志工機會 | 🛠️ Practical |
+| **activism-burnout** | 社運倦怠 | 🧠 Psychology |
+| **effective-protest** | 有效的抗議 | 🛠️ Framework |
+| **political-conversation** | 政治對話（不吵架版）| 🛠️ Technique |
+| **staying-engaged** | 長期參與不疲乏 | 🧠 Sustainability |
+| **slacktivism** | 沙發行動主義的真相 | 💡 Critique |
+| **donation-strategy** | 捐款策略 | 🛠️ Framework |
+| **neighbor-connection** | 認識鄰居 | 🛠️ Practical |
+| **community-building** | 社群建立 | 🛠️ Framework |
+| **civic-duty** | 公民責任的意義 | 💡 Philosophy |
+| **disagreement-democracy** | 民主中的分歧 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
