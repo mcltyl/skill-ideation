@@ -50,6 +50,52 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 
 ---
 
+# QUICK REFERENCE CARD
+
+**Copy-paste for fast ideation sessions:**
+
+```
+🎯 QUALITY TEST
+□ WHO: 誰需要？（具體）
+□ WHEN: 什麼時刻？（觸發點）
+□ GAP: Google 不夠好？
+□ TEACHABLE: 可以用文字教？
+□ TIMELESS: 明年還有用？
+
+📝 NAMING FORMULA
+✗ [Big Topic]
+✓ [Situation]-[Action] 或 [Moment]-[Need]
+
+例：time-management ❌ → deadline-panic-recovery ✅
+
+🔄 DIVERGENCE PROMPTS
+- 子領域？
+- 相鄰需求？
+- 反面/對立？
+- 失敗模式？
+- 進階版？
+- 入門版？
+- +[另一領域]？
+
+💡 GENERATION STARTERS
+- "人在 [X] 常搞砸什麼？"
+- "什麼時候需要 [X]？"
+- "[X] 的潛規則是？"
+- "沒人教但人人需要的 [X]？"
+- "[X] + 錢/關係/時間/健康 = ？"
+
+🎨 SKILL TYPES
+🔬 Technique — 一個動作
+📚 Knowledge — 領域知識
+🧠 Framework — 思考方式
+🛠️ Practical — 怎麼做
+🌍 Context — 文化背景
+💡 Concept — 概念深挖
+⚡ Moment — 特定時刻
+```
+
+---
+
 # FIRST PRINCIPLES
 
 ## 核心原則：從問題出發，不是從分類出發
