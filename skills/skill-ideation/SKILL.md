@@ -8639,6 +8639,116 @@ Agent 應該：
 | **focus-recovery** | 專注恢復 | 🛠️ Practice |
 | **focused-mind** | 專注的心 | 💡 Goal |
 
+## 371. Memory and Learning 🧠
+
+*記憶和學習*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **memory-basics** | 記憶基礎 | 📚 Understanding |
+| **memory-science** | 記憶科學 | 📚 Science |
+| **memory-techniques** | 記憶技巧 | 🛠️ Practice |
+| **memory-spaced-repetition** | 間隔重複 | 🛠️ Technique |
+| **memory-mnemonics** | 記憶術 | 🛠️ Technique |
+| **memory-visualization** | 記憶視覺化 | 🛠️ Technique |
+| **learning-styles** | 學習風格 | 📚 Framework |
+| **learning-active** | 主動學習 | 🛠️ Practice |
+| **learning-retrieval** | 提取學習 | 🛠️ Technique |
+| **learning-daily** | 日常學習 | 🛠️ Practice |
+| **learning-speed** | 快速學習 | 🛠️ Technique |
+| **learning-meaning** | 學習意義 | 💡 Connection |
+| **learning-growth** | 學習成長 | 💡 Continuous |
+| **learning-tools** | 學習工具 | 🛠️ Selection |
+| **lifelong-learner** | 終身學習者 | 💡 Goal |
+
+## 372. Research Skills 🔍
+
+*研究技巧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **research-basics** | 研究技巧基礎 | 📚 Understanding |
+| **research-questions** | 研究問題 | 🛠️ Formulation |
+| **research-sources** | 研究來源 | 🛠️ Identification |
+| **research-evaluation** | 研究評估 | 🛠️ Practice |
+| **research-synthesis** | 研究綜合 | 🛠️ Practice |
+| **research-note-taking** | 研究筆記 | 🛠️ Practice |
+| **research-organization** | 研究組織 | 🛠️ Practice |
+| **research-internet** | 網路研究 | 🛠️ Practice |
+| **research-academic** | 學術研究 | 🛠️ Practice |
+| **research-daily** | 日常研究 | 🛠️ Practice |
+| **research-meaning** | 研究意義 | 💡 Connection |
+| **research-growth** | 研究成長 | 💡 Continuous |
+| **research-tools** | 研究工具 | 🛠️ Selection |
+| **research-ethics** | 研究道德 | 🛠️ Practice |
+| **skilled-researcher** | 熟練的研究者 | 💡 Goal |
+
+## 373. Data Literacy 📊
+
+*數據素養*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **data-literacy-basics** | 數據素養基礎 | 📚 Understanding |
+| **data-reading** | 數據閱讀 | 🛠️ Practice |
+| **data-interpretation** | 數據解讀 | 🛠️ Practice |
+| **data-visualization** | 數據視覺化 | 🛠️ Practice |
+| **data-analysis** | 數據分析 | 🛠️ Practice |
+| **data-questioning** | 數據提問 | 🛠️ Practice |
+| **data-statistics** | 數據統計 | 📚 Understanding |
+| **data-fallacies** | 數據謬誤 | 🧠 Awareness |
+| **data-communication** | 數據溝通 | 🛠️ Practice |
+| **data-daily** | 日常數據 | 🛠️ Practice |
+| **data-meaning** | 數據意義 | 💡 Connection |
+| **data-growth** | 數據成長 | 💡 Continuous |
+| **data-tools** | 數據工具 | 🛠️ Learning |
+| **data-ethics** | 數據道德 | 🛠️ Practice |
+| **data-literate** | 數據素養 | 💡 Goal |
+
+## 374. Digital Skills 💻
+
+*數位技能*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **digital-skills-basics** | 數位技能基礎 | 📚 Understanding |
+| **digital-productivity** | 數位生產力 | 🛠️ Practice |
+| **digital-communication** | 數位溝通 | 🛠️ Practice |
+| **digital-collaboration** | 數位協作 | 🛠️ Practice |
+| **digital-security** | 數位安全 | 🛠️ Practice |
+| **digital-privacy** | 數位隱私 | 🛠️ Practice |
+| **digital-tools** | 數位工具 | 🛠️ Learning |
+| **digital-automation** | 數位自動化 | 🛠️ Practice |
+| **digital-organization** | 數位組織 | 🛠️ Practice |
+| **digital-daily** | 日常數位 | 🛠️ Practice |
+| **digital-meaning** | 數位意義 | 💡 Connection |
+| **digital-growth** | 數位成長 | 💡 Continuous |
+| **digital-trends** | 數位趨勢 | 🛠️ Tracking |
+| **digital-balance** | 數位平衡 | 💡 Balance |
+| **digitally-fluent** | 數位流利 | 💡 Goal |
+
+## 375. Financial Literacy 💰
+
+*財務素養*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **financial-literacy-basics** | 財務素養基礎 | 📚 Understanding |
+| **budgeting-skills** | 預算技能 | 🛠️ Practice |
+| **saving-skills** | 儲蓄技能 | 🛠️ Practice |
+| **investing-basics** | 投資基礎 | 📚 Understanding |
+| **debt-management** | 債務管理 | 🛠️ Practice |
+| **tax-basics** | 稅務基礎 | 📚 Understanding |
+| **financial-planning** | 財務規劃 | 🛠️ Practice |
+| **financial-goals** | 財務目標 | 🛠️ Setting |
+| **financial-decisions** | 財務決策 | 🛠️ Practice |
+| **financial-daily** | 日常財務 | 🛠️ Practice |
+| **financial-meaning** | 財務意義 | 💡 Connection |
+| **financial-growth** | 財務成長 | 💡 Continuous |
+| **financial-tools** | 財務工具 | 🛠️ Selection |
+| **financial-resources** | 財務資源 | 🛠️ Learning |
+| **financially-literate** | 財務素養 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
