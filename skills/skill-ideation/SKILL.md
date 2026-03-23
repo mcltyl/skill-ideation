@@ -18,7 +18,7 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 
 ---
 
-# QUICK INDEX (65 Categories, 725+ Ideas)
+# QUICK INDEX (70 Categories, 800+ Ideas)
 
 | # | Category | # | Category |
 |---|----------|---|----------|
@@ -62,6 +62,11 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 | | | 63 | Emotional Regulation 🎭 |
 | | | 64 | Self-Talk & Inner Critic 🗣️ |
 | | | 65 | Trust & Vulnerability 💝 |
+| | | 66 | Grief & Loss 🕯️ |
+| | | 67 | Forgiveness 🕊️ |
+| | | 68 | Purpose & Meaning 🌟 |
+| | | 69 | Intuition & Wisdom 🔮 |
+| | | 70 | Mindfulness & Presence 🧘 |
 
 ---
 
@@ -2407,5 +2412,7 @@ This skill itself demonstrates:
 | 1.11 | 2026-03-24 | 5 more categories (#51-55), 75 new ideas |
 | 1.12 | 2026-03-24 | Skill Bundles (persona-based) |
 | 1.13 | 2026-03-24 | 5 more categories (#56-60), 75 new ideas |
+| 1.14 | 2026-03-24 | 5 more categories (#61-65), 75 new ideas |
+| 1.15 | 2026-03-24 | 5 more categories (#66-70), 75 new ideas |
 
-**Total: 60 categories, 650+ ideas, 2185 lines**
+**Total: 70 categories, 800+ ideas, 2410+ lines**
