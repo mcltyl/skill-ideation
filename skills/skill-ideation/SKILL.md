@@ -8749,6 +8749,116 @@ Agent 應該：
 | **financial-resources** | 財務資源 | 🛠️ Learning |
 | **financially-literate** | 財務素養 | 💡 Goal |
 
+## 376. Networking Skills 🤝
+
+*人脈技巧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **networking-basics** | 人脈基礎 | 📚 Understanding |
+| **networking-mindset** | 人脈心態 | 🧠 Development |
+| **networking-strategy** | 人脈策略 | 🛠️ Planning |
+| **networking-approach** | 人脈方法 | 🛠️ Practice |
+| **networking-conversation** | 人脈對話 | 🛠️ Practice |
+| **networking-follow-up** | 人脈跟進 | 🛠️ Practice |
+| **networking-maintenance** | 人脈維護 | 🛠️ Practice |
+| **networking-value** | 人脈價值 | 🛠️ Providing |
+| **networking-online** | 線上人脈 | 🛠️ Practice |
+| **networking-events** | 人脈活動 | 🛠️ Navigation |
+| **networking-daily** | 日常人脈 | 🛠️ Practice |
+| **networking-meaning** | 人脈意義 | 💡 Connection |
+| **networking-growth** | 人脈成長 | 💡 Continuous |
+| **networking-introvert** | 內向者人脈 | 🛠️ Adaptation |
+| **connected-professional** | 有連結的專業人士 | 💡 Goal |
+
+## 377. Interview Skills 🎤
+
+*面試技巧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **interview-basics** | 面試基礎 | 📚 Understanding |
+| **interview-preparation** | 面試準備 | 🛠️ Process |
+| **interview-research** | 面試研究 | 🛠️ Practice |
+| **interview-stories** | 面試故事 | 🛠️ Preparation |
+| **interview-questions** | 面試問題 | 🛠️ Practice |
+| **interview-answers** | 面試回答 | 🛠️ Structuring |
+| **interview-presence** | 面試存在感 | 🛠️ Building |
+| **interview-nerves** | 面試緊張 | 🧠 Management |
+| **interview-virtual** | 線上面試 | 🛠️ Adaptation |
+| **interview-follow-up** | 面試跟進 | 🛠️ Practice |
+| **interview-feedback** | 面試回饋 | 🛠️ Seeking |
+| **interview-meaning** | 面試意義 | 💡 Connection |
+| **interview-growth** | 面試成長 | 💡 Continuous |
+| **interview-practice** | 面試練習 | 🛠️ Routine |
+| **interview-master** | 面試大師 | 💡 Goal |
+
+## 378. Resume and Portfolio 📄
+
+*履歷和作品集*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **resume-basics** | 履歷基礎 | 📚 Understanding |
+| **resume-structure** | 履歷結構 | 🛠️ Framework |
+| **resume-content** | 履歷內容 | 🛠️ Crafting |
+| **resume-achievements** | 履歷成就 | 🛠️ Highlighting |
+| **resume-keywords** | 履歷關鍵字 | 🛠️ Optimization |
+| **resume-tailoring** | 履歷客製 | 🛠️ Practice |
+| **portfolio-basics** | 作品集基礎 | 📚 Understanding |
+| **portfolio-curation** | 作品集策展 | 🛠️ Practice |
+| **portfolio-presentation** | 作品集呈現 | 🛠️ Practice |
+| **linkedin-optimization** | LinkedIn 優化 | 🛠️ Practice |
+| **personal-branding** | 個人品牌 | 🛠️ Building |
+| **resume-meaning** | 履歷意義 | 💡 Connection |
+| **resume-growth** | 履歷成長 | 💡 Continuous |
+| **resume-tools** | 履歷工具 | 🛠️ Selection |
+| **compelling-profile** | 引人入勝的檔案 | 💡 Goal |
+
+## 379. Salary Negotiation 💵
+
+*薪資談判*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **salary-negotiation-basics** | 薪資談判基礎 | 📚 Understanding |
+| **salary-research** | 薪資研究 | 🛠️ Process |
+| **salary-value** | 薪資價值 | 🛠️ Articulation |
+| **salary-timing** | 薪資時機 | 🛠️ Strategy |
+| **salary-opening** | 薪資開場 | 🛠️ Technique |
+| **salary-range** | 薪資區間 | 🛠️ Strategy |
+| **salary-counteroffer** | 薪資還價 | 🛠️ Technique |
+| **salary-total-compensation** | 總薪酬 | 🛠️ Negotiation |
+| **salary-acceptance** | 薪資接受 | 🛠️ Decision |
+| **salary-raise** | 加薪 | 🛠️ Request |
+| **salary-mindset** | 薪資心態 | 🧠 Development |
+| **salary-meaning** | 薪資意義 | 💡 Connection |
+| **salary-growth** | 薪資成長 | 💡 Continuous |
+| **salary-scripts** | 薪資腳本 | 🛠️ Preparation |
+| **well-compensated** | 良好薪酬 | 💡 Goal |
+
+## 380. Personal Branding 🌟
+
+*個人品牌*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **personal-brand-basics** | 個人品牌基礎 | 📚 Understanding |
+| **personal-brand-discovery** | 個人品牌發現 | 🛠️ Process |
+| **personal-brand-values** | 個人品牌價值觀 | 🛠️ Identification |
+| **personal-brand-story** | 個人品牌故事 | 🛠️ Crafting |
+| **personal-brand-voice** | 個人品牌聲音 | 🛠️ Development |
+| **personal-brand-visual** | 個人品牌視覺 | 🛠️ Design |
+| **personal-brand-online** | 個人品牌線上 | 🛠️ Building |
+| **personal-brand-content** | 個人品牌內容 | 🛠️ Creation |
+| **personal-brand-network** | 個人品牌人脈 | 🛠️ Building |
+| **personal-brand-consistency** | 個人品牌一致 | 🛠️ Maintaining |
+| **personal-brand-daily** | 日常個人品牌 | 🛠️ Practice |
+| **personal-brand-meaning** | 個人品牌意義 | 💡 Connection |
+| **personal-brand-growth** | 個人品牌成長 | 💡 Continuous |
+| **personal-brand-authenticity** | 個人品牌真誠 | 💡 Balance |
+| **recognized-brand** | 被認可的品牌 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
