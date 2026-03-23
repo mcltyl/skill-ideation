@@ -6651,6 +6651,116 @@ Agent 應該：
 | **trades-career-evolution** | 技術工職涯演變 | 🛠️ Process |
 | **sustainable-trades** | 永續技術工職涯 | 💡 Philosophy |
 
+## 281. Military Transition 🎖️
+
+*軍人轉職*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **military-transition-basics** | 軍人轉職基礎 | 📚 Understanding |
+| **military-transition-process** | 軍人轉職過程 | 🛠️ Navigation |
+| **military-skills-translation** | 軍人技能轉化 | 🛠️ Process |
+| **military-resume** | 軍人履歷 | 🛠️ Crafting |
+| **military-networking** | 軍人轉職人脈 | 🛠️ Building |
+| **military-interviews** | 軍人轉職面試 | 🛠️ Navigation |
+| **military-culture-shift** | 文化轉變 | 🧠 Navigation |
+| **military-identity** | 軍人身份轉變 | 🧠 Processing |
+| **military-civilian-workplace** | 民間職場 | 🛠️ Adaptation |
+| **military-family** | 軍人家庭轉職 | 🛠️ Navigation |
+| **military-support** | 軍人轉職支持 | 🛠️ Resources |
+| **military-meaning** | 軍人轉職意義 | 💡 Connection |
+| **military-growth** | 軍人轉職成長 | 🛠️ Opportunity |
+| **military-challenges** | 軍人轉職挑戰 | 🧠 Navigation |
+| **successful-transition** | 成功轉職 | 💡 Goal |
+
+## 282. Career Change 🔄
+
+*職涯轉換*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **career-change-basics** | 職涯轉換基礎 | 📚 Understanding |
+| **career-change-decision** | 職涯轉換決策 | 🛠️ Framework |
+| **career-change-exploration** | 職涯轉換探索 | 🛠️ Process |
+| **career-change-skills** | 職涯轉換技能 | 🛠️ Assessment |
+| **career-change-transferable** | 可轉移技能 | 🛠️ Identification |
+| **career-change-gap** | 職涯轉換落差 | 🛠️ Bridging |
+| **career-change-education** | 職涯轉換教育 | 🛠️ Navigation |
+| **career-change-networking** | 職涯轉換人脈 | 🛠️ Building |
+| **career-change-fear** | 職涯轉換恐懼 | 🧠 Processing |
+| **career-change-identity** | 職涯轉換身份 | 🧠 Navigation |
+| **career-change-finances** | 職涯轉換財務 | 🛠️ Planning |
+| **career-change-support** | 職涯轉換支持 | 🛠️ Resources |
+| **career-change-meaning** | 職涯轉換意義 | 💡 Connection |
+| **career-change-patience** | 職涯轉換耐心 | 🧠 Practice |
+| **successful-career-change** | 成功職涯轉換 | 💡 Goal |
+
+## 283. Return to Work 🔙
+
+*重返職場*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **return-work-basics** | 重返職場基礎 | 📚 Understanding |
+| **return-work-decision** | 重返職場決策 | 🛠️ Framework |
+| **return-work-skills** | 重返職場技能 | 🛠️ Assessment |
+| **return-work-gap** | 重返職場落差 | 🛠️ Addressing |
+| **return-work-resume** | 重返職場履歷 | 🛠️ Crafting |
+| **return-work-networking** | 重返職場人脈 | 🛠️ Building |
+| **return-work-interviews** | 重返職場面試 | 🛠️ Navigation |
+| **return-work-confidence** | 重返職場信心 | 🧠 Building |
+| **return-work-imposter** | 重返職場冒名頂替症候群 | 🧠 Processing |
+| **return-work-flexibility** | 重返職場彈性 | 🛠️ Negotiation |
+| **return-work-family** | 重返職場和家庭 | 🛠️ Balance |
+| **return-work-support** | 重返職場支持 | 🛠️ Resources |
+| **return-work-meaning** | 重返職場意義 | 💡 Connection |
+| **return-work-patience** | 重返職場耐心 | 🧠 Practice |
+| **successful-return** | 成功重返職場 | 💡 Goal |
+
+## 284. Retirement Transition 🏖️
+
+*退休轉變*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **retirement-basics** | 退休基礎 | 📚 Understanding |
+| **retirement-decision** | 退休決策 | 🛠️ Framework |
+| **retirement-planning** | 退休規劃 | 🛠️ Process |
+| **retirement-finances** | 退休財務 | 🛠️ Management |
+| **retirement-identity** | 退休身份 | 🧠 Navigation |
+| **retirement-purpose** | 退休目的 | 🛠️ Finding |
+| **retirement-structure** | 退休結構 | 🛠️ Creating |
+| **retirement-relationships** | 退休關係 | 🛠️ Navigation |
+| **retirement-health** | 退休健康 | 🛠️ Priority |
+| **retirement-activities** | 退休活動 | 🛠️ Selection |
+| **retirement-community** | 退休社群 | 🛠️ Building |
+| **retirement-meaning** | 退休意義 | 💡 Finding |
+| **retirement-encore** | 退休後職涯 | 🛠️ Option |
+| **retirement-volunteering** | 退休志工 | 🛠️ Option |
+| **fulfilling-retirement** | 充實的退休 | 💡 Goal |
+
+## 285. Gap Year / Sabbatical 🌴
+
+*空檔年 / 休假*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **gap-year-basics** | 空檔年基礎 | 📚 Understanding |
+| **gap-year-decision** | 空檔年決策 | 🛠️ Framework |
+| **gap-year-planning** | 空檔年規劃 | 🛠️ Process |
+| **gap-year-finances** | 空檔年財務 | 🛠️ Planning |
+| **gap-year-activities** | 空檔年活動 | 🛠️ Selection |
+| **gap-year-travel** | 空檔年旅行 | 🛠️ Option |
+| **gap-year-learning** | 空檔年學習 | 🛠️ Option |
+| **gap-year-rest** | 空檔年休息 | 🛠️ Option |
+| **gap-year-exploration** | 空檔年探索 | 🛠️ Option |
+| **gap-year-return** | 空檔年返回 | 🛠️ Navigation |
+| **gap-year-resume** | 空檔年履歷 | 🛠️ Addressing |
+| **gap-year-meaning** | 空檔年意義 | 💡 Connection |
+| **gap-year-growth** | 空檔年成長 | 💡 Opportunity |
+| **gap-year-stigma** | 空檔年污名 | 🧠 Navigation |
+| **intentional-break** | 有意識的休息 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
