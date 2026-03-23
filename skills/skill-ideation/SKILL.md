@@ -4553,6 +4553,116 @@ Agent 應該：
 | **starting-fresh-patience** | 重新開始耐心 | 🧠 Practice |
 | **starting-fresh-growth** | 重新開始成長 | 💡 Philosophy |
 
+## 186. Living Abroad 🌏
+
+*海外生活*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **living-abroad-basics** | 海外生活基礎 | 📚 Overview |
+| **living-abroad-decision** | 海外生活決策 | 🛠️ Framework |
+| **living-abroad-prep** | 海外生活準備 | 🛠️ Practical |
+| **culture-shock** | 文化衝擊 | 🧠 Understanding |
+| **culture-adaptation** | 文化適應 | 🛠️ Process |
+| **homesickness** | 思鄉 | 🧠 Processing |
+| **expat-community** | 外派社群 | 🛠️ Building |
+| **local-integration** | 融入當地 | 🛠️ Practice |
+| **language-living** | 語言生活 | 🛠️ Navigation |
+| **expat-loneliness** | 外派孤獨 | 🧠 Processing |
+| **expat-identity** | 外派身份 | 🧠 Navigation |
+| **staying-connected** | 保持連結 | 🛠️ Practice |
+| **returning-home** | 回家 | 🧠 Transition |
+| **reverse-culture-shock** | 逆向文化衝擊 | 🧠 Understanding |
+| **third-culture** | 第三文化 | 📚 Concept |
+
+## 187. Coming Out 🌈
+
+*出櫃*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **coming-out-basics** | 出櫃基礎 | 📚 Understanding |
+| **coming-out-decision** | 出櫃決策 | 🧠 Personal |
+| **coming-out-timing** | 出櫃時機 | 🛠️ Judgment |
+| **coming-out-who** | 向誰出櫃 | 🛠️ Decision |
+| **coming-out-how** | 怎麼出櫃 | 🛠️ Approach |
+| **coming-out-family** | 向家人出櫃 | 🛠️ Navigation |
+| **coming-out-friends** | 向朋友出櫃 | 🛠️ Navigation |
+| **coming-out-work** | 工作中出櫃 | 🛠️ Navigation |
+| **coming-out-reactions** | 出櫃反應 | 🧠 Processing |
+| **coming-out-rejection** | 出櫃被拒 | 🧠 Processing |
+| **coming-out-support** | 出櫃支持 | 🛠️ Resources |
+| **coming-out-safety** | 出櫃安全 | 🛠️ Assessment |
+| **coming-out-later** | 晚出櫃 | 🧠 Experience |
+| **coming-out-ongoing** | 持續出櫃 | 🧠 Reality |
+| **coming-out-pride** | 出櫃驕傲 | 💡 Journey |
+
+## 188. Dealing with Grief 🕯️
+
+*處理悲傷*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **grief-basics** | 悲傷基礎 | 📚 Understanding |
+| **grief-stages** | 悲傷階段 | 📚 Framework |
+| **grief-types** | 悲傷種類 | 📚 Framework |
+| **grief-processing** | 處理悲傷 | 🧠 Process |
+| **grief-expression** | 悲傷表達 | 🛠️ Practice |
+| **grief-support** | 悲傷支持 | 🛠️ Resources |
+| **grief-rituals** | 悲傷儀式 | 🛠️ Practice |
+| **grief-work** | 工作中的悲傷 | 🛠️ Navigation |
+| **grief-relationships** | 關係中的悲傷 | 🧠 Navigation |
+| **anticipatory-grief** | 預期性悲傷 | 🧠 Understanding |
+| **disenfranchised-grief** | 被剝奪的悲傷 | 🧠 Understanding |
+| **grief-timeline** | 悲傷時程 | 🧠 Acceptance |
+| **grief-self-care** | 悲傷中的自我照顧 | 🛠️ Practice |
+| **supporting-grief** | 支持悲傷中的人 | 🛠️ Practice |
+| **grief-growth** | 悲傷後成長 | 💡 Philosophy |
+
+## 189. Making Friends as an Adult 👯
+
+*成人交友*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **adult-friends-basics** | 成人交友基礎 | 📚 Understanding |
+| **adult-friends-challenges** | 成人交友挑戰 | 🧠 Recognition |
+| **adult-friends-where** | 在哪交友 | 🛠️ List |
+| **adult-friends-how** | 怎麼交友 | 🛠️ Process |
+| **adult-friends-initiative** | 交友主動性 | 🛠️ Practice |
+| **adult-friends-depth** | 深化友誼 | 🛠️ Process |
+| **adult-friends-time** | 友誼時間 | 🛠️ Investment |
+| **adult-friends-vulnerability** | 友誼脆弱 | 🛠️ Practice |
+| **adult-friends-new-city** | 新城市交友 | 🛠️ Application |
+| **adult-friends-introvert** | 內向者交友 | 🛠️ Adaptation |
+| **adult-friends-rejection** | 交友被拒 | 🧠 Processing |
+| **adult-friends-drift** | 友誼疏遠 | 🧠 Navigation |
+| **adult-friends-maintenance** | 友誼維護 | 🛠️ Practice |
+| **adult-friends-quality** | 友誼品質 | 🛠️ Assessment |
+| **adult-friends-loneliness** | 交友和孤獨 | 🧠 Connection |
+
+## 190. Navigating Toxic Relationships 🚨
+
+*處理有毒關係*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **toxic-basics** | 有毒關係基礎 | 📚 Understanding |
+| **toxic-signs** | 有毒關係徵兆 | 🧠 Recognition |
+| **toxic-vs-difficult** | 有毒 vs 困難 | 📚 Distinction |
+| **toxic-awareness** | 有毒覺察 | 🧠 Recognition |
+| **toxic-patterns** | 有毒模式 | 🧠 Identification |
+| **toxic-boundaries** | 有毒關係邊界 | 🛠️ Setting |
+| **toxic-communication** | 有毒關係溝通 | 🛠️ Navigation |
+| **toxic-family** | 有毒家人 | 🧠 Navigation |
+| **toxic-friend** | 有毒朋友 | 🧠 Navigation |
+| **toxic-work** | 有毒工作關係 | 🛠️ Navigation |
+| **toxic-leaving** | 離開有毒關係 | 🛠️ Process |
+| **toxic-recovery** | 有毒關係恢復 | 🧠 Process |
+| **toxic-guilt** | 有毒關係罪惡感 | 🧠 Processing |
+| **toxic-support** | 有毒關係支持 | 🛠️ Resources |
+| **healthy-relationships** | 健康關係 | 💡 Contrast |
+
 ---
 
 # QUALITY FILTERS
