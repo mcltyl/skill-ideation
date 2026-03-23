@@ -1870,6 +1870,116 @@ Agent 應該：
 | **trustworthiness** | 值得信賴 | 💡 Reflection |
 | **safe-people** | 安全的人 | 🛠️ Recognition |
 
+## 66. Grief & Loss 🕯️
+
+*悲傷和失去*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **grief-stages** | 悲傷階段（不是線性的）| 📚 Understanding |
+| **grief-types** | 悲傷的種類 | 📚 Framework |
+| **anticipatory-grief** | 預期性悲傷 | 🧠 Understanding |
+| **disenfranchised-grief** | 被剝奪權利的悲傷 | 🧠 Understanding |
+| **complicated-grief** | 複雜性悲傷 | 🧠 Understanding |
+| **grief-waves** | 悲傷的浪潮 | 🧠 Metaphor |
+| **first-year-grief** | 悲傷的第一年 | 🛠️ Navigation |
+| **grief-triggers** | 悲傷觸發點 | 🧠 Awareness |
+| **continuing-bonds** | 持續的連結 | 💡 Philosophy |
+| **meaning-making** | 意義建構 | 🧠 Process |
+| **supporting-grieving** | 支持悲傷中的人 | 🛠️ Practical |
+| **grief-at-work** | 職場悲傷 | 🛠️ Navigation |
+| **grief-in-culture** | 不同文化的悲傷 | 🌍 Context |
+| **loss-non-death** | 非死亡的失去 | 🧠 Understanding |
+| **grief-growth** | 悲傷中的成長 | 💡 Philosophy |
+
+## 67. Forgiveness 🕊️
+
+*原諒*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **forgiveness-self** | 自我原諒 | 🧠 Process |
+| **forgiveness-others** | 原諒他人 | 🧠 Process |
+| **forgiveness-myths** | 原諒的迷思 | 📚 Clarification |
+| **forgiveness-vs-reconciliation** | 原諒 vs 和解 | 📚 Distinction |
+| **forgiveness-process** | 原諒的過程 | 🛠️ Framework |
+| **unforgiveness-cost** | 不原諒的代價 | 🧠 Awareness |
+| **premature-forgiveness** | 過早的原諒 | 🧠 Warning |
+| **forgiveness-boundaries** | 原諒 + 邊界 | 🧠 Balance |
+| **apology-acceptance** | 接受道歉 | 🛠️ Technique |
+| **grudge-release** | 放下怨恨 | 🛠️ Process |
+| **forgiveness-culture** | 不同文化的原諒 | 🌍 Context |
+| **forgiving-unforgivable** | 原諒「不可原諒的」| 🧠 Challenge |
+| **self-blame-release** | 放下自責 | 🛠️ Process |
+| **making-amends** | 彌補過錯 | 🛠️ Process |
+| **radical-forgiveness** | 徹底的原諒 | 💡 Philosophy |
+
+## 68. Purpose & Meaning 🌟
+
+*目的和意義*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **meaning-seeking** | 尋找意義 | 🧠 Process |
+| **purpose-discovery** | 目的發現 | 🧠 Process |
+| **ikigai** | 生きがい | 📚 Framework |
+| **meaning-creation** | 意義創造（不是找到）| 💡 Philosophy |
+| **purpose-vs-goals** | 目的 vs 目標 | 📚 Distinction |
+| **existential-vacuum** | 存在真空 | 🧠 Understanding |
+| **meaning-in-suffering** | 苦難中的意義 | 💡 Philosophy |
+| **purpose-paralysis** | 目的癱瘓 | 🧠 Pattern |
+| **small-purposes** | 小目的 | 💡 Permission |
+| **purpose-evolution** | 目的演變 | 🧠 Understanding |
+| **legacy-thinking** | 遺產思維 | 💡 Framework |
+| **contribution** | 貢獻 | 💡 Philosophy |
+| **mattering** | 重要感 | 🧠 Need |
+| **purpose-at-work** | 工作中的目的 | 🛠️ Practical |
+| **daily-meaning** | 日常意義 | 🛠️ Practice |
+
+## 69. Intuition & Wisdom 🔮
+
+*直覺和智慧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **intuition-basics** | 直覺基礎 | 📚 Understanding |
+| **gut-feeling** | 直覺感受 | 🧠 Recognition |
+| **intuition-vs-fear** | 直覺 vs 恐懼 | 🧠 Distinction |
+| **intuition-training** | 直覺訓練 | 🛠️ Practice |
+| **pattern-recognition** | 模式識別 | 🔬 Science |
+| **wisdom-acquisition** | 智慧獲取 | 🧠 Process |
+| **wise-decision** | 明智的決定 | 🛠️ Framework |
+| **discernment** | 洞察力 | 🧠 Skill |
+| **knowing-vs-thinking** | 知道 vs 想 | 🧠 Distinction |
+| **body-wisdom** | 身體智慧 | 🧠 Access |
+| **collective-wisdom** | 集體智慧 | 💡 Philosophy |
+| **wisdom-traditions** | 智慧傳統 | 📚 Reference |
+| **foolishness** | 愚蠢的智慧 | 💡 Counter |
+| **beginner-mind** | 初心 | 💡 Philosophy |
+| **uncertainty-wisdom** | 不確定的智慧 | 💡 Philosophy |
+
+## 70. Mindfulness & Presence 🧘
+
+*正念和臨在*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **mindfulness-basics** | 正念基礎 | 📚 Introduction |
+| **present-moment** | 當下時刻 | 💡 Philosophy |
+| **mindfulness-myths** | 正念迷思 | 📚 Clarification |
+| **meditation-types** | 冥想種類 | 📚 Overview |
+| **meditation-start** | 冥想入門 | 🛠️ Practical |
+| **meditation-obstacles** | 冥想障礙 | 🛠️ Troubleshoot |
+| **informal-mindfulness** | 非正式正念 | 🛠️ Practice |
+| **mindful-eating** | 正念飲食 | 🛠️ Practice |
+| **mindful-walking** | 正念行走 | 🛠️ Practice |
+| **mindful-listening** | 正念聆聽 | 🛠️ Practice |
+| **body-scan** | 身體掃描 | 🛠️ Technique |
+| **breath-anchor** | 呼吸錨 | 🛠️ Technique |
+| **non-judgment** | 不評判 | 💡 Philosophy |
+| **acceptance** | 接納 | 💡 Philosophy |
+| **mindfulness-daily** | 日常正念 | 🛠️ Integration |
+
 ---
 
 # QUALITY FILTERS
