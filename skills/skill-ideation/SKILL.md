@@ -12619,6 +12619,226 @@ Agent 應該：
 | **business-launch-patience** | 創業耐心 | 🧠 Practice |
 | **successful-founder** | 成功的創辦人 | 💡 Goal |
 
+## 551. Building a Legacy Project 🏛️
+
+*建立遺產專案*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **legacy-project-basics** | 遺產專案基礎 | 📚 Understanding |
+| **legacy-project-vision** | 遺產專案願景 | 🛠️ Creation |
+| **legacy-project-planning** | 遺產專案規劃 | 🛠️ Practice |
+| **legacy-project-execution** | 遺產專案執行 | 🛠️ Practice |
+| **legacy-project-impact** | 遺產專案影響 | 🛠️ Measurement |
+| **legacy-project-sustainability** | 遺產專案永續 | 🛠️ Design |
+| **legacy-project-daily** | 日常遺產專案 | 🛠️ Practice |
+| **legacy-project-meaning** | 遺產專案意義 | 💡 Connection |
+| **legacy-project-growth** | 遺產專案成長 | 💡 Continuous |
+| **legacy-project-team** | 遺產專案團隊 | 🛠️ Building |
+| **legacy-project-funding** | 遺產專案資金 | 🛠️ Securing |
+| **legacy-project-community** | 遺產專案社群 | 🛠️ Building |
+| **legacy-project-joy** | 遺產專案喜悅 | 💡 Finding |
+| **legacy-project-patience** | 遺產專案耐心 | 🧠 Practice |
+| **lasting-legacy** | 持久的遺產 | 💡 Goal |
+
+## 552. Writing a Book 📖
+
+*寫一本書*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **book-writing-basics** | 寫書基礎 | 📚 Understanding |
+| **book-writing-idea** | 寫書點子 | 🛠️ Development |
+| **book-writing-outline** | 寫書大綱 | 🛠️ Creation |
+| **book-writing-process** | 寫書過程 | 🛠️ Practice |
+| **book-writing-habit** | 寫書習慣 | 🛠️ Building |
+| **book-writing-editing** | 寫書編輯 | 🛠️ Practice |
+| **book-writing-daily** | 日常寫書 | 🛠️ Practice |
+| **book-writing-meaning** | 寫書意義 | 💡 Connection |
+| **book-writing-growth** | 寫書成長 | 💡 Continuous |
+| **book-writing-blocks** | 寫書瓶頸 | 🧠 Overcoming |
+| **book-writing-publishing** | 寫書出版 | 🛠️ Options |
+| **book-writing-community** | 寫書社群 | 🛠️ Finding |
+| **book-writing-joy** | 寫書喜悅 | 💡 Finding |
+| **book-writing-patience** | 寫書耐心 | 🧠 Practice |
+| **published-author** | 出版作者 | 💡 Goal |
+
+## 553. Running a Marathon 🏃
+
+*跑馬拉松*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **marathon-basics** | 馬拉松基礎 | 📚 Understanding |
+| **marathon-training** | 馬拉松訓練 | 🛠️ Planning |
+| **marathon-nutrition** | 馬拉松營養 | 🛠️ Practice |
+| **marathon-gear** | 馬拉松裝備 | 🛠️ Selection |
+| **marathon-mental** | 馬拉松心理 | 🧠 Preparation |
+| **marathon-race-day** | 馬拉松比賽日 | 🛠️ Navigation |
+| **marathon-daily** | 日常馬拉松 | 🛠️ Practice |
+| **marathon-meaning** | 馬拉松意義 | 💡 Connection |
+| **marathon-growth** | 馬拉松成長 | 💡 Continuous |
+| **marathon-recovery** | 馬拉松恢復 | 🛠️ Practice |
+| **marathon-community** | 馬拉松社群 | 🛠️ Finding |
+| **marathon-injury** | 馬拉松傷害 | 🛠️ Prevention |
+| **marathon-joy** | 馬拉松喜悅 | 💡 Finding |
+| **marathon-patience** | 馬拉松耐心 | 🧠 Practice |
+| **marathoner** | 馬拉松跑者 | 💡 Goal |
+
+## 554. Learning a New Language 🗣️
+
+*學習新語言*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **new-language-basics** | 新語言基礎 | 📚 Understanding |
+| **new-language-selection** | 新語言選擇 | 🛠️ Decision |
+| **new-language-resources** | 新語言資源 | 🛠️ Selection |
+| **new-language-routine** | 新語言例行 | 🛠️ Building |
+| **new-language-speaking** | 新語言口說 | 🛠️ Practice |
+| **new-language-immersion** | 新語言沉浸 | 🛠️ Practice |
+| **new-language-daily** | 日常新語言 | 🛠️ Practice |
+| **new-language-meaning** | 新語言意義 | 💡 Connection |
+| **new-language-growth** | 新語言成長 | 💡 Continuous |
+| **new-language-plateau** | 新語言高原 | 🧠 Navigation |
+| **new-language-community** | 新語言社群 | 🛠️ Finding |
+| **new-language-travel** | 新語言旅行 | 🛠️ Practice |
+| **new-language-joy** | 新語言喜悅 | 💡 Finding |
+| **new-language-patience** | 新語言耐心 | 🧠 Practice |
+| **multilingual** | 多語者 | 💡 Goal |
+
+## 555. Building Your Dream Home 🏡
+
+*建造夢想家園*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **dream-home-basics** | 夢想家園基礎 | 📚 Understanding |
+| **dream-home-vision** | 夢想家園願景 | 🛠️ Creation |
+| **dream-home-budget** | 夢想家園預算 | 🛠️ Planning |
+| **dream-home-location** | 夢想家園地點 | 🛠️ Selection |
+| **dream-home-design** | 夢想家園設計 | 🛠️ Practice |
+| **dream-home-construction** | 夢想家園建造 | 🛠️ Navigation |
+| **dream-home-daily** | 日常夢想家園 | 🛠️ Practice |
+| **dream-home-meaning** | 夢想家園意義 | 💡 Connection |
+| **dream-home-growth** | 夢想家園成長 | 💡 Continuous |
+| **dream-home-stress** | 夢想家園壓力 | 🧠 Management |
+| **dream-home-decisions** | 夢想家園決策 | 🛠️ Navigation |
+| **dream-home-team** | 夢想家園團隊 | 🛠️ Building |
+| **dream-home-joy** | 夢想家園喜悅 | 💡 Finding |
+| **dream-home-patience** | 夢想家園耐心 | 🧠 Practice |
+| **home-sweet-home** | 甜蜜的家 | 💡 Goal |
+
+## 556. Planning a Wedding 💍
+
+*籌備婚禮*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **wedding-planning-basics** | 婚禮籌備基礎 | 📚 Understanding |
+| **wedding-planning-vision** | 婚禮籌備願景 | 🛠️ Creation |
+| **wedding-planning-budget** | 婚禮籌備預算 | 🛠️ Setting |
+| **wedding-planning-vendors** | 婚禮籌備廠商 | 🛠️ Selection |
+| **wedding-planning-timeline** | 婚禮籌備時間表 | 🛠️ Building |
+| **wedding-planning-details** | 婚禮籌備細節 | 🛠️ Management |
+| **wedding-planning-daily** | 日常婚禮籌備 | 🛠️ Practice |
+| **wedding-planning-meaning** | 婚禮籌備意義 | 💡 Connection |
+| **wedding-planning-growth** | 婚禮籌備成長 | 💡 Continuous |
+| **wedding-planning-stress** | 婚禮籌備壓力 | 🧠 Management |
+| **wedding-planning-family** | 婚禮籌備家庭 | 🛠️ Navigation |
+| **wedding-planning-partner** | 婚禮籌備伴侶 | 🛠️ Teamwork |
+| **wedding-planning-joy** | 婚禮籌備喜悅 | 💡 Finding |
+| **wedding-planning-patience** | 婚禮籌備耐心 | 🧠 Practice |
+| **dream-wedding** | 夢想婚禮 | 💡 Goal |
+
+## 557. Sabbatical Planning 🌴
+
+*安息年規劃*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **sabbatical-basics** | 安息年基礎 | 📚 Understanding |
+| **sabbatical-purpose** | 安息年目的 | 🛠️ Clarification |
+| **sabbatical-planning** | 安息年規劃 | 🛠️ Practice |
+| **sabbatical-finances** | 安息年財務 | 🛠️ Preparation |
+| **sabbatical-work** | 安息年工作 | 🛠️ Negotiation |
+| **sabbatical-activities** | 安息年活動 | 🛠️ Selection |
+| **sabbatical-daily** | 日常安息年 | 🛠️ Practice |
+| **sabbatical-meaning** | 安息年意義 | 💡 Connection |
+| **sabbatical-growth** | 安息年成長 | 💡 Continuous |
+| **sabbatical-return** | 安息年回歸 | 🛠️ Planning |
+| **sabbatical-reflection** | 安息年反思 | 🛠️ Practice |
+| **sabbatical-community** | 安息年社群 | 🛠️ Finding |
+| **sabbatical-joy** | 安息年喜悅 | 💡 Finding |
+| **sabbatical-balance** | 安息年平衡 | 💡 Balance |
+| **refreshed-return** | 重新振作的回歸 | 💡 Goal |
+
+## 558. Gap Year Experience 🎒
+
+*間隔年經驗*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **gap-year-basics** | 間隔年基礎 | 📚 Understanding |
+| **gap-year-purpose** | 間隔年目的 | 🛠️ Clarification |
+| **gap-year-planning** | 間隔年規劃 | 🛠️ Practice |
+| **gap-year-activities** | 間隔年活動 | 🛠️ Selection |
+| **gap-year-budget** | 間隔年預算 | 🛠️ Management |
+| **gap-year-safety** | 間隔年安全 | 🛠️ Practice |
+| **gap-year-daily** | 日常間隔年 | 🛠️ Practice |
+| **gap-year-meaning** | 間隔年意義 | 💡 Connection |
+| **gap-year-growth** | 間隔年成長 | 💡 Continuous |
+| **gap-year-documentation** | 間隔年記錄 | 🛠️ Practice |
+| **gap-year-return** | 間隔年回歸 | 🛠️ Planning |
+| **gap-year-community** | 間隔年社群 | 🛠️ Finding |
+| **gap-year-joy** | 間隔年喜悅 | 💡 Finding |
+| **gap-year-lessons** | 間隔年教訓 | 🧠 Extraction |
+| **transformed-self** | 蛻變的自我 | 💡 Goal |
+
+## 559. Digital Detox 📵
+
+*數位排毒*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **digital-detox-basics** | 數位排毒基礎 | 📚 Understanding |
+| **digital-detox-assessment** | 數位排毒評估 | 🛠️ Process |
+| **digital-detox-planning** | 數位排毒規劃 | 🛠️ Practice |
+| **digital-detox-boundaries** | 數位排毒邊界 | 🛠️ Setting |
+| **digital-detox-activities** | 數位排毒活動 | 🛠️ Selection |
+| **digital-detox-challenges** | 數位排毒挑戰 | 🧠 Navigation |
+| **digital-detox-daily** | 日常數位排毒 | 🛠️ Practice |
+| **digital-detox-meaning** | 數位排毒意義 | 💡 Connection |
+| **digital-detox-growth** | 數位排毒成長 | 💡 Continuous |
+| **digital-detox-return** | 數位排毒回歸 | 🛠️ Practice |
+| **digital-detox-habits** | 數位排毒習慣 | 🛠️ Building |
+| **digital-detox-community** | 數位排毒社群 | 🛠️ Finding |
+| **digital-detox-joy** | 數位排毒喜悅 | 💡 Finding |
+| **digital-detox-balance** | 數位排毒平衡 | 💡 Balance |
+| **digitally-balanced** | 數位平衡 | 💡 Goal |
+
+## 560. Minimalist Journey 🧹
+
+*極簡主義之旅*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **minimalism-basics** | 極簡主義基礎 | 📚 Understanding |
+| **minimalism-why** | 極簡主義為什麼 | 🧠 Clarification |
+| **minimalism-declutter** | 極簡主義斷捨離 | 🛠️ Practice |
+| **minimalism-habits** | 極簡主義習慣 | 🛠️ Building |
+| **minimalism-purchasing** | 極簡主義購買 | 🛠️ Practice |
+| **minimalism-digital** | 極簡主義數位 | 🛠️ Practice |
+| **minimalism-daily** | 日常極簡主義 | 🛠️ Practice |
+| **minimalism-meaning** | 極簡主義意義 | 💡 Connection |
+| **minimalism-growth** | 極簡主義成長 | 💡 Continuous |
+| **minimalism-relationships** | 極簡主義關係 | 🛠️ Application |
+| **minimalism-time** | 極簡主義時間 | 🛠️ Application |
+| **minimalism-community** | 極簡主義社群 | 🛠️ Finding |
+| **minimalism-joy** | 極簡主義喜悅 | 💡 Finding |
+| **minimalism-balance** | 極簡主義平衡 | 💡 Balance |
+| **minimalist-life** | 極簡主義生活 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
