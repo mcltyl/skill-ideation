@@ -12177,6 +12177,450 @@ Agent 應該：
 
 ---
 
+# SPECIAL SEASONS & TRANSITIONS
+
+## 531. Starting a New Job 💼
+
+*開始新工作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **new-job-basics** | 新工作基礎 | 📚 Understanding |
+| **new-job-preparation** | 新工作準備 | 🛠️ Practice |
+| **new-job-first-day** | 新工作第一天 | 🛠️ Navigation |
+| **new-job-first-week** | 新工作第一週 | 🛠️ Navigation |
+| **new-job-relationships** | 新工作關係 | 🛠️ Building |
+| **new-job-learning** | 新工作學習 | 🛠️ Practice |
+| **new-job-daily** | 日常新工作 | 🛠️ Practice |
+| **new-job-meaning** | 新工作意義 | 💡 Connection |
+| **new-job-growth** | 新工作成長 | 💡 Continuous |
+| **new-job-challenges** | 新工作挑戰 | 🧠 Navigation |
+| **new-job-wins** | 新工作勝利 | 🛠️ Seeking |
+| **new-job-feedback** | 新工作回饋 | 🛠️ Seeking |
+| **new-job-joy** | 新工作喜悅 | 💡 Finding |
+| **new-job-patience** | 新工作耐心 | 🧠 Practice |
+| **thriving-newbie** | 蓬勃發展的新人 | 💡 Goal |
+
+## 532. Getting Married 💒
+
+*結婚*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **marriage-prep-basics** | 結婚準備基礎 | 📚 Understanding |
+| **marriage-prep-conversations** | 結婚準備對話 | 🛠️ Practice |
+| **marriage-prep-finances** | 結婚準備財務 | 🛠️ Practice |
+| **marriage-prep-family** | 結婚準備家庭 | 🛠️ Navigation |
+| **marriage-prep-wedding** | 結婚準備婚禮 | 🛠️ Planning |
+| **marriage-prep-expectations** | 結婚準備期待 | 🛠️ Alignment |
+| **marriage-prep-daily** | 日常結婚準備 | 🛠️ Practice |
+| **marriage-prep-meaning** | 結婚準備意義 | 💡 Connection |
+| **marriage-prep-growth** | 結婚準備成長 | 💡 Continuous |
+| **marriage-prep-stress** | 結婚準備壓力 | 🧠 Management |
+| **marriage-prep-joy** | 結婚準備喜悅 | 💡 Finding |
+| **marriage-prep-self** | 結婚準備自我 | 🧠 Reflection |
+| **marriage-prep-support** | 結婚準備支持 | 🛠️ Resources |
+| **marriage-prep-balance** | 結婚準備平衡 | 💡 Balance |
+| **ready-for-marriage** | 準備好結婚 | 💡 Goal |
+
+## 533. Becoming a Parent 👶
+
+*成為父母*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **new-parent-basics** | 新手父母基礎 | 📚 Understanding |
+| **new-parent-preparation** | 新手父母準備 | 🛠️ Practice |
+| **new-parent-expectations** | 新手父母期待 | 🧠 Management |
+| **new-parent-identity** | 新手父母身份 | 🧠 Navigation |
+| **new-parent-relationships** | 新手父母關係 | 🛠️ Maintenance |
+| **new-parent-self-care** | 新手父母自我照顧 | 🛠️ Practice |
+| **new-parent-daily** | 日常新手父母 | 🛠️ Practice |
+| **new-parent-meaning** | 新手父母意義 | 💡 Connection |
+| **new-parent-growth** | 新手父母成長 | 💡 Continuous |
+| **new-parent-sleep** | 新手父母睡眠 | 🛠️ Management |
+| **new-parent-support** | 新手父母支持 | 🛠️ Resources |
+| **new-parent-community** | 新手父母社群 | 🛠️ Finding |
+| **new-parent-joy** | 新手父母喜悅 | 💡 Finding |
+| **new-parent-patience** | 新手父母耐心 | 🧠 Practice |
+| **confident-parent** | 有信心的父母 | 💡 Goal |
+
+## 534. Moving to a New City 🏙️
+
+*搬到新城市*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **new-city-basics** | 新城市基礎 | 📚 Understanding |
+| **new-city-preparation** | 新城市準備 | 🛠️ Practice |
+| **new-city-settling** | 新城市安頓 | 🛠️ Practice |
+| **new-city-exploration** | 新城市探索 | 🛠️ Practice |
+| **new-city-community** | 新城市社群 | 🛠️ Building |
+| **new-city-routines** | 新城市例行 | 🛠️ Building |
+| **new-city-daily** | 日常新城市 | 🛠️ Practice |
+| **new-city-meaning** | 新城市意義 | 💡 Connection |
+| **new-city-growth** | 新城市成長 | 💡 Continuous |
+| **new-city-loneliness** | 新城市孤獨 | 🧠 Management |
+| **new-city-adventure** | 新城市冒險 | 🛠️ Embrace |
+| **new-city-home** | 新城市家 | 🛠️ Creating |
+| **new-city-joy** | 新城市喜悅 | 💡 Finding |
+| **new-city-patience** | 新城市耐心 | 🧠 Practice |
+| **home-in-new-city** | 新城市的家 | 💡 Goal |
+
+## 535. Starting College/University 🎓
+
+*開始大學*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **college-start-basics** | 大學開始基礎 | 📚 Understanding |
+| **college-start-preparation** | 大學開始準備 | 🛠️ Practice |
+| **college-start-academics** | 大學開始學術 | 🛠️ Navigation |
+| **college-start-social** | 大學開始社交 | 🛠️ Building |
+| **college-start-independence** | 大學開始獨立 | 🛠️ Practice |
+| **college-start-balance** | 大學開始平衡 | 💡 Balance |
+| **college-start-daily** | 日常大學開始 | 🛠️ Practice |
+| **college-start-meaning** | 大學開始意義 | 💡 Connection |
+| **college-start-growth** | 大學開始成長 | 💡 Continuous |
+| **college-start-challenges** | 大學開始挑戰 | 🧠 Navigation |
+| **college-start-resources** | 大學開始資源 | 🛠️ Finding |
+| **college-start-self** | 大學開始自我 | 🧠 Discovery |
+| **college-start-joy** | 大學開始喜悅 | 💡 Finding |
+| **college-start-patience** | 大學開始耐心 | 🧠 Practice |
+| **thriving-student** | 蓬勃發展的學生 | 💡 Goal |
+
+## 536. Retirement Transition 🏖️
+
+*退休過渡*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **retirement-basics** | 退休過渡基礎 | 📚 Understanding |
+| **retirement-preparation** | 退休過渡準備 | 🛠️ Practice |
+| **retirement-identity** | 退休過渡身份 | 🧠 Navigation |
+| **retirement-purpose** | 退休過渡目的 | 🛠️ Finding |
+| **retirement-structure** | 退休過渡架構 | 🛠️ Building |
+| **retirement-relationships** | 退休過渡關係 | 🛠️ Cultivation |
+| **retirement-daily** | 日常退休過渡 | 🛠️ Practice |
+| **retirement-meaning** | 退休過渡意義 | 💡 Connection |
+| **retirement-growth** | 退休過渡成長 | 💡 Continuous |
+| **retirement-health** | 退休過渡健康 | 🛠️ Priority |
+| **retirement-hobbies** | 退休過渡嗜好 | 🛠️ Development |
+| **retirement-community** | 退休過渡社群 | 🛠️ Finding |
+| **retirement-joy** | 退休過渡喜悅 | 💡 Finding |
+| **retirement-legacy** | 退休過渡遺產 | 🛠️ Building |
+| **thriving-retiree** | 蓬勃發展的退休者 | 💡 Goal |
+
+## 537. Career Change 🔄
+
+*職業轉換*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **career-change-basics** | 職業轉換基礎 | 📚 Understanding |
+| **career-change-clarity** | 職業轉換清晰 | 🛠️ Process |
+| **career-change-exploration** | 職業轉換探索 | 🛠️ Practice |
+| **career-change-skills** | 職業轉換技能 | 🛠️ Assessment |
+| **career-change-preparation** | 職業轉換準備 | 🛠️ Practice |
+| **career-change-transition** | 職業轉換過渡 | 🛠️ Navigation |
+| **career-change-daily** | 日常職業轉換 | 🛠️ Practice |
+| **career-change-meaning** | 職業轉換意義 | 💡 Connection |
+| **career-change-growth** | 職業轉換成長 | 💡 Continuous |
+| **career-change-fear** | 職業轉換恐懼 | 🧠 Management |
+| **career-change-support** | 職業轉換支持 | 🛠️ Resources |
+| **career-change-network** | 職業轉換人脈 | 🛠️ Building |
+| **career-change-joy** | 職業轉換喜悅 | 💡 Finding |
+| **career-change-patience** | 職業轉換耐心 | 🧠 Practice |
+| **successful-pivot** | 成功的轉向 | 💡 Goal |
+
+## 538. Divorce Navigation 💔
+
+*離婚導航*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **divorce-basics** | 離婚基礎 | 📚 Understanding |
+| **divorce-decision** | 離婚決定 | 🧠 Process |
+| **divorce-legal** | 離婚法律 | 🛠️ Navigation |
+| **divorce-financial** | 離婚財務 | 🛠️ Management |
+| **divorce-children** | 離婚子女 | 🛠️ Priority |
+| **divorce-emotions** | 離婚情緒 | 🧠 Processing |
+| **divorce-daily** | 日常離婚 | 🛠️ Practice |
+| **divorce-meaning** | 離婚意義 | 💡 Connection |
+| **divorce-growth** | 離婚成長 | 💡 Continuous |
+| **divorce-support** | 離婚支持 | 🛠️ Resources |
+| **divorce-self-care** | 離婚自我照顧 | 🛠️ Practice |
+| **divorce-identity** | 離婚身份 | 🧠 Rebuilding |
+| **divorce-joy** | 離婚喜悅 | 💡 Finding |
+| **divorce-new-chapter** | 離婚新篇章 | 🛠️ Building |
+| **thriving-after-divorce** | 離婚後蓬勃發展 | 💡 Goal |
+
+## 539. Grief and Loss 🕯️
+
+*悲傷和失去*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **grief-basics** | 悲傷基礎 | 📚 Understanding |
+| **grief-process** | 悲傷過程 | 🧠 Navigation |
+| **grief-emotions** | 悲傷情緒 | 🧠 Processing |
+| **grief-self-care** | 悲傷自我照顧 | 🛠️ Practice |
+| **grief-support** | 悲傷支持 | 🛠️ Resources |
+| **grief-rituals** | 悲傷儀式 | 🛠️ Practice |
+| **grief-daily** | 日常悲傷 | 🛠️ Practice |
+| **grief-meaning** | 悲傷意義 | 💡 Finding |
+| **grief-growth** | 悲傷成長 | 💡 Continuous |
+| **grief-memory** | 悲傷記憶 | 🛠️ Honoring |
+| **grief-community** | 悲傷社群 | 🛠️ Finding |
+| **grief-professional** | 悲傷專業 | 🛠️ When to seek |
+| **grief-joy** | 悲傷喜悅 | 💡 Finding |
+| **grief-integration** | 悲傷整合 | 🧠 Process |
+| **living-with-loss** | 與失去共存 | 💡 Goal |
+
+## 540. Health Crisis 🏥
+
+*健康危機*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **health-crisis-basics** | 健康危機基礎 | 📚 Understanding |
+| **health-crisis-processing** | 健康危機處理 | 🧠 Practice |
+| **health-crisis-decisions** | 健康危機決策 | 🛠️ Navigation |
+| **health-crisis-advocacy** | 健康危機倡導 | 🛠️ Practice |
+| **health-crisis-support** | 健康危機支持 | 🛠️ Building |
+| **health-crisis-daily** | 日常健康危機 | 🛠️ Practice |
+| **health-crisis-meaning** | 健康危機意義 | 💡 Finding |
+| **health-crisis-growth** | 健康危機成長 | 💡 Continuous |
+| **health-crisis-emotions** | 健康危機情緒 | 🧠 Processing |
+| **health-crisis-self-care** | 健康危機自我照顧 | 🛠️ Practice |
+| **health-crisis-resources** | 健康危機資源 | 🛠️ Finding |
+| **health-crisis-communication** | 健康危機溝通 | 🛠️ Practice |
+| **health-crisis-joy** | 健康危機喜悅 | 💡 Finding |
+| **health-crisis-hope** | 健康危機希望 | 🧠 Maintaining |
+| **thriving-through-illness** | 疾病中蓬勃發展 | 💡 Goal |
+
+## 541. Financial Crisis 💸
+
+*財務危機*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **financial-crisis-basics** | 財務危機基礎 | 📚 Understanding |
+| **financial-crisis-assessment** | 財務危機評估 | 🛠️ Process |
+| **financial-crisis-plan** | 財務危機計畫 | 🛠️ Building |
+| **financial-crisis-expenses** | 財務危機支出 | 🛠️ Reduction |
+| **financial-crisis-income** | 財務危機收入 | 🛠️ Increase |
+| **financial-crisis-emotions** | 財務危機情緒 | 🧠 Processing |
+| **financial-crisis-daily** | 日常財務危機 | 🛠️ Practice |
+| **financial-crisis-meaning** | 財務危機意義 | 💡 Connection |
+| **financial-crisis-growth** | 財務危機成長 | 💡 Continuous |
+| **financial-crisis-support** | 財務危機支持 | 🛠️ Resources |
+| **financial-crisis-relationships** | 財務危機關係 | 🛠️ Management |
+| **financial-crisis-professional** | 財務危機專業 | 🛠️ When to seek |
+| **financial-crisis-joy** | 財務危機喜悅 | 💡 Finding |
+| **financial-crisis-rebuilding** | 財務危機重建 | 🛠️ Process |
+| **financial-recovery** | 財務恢復 | 💡 Goal |
+
+## 542. Midlife Transition 🌗
+
+*中年過渡*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **midlife-basics** | 中年過渡基礎 | 📚 Understanding |
+| **midlife-reflection** | 中年過渡反思 | 🛠️ Practice |
+| **midlife-identity** | 中年過渡身份 | 🧠 Exploration |
+| **midlife-purpose** | 中年過渡目的 | 🛠️ Clarification |
+| **midlife-relationships** | 中年過渡關係 | 🛠️ Evaluation |
+| **midlife-health** | 中年過渡健康 | 🛠️ Priority |
+| **midlife-daily** | 日常中年過渡 | 🛠️ Practice |
+| **midlife-meaning** | 中年過渡意義 | 💡 Connection |
+| **midlife-growth** | 中年過渡成長 | 💡 Continuous |
+| **midlife-adventure** | 中年過渡冒險 | 🛠️ Embrace |
+| **midlife-legacy** | 中年過渡遺產 | 🛠️ Building |
+| **midlife-support** | 中年過渡支持 | 🛠️ Resources |
+| **midlife-joy** | 中年過渡喜悅 | 💡 Finding |
+| **midlife-renewal** | 中年過渡更新 | 🛠️ Practice |
+| **thriving-midlife** | 中年蓬勃發展 | 💡 Goal |
+
+## 543. Quarter-Life Crisis 🎢
+
+*四分之一人生危機*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **quarter-life-basics** | 四分之一人生危機基礎 | 📚 Understanding |
+| **quarter-life-confusion** | 四分之一人生危機困惑 | 🧠 Processing |
+| **quarter-life-comparison** | 四分之一人生危機比較 | 🧠 Management |
+| **quarter-life-identity** | 四分之一人生危機身份 | 🧠 Exploration |
+| **quarter-life-career** | 四分之一人生危機職業 | 🛠️ Clarification |
+| **quarter-life-relationships** | 四分之一人生危機關係 | 🛠️ Evaluation |
+| **quarter-life-daily** | 日常四分之一人生危機 | 🛠️ Practice |
+| **quarter-life-meaning** | 四分之一人生危機意義 | 💡 Connection |
+| **quarter-life-growth** | 四分之一人生危機成長 | 💡 Continuous |
+| **quarter-life-exploration** | 四分之一人生危機探索 | 🛠️ Practice |
+| **quarter-life-support** | 四分之一人生危機支持 | 🛠️ Resources |
+| **quarter-life-patience** | 四分之一人生危機耐心 | 🧠 Practice |
+| **quarter-life-joy** | 四分之一人生危機喜悅 | 💡 Finding |
+| **quarter-life-action** | 四分之一人生危機行動 | 🛠️ Practice |
+| **thriving-twenties** | 蓬勃發展的二十多歲 | 💡 Goal |
+
+## 544. Returning to Work 💼
+
+*重返工作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **return-work-basics** | 重返工作基礎 | 📚 Understanding |
+| **return-work-preparation** | 重返工作準備 | 🛠️ Practice |
+| **return-work-skills** | 重返工作技能 | 🛠️ Update |
+| **return-work-confidence** | 重返工作信心 | 🧠 Building |
+| **return-work-search** | 重返工作搜尋 | 🛠️ Practice |
+| **return-work-transitions** | 重返工作過渡 | 🛠️ Navigation |
+| **return-work-daily** | 日常重返工作 | 🛠️ Practice |
+| **return-work-meaning** | 重返工作意義 | 💡 Connection |
+| **return-work-growth** | 重返工作成長 | 💡 Continuous |
+| **return-work-balance** | 重返工作平衡 | 💡 Balance |
+| **return-work-support** | 重返工作支持 | 🛠️ Resources |
+| **return-work-network** | 重返工作人脈 | 🛠️ Building |
+| **return-work-joy** | 重返工作喜悅 | 💡 Finding |
+| **return-work-patience** | 重返工作耐心 | 🧠 Practice |
+| **successful-return** | 成功的重返 | 💡 Goal |
+
+## 545. Relocation Abroad 🌍
+
+*海外遷居*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **relocation-basics** | 海外遷居基礎 | 📚 Understanding |
+| **relocation-preparation** | 海外遷居準備 | 🛠️ Practice |
+| **relocation-logistics** | 海外遷居後勤 | 🛠️ Management |
+| **relocation-culture** | 海外遷居文化 | 🛠️ Adaptation |
+| **relocation-community** | 海外遷居社群 | 🛠️ Building |
+| **relocation-identity** | 海外遷居身份 | 🧠 Navigation |
+| **relocation-daily** | 日常海外遷居 | 🛠️ Practice |
+| **relocation-meaning** | 海外遷居意義 | 💡 Connection |
+| **relocation-growth** | 海外遷居成長 | 💡 Continuous |
+| **relocation-homesickness** | 海外遷居思鄉 | 🧠 Management |
+| **relocation-language** | 海外遷居語言 | 🛠️ Learning |
+| **relocation-support** | 海外遷居支持 | 🛠️ Resources |
+| **relocation-joy** | 海外遷居喜悅 | 💡 Finding |
+| **relocation-adventure** | 海外遷居冒險 | 🛠️ Embrace |
+| **global-citizen** | 全球公民 | 💡 Goal |
+
+## 546. Recovery from Addiction 🌱
+
+*成癮恢復*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **addiction-recovery-basics** | 成癮恢復基礎 | 📚 Understanding |
+| **addiction-recovery-recognition** | 成癮恢復識別 | 🧠 Awareness |
+| **addiction-recovery-treatment** | 成癮恢復治療 | 🛠️ Options |
+| **addiction-recovery-support** | 成癮恢復支持 | 🛠️ Resources |
+| **addiction-recovery-daily** | 日常成癮恢復 | 🛠️ Practice |
+| **addiction-recovery-triggers** | 成癮恢復觸發 | 🧠 Management |
+| **addiction-recovery-meaning** | 成癮恢復意義 | 💡 Finding |
+| **addiction-recovery-growth** | 成癮恢復成長 | 💡 Continuous |
+| **addiction-recovery-relationships** | 成癮恢復關係 | 🛠️ Rebuilding |
+| **addiction-recovery-self-care** | 成癮恢復自我照顧 | 🛠️ Practice |
+| **addiction-recovery-community** | 成癮恢復社群 | 🛠️ Finding |
+| **addiction-recovery-relapse** | 成癮恢復復發 | 🧠 Prevention |
+| **addiction-recovery-joy** | 成癮恢復喜悅 | 💡 Finding |
+| **addiction-recovery-hope** | 成癮恢復希望 | 🧠 Maintaining |
+| **recovered-life** | 恢復的生活 | 💡 Goal |
+
+## 547. Coming Out 🌈
+
+*出櫃*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **coming-out-basics** | 出櫃基礎 | 📚 Understanding |
+| **coming-out-self** | 出櫃自我 | 🧠 Acceptance |
+| **coming-out-timing** | 出櫃時機 | 🛠️ Decision |
+| **coming-out-conversations** | 出櫃對話 | 🛠️ Practice |
+| **coming-out-reactions** | 出櫃反應 | 🧠 Processing |
+| **coming-out-safety** | 出櫃安全 | 🛠️ Assessment |
+| **coming-out-daily** | 日常出櫃 | 🛠️ Practice |
+| **coming-out-meaning** | 出櫃意義 | 💡 Connection |
+| **coming-out-growth** | 出櫃成長 | 💡 Continuous |
+| **coming-out-support** | 出櫃支持 | 🛠️ Resources |
+| **coming-out-community** | 出櫃社群 | 🛠️ Finding |
+| **coming-out-relationships** | 出櫃關係 | 🛠️ Navigation |
+| **coming-out-joy** | 出櫃喜悅 | 💡 Finding |
+| **coming-out-authenticity** | 出櫃真誠 | 💡 Living |
+| **authentic-life** | 真誠的生活 | 💡 Goal |
+
+## 548. Aging Parents Care 👴👵
+
+*照顧年邁父母*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **aging-parents-basics** | 照顧年邁父母基礎 | 📚 Understanding |
+| **aging-parents-conversations** | 照顧年邁父母對話 | 🛠️ Practice |
+| **aging-parents-planning** | 照顧年邁父母規劃 | 🛠️ Practice |
+| **aging-parents-care-options** | 照顧年邁父母選項 | 🛠️ Evaluation |
+| **aging-parents-boundaries** | 照顧年邁父母邊界 | 🛠️ Setting |
+| **aging-parents-self-care** | 照顧年邁父母自我照顧 | 🛠️ Practice |
+| **aging-parents-daily** | 日常照顧年邁父母 | 🛠️ Practice |
+| **aging-parents-meaning** | 照顧年邁父母意義 | 💡 Connection |
+| **aging-parents-growth** | 照顧年邁父母成長 | 💡 Continuous |
+| **aging-parents-siblings** | 照顧年邁父母兄弟姐妹 | 🛠️ Navigation |
+| **aging-parents-resources** | 照顧年邁父母資源 | 🛠️ Finding |
+| **aging-parents-emotions** | 照顧年邁父母情緒 | 🧠 Processing |
+| **aging-parents-joy** | 照顧年邁父母喜悅 | 💡 Finding |
+| **aging-parents-support** | 照顧年邁父母支持 | 🛠️ Resources |
+| **loving-caregiver** | 有愛的照顧者 | 💡 Goal |
+
+## 549. Empty Nest Transition 🐣
+
+*空巢過渡*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **empty-nest-basics** | 空巢過渡基礎 | 📚 Understanding |
+| **empty-nest-emotions** | 空巢過渡情緒 | 🧠 Processing |
+| **empty-nest-identity** | 空巢過渡身份 | 🧠 Rediscovery |
+| **empty-nest-relationship** | 空巢過渡關係 | 🛠️ Renewal |
+| **empty-nest-purpose** | 空巢過渡目的 | 🛠️ Finding |
+| **empty-nest-connection** | 空巢過渡連結 | 🛠️ Maintaining |
+| **empty-nest-daily** | 日常空巢過渡 | 🛠️ Practice |
+| **empty-nest-meaning** | 空巢過渡意義 | 💡 Connection |
+| **empty-nest-growth** | 空巢過渡成長 | 💡 Continuous |
+| **empty-nest-freedom** | 空巢過渡自由 | 🛠️ Embrace |
+| **empty-nest-hobbies** | 空巢過渡嗜好 | 🛠️ Development |
+| **empty-nest-support** | 空巢過渡支持 | 🛠️ Resources |
+| **empty-nest-joy** | 空巢過渡喜悅 | 💡 Finding |
+| **empty-nest-new-chapter** | 空巢過渡新篇章 | 🛠️ Building |
+| **thriving-empty-nester** | 蓬勃發展的空巢者 | 💡 Goal |
+
+## 550. Launching a Business 🚀
+
+*創業*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **business-launch-basics** | 創業基礎 | 📚 Understanding |
+| **business-launch-idea** | 創業點子 | 🛠️ Validation |
+| **business-launch-planning** | 創業規劃 | 🛠️ Practice |
+| **business-launch-funding** | 創業資金 | 🛠️ Securing |
+| **business-launch-legal** | 創業法律 | 🛠️ Setup |
+| **business-launch-mvp** | 創業 MVP | 🛠️ Building |
+| **business-launch-daily** | 日常創業 | 🛠️ Practice |
+| **business-launch-meaning** | 創業意義 | 💡 Connection |
+| **business-launch-growth** | 創業成長 | 💡 Continuous |
+| **business-launch-fear** | 創業恐懼 | 🧠 Management |
+| **business-launch-support** | 創業支持 | 🛠️ Resources |
+| **business-launch-network** | 創業人脈 | 🛠️ Building |
+| **business-launch-joy** | 創業喜悅 | 💡 Finding |
+| **business-launch-patience** | 創業耐心 | 🧠 Practice |
+| **successful-founder** | 成功的創辦人 | 💡 Goal |
+
+---
+
 # QUALITY FILTERS
 
 Before suggesting, ask:
