@@ -2677,6 +2677,120 @@ Agent 應該：
 
 ---
 
+# BONUS CATEGORIES (Niche but Valuable)
+
+## 101. Interview Skills 🎯
+
+*面試技能*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **interview-prep** | 面試準備 | 🛠️ Process |
+| **interview-types** | 面試種類 | 📚 Overview |
+| **behavioral-interviews** | 行為面試 | 🛠️ Technique |
+| **star-method** | STAR 方法 | 🛠️ Framework |
+| **technical-interviews** | 技術面試 | 🛠️ Context |
+| **case-interviews** | 案例面試 | 🛠️ Context |
+| **interview-nerves** | 面試緊張 | 🧠 Psychology |
+| **answering-questions** | 回答問題 | 🛠️ Technique |
+| **asking-questions** | 提問技巧 | 🛠️ Technique |
+| **salary-negotiation** | 薪資談判 | 🛠️ Technique |
+| **post-interview** | 面試後 | 🛠️ Process |
+| **rejection-handling** | 處理拒絕 | 🧠 Recovery |
+| **video-interviews** | 視訊面試 | 🛠️ Adaptation |
+| **panel-interviews** | 多人面試 | 🛠️ Adaptation |
+| **interview-follow-up** | 面試跟進 | 🛠️ Technique |
+
+## 102. Job Search 🔍
+
+*求職*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **job-search-strategy** | 求職策略 | 🛠️ Framework |
+| **resume-writing** | 履歷撰寫 | 🛠️ Practical |
+| **cover-letter** | 求職信 | 🛠️ Practical |
+| **linkedin-optimization** | LinkedIn 優化 | 🛠️ Practical |
+| **job-boards** | 求職平台 | 🛠️ Resource |
+| **networking-for-jobs** | 人脈求職 | 🛠️ Strategy |
+| **hidden-job-market** | 隱藏職缺市場 | 🛠️ Access |
+| **recruiter-interaction** | 獵頭互動 | 🛠️ Technique |
+| **job-search-fatigue** | 求職疲勞 | 🧠 Recovery |
+| **job-search-timeline** | 求職時程 | 🛠️ Planning |
+| **career-pivot-search** | 轉職求職 | 🛠️ Strategy |
+| **international-job-search** | 海外求職 | 🛠️ Context |
+| **job-offer-evaluation** | Offer 評估 | 🛠️ Framework |
+| **multiple-offers** | 多個 Offer | 🛠️ Decision |
+| **job-search-rejection** | 求職拒絕 | 🧠 Psychology |
+
+## 103. Remote Work 🏠
+
+*遠端工作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **remote-work-basics** | 遠端工作基礎 | 📚 Introduction |
+| **home-office-setup** | 居家辦公設置 | 🛠️ Practical |
+| **remote-productivity** | 遠端生產力 | 🛠️ Framework |
+| **remote-communication** | 遠端溝通 | 🛠️ Technique |
+| **remote-boundaries** | 遠端邊界 | 🛠️ Practice |
+| **remote-isolation** | 遠端孤立 | 🧠 Challenge |
+| **remote-team-culture** | 遠端團隊文化 | 🛠️ Building |
+| **async-communication** | 非同步溝通 | 🛠️ Technique |
+| **remote-meetings** | 遠端會議 | 🛠️ Best Practices |
+| **timezone-management** | 時區管理 | 🛠️ Practical |
+| **remote-onboarding** | 遠端入職 | 🛠️ Process |
+| **hybrid-work** | 混合工作 | 🛠️ Navigation |
+| **remote-career-growth** | 遠端職涯成長 | 🛠️ Strategy |
+| **digital-nomad-basics** | 數位遊牧基礎 | 🛠️ Lifestyle |
+| **remote-work-burnout** | 遠端工作倦怠 | 🧠 Prevention |
+
+## 104. Side Projects & Building 🔨
+
+*副專案和建造*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **side-project-start** | 副專案開始 | 🛠️ Framework |
+| **idea-validation** | 想法驗證 | 🛠️ Process |
+| **mvp-mindset** | MVP 心態 | 🧠 Framework |
+| **shipping-fast** | 快速出貨 | 🛠️ Technique |
+| **time-management-side** | 副專案時間管理 | 🛠️ Practical |
+| **side-project-motivation** | 副專案動力 | 🧠 Psychology |
+| **perfectionism-shipping** | 完美主義 vs 出貨 | 🧠 Balance |
+| **building-in-public** | 公開建造 | 🛠️ Strategy |
+| **side-project-death** | 副專案之死 | 🧠 Pattern |
+| **side-project-to-business** | 副專案變生意 | 🧠 Transition |
+| **solo-building** | 獨自建造 | 🧠 Experience |
+| **feedback-gathering** | 收集回饋 | 🛠️ Process |
+| **iteration-mindset** | 迭代心態 | 🧠 Framework |
+| **launching** | 發布 | 🛠️ Process |
+| **post-launch** | 發布後 | 🛠️ Navigation |
+
+## 105. Content Creation 📝
+
+*內容創作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **content-creation-basics** | 內容創作基礎 | 📚 Introduction |
+| **finding-your-niche** | 找到你的定位 | 🛠️ Process |
+| **content-consistency** | 內容一致性 | 🛠️ Practice |
+| **content-ideation** | 內容發想 | 🛠️ Process |
+| **content-calendar** | 內容日曆 | 🛠️ Tool |
+| **platform-selection** | 平台選擇 | 🛠️ Decision |
+| **writing-for-social** | 社群寫作 | 🛠️ Technique |
+| **video-content** | 影片內容 | 🛠️ Context |
+| **audio-content** | 音頻內容 | 🛠️ Context |
+| **building-audience** | 建立受眾 | 🛠️ Strategy |
+| **engagement-tactics** | 互動策略 | 🛠️ Technique |
+| **creator-burnout** | 創作者倦怠 | 🧠 Prevention |
+| **monetization** | 變現 | 🛠️ Strategy |
+| **creator-economy** | 創作者經濟 | 📚 Understanding |
+| **authentic-content** | 真誠內容 | 💡 Philosophy |
+
+---
+
 # QUALITY FILTERS
 
 Before suggesting, ask:
