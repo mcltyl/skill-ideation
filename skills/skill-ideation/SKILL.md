@@ -7205,6 +7205,116 @@ Agent 應該：
 | **caregiver-community** | 照顧者社群 | 🛠️ Finding |
 | **sustainable-caregiving** | 永續照顧 | 💡 Philosophy |
 
+## 306. Managing Financial Crisis 💸
+
+*管理財務危機*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **financial-crisis-basics** | 財務危機基礎 | 📚 Understanding |
+| **financial-crisis-emotions** | 財務危機情緒 | 🧠 Processing |
+| **financial-crisis-assessment** | 財務危機評估 | 🛠️ Process |
+| **financial-crisis-priorities** | 財務危機優先 | 🛠️ Setting |
+| **financial-crisis-plan** | 財務危機計畫 | 🛠️ Creation |
+| **financial-crisis-income** | 財務危機收入 | 🛠️ Increasing |
+| **financial-crisis-expenses** | 財務危機支出 | 🛠️ Reducing |
+| **financial-crisis-debt** | 財務危機債務 | 🛠️ Management |
+| **financial-crisis-resources** | 財務危機資源 | 🛠️ Finding |
+| **financial-crisis-support** | 財務危機支持 | 🛠️ Resources |
+| **financial-crisis-shame** | 財務危機羞恥 | 🧠 Processing |
+| **financial-crisis-relationships** | 財務危機關係 | 🛠️ Navigation |
+| **financial-crisis-recovery** | 財務危機恢復 | 🛠️ Process |
+| **financial-crisis-lessons** | 財務危機教訓 | 💡 Learning |
+| **financial-resilience** | 財務韌性 | 💡 Building |
+
+## 307. Rebuilding After Bankruptcy 🔄
+
+*破產後重建*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **bankruptcy-recovery-basics** | 破產恢復基礎 | 📚 Understanding |
+| **bankruptcy-emotions** | 破產情緒 | 🧠 Processing |
+| **bankruptcy-shame** | 破產羞恥 | 🧠 Processing |
+| **bankruptcy-identity** | 破產身份 | 🧠 Navigation |
+| **bankruptcy-process** | 破產過程 | 🛠️ Understanding |
+| **bankruptcy-finances** | 破產財務 | 🛠️ Rebuilding |
+| **bankruptcy-credit** | 破產信用 | 🛠️ Rebuilding |
+| **bankruptcy-habits** | 破產習慣 | 🛠️ Building |
+| **bankruptcy-income** | 破產收入 | 🛠️ Building |
+| **bankruptcy-support** | 破產支持 | 🛠️ Resources |
+| **bankruptcy-relationships** | 破產關係 | 🛠️ Navigation |
+| **bankruptcy-lessons** | 破產教訓 | 💡 Learning |
+| **bankruptcy-growth** | 破產成長 | 💡 Opportunity |
+| **bankruptcy-timeline** | 破產時間線 | 🛠️ Patience |
+| **fresh-start** | 嶄新開始 | 💡 Philosophy |
+
+## 308. Recovering from Addiction 🌿
+
+*戒癮恢復*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **addiction-recovery-basics** | 戒癮恢復基礎 | 📚 Understanding |
+| **addiction-recovery-decision** | 戒癮決定 | 🧠 Process |
+| **addiction-recovery-treatment** | 戒癮治療 | 🛠️ Options |
+| **addiction-recovery-support** | 戒癮支持 | 🛠️ Resources |
+| **addiction-recovery-daily** | 戒癮日常 | 🛠️ Practice |
+| **addiction-recovery-triggers** | 戒癮觸發 | 🧠 Navigation |
+| **addiction-recovery-relapse** | 戒癮復發 | 🧠 Navigation |
+| **addiction-recovery-relationships** | 戒癮關係 | 🛠️ Navigation |
+| **addiction-recovery-identity** | 戒癮身份 | 🧠 Navigation |
+| **addiction-recovery-shame** | 戒癮羞恥 | 🧠 Processing |
+| **addiction-recovery-meaning** | 戒癮意義 | 💡 Finding |
+| **addiction-recovery-community** | 戒癮社群 | 🛠️ Finding |
+| **addiction-recovery-growth** | 戒癮成長 | 💡 Opportunity |
+| **addiction-recovery-service** | 戒癮服務 | 🛠️ Practice |
+| **one-day-at-a-time** | 一天一天來 | 💡 Philosophy |
+
+## 309. Coping with Chronic Pain 💊
+
+*應對慢性疼痛*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **chronic-pain-basics** | 慢性疼痛基礎 | 📚 Understanding |
+| **chronic-pain-management** | 慢性疼痛管理 | 🛠️ Framework |
+| **chronic-pain-treatment** | 慢性疼痛治療 | 🛠️ Options |
+| **chronic-pain-daily** | 慢性疼痛日常 | 🛠️ Practice |
+| **chronic-pain-flares** | 慢性疼痛發作 | 🛠️ Navigation |
+| **chronic-pain-energy** | 慢性疼痛能量 | 🛠️ Management |
+| **chronic-pain-emotions** | 慢性疼痛情緒 | 🧠 Processing |
+| **chronic-pain-relationships** | 慢性疼痛關係 | 🛠️ Navigation |
+| **chronic-pain-work** | 慢性疼痛工作 | 🛠️ Navigation |
+| **chronic-pain-identity** | 慢性疼痛身份 | 🧠 Navigation |
+| **chronic-pain-acceptance** | 慢性疼痛接納 | 🧠 Process |
+| **chronic-pain-support** | 慢性疼痛支持 | 🛠️ Resources |
+| **chronic-pain-meaning** | 慢性疼痛意義 | 💡 Finding |
+| **chronic-pain-advocacy** | 慢性疼痛倡議 | 🛠️ Practice |
+| **living-with-pain** | 與疼痛共處 | 💡 Philosophy |
+
+## 310. Managing Mental Health Conditions 🧠
+
+*管理心理健康狀況*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **mental-health-basics** | 心理健康基礎 | 📚 Understanding |
+| **mental-health-diagnosis** | 心理健康診斷 | 🧠 Processing |
+| **mental-health-treatment** | 心理健康治療 | 🛠️ Options |
+| **mental-health-medication** | 心理健康藥物 | 🛠️ Navigation |
+| **mental-health-therapy** | 心理健康治療 | 🛠️ Navigation |
+| **mental-health-daily** | 心理健康日常 | 🛠️ Practice |
+| **mental-health-triggers** | 心理健康觸發 | 🧠 Navigation |
+| **mental-health-crisis** | 心理健康危機 | 🛠️ Plan |
+| **mental-health-relationships** | 心理健康關係 | 🛠️ Navigation |
+| **mental-health-work** | 心理健康工作 | 🛠️ Navigation |
+| **mental-health-stigma** | 心理健康污名 | 🧠 Navigation |
+| **mental-health-disclosure** | 心理健康揭露 | 🛠️ Decision |
+| **mental-health-support** | 心理健康支持 | 🛠️ Resources |
+| **mental-health-meaning** | 心理健康意義 | 💡 Finding |
+| **thriving-with-mental-illness** | 與心理疾病共同蓬勃發展 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
