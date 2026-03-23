@@ -3339,6 +3339,116 @@ Agent 應該：
 | **authentic-listening** | 真實聆聽 | 🛠️ Practice |
 | **authenticity-journey** | 真實的旅程 | 💡 Philosophy |
 
+## 131. Discipline 🏋️
+
+*紀律*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **discipline-basics** | 紀律基礎 | 📚 Understanding |
+| **discipline-vs-motivation** | 紀律 vs 動機 | 📚 Distinction |
+| **discipline-building** | 建立紀律 | 🛠️ Process |
+| **discipline-practice** | 紀律練習 | 🛠️ Practice |
+| **self-discipline** | 自我紀律 | 🛠️ Framework |
+| **discipline-habits** | 紀律習慣 | 🛠️ Connection |
+| **discipline-flexibility** | 紀律的彈性 | 💡 Balance |
+| **discipline-failure** | 紀律失敗 | 🛠️ Recovery |
+| **discipline-environment** | 紀律環境 | 🛠️ Setup |
+| **discipline-support** | 紀律支持 | 🛠️ Resources |
+| **discipline-rewards** | 紀律獎勵 | 🛠️ Technique |
+| **discipline-willpower** | 紀律和意志力 | 📚 Understanding |
+| **discipline-domains** | 不同領域的紀律 | 🛠️ Application |
+| **discipline-children** | 孩子的紀律 | 🛠️ Parenting |
+| **discipline-joy** | 紀律中的喜悅 | 💡 Philosophy |
+
+## 132. Assertiveness 💪
+
+*自信*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **assertiveness-basics** | 自信基礎 | 📚 Understanding |
+| **assertive-vs-aggressive** | 自信 vs 攻擊 | 📚 Distinction |
+| **assertive-communication** | 自信溝通 | 🛠️ Technique |
+| **assertiveness-practice** | 自信練習 | 🛠️ Practice |
+| **saying-no-assertive** | 自信說不 | 🛠️ Technique |
+| **asking-assertive** | 自信請求 | 🛠️ Technique |
+| **boundaries-assertive** | 自信設邊界 | 🛠️ Application |
+| **assertiveness-work** | 工作中的自信 | 🛠️ Application |
+| **assertiveness-relationships** | 關係中的自信 | 🛠️ Application |
+| **assertiveness-fear** | 自信的恐懼 | 🧠 Psychology |
+| **assertiveness-culture** | 文化和自信 | 🌍 Context |
+| **assertiveness-body** | 自信的身體語言 | 🛠️ Practice |
+| **assertiveness-voice** | 自信的聲音 | 🛠️ Practice |
+| **over-assertiveness** | 過度自信 | 🧠 Awareness |
+| **assertiveness-balance** | 自信平衡 | 💡 Balance |
+
+## 133. Optimism & Hope 🌈
+
+*樂觀和希望*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **optimism-basics** | 樂觀基礎 | 📚 Understanding |
+| **realistic-optimism** | 現實樂觀 | 💡 Balance |
+| **optimism-vs-denial** | 樂觀 vs 否認 | 📚 Distinction |
+| **optimism-practice** | 樂觀練習 | 🛠️ Practice |
+| **hope-basics** | 希望基礎 | 📚 Understanding |
+| **hope-practice** | 希望練習 | 🛠️ Practice |
+| **learned-optimism** | 習得樂觀 | 📚 Framework |
+| **optimism-pessimism** | 樂觀和悲觀 | 🧠 Balance |
+| **optimism-health** | 樂觀和健康 | 📚 Science |
+| **optimism-relationships** | 樂觀和關係 | 🛠️ Application |
+| **optimism-work** | 工作中的樂觀 | 🛠️ Application |
+| **hope-in-hard-times** | 困難時期的希望 | 🧠 Challenge |
+| **false-hope** | 假希望 | 🧠 Awareness |
+| **hope-action** | 希望到行動 | 🛠️ Bridge |
+| **spreading-hope** | 散播希望 | 🛠️ Practice |
+
+## 134. Acceptance (Life) 🙌
+
+*接納（人生）*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **acceptance-basics** | 接納基礎 | 📚 Understanding |
+| **acceptance-vs-resignation** | 接納 vs 放棄 | 📚 Distinction |
+| **radical-acceptance** | 徹底接納 | 💡 Practice |
+| **acceptance-practice** | 接納練習 | 🛠️ Practice |
+| **what-you-can-control** | 你能控制什麼 | 🧠 Framework |
+| **accepting-uncertainty** | 接納不確定 | 🧠 Practice |
+| **accepting-imperfection** | 接納不完美 | 🧠 Practice |
+| **accepting-others** | 接納他人 | 🛠️ Practice |
+| **accepting-past** | 接納過去 | 🧠 Process |
+| **accepting-present** | 接納當下 | 🛠️ Practice |
+| **accepting-emotions** | 接納情緒 | 🧠 Practice |
+| **acceptance-grief** | 悲傷中的接納 | 🧠 Application |
+| **acceptance-change** | 改變中的接納 | 🧠 Application |
+| **acceptance-process** | 接納過程 | 🧠 Understanding |
+| **acceptance-peace** | 接納帶來平靜 | 💡 Philosophy |
+
+## 135. Self-Awareness 🪞
+
+*自我覺察*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **self-awareness-basics** | 自我覺察基礎 | 📚 Understanding |
+| **self-awareness-types** | 自我覺察種類 | 📚 Framework |
+| **internal-awareness** | 內在覺察 | 🧠 Type |
+| **external-awareness** | 外在覺察 | 🧠 Type |
+| **self-awareness-practice** | 自我覺察練習 | 🛠️ Practice |
+| **reflection-practice** | 反思練習 | 🛠️ Practice |
+| **journaling-awareness** | 日記覺察 | 🛠️ Tool |
+| **feedback-awareness** | 回饋覺察 | 🛠️ Tool |
+| **blind-spots** | 盲點 | 🧠 Awareness |
+| **self-awareness-triggers** | 覺察觸發點 | 🧠 Recognition |
+| **emotion-awareness** | 情緒覺察 | 🧠 Application |
+| **thought-awareness** | 思維覺察 | 🧠 Application |
+| **behavior-awareness** | 行為覺察 | 🧠 Application |
+| **self-awareness-growth** | 覺察促進成長 | 💡 Philosophy |
+| **too-much-self-awareness** | 過度自我覺察 | 🧠 Balance |
+
 ---
 
 # QUALITY FILTERS
