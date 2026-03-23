@@ -5107,6 +5107,116 @@ Agent 應該：
 | **change-growth** | 改變成長 | 💡 Philosophy |
 | **change-mastery** | 改變精通 | 💡 Goal |
 
+## 211. Setting Life Goals 🎯
+
+*設定人生目標*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **life-goals-basics** | 人生目標基礎 | 📚 Understanding |
+| **life-goals-importance** | 人生目標重要性 | 📚 Why |
+| **life-goals-discovery** | 人生目標發現 | 🛠️ Process |
+| **life-goals-framework** | 人生目標框架 | 🛠️ Framework |
+| **life-goals-areas** | 人生目標領域 | 📚 Framework |
+| **life-goals-prioritization** | 人生目標優先 | 🛠️ Process |
+| **life-goals-smart** | SMART 目標 | 🛠️ Framework |
+| **life-goals-timeline** | 人生目標時程 | 🛠️ Planning |
+| **life-goals-action** | 人生目標行動 | 🛠️ Bridge |
+| **life-goals-review** | 人生目標回顧 | 🛠️ Practice |
+| **life-goals-adjustment** | 人生目標調整 | 🛠️ Practice |
+| **life-goals-obstacles** | 人生目標障礙 | 🧠 Navigation |
+| **life-goals-support** | 人生目標支持 | 🛠️ Resources |
+| **life-goals-flexibility** | 人生目標彈性 | 💡 Balance |
+| **life-goals-meaning** | 人生目標意義 | 💡 Philosophy |
+
+## 212. Managing Information Overload 📚
+
+*管理資訊過載*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **info-overload-basics** | 資訊過載基礎 | 📚 Understanding |
+| **info-overload-signs** | 資訊過載徵兆 | 🧠 Recognition |
+| **info-overload-costs** | 資訊過載代價 | 🧠 Awareness |
+| **info-overload-management** | 資訊過載管理 | 🛠️ Framework |
+| **info-diet** | 資訊飲食 | 🛠️ Practice |
+| **info-filtering** | 資訊過濾 | 🛠️ Technique |
+| **info-curation** | 資訊策展 | 🛠️ Practice |
+| **info-consumption** | 資訊消費 | 🛠️ Mindfulness |
+| **news-management** | 新聞管理 | 🛠️ Application |
+| **social-media-info** | 社群媒體資訊 | 🛠️ Application |
+| **email-overload** | Email 過載 | 🛠️ Application |
+| **info-boundaries** | 資訊邊界 | 🛠️ Setting |
+| **info-detox** | 資訊排毒 | 🛠️ Practice |
+| **quality-over-quantity** | 質量優於數量 | 💡 Philosophy |
+| **info-action** | 資訊到行動 | 🛠️ Bridge |
+
+## 213. Developing Emotional Intelligence 🧠
+
+*發展情緒智商*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **eq-basics** | 情緒智商基礎 | 📚 Understanding |
+| **eq-components** | 情緒智商組成 | 📚 Framework |
+| **self-awareness-eq** | 自我覺察 | 🛠️ Component |
+| **self-regulation-eq** | 自我調節 | 🛠️ Component |
+| **motivation-eq** | 動機 | 🛠️ Component |
+| **empathy-eq** | 同理心 | 🛠️ Component |
+| **social-skills-eq** | 社交技巧 | 🛠️ Component |
+| **eq-assessment** | 情緒智商評估 | 🛠️ Tool |
+| **eq-development** | 情緒智商發展 | 🛠️ Process |
+| **eq-practice** | 情緒智商練習 | 🛠️ Practice |
+| **eq-work** | 工作情緒智商 | 🛠️ Application |
+| **eq-relationships** | 關係情緒智商 | 🛠️ Application |
+| **eq-leadership** | 領導情緒智商 | 🛠️ Application |
+| **eq-parenting** | 育兒情緒智商 | 🛠️ Application |
+| **eq-growth** | 情緒智商成長 | 💡 Philosophy |
+
+## 214. Learning to Say Yes 👍
+
+*學習說是*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **saying-yes-basics** | 說是基礎 | 📚 Understanding |
+| **saying-yes-importance** | 說是重要性 | 📚 Why |
+| **saying-yes-fear** | 說是的恐懼 | 🧠 Psychology |
+| **saying-yes-opportunities** | 說是和機會 | 💡 Connection |
+| **saying-yes-growth** | 說是和成長 | 💡 Connection |
+| **saying-yes-adventure** | 說是和冒險 | 💡 Connection |
+| **saying-yes-practice** | 說是練習 | 🛠️ Practice |
+| **saying-yes-selective** | 選擇性說是 | 🛠️ Balance |
+| **saying-yes-work** | 工作中說是 | 🛠️ Application |
+| **saying-yes-social** | 社交中說是 | 🛠️ Application |
+| **saying-yes-comfort-zone** | 說是和舒適圈 | 🧠 Expansion |
+| **saying-yes-boundaries** | 說是和邊界 | 💡 Balance |
+| **saying-yes-regret** | 說是和後悔 | 🧠 Processing |
+| **saying-yes-vs-no** | 說是 vs 說不 | 📚 Balance |
+| **intentional-yes** | 有意識的是 | 💡 Philosophy |
+
+## 215. Learning to Say No 🚫
+
+*學習說不*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **saying-no-basics** | 說不基礎 | 📚 Understanding |
+| **saying-no-importance** | 說不重要性 | 📚 Why |
+| **saying-no-fear** | 說不的恐懼 | 🧠 Psychology |
+| **saying-no-guilt** | 說不罪惡感 | 🧠 Processing |
+| **saying-no-techniques** | 說不技巧 | 🛠️ List |
+| **saying-no-polite** | 禮貌說不 | 🛠️ Technique |
+| **saying-no-firm** | 堅定說不 | 🛠️ Technique |
+| **saying-no-work** | 工作中說不 | 🛠️ Application |
+| **saying-no-social** | 社交中說不 | 🛠️ Application |
+| **saying-no-family** | 對家人說不 | 🛠️ Application |
+| **saying-no-boundaries** | 說不和邊界 | 🛠️ Connection |
+| **saying-no-priorities** | 說不和優先 | 🛠️ Connection |
+| **saying-no-self-care** | 說不和自我照顧 | 🛠️ Connection |
+| **saying-no-practice** | 說不練習 | 🛠️ Practice |
+| **empowered-no** | 有力量的不 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
