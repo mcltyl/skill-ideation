@@ -8529,6 +8529,116 @@ Agent 應該：
 | **facilitation-tools** | 引導工具 | 🛠️ Learning |
 | **skilled-facilitator** | 熟練的引導者 | 💡 Goal |
 
+## 366. Written Communication ✍️
+
+*書面溝通*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **writing-comm-basics** | 書面溝通基礎 | 📚 Understanding |
+| **writing-comm-clarity** | 書面溝通清晰 | 🛠️ Practice |
+| **writing-comm-structure** | 書面溝通結構 | 🛠️ Framework |
+| **writing-comm-audience** | 書面溝通受眾 | 🛠️ Consideration |
+| **writing-comm-tone** | 書面溝通語調 | 🛠️ Calibration |
+| **writing-comm-email** | 書面溝通 Email | 🛠️ Practice |
+| **writing-comm-reports** | 書面溝通報告 | 🛠️ Practice |
+| **writing-comm-proposals** | 書面溝通提案 | 🛠️ Practice |
+| **writing-comm-editing** | 書面溝通編輯 | 🛠️ Practice |
+| **writing-comm-brevity** | 書面溝通簡潔 | 🛠️ Practice |
+| **writing-comm-daily** | 日常書面溝通 | 🛠️ Practice |
+| **writing-comm-meaning** | 書面溝通意義 | 💡 Connection |
+| **writing-comm-growth** | 書面溝通成長 | 💡 Continuous |
+| **writing-comm-tools** | 書面溝通工具 | 🛠️ Learning |
+| **clear-writer** | 清晰的作者 | 💡 Goal |
+
+## 367. Storytelling 📖
+
+*說故事*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **storytelling-basics** | 說故事基礎 | 📚 Understanding |
+| **storytelling-structure** | 說故事結構 | 🛠️ Framework |
+| **storytelling-characters** | 說故事角色 | 🛠️ Development |
+| **storytelling-conflict** | 說故事衝突 | 🛠️ Practice |
+| **storytelling-emotion** | 說故事情緒 | 🛠️ Practice |
+| **storytelling-details** | 說故事細節 | 🛠️ Practice |
+| **storytelling-personal** | 個人故事 | 🛠️ Practice |
+| **storytelling-business** | 商業說故事 | 🛠️ Application |
+| **storytelling-data** | 數據說故事 | 🛠️ Practice |
+| **storytelling-delivery** | 說故事呈現 | 🛠️ Practice |
+| **storytelling-daily** | 日常說故事 | 🛠️ Practice |
+| **storytelling-meaning** | 說故事意義 | 💡 Connection |
+| **storytelling-growth** | 說故事成長 | 💡 Continuous |
+| **storytelling-collection** | 故事收集 | 🛠️ Practice |
+| **compelling-storyteller** | 引人入勝的說故事者 | 💡 Goal |
+
+## 368. Time Management ⏰
+
+*時間管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **time-management-basics** | 時間管理基礎 | 📚 Understanding |
+| **time-management-audit** | 時間管理審計 | 🛠️ Process |
+| **time-management-priorities** | 時間管理優先 | 🛠️ Setting |
+| **time-management-planning** | 時間管理規劃 | 🛠️ Practice |
+| **time-management-scheduling** | 時間管理排程 | 🛠️ Practice |
+| **time-management-focus** | 時間管理專注 | 🛠️ Practice |
+| **time-management-interruptions** | 時間管理打擾 | 🛠️ Management |
+| **time-management-delegation** | 時間管理授權 | 🛠️ Practice |
+| **time-management-procrastination** | 時間管理拖延 | 🧠 Overcoming |
+| **time-management-energy** | 時間管理能量 | 🛠️ Alignment |
+| **time-management-daily** | 日常時間管理 | 🛠️ Practice |
+| **time-management-meaning** | 時間管理意義 | 💡 Connection |
+| **time-management-growth** | 時間管理成長 | 💡 Continuous |
+| **time-management-tools** | 時間管理工具 | 🛠️ Selection |
+| **time-master** | 時間大師 | 💡 Goal |
+
+## 369. Organization Skills 📁
+
+*組織技巧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **organization-basics** | 組織技巧基礎 | 📚 Understanding |
+| **organization-systems** | 組織系統 | 🛠️ Building |
+| **organization-physical** | 實體組織 | 🛠️ Practice |
+| **organization-digital** | 數位組織 | 🛠️ Practice |
+| **organization-information** | 資訊組織 | 🛠️ Practice |
+| **organization-tasks** | 任務組織 | 🛠️ Practice |
+| **organization-projects** | 專案組織 | 🛠️ Practice |
+| **organization-maintenance** | 組織維護 | 🛠️ Practice |
+| **organization-minimalism** | 組織極簡 | 🛠️ Approach |
+| **organization-daily** | 日常組織 | 🛠️ Practice |
+| **organization-meaning** | 組織意義 | 💡 Connection |
+| **organization-growth** | 組織成長 | 💡 Continuous |
+| **organization-tools** | 組織工具 | 🛠️ Selection |
+| **organization-habits** | 組織習慣 | 🛠️ Building |
+| **organized-life** | 有組織的生活 | 💡 Goal |
+
+## 370. Focus and Concentration 🎯
+
+*專注和集中*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **focus-basics** | 專注基礎 | 📚 Understanding |
+| **focus-science** | 專注科學 | 📚 Science |
+| **focus-environment** | 專注環境 | 🛠️ Design |
+| **focus-distractions** | 專注分心 | 🛠️ Management |
+| **focus-techniques** | 專注技巧 | 🛠️ Practice |
+| **focus-deep-work** | 深度工作 | 🛠️ Practice |
+| **focus-breaks** | 專注休息 | 🛠️ Practice |
+| **focus-energy** | 專注能量 | 🛠️ Management |
+| **focus-digital** | 數位專注 | 🛠️ Practice |
+| **focus-mindfulness** | 正念專注 | 🛠️ Practice |
+| **focus-daily** | 日常專注 | 🛠️ Practice |
+| **focus-meaning** | 專注意義 | 💡 Connection |
+| **focus-growth** | 專注成長 | 💡 Continuous |
+| **focus-recovery** | 專注恢復 | 🛠️ Practice |
+| **focused-mind** | 專注的心 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
