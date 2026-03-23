@@ -806,6 +806,91 @@ Use these to spark ideas:
 | **zoom-exhaustion** | 視訊疲勞 | 🧠 Psychology |
 | **always-on** | 永遠在線的壓力 | 🧠 Psychology |
 
+## 31. Physical Sensations & Body Wisdom 🫀
+
+*身體的智慧，我們忽略的信號*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **gut-feeling-science** | 直覺的科學基礎 | 🔬 Science |
+| **tension-mapping** | 身體哪裡緊 = 心裡哪裡卡 | 🧠 Awareness |
+| **crying-release** | 哭的療癒功能 | 🔬 Science |
+| **breath-emotions** | 呼吸反映情緒 | 🔬 Connection |
+| **hunger-types** | 餓的種類（生理 vs 情緒）| 🧠 Awareness |
+| **fatigue-spectrum** | 累的種類（身體 vs 心理 vs 靈魂）| 🧠 Awareness |
+| **pain-messages** | 疼痛在說什麼 | 🧠 Listening |
+| **body-memory** | 身體記得創傷 | 🔬 Science |
+| **somatic-release** | 身體釋放情緒 | 🛠️ Practice |
+| **grounding-techniques** | 落地技巧 | 🛠️ Practice |
+
+## 32. Time & Temporal Experience ⏰
+
+*時間的主觀體驗*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **time-blindness** | 時間盲（ADHD 常見）| 🧠 Understanding |
+| **time-anxiety** | 時間焦慮 | 🧠 Psychology |
+| **deadline-magic** | 為什麼 deadline 前才動 | 🧠 Pattern |
+| **time-wealth** | 時間富有感 | 💡 Concept |
+| **slow-time** | 讓時間變慢的方法 | 💡 Practice |
+| **wasted-time-myth** | 「浪費時間」的迷思 | 💡 Counter |
+| **waiting-skill** | 等待的藝術 | 🛠️ Skill |
+| **transition-time** | 轉換時間（被忽略的時間）| 💡 Concept |
+| **time-blocking-real** | 時間塊的真實版 | 🛠️ Practical |
+| **calendar-anxiety** | 行事曆焦慮 | 🧠 Psychology |
+
+## 33. Money Psychology 💰
+
+*錢不只是數字*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **money-scripts** | 你對錢的潛意識腳本 | 🧠 Psychology |
+| **spending-triggers** | 什麼觸發你花錢 | 🧠 Awareness |
+| **scarcity-mindset** | 匱乏心態 | 🧠 Pattern |
+| **abundance-real** | 真正的富足感 | 💡 Concept |
+| **money-conversations** | 談錢的困難 | 🛠️ Skill |
+| **lifestyle-creep** | 生活方式膨脹 | 🧠 Pattern |
+| **enough-number** | 「夠」是多少 | 💡 Philosophy |
+| **money-guilt** | 花錢的罪惡感 | 🧠 Psychology |
+| **earning-ceiling** | 收入天花板（心理的）| 🧠 Pattern |
+| **money-trauma** | 金錢創傷 | 🧠 Psychology |
+
+## 34. Space & Environment 🏠
+
+*空間影響心理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **clutter-psychology** | 雜亂的心理學 | 🧠 Psychology |
+| **space-energy** | 空間的能量 | 💡 Concept |
+| **work-space-design** | 工作空間設計 | 🛠️ Practical |
+| **third-place** | 第三空間（不是家也不是公司）| 💡 Concept |
+| **nature-deficit** | 自然缺失症 | 🧠 Psychology |
+| **light-mood** | 光線影響情緒 | 🔬 Science |
+| **noise-sensitivity** | 噪音敏感 | 🧠 Understanding |
+| **personal-space** | 個人空間需求 | 🧠 Understanding |
+| **home-feeling** | 什麼讓地方變「家」| 💡 Philosophy |
+| **digital-space** | 數位空間的整理 | 🛠️ Practical |
+
+## 35. Creativity & Expression 🎨
+
+*創造力不是天賦*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **creative-block** | 創作卡住 | 🧠 Recovery |
+| **starting-ritual** | 開始的儀式 | 🛠️ Practice |
+| **ugly-first-draft** | 醜陋的初稿 | 💡 Permission |
+| **stealing-like-artist** | 像藝術家一樣偷 | 💡 Philosophy |
+| **daily-creative** | 每日創作習慣 | 🛠️ Practice |
+| **fear-of-creation** | 創作的恐懼 | 🧠 Psychology |
+| **sharing-work** | 分享作品的勇氣 | 🧠 Psychology |
+| **feedback-handling** | 處理回饋 | 🛠️ Skill |
+| **creative-rest** | 創意休息 | 💡 Concept |
+| **inspiration-myth** | 靈感的迷思 | 💡 Counter |
+
 ---
 
 # GENERATION TECHNIQUES
