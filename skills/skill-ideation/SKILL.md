@@ -7645,6 +7645,116 @@ Agent 應該：
 | **cross-cultural-growth** | 跨文化成長 | 💡 Opportunity |
 | **bridging-cultures** | 橋接文化 | 💡 Philosophy |
 
+## 326. LGBTQ+ Identity 🏳️‍🌈
+
+*LGBTQ+ 身份*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **lgbtq-identity-basics** | LGBTQ+ 身份基礎 | 📚 Understanding |
+| **lgbtq-self-discovery** | LGBTQ+ 自我發現 | 🧠 Process |
+| **lgbtq-coming-out** | LGBTQ+ 出櫃 | 🛠️ Navigation |
+| **lgbtq-family** | LGBTQ+ 家庭 | 🛠️ Navigation |
+| **lgbtq-relationships** | LGBTQ+ 關係 | 🛠️ Navigation |
+| **lgbtq-community** | LGBTQ+ 社群 | 🛠️ Finding |
+| **lgbtq-work** | LGBTQ+ 工作 | 🛠️ Navigation |
+| **lgbtq-mental-health** | LGBTQ+ 心理健康 | 🛠️ Care |
+| **lgbtq-safety** | LGBTQ+ 安全 | 🛠️ Navigation |
+| **lgbtq-advocacy** | LGBTQ+ 倡議 | 🛠️ Practice |
+| **lgbtq-allyship** | LGBTQ+ 盟友 | 🛠️ Practice |
+| **lgbtq-meaning** | LGBTQ+ 意義 | 💡 Connection |
+| **lgbtq-joy** | LGBTQ+ 喜悅 | 💡 Finding |
+| **lgbtq-growth** | LGBTQ+ 成長 | 💡 Opportunity |
+| **authentic-identity** | 真誠身份 | 💡 Goal |
+
+## 327. Neurodivergent Thriving 🧠
+
+*神經多樣性蓬勃發展*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **neurodivergent-basics** | 神經多樣性基礎 | 📚 Understanding |
+| **neurodivergent-discovery** | 神經多樣性發現 | 🧠 Process |
+| **neurodivergent-diagnosis** | 神經多樣性診斷 | 🧠 Processing |
+| **neurodivergent-strengths** | 神經多樣性優勢 | 💡 Appreciation |
+| **neurodivergent-challenges** | 神經多樣性挑戰 | 🧠 Navigation |
+| **neurodivergent-work** | 神經多樣性工作 | 🛠️ Navigation |
+| **neurodivergent-relationships** | 神經多樣性關係 | 🛠️ Navigation |
+| **neurodivergent-self-care** | 神經多樣性自我照顧 | 🛠️ Practice |
+| **neurodivergent-accommodations** | 神經多樣性調整 | 🛠️ Requesting |
+| **neurodivergent-community** | 神經多樣性社群 | 🛠️ Finding |
+| **neurodivergent-advocacy** | 神經多樣性倡議 | 🛠️ Practice |
+| **neurodivergent-masking** | 神經多樣性偽裝 | 🧠 Navigation |
+| **neurodivergent-meaning** | 神經多樣性意義 | 💡 Connection |
+| **neurodivergent-identity** | 神經多樣性身份 | 🧠 Integration |
+| **thriving-neurodivergent** | 神經多樣性蓬勃發展 | 💡 Goal |
+
+## 328. Introvert Thriving 🤫
+
+*內向者蓬勃發展*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **introvert-basics** | 內向者基礎 | 📚 Understanding |
+| **introvert-self-acceptance** | 內向者自我接納 | 🧠 Process |
+| **introvert-energy** | 內向者能量 | 🛠️ Management |
+| **introvert-social** | 內向者社交 | 🛠️ Navigation |
+| **introvert-work** | 內向者工作 | 🛠️ Navigation |
+| **introvert-networking** | 內向者人脈 | 🛠️ Strategy |
+| **introvert-leadership** | 內向者領導 | 🛠️ Practice |
+| **introvert-relationships** | 內向者關係 | 🛠️ Navigation |
+| **introvert-boundaries** | 內向者邊界 | 🛠️ Setting |
+| **introvert-strengths** | 內向者優勢 | 💡 Appreciation |
+| **introvert-communication** | 內向者溝通 | 🛠️ Practice |
+| **introvert-meaning** | 內向者意義 | 💡 Connection |
+| **introvert-growth** | 內向者成長 | 💡 Opportunity |
+| **introvert-challenges** | 內向者挑戰 | 🧠 Navigation |
+| **quiet-thriving** | 安靜的蓬勃發展 | 💡 Goal |
+
+## 329. Highly Sensitive Person Thriving 🌸
+
+*高敏感族群蓬勃發展*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **hsp-basics** | 高敏感族群基礎 | 📚 Understanding |
+| **hsp-self-acceptance** | 高敏感族群自我接納 | 🧠 Process |
+| **hsp-energy** | 高敏感族群能量 | 🛠️ Management |
+| **hsp-overstimulation** | 高敏感族群過度刺激 | 🛠️ Navigation |
+| **hsp-work** | 高敏感族群工作 | 🛠️ Navigation |
+| **hsp-relationships** | 高敏感族群關係 | 🛠️ Navigation |
+| **hsp-boundaries** | 高敏感族群邊界 | 🛠️ Setting |
+| **hsp-self-care** | 高敏感族群自我照顧 | 🛠️ Practice |
+| **hsp-strengths** | 高敏感族群優勢 | 💡 Appreciation |
+| **hsp-emotions** | 高敏感族群情緒 | 🛠️ Processing |
+| **hsp-meaning** | 高敏感族群意義 | 💡 Connection |
+| **hsp-growth** | 高敏感族群成長 | 💡 Opportunity |
+| **hsp-challenges** | 高敏感族群挑戰 | 🧠 Navigation |
+| **hsp-community** | 高敏感族群社群 | 🛠️ Finding |
+| **sensitive-thriving** | 敏感的蓬勃發展 | 💡 Goal |
+
+## 330. First-Generation Success 🎓
+
+*第一代成功*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **first-gen-basics** | 第一代基礎 | 📚 Understanding |
+| **first-gen-navigation** | 第一代導航 | 🛠️ Practice |
+| **first-gen-education** | 第一代教育 | 🛠️ Navigation |
+| **first-gen-career** | 第一代職涯 | 🛠️ Navigation |
+| **first-gen-imposter** | 第一代冒名頂替症候群 | 🧠 Processing |
+| **first-gen-family** | 第一代家庭 | 🛠️ Navigation |
+| **first-gen-culture** | 第一代文化 | 🧠 Navigation |
+| **first-gen-identity** | 第一代身份 | 🧠 Navigation |
+| **first-gen-community** | 第一代社群 | 🛠️ Finding |
+| **first-gen-mentors** | 第一代導師 | 🛠️ Finding |
+| **first-gen-strengths** | 第一代優勢 | 💡 Appreciation |
+| **first-gen-meaning** | 第一代意義 | 💡 Connection |
+| **first-gen-growth** | 第一代成長 | 💡 Opportunity |
+| **first-gen-giving-back** | 第一代回饋 | 🛠️ Practice |
+| **breaking-barriers** | 打破障礙 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
