@@ -2435,6 +2435,116 @@ Agent 應該：
 | **tech-addiction** | 科技成癮 | 🧠 Recognition |
 | **tech-balance-kids** | 孩子的科技平衡 | 🛠️ Parenting |
 
+## 91. Social Skills (Practical) 🤝
+
+*實用社交技能*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **small-talk** | 閒聊的藝術 | 🛠️ Technique |
+| **conversation-flow** | 對話流動 | 🛠️ Technique |
+| **asking-questions** | 問好問題 | 🛠️ Technique |
+| **active-listening** | 主動聆聽 | 🛠️ Technique |
+| **remembering-details** | 記住細節 | 🛠️ Technique |
+| **introducing-people** | 介紹他人 | 🛠️ Technique |
+| **joining-groups** | 加入群組對話 | 🛠️ Technique |
+| **leaving-conversations** | 優雅離開對話 | 🛠️ Technique |
+| **reading-social-cues** | 讀社交線索 | 🛠️ Skill |
+| **social-recovery** | 社交恢復 | 🛠️ Practice |
+| **hosting** | 待客之道 | 🛠️ Practical |
+| **being-a-good-guest** | 做個好客人 | 🛠️ Practical |
+| **gift-giving** | 送禮的藝術 | 🛠️ Practical |
+| **thank-you-notes** | 感謝卡 | 🛠️ Practical |
+| **social-calendar** | 社交日程管理 | 🛠️ Practical |
+
+## 92. Adulting Basics 🎓
+
+*成人基本技能*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **adulting-overview** | 成人技能總覽 | 📚 Overview |
+| **bills-paying** | 繳帳單 | 🛠️ Practical |
+| **taxes-filing** | 報稅 | 🛠️ Practical |
+| **doctor-visits** | 看醫生 | 🛠️ Practical |
+| **car-maintenance** | 汽車維護 | 🛠️ Practical |
+| **basic-repairs** | 基本維修 | 🛠️ Practical |
+| **laundry** | 洗衣 | 🛠️ Practical |
+| **paperwork-organization** | 文件整理 | 🛠️ Practical |
+| **appointment-making** | 預約安排 | 🛠️ Practical |
+| **emergency-preparedness** | 緊急準備 | 🛠️ Practical |
+| **first-aid-basics** | 急救基礎 | 🛠️ Practical |
+| **contract-reading** | 合約閱讀 | 🛠️ Skill |
+| **insurance-claiming** | 保險理賠 | 🛠️ Practical |
+| **voting-logistics** | 投票實務 | 🛠️ Practical |
+| **adulting-overwhelm** | 成人責任壓力 | 🧠 Psychology |
+
+## 93. Spirituality (Secular) 🕊️
+
+*世俗靈性*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **spirituality-basics** | 靈性基礎 | 📚 Introduction |
+| **secular-spirituality** | 世俗靈性 | 💡 Philosophy |
+| **meaning-beyond-religion** | 宗教之外的意義 | 💡 Exploration |
+| **awe-experiences** | 敬畏體驗 | 💡 Practice |
+| **transcendence** | 超越 | 💡 Experience |
+| **connectedness** | 連結感 | 💡 Philosophy |
+| **spiritual-practices** | 靈性實踐 | 🛠️ Overview |
+| **meditation-spiritual** | 冥想作為靈性 | 🛠️ Practice |
+| **nature-spiritual** | 自然作為靈性 | 💡 Experience |
+| **art-spiritual** | 藝術作為靈性 | 💡 Experience |
+| **community-spiritual** | 社群作為靈性 | 💡 Experience |
+| **service-spiritual** | 服務作為靈性 | 💡 Practice |
+| **spiritual-crisis** | 靈性危機 | 🧠 Navigation |
+| **leaving-religion** | 離開宗教 | 🧠 Transition |
+| **spiritual-but-not-religious** | 有靈性但不宗教 | 💡 Identity |
+
+## 94. Failure & Setbacks 💔
+
+*失敗和挫折*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **failure-mindset** | 失敗心態 | 🧠 Reframe |
+| **failure-processing** | 失敗處理 | 🛠️ Process |
+| **failure-recovery** | 失敗恢復 | 🛠️ Practice |
+| **fear-of-failure** | 失敗恐懼 | 🧠 Psychology |
+| **learning-from-failure** | 從失敗學習 | 🛠️ Framework |
+| **failure-shame** | 失敗羞恥 | 🧠 Processing |
+| **public-failure** | 公開失敗 | 🧠 Recovery |
+| **failure-stories** | 失敗故事 | 💡 Inspiration |
+| **small-failures** | 小失敗 | 💡 Permission |
+| **failure-prevention** | 失敗預防 | 🛠️ Strategy |
+| **failure-acceptance** | 失敗接納 | 💡 Philosophy |
+| **bouncing-back** | 東山再起 | 🛠️ Process |
+| **failure-in-career** | 職涯失敗 | 🧠 Navigation |
+| **failure-in-relationships** | 關係失敗 | 🧠 Navigation |
+| **post-failure-identity** | 失敗後的身份 | 🧠 Rebuilding |
+
+## 95. Change & Transition 🔄
+
+*改變和轉變*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **change-psychology** | 改變心理學 | 📚 Understanding |
+| **change-resistance** | 改變抗拒 | 🧠 Pattern |
+| **change-stages** | 改變階段 | 📚 Framework |
+| **change-management** | 改變管理 | 🛠️ Framework |
+| **transition-basics** | 轉變基礎 | 📚 Understanding |
+| **liminal-space** | 閾限空間 | 🧠 Experience |
+| **in-between** | 介於之間 | 🧠 Navigation |
+| **letting-go** | 放手 | 🧠 Process |
+| **starting-new** | 開始新事物 | 🛠️ Framework |
+| **change-fatigue** | 改變疲勞 | 🧠 Pattern |
+| **unexpected-change** | 意外改變 | 🧠 Coping |
+| **chosen-change** | 選擇的改變 | 🛠️ Navigation |
+| **change-support** | 改變支持 | 🛠️ Resources |
+| **identity-in-change** | 改變中的身份 | 🧠 Preservation |
+| **embracing-change** | 擁抱改變 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
