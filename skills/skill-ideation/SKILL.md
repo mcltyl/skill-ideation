@@ -3781,6 +3781,120 @@ Agent 應該：
 
 ---
 
+# ULTRA-NICHE CATEGORIES (High Specificity, Universal Appeal)
+
+## 151. First Day at New Job 🆕
+
+*新工作第一天*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **first-day-prep** | 第一天準備 | 🛠️ Checklist |
+| **first-day-mindset** | 第一天心態 | 🧠 Framework |
+| **remembering-names** | 記住名字 | 🛠️ Technique |
+| **asking-questions-newbie** | 新人問問題 | 🛠️ Technique |
+| **lunch-first-day** | 第一天午餐 | 🛠️ Navigation |
+| **first-impressions** | 第一印象 | 🛠️ Awareness |
+| **orientation-survival** | 入職培訓生存 | 🛠️ Strategy |
+| **first-week-goals** | 第一週目標 | 🛠️ Framework |
+| **imposter-first-day** | 第一天冒名頂替症候群 | 🧠 Management |
+| **meeting-your-team** | 認識團隊 | 🛠️ Approach |
+| **first-day-mistakes** | 第一天常見錯誤 | 🧠 Awareness |
+| **setting-up-workspace** | 設置工作空間 | 🛠️ Practical |
+| **first-day-questions** | 第一天該問什麼 | 🛠️ List |
+| **end-of-first-day** | 第一天結束 | 🛠️ Reflection |
+| **first-day-follow-up** | 第一天後跟進 | 🛠️ Action |
+
+## 152. Saying Goodbye 👋
+
+*說再見*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **goodbye-basics** | 說再見基礎 | 📚 Understanding |
+| **goodbye-types** | 再見種類 | 📚 Framework |
+| **goodbye-work** | 工作中的再見 | 🛠️ Application |
+| **goodbye-relationships** | 關係中的再見 | 🧠 Navigation |
+| **goodbye-places** | 地方的再見 | 🧠 Processing |
+| **goodbye-rituals** | 再見儀式 | 🛠️ Practice |
+| **goodbye-grief** | 再見的悲傷 | 🧠 Processing |
+| **goodbye-closure** | 再見的closure | 🧠 Process |
+| **goodbye-unsaid** | 沒說出口的再見 | 🧠 Processing |
+| **goodbye-hope** | 帶著希望的再見 | 💡 Philosophy |
+| **goodbye-anger** | 帶著憤怒的再見 | 🧠 Processing |
+| **goodbye-gratitude** | 帶著感恩的再見 | 🛠️ Practice |
+| **goodbye-growth** | 再見促進成長 | 💡 Philosophy |
+| **goodbye-memories** | 保留記憶 | 🛠️ Practice |
+| **hello-after-goodbye** | 再見後的重逢 | 🧠 Navigation |
+
+## 153. Asking for Help 🙋
+
+*請求幫助*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **asking-help-basics** | 請求幫助基礎 | 📚 Understanding |
+| **asking-help-fear** | 請求幫助的恐懼 | 🧠 Psychology |
+| **how-to-ask** | 怎麼問 | 🛠️ Technique |
+| **who-to-ask** | 問誰 | 🛠️ Decision |
+| **when-to-ask** | 何時問 | 🛠️ Timing |
+| **asking-work** | 工作中請求幫助 | 🛠️ Application |
+| **asking-personal** | 個人問題請求幫助 | 🛠️ Application |
+| **asking-strangers** | 向陌生人請求幫助 | 🛠️ Technique |
+| **asking-experts** | 向專家請求幫助 | 🛠️ Technique |
+| **receiving-help** | 接受幫助 | 🛠️ Practice |
+| **refusing-help** | 拒絕幫助 | 🛠️ Boundary |
+| **reciprocating** | 回報幫助 | 🛠️ Practice |
+| **asking-vs-demanding** | 請求 vs 要求 | 📚 Distinction |
+| **vulnerability-asking** | 請求幫助的脆弱 | 🧠 Acceptance |
+| **self-sufficient-myth** | 自給自足的迷思 | 📚 Debunk |
+
+## 154. Receiving Criticism 📝
+
+*接受批評*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **receiving-criticism-basics** | 接受批評基礎 | 📚 Understanding |
+| **criticism-reaction** | 批評反應 | 🧠 Awareness |
+| **defensiveness** | 防衛性 | 🧠 Pattern |
+| **processing-criticism** | 處理批評 | 🛠️ Process |
+| **valid-vs-invalid** | 有效 vs 無效批評 | 🛠️ Assessment |
+| **criticism-growth** | 批評促進成長 | 💡 Reframe |
+| **criticism-emotions** | 批評中的情緒 | 🧠 Management |
+| **asking-for-criticism** | 主動請求批評 | 🛠️ Practice |
+| **criticism-from-loved** | 來自愛人的批評 | 🧠 Special |
+| **criticism-from-boss** | 來自老闆的批評 | 🛠️ Navigation |
+| **public-criticism** | 公開批評 | 🧠 Handling |
+| **unfair-criticism** | 不公平的批評 | 🧠 Response |
+| **criticism-action** | 批評到行動 | 🛠️ Bridge |
+| **criticism-boundary** | 批評的邊界 | 🛠️ Setting |
+| **teaching-criticism** | 教授接受批評 | 🛠️ Practice |
+
+## 155. Making Apologies 🙏
+
+*道歉*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **apology-basics** | 道歉基礎 | 📚 Understanding |
+| **apology-elements** | 道歉要素 | 📚 Framework |
+| **sincere-apology** | 真誠道歉 | 🛠️ Technique |
+| **non-apology** | 非道歉的道歉 | 🧠 Awareness |
+| **apology-timing** | 道歉時機 | 🛠️ Judgment |
+| **apology-vs-excuse** | 道歉 vs 藉口 | 📚 Distinction |
+| **over-apologizing** | 過度道歉 | 🧠 Pattern |
+| **apologizing-work** | 工作中道歉 | 🛠️ Application |
+| **apologizing-relationships** | 關係中道歉 | 🛠️ Application |
+| **apology-follow-up** | 道歉後行動 | 🛠️ Practice |
+| **apology-acceptance** | 接受道歉 | 🛠️ Practice |
+| **apology-rejection** | 道歉被拒絕 | 🧠 Handling |
+| **forgiving-without-apology** | 沒有道歉的原諒 | 🧠 Practice |
+| **self-apology** | 對自己道歉 | 🛠️ Practice |
+| **apology-culture** | 道歉文化 | 🌍 Context |
+
+---
+
 # QUALITY FILTERS
 
 Before suggesting, ask:
