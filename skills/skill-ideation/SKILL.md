@@ -1,36 +1,109 @@
 ---
 name: skill-ideation
-description: Generate agent skill ideas through structured brainstorming. Covers philosophy, career, tech, psychology, culture, niche interests, and more. Delivers fresh ideas morning/noon/night.
+description: Generate agent skill ideas through first-principles thinking. Problem-driven, situation-specific, narrow-but-universal. Delivers fresh ideas morning/noon/night.
 ---
 
 # Skill Ideation Skill
 
 ## Purpose
 
-Generate fresh, creative agent skill ideas through structured brainstorming. No limits, no filters — from philosophy to coffee brewing, from career frameworks to cat behavior.
+Generate skill ideas that solve real problems — not just "topics that sound cool."
 
 ## When to Activate
 
 - User asks for skill ideas
 - Scheduled brainstorm sessions (morning/noon/night)
 - User wants to expand their skill collection
-- User feels stuck on what to build next
+- Agent notices a gap that could be a skill
 
 ---
 
-# BRAINSTORM FRAMEWORK
+# FIRST PRINCIPLES
 
-## Principle: No Limits
+## 核心原則：從問題出發，不是從分類出發
+
+**錯誤的方法：** 「Travel 類還可以有什麼？」
+**正確的方法：** 「旅行時人會遇到什麼問題？」
+
+## 什麼是好的 Skill Idea？
+
+### 必須通過的測試
+
+| 測試 | 問題 |
+|------|------|
+| **Who** | 誰會需要這個？要具體 |
+| **When** | 什麼情境會需要？要有觸發點 |
+| **Gap** | 現在他們怎麼解決？Google 得到好答案嗎？ |
+| **Teachable** | 能用文字教嗎？還是「你得自己體會」？|
+| **Timeless** | 明年還有用嗎？ |
+| **Narrow-Universal** | 夠窄才深入，但夠多人會遇到 |
+
+### 好的命名
+
+| ❌ 不好 | ✅ 好 | 為什麼 |
+|---------|-------|--------|
+| time-management | deadline-panic-recovery | 情境具體 |
+| communication | saying-no | 動作具體 |
+| relationships | after-the-argument | 時刻具體 |
+| career | first-week-fired | 情境具體 |
+
+## 生成方法
+
+### 方法 1：從失敗出發
+
+> 「人在什麼情況下會搞砸？」
+
+- 人們一再犯的錯
+- 本來可以避免的後悔
+- 「早知道就好」的事
+
+### 方法 2：從情境出發
+
+> 「人在什麼時刻需要幫助？」
+
+- 特定的 10 分鐘
+- 特定的人生階段
+- 特定的角色轉換
+
+### 方法 3：從沒人教出發
+
+> 「學校不教但每個人都需要」
+
+- 大人的事沒人教
+- 專業知識但對外行有用
+- 文化潛規則
+
+### 方法 4：從動詞出發
+
+> 「不是名詞（溝通），是動詞（說不、道歉、請求）」
+
+把大概念拆成具體動作
+
+### 方法 5：從反直覺出發
+
+> 「聽起來怪但有道理的」
+
+- 懶惰的智慧
+- 放棄是技能
+- 做少反而更多
+
+---
+
+# SKILL TYPES
 
 A skill can be:
-- 🔬 **A narrow technique** — one specific thing done well
-- 📚 **A knowledge domain** — curated expertise
-- 🧠 **A thinking framework** — mental model or approach
-- 🛠️ **A practical guide** — how to do something
-- 🌍 **A cultural context** — understanding a specific world
-- 💡 **A concept exploration** — deep dive into one idea
 
-**Size doesn't matter.** A skill about "how to apologize" is as valid as a comprehensive "Taiwan guide."
+| Type | 特徵 | 例子 |
+|------|------|------|
+| 🔬 **Technique** | 一個動作做好 | 說不、道歉、deep work |
+| 📚 **Knowledge** | 領域知識整理 | 台灣政治、咖啡入門 |
+| 🧠 **Framework** | 思考方式 | 第一性原理、決策框架 |
+| 🛠️ **Practical** | 怎麼做 | 面試準備、搬家攻略 |
+| 🌍 **Context** | 文化背景 | 日本商務、Gen Z 溝通 |
+| 💡 **Concept** | 一個概念深挖 | 邊界是什麼、脆弱的力量 |
+| ⚡ **Moment** | 特定時刻 | 被裁員第一週、吵架之後 |
+
+**Narrow > Broad.** 範圍小但做好，比範圍大但空泛有價值。
 
 ---
 
@@ -502,6 +575,236 @@ Use these to spark ideas:
 | **long-distance** | 遠距離戀愛 | 🛠️ Practical |
 | **modern-dating-exhaustion** | 現代約會的疲憊 | 🧠 Psychology |
 | **situationship** | 曖昧關係：走還是留 | 🧠 Psychology |
+
+## 21. Micro-Moments (情境驅動) ⚡
+
+*不是大主題，而是人生中那些「怎麼辦」的瞬間*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **first-week-fired** | 被裁員的第一週 | 🧠 Crisis |
+| **receiving-bad-news** | 收到壞消息的反應 | 🧠 Technique |
+| **criticized-not-defensive** | 被批評時不防衛 | 🛠️ Technique |
+| **apology-rejected** | 道歉被拒絕後怎麼辦 | 🧠 Recovery |
+| **waiting-anxiety** | 等待結果的焦慮 | 🧠 Psychology |
+| **night-before-decision** | 做重大決定前一晚 | 🧠 Framework |
+| **10-min-before-meeting** | 重要會議前 10 分鐘 | 🛠️ Practical |
+| **after-the-argument** | 吵完架之後 | 🧠 Recovery |
+| **sunday-scaries** | 週日晚上的焦慮 | 🧠 Psychology |
+| **3am-thoughts** | 凌晨三點的胡思亂想 | 🧠 Psychology |
+| **post-interview-spiral** | 面試後的自我懷疑 | 🧠 Psychology |
+| **ghosted** | 被已讀不回 | 🧠 Psychology |
+| **regret-spiral** | 後悔迴圈怎麼停 | 🧠 Technique |
+| **awkward-silence** | 尷尬沉默怎麼救 | 🛠️ Technique |
+| **forgot-name** | 忘記對方名字 | 🛠️ Practical |
+| **accidental-offense** | 不小心冒犯人 | 🛠️ Recovery |
+
+## 22. Micro-Skills (動作驅動) 🎯
+
+*一個動作，做好就改變很多*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **reading-the-room** | 讀空氣 | 🛠️ Technique |
+| **knowing-when-to-stop** | 適時閉嘴 | 🛠️ Technique |
+| **admitting-wrong** | 承認錯誤（真心版）| 🛠️ Technique |
+| **asking-for-help** | 請求幫助不丟臉 | 🧠 Mindset |
+| **saying-no** | 說不的藝術 | 🛠️ Technique |
+| **taking-back** | 收回說過的話 | 🛠️ Technique |
+| **changing-your-mind** | 改變心意的正當性 | 💡 Philosophy |
+| **giving-compliments** | 讚美的藝術 | 🛠️ Technique |
+| **receiving-compliments** | 接受讚美不尷尬 | 🛠️ Technique |
+| **small-talk** | 閒聊不是廢話 | 🛠️ Technique |
+| **graceful-exit** | 優雅離場 | 🛠️ Technique |
+| **follow-up** | 跟進的時機與方式 | 🛠️ Technique |
+| **remembering-names** | 記住名字的技巧 | 🛠️ Technique |
+| **active-listening-real** | 真正的傾聽 | 🛠️ Technique |
+| **pausing-before-react** | 反應前暫停 | 🛠️ Technique |
+| **disagreeing-respectfully** | 禮貌地不同意 | 🛠️ Technique |
+
+## 23. Identity Transitions (身份轉換) 🔄
+
+*人生角色切換的適應*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **new-hire-first-week** | 新人的前兩週 | 🛠️ Practical |
+| **becoming-manager** | 從 IC 變主管 | 🧠 Transition |
+| **client-to-vendor** | 從甲方變乙方 | 🧠 Transition |
+| **employee-to-freelance** | 從員工變自由業 | 🧠 Transition |
+| **single-to-taken** | 從單身變有對象 | 🧠 Transition |
+| **taken-to-single** | 從有對象變單身 | 🧠 Transition |
+| **childless-to-parent** | 從沒小孩到有小孩 | 🧠 Transition |
+| **student-to-worker** | 從學生變上班族 | 🧠 Transition |
+| **worker-to-student** | 重返學生身份 | 🧠 Transition |
+| **healthy-to-patient** | 從健康變病人 | 🧠 Transition |
+| **caregiver-identity** | 照顧者的身份 | 🧠 Identity |
+| **empty-nest** | 孩子離家後 | 🧠 Transition |
+| **retirement-identity** | 退休後我是誰 | 🧠 Identity |
+| **immigrant-identity** | 移民的身份重建 | 🧠 Identity |
+| **coming-out** | 出櫃的過程 | 🧠 Identity |
+| **career-changer** | 轉職者的身份 | 🧠 Identity |
+
+## 24. Personality Patterns (人格模式) 🔮
+
+*認識自己的模式，才能改變*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **procrastinator-guide** | 拖延症自救指南 | 🧠 Pattern |
+| **perfectionism-trap** | 完美主義的陷阱 | 🧠 Pattern |
+| **people-pleaser** | 討好型人格 | 🧠 Pattern |
+| **control-freak** | 控制狂自覺 | 🧠 Pattern |
+| **avoidant-pattern** | 逃避型模式 | 🧠 Pattern |
+| **overthinking** | 想太多的人 | 🧠 Pattern |
+| **chronic-comparer** | 慢性比較症 | 🧠 Pattern |
+| **validation-seeker** | 尋求認可 | 🧠 Pattern |
+| **conflict-avoider** | 衝突逃避者 | 🧠 Pattern |
+| **workaholic-pattern** | 工作狂模式 | 🧠 Pattern |
+| **victim-mindset** | 受害者心態 | 🧠 Pattern |
+| **savior-complex** | 救世主情結 | 🧠 Pattern |
+| **imposter-pattern** | 冒牌者模式 | 🧠 Pattern |
+| **self-sabotage** | 自我破壞 | 🧠 Pattern |
+| **all-or-nothing** | 全有或全無 | 🧠 Pattern |
+| **catastrophizing** | 災難化思維 | 🧠 Pattern |
+
+## 25. Abstract Concepts (抽象概念) 💭
+
+*這些詞我們常說，但真的懂嗎*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **boundaries-real** | 邊界到底是什麼 | 💡 Concept |
+| **vulnerability-strength** | 脆弱是力量 | 💡 Concept |
+| **resilience-how** | 韌性怎麼練 | 💡 Concept |
+| **acceptance-vs-giving-up** | 接受 ≠ 放棄 | 💡 Concept |
+| **letting-go-how** | 放下怎麼做 | 💡 Concept |
+| **forgiveness-for-self** | 原諒是給自己的 | 💡 Concept |
+| **self-compassion** | 自我慈悲 | 💡 Concept |
+| **presence** | 活在當下到底怎麼做 | 💡 Concept |
+| **authenticity** | 真實是什麼 | 💡 Concept |
+| **enough** | 什麼是「夠」 | 💡 Concept |
+| **trust** | 信任怎麼建立 | 💡 Concept |
+| **intimacy** | 親密不只是性 | 💡 Concept |
+| **loneliness-vs-alone** | 孤獨 vs 獨處 | 💡 Concept |
+| **purpose** | 目的不是找到的 | 💡 Concept |
+| **failure-reframe** | 重新定義失敗 | 💡 Concept |
+| **success-redefine** | 重新定義成功 | 💡 Concept |
+
+## 26. Life Logistics (生活瑣事但重要) 🏠
+
+*沒人教但每個人都會遇到*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **moving-house** | 搬家全攻略 | 🛠️ Practical |
+| **first-day-new-job** | 新工作第一天 | 🛠️ Practical |
+| **meeting-strangers** | 面對陌生人 | 🛠️ Technique |
+| **declining-sales** | 拒絕推銷 | 🛠️ Technique |
+| **complaining-effectively** | 有效投訴 | 🛠️ Technique |
+| **negotiating-rent** | 租屋議價 | 🛠️ Practical |
+| **roommate-rules** | 室友相處 | 🛠️ Practical |
+| **adulting-finance** | 大人的財務 | 🛠️ Practical |
+| **doctor-visit-prep** | 看醫生前準備 | 🛠️ Practical |
+| **job-offer-decision** | 拿到 offer 怎麼選 | 🛠️ Framework |
+| **resignation-graceful** | 優雅離職 | 🛠️ Practical |
+| **networking-authentic** | 不噁心的 networking | 🛠️ Technique |
+| **email-etiquette** | Email 禮儀 | 🛠️ Practical |
+| **meeting-etiquette** | 開會禮儀 | 🛠️ Practical |
+| **wfh-boundaries** | WFH 邊界 | 🛠️ Practical |
+| **travel-planning** | 旅行規劃 | 🛠️ Practical |
+
+## 27. Contrarian / Counter-Intuitive 🔄
+
+*反直覺但有道理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **laziness-wisdom** | 懶惰的智慧 | 💡 Counter |
+| **quitting-skill** | 放棄是技能 | 💡 Counter |
+| **selfishness-healthy** | 健康的自私 | 💡 Counter |
+| **doing-nothing** | 什麼都不做的價值 | 💡 Counter |
+| **boredom-gift** | 無聊是禮物 | 💡 Counter |
+| **small-talk-value** | 閒聊的價值 | 💡 Counter |
+| **routine-freedom** | 規律帶來自由 | 💡 Counter |
+| **constraint-creativity** | 限制激發創意 | 💡 Counter |
+| **slow-fast** | 慢就是快 | 💡 Counter |
+| **less-more** | 少即是多 | 💡 Counter |
+| **failure-path** | 失敗是路徑 | 💡 Counter |
+| **weakness-strength** | 弱點是優勢 | 💡 Counter |
+| **uncertainty-embrace** | 擁抱不確定 | 💡 Counter |
+| **not-knowing** | 不知道的力量 | 💡 Counter |
+| **good-enough** | 夠好就好 | 💡 Counter |
+| **productive-unproductive** | 生產力的反面 | 💡 Counter |
+
+## 28. Niche but Universal 🎲
+
+*很 niche 但意外地很多人需要*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **introvert-survival** | 內向者生存術 | 🧠 Identity |
+| **extrovert-in-quiet** | 外向者的安靜時刻 | 🧠 Identity |
+| **hsp-guide** | 高敏感人指南 | 🧠 Identity |
+| **adhd-life** | ADHD 日常 | 🧠 Identity |
+| **anxiety-management** | 焦慮共處 | 🧠 Management |
+| **depression-fog** | 憂鬱的迷霧 | 🧠 Understanding |
+| **chronic-illness** | 慢性病共處 | 🧠 Identity |
+| **neurodivergent** | 神經多樣性 | 🧠 Understanding |
+| **grief-work** | 悲傷的工作 | 🧠 Process |
+| **trauma-informed** | 創傷知情 | 🧠 Framework |
+| **recovery-journey** | 復原之路 | 🧠 Process |
+| **sobriety** | 清醒生活 | 🧠 Identity |
+| **childfree** | 選擇不生 | 🧠 Identity |
+| **late-bloomer** | 晚熟者 | 🧠 Identity |
+| **multipotentialite** | 多重興趣者 | 🧠 Identity |
+| **sandwich-generation** | 三明治世代 | 🧠 Identity |
+
+## 29. Wisdom Traditions (智慧傳統) 📿
+
+*古老智慧的現代應用*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **stoicism-daily** | 斯多葛日常 | 📚 Philosophy |
+| **buddhism-basics** | 佛學入門（非宗教版）| 📚 Philosophy |
+| **taoism-applied** | 道家應用 | 📚 Philosophy |
+| **zen-practice** | 禪的練習 | 📚 Practice |
+| **ikigai** | 生きがい：生命意義 | 📚 Concept |
+| **wabi-sabi** | 侘寂美學 | 📚 Concept |
+| **hygge** | 丹麥舒適學 | 📚 Concept |
+| **ubuntu** | Ubuntu 哲學 | 📚 Concept |
+| **kaizen** | 改善：持續進步 | 📚 Concept |
+| **mindfulness-secular** | 世俗正念 | 📚 Practice |
+| **meditation-types** | 冥想的種類 | 📚 Practice |
+| **gratitude-practice** | 感恩練習 | 📚 Practice |
+| **journaling-methods** | 日記方法 | 📚 Practice |
+| **breath-work** | 呼吸練習 | 📚 Practice |
+| **body-scan** | 身體掃描 | 📚 Practice |
+| **walking-meditation** | 行走冥想 | 📚 Practice |
+
+## 30. Modern Phenomena (現代現象) 📱
+
+*這個時代特有的*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **doom-scrolling** | 末日滑手機 | 🧠 Pattern |
+| **productivity-porn** | 生產力色情 | 🧠 Pattern |
+| **hustle-culture-exit** | 離開 hustle 文化 | 💡 Counter |
+| **influencer-fatigue** | 網紅疲勞 | 🧠 Phenomenon |
+| **cancel-culture** | 取消文化的思考 | 💡 Analysis |
+| **outrage-machine** | 憤怒機器 | 🧠 Awareness |
+| **algorithm-self** | 演算法塑造的自我 | 🧠 Awareness |
+| **parasocial** | 準社會關係 | 🧠 Understanding |
+| **context-collapse** | 語境崩塌 | 🧠 Understanding |
+| **digital-identity** | 數位身份 | 🧠 Identity |
+| **online-offline** | 線上線下的你 | 🧠 Identity |
+| **notification-anxiety** | 通知焦慮 | 🧠 Psychology |
+| **email-anxiety** | Email 焦慮 | 🧠 Psychology |
+| **meeting-fatigue** | 會議疲勞 | 🧠 Psychology |
+| **zoom-exhaustion** | 視訊疲勞 | 🧠 Psychology |
+| **always-on** | 永遠在線的壓力 | 🧠 Psychology |
 
 ---
 
