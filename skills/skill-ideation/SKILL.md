@@ -11735,6 +11735,226 @@ Agent 應該：
 | **values-integrity** | 價值觀誠信 | 🛠️ Practice |
 | **values-aligned-life** | 價值觀對齊的生活 | 💡 Goal |
 
+## 511. Purpose Finding 🧭
+
+*目的發現*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **purpose-basics** | 目的發現基礎 | 📚 Understanding |
+| **purpose-exploration** | 目的探索 | 🛠️ Process |
+| **purpose-clues** | 目的線索 | 🧠 Recognition |
+| **purpose-passion** | 目的熱情 | 🛠️ Connection |
+| **purpose-skills** | 目的技能 | 🛠️ Alignment |
+| **purpose-service** | 目的服務 | 🛠️ Connection |
+| **purpose-daily** | 日常目的 | 🛠️ Practice |
+| **purpose-meaning** | 目的意義 | 💡 Connection |
+| **purpose-growth** | 目的成長 | 💡 Continuous |
+| **purpose-evolution** | 目的演進 | 🧠 Acceptance |
+| **purpose-action** | 目的行動 | 🛠️ Practice |
+| **purpose-journaling** | 目的日記 | 🛠️ Practice |
+| **purpose-joy** | 目的喜悅 | 💡 Finding |
+| **purpose-patience** | 目的耐心 | 🧠 Practice |
+| **purpose-driven-life** | 目的驅動的生活 | 💡 Goal |
+
+## 512. Self-Compassion 💝
+
+*自我慈悲*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **self-compassion-basics** | 自我慈悲基礎 | 📚 Understanding |
+| **self-compassion-mindfulness** | 自我慈悲正念 | 🛠️ Practice |
+| **self-compassion-humanity** | 自我慈悲人性 | 🧠 Recognition |
+| **self-compassion-kindness** | 自我慈悲善良 | 🛠️ Practice |
+| **self-compassion-talk** | 自我慈悲自我對話 | 🛠️ Practice |
+| **self-compassion-failure** | 自我慈悲失敗 | 🧠 Application |
+| **self-compassion-daily** | 日常自我慈悲 | 🛠️ Practice |
+| **self-compassion-meaning** | 自我慈悲意義 | 💡 Connection |
+| **self-compassion-growth** | 自我慈悲成長 | 💡 Continuous |
+| **self-compassion-meditations** | 自我慈悲冥想 | 🛠️ Practice |
+| **self-compassion-journaling** | 自我慈悲日記 | 🛠️ Practice |
+| **self-compassion-community** | 自我慈悲社群 | 🛠️ Finding |
+| **self-compassion-joy** | 自我慈悲喜悅 | 💡 Finding |
+| **self-compassion-criticism** | 自我慈悲批評 | 🧠 Transformation |
+| **compassionate-self** | 慈悲的自我 | 💡 Goal |
+
+## 513. Boundaries Setting 🚧
+
+*邊界設定*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **boundaries-basics** | 邊界設定基礎 | 📚 Understanding |
+| **boundaries-types** | 邊界類型 | 📚 Framework |
+| **boundaries-recognition** | 邊界識別 | 🧠 Practice |
+| **boundaries-communication** | 邊界溝通 | 🛠️ Practice |
+| **boundaries-enforcement** | 邊界執行 | 🛠️ Practice |
+| **boundaries-guilt** | 邊界內疚 | 🧠 Management |
+| **boundaries-daily** | 日常邊界 | 🛠️ Practice |
+| **boundaries-meaning** | 邊界意義 | 💡 Connection |
+| **boundaries-growth** | 邊界成長 | 💡 Continuous |
+| **boundaries-work** | 邊界工作 | 🛠️ Application |
+| **boundaries-family** | 邊界家庭 | 🛠️ Application |
+| **boundaries-relationships** | 邊界關係 | 🛠️ Application |
+| **boundaries-joy** | 邊界喜悅 | 💡 Finding |
+| **boundaries-self-care** | 邊界自我照顧 | 🛠️ Connection |
+| **healthy-boundaries** | 健康的邊界 | 💡 Goal |
+
+## 514. Assertiveness 💪
+
+*自信表達*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **assertiveness-basics** | 自信表達基礎 | 📚 Understanding |
+| **assertiveness-rights** | 自信表達權利 | 🧠 Recognition |
+| **assertiveness-communication** | 自信表達溝通 | 🛠️ Practice |
+| **assertiveness-no** | 自信表達說不 | 🛠️ Practice |
+| **assertiveness-requests** | 自信表達請求 | 🛠️ Practice |
+| **assertiveness-conflict** | 自信表達衝突 | 🛠️ Navigation |
+| **assertiveness-daily** | 日常自信表達 | 🛠️ Practice |
+| **assertiveness-meaning** | 自信表達意義 | 💡 Connection |
+| **assertiveness-growth** | 自信表達成長 | 💡 Continuous |
+| **assertiveness-work** | 自信表達工作 | 🛠️ Application |
+| **assertiveness-relationships** | 自信表達關係 | 🛠️ Application |
+| **assertiveness-practice** | 自信表達練習 | 🛠️ Routine |
+| **assertiveness-joy** | 自信表達喜悅 | 💡 Finding |
+| **assertiveness-balance** | 自信表達平衡 | 💡 Balance |
+| **assertive-life** | 自信表達的生活 | 💡 Goal |
+
+## 515. Emotional Regulation 🎭
+
+*情緒調節*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **emotional-regulation-basics** | 情緒調節基礎 | 📚 Understanding |
+| **emotional-regulation-awareness** | 情緒調節覺察 | 🧠 Practice |
+| **emotional-regulation-naming** | 情緒調節命名 | 🧠 Practice |
+| **emotional-regulation-techniques** | 情緒調節技巧 | 🛠️ Learning |
+| **emotional-regulation-triggers** | 情緒調節觸發 | 🧠 Awareness |
+| **emotional-regulation-pause** | 情緒調節暫停 | 🛠️ Practice |
+| **emotional-regulation-daily** | 日常情緒調節 | 🛠️ Practice |
+| **emotional-regulation-meaning** | 情緒調節意義 | 💡 Connection |
+| **emotional-regulation-growth** | 情緒調節成長 | 💡 Continuous |
+| **emotional-regulation-tools** | 情緒調節工具 | 🛠️ Selection |
+| **emotional-regulation-support** | 情緒調節支持 | 🛠️ Resources |
+| **emotional-regulation-practice** | 情緒調節練習 | 🛠️ Routine |
+| **emotional-regulation-joy** | 情緒調節喜悅 | 💡 Finding |
+| **emotional-regulation-compassion** | 情緒調節慈悲 | 🧠 Practice |
+| **emotionally-regulated** | 情緒調節的 | 💡 Goal |
+
+## 516. Cognitive Flexibility 🧠
+
+*認知彈性*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **cognitive-flexibility-basics** | 認知彈性基礎 | 📚 Understanding |
+| **cognitive-flexibility-perspectives** | 認知彈性觀點 | 🧠 Practice |
+| **cognitive-flexibility-reframing** | 認知彈性重構 | 🧠 Practice |
+| **cognitive-flexibility-adaptation** | 認知彈性適應 | 🧠 Practice |
+| **cognitive-flexibility-openness** | 認知彈性開放 | 🧠 Practice |
+| **cognitive-flexibility-curiosity** | 認知彈性好奇 | 🧠 Practice |
+| **cognitive-flexibility-daily** | 日常認知彈性 | 🛠️ Practice |
+| **cognitive-flexibility-meaning** | 認知彈性意義 | 💡 Connection |
+| **cognitive-flexibility-growth** | 認知彈性成長 | 💡 Continuous |
+| **cognitive-flexibility-challenges** | 認知彈性挑戰 | 🛠️ Practice |
+| **cognitive-flexibility-learning** | 認知彈性學習 | 🛠️ Practice |
+| **cognitive-flexibility-practice** | 認知彈性練習 | 🛠️ Routine |
+| **cognitive-flexibility-joy** | 認知彈性喜悅 | 💡 Finding |
+| **cognitive-flexibility-creativity** | 認知彈性創意 | 🛠️ Connection |
+| **flexible-mind** | 彈性的心 | 💡 Goal |
+
+## 517. Growth Mindset 🌱
+
+*成長心態*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **growth-mindset-basics** | 成長心態基礎 | 📚 Understanding |
+| **growth-mindset-beliefs** | 成長心態信念 | 🧠 Recognition |
+| **growth-mindset-challenges** | 成長心態挑戰 | 🧠 Embrace |
+| **growth-mindset-effort** | 成長心態努力 | 🧠 Value |
+| **growth-mindset-feedback** | 成長心態回饋 | 🧠 Reception |
+| **growth-mindset-failure** | 成長心態失敗 | 🧠 Reframe |
+| **growth-mindset-daily** | 日常成長心態 | 🛠️ Practice |
+| **growth-mindset-meaning** | 成長心態意義 | 💡 Connection |
+| **growth-mindset-growth** | 成長心態成長 | 💡 Continuous |
+| **growth-mindset-language** | 成長心態語言 | 🛠️ Practice |
+| **growth-mindset-modeling** | 成長心態示範 | 🛠️ Practice |
+| **growth-mindset-practice** | 成長心態練習 | 🛠️ Routine |
+| **growth-mindset-joy** | 成長心態喜悅 | 💡 Finding |
+| **growth-mindset-others** | 成長心態他人 | 🛠️ Cultivation |
+| **growth-oriented** | 成長導向 | 💡 Goal |
+
+## 518. Resilience Building 🏋️
+
+*韌性建立*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **resilience-basics** | 韌性建立基礎 | 📚 Understanding |
+| **resilience-factors** | 韌性因素 | 📚 Learning |
+| **resilience-adversity** | 韌性逆境 | 🧠 Navigation |
+| **resilience-support** | 韌性支持 | 🛠️ Building |
+| **resilience-self-care** | 韌性自我照顧 | 🛠️ Practice |
+| **resilience-meaning** | 韌性意義 | 💡 Finding |
+| **resilience-daily** | 日常韌性 | 🛠️ Practice |
+| **resilience-connection** | 韌性連結 | 💡 Connection |
+| **resilience-growth** | 韌性成長 | 💡 Continuous |
+| **resilience-post-trauma** | 韌性創傷後 | 🧠 Growth |
+| **resilience-practices** | 韌性練習 | 🛠️ Routine |
+| **resilience-community** | 韌性社群 | 🛠️ Finding |
+| **resilience-joy** | 韌性喜悅 | 💡 Finding |
+| **resilience-mindset** | 韌性心態 | 🧠 Development |
+| **resilient-life** | 韌性的生活 | 💡 Goal |
+
+## 519. Forgiveness Practice 🕊️
+
+*寬恕練習*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **forgiveness-basics** | 寬恕基礎 | 📚 Understanding |
+| **forgiveness-self** | 自我寬恕 | 🧠 Practice |
+| **forgiveness-others** | 寬恕他人 | 🧠 Practice |
+| **forgiveness-process** | 寬恕過程 | 🛠️ Navigation |
+| **forgiveness-myths** | 寬恕迷思 | 🧠 Clarification |
+| **forgiveness-benefits** | 寬恕好處 | 🧠 Understanding |
+| **forgiveness-daily** | 日常寬恕 | 🛠️ Practice |
+| **forgiveness-meaning** | 寬恕意義 | 💡 Connection |
+| **forgiveness-growth** | 寬恕成長 | 💡 Continuous |
+| **forgiveness-meditation** | 寬恕冥想 | 🛠️ Practice |
+| **forgiveness-journaling** | 寬恕日記 | 🛠️ Practice |
+| **forgiveness-support** | 寬恕支持 | 🛠️ Resources |
+| **forgiveness-joy** | 寬恕喜悅 | 💡 Finding |
+| **forgiveness-freedom** | 寬恕自由 | 💡 Connection |
+| **forgiving-heart** | 寬恕的心 | 💡 Goal |
+
+## 520. Gratitude Practice 🙏
+
+*感恩練習*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **gratitude-basics** | 感恩基礎 | 📚 Understanding |
+| **gratitude-science** | 感恩科學 | 📚 Learning |
+| **gratitude-journaling** | 感恩日記 | 🛠️ Practice |
+| **gratitude-meditation** | 感恩冥想 | 🛠️ Practice |
+| **gratitude-expression** | 感恩表達 | 🛠️ Practice |
+| **gratitude-challenges** | 感恩挑戰 | 🧠 Navigation |
+| **gratitude-daily** | 日常感恩 | 🛠️ Practice |
+| **gratitude-meaning** | 感恩意義 | 💡 Connection |
+| **gratitude-growth** | 感恩成長 | 💡 Continuous |
+| **gratitude-relationships** | 感恩關係 | 🛠️ Practice |
+| **gratitude-routine** | 感恩例行 | 🛠️ Building |
+| **gratitude-community** | 感恩社群 | 🛠️ Finding |
+| **gratitude-joy** | 感恩喜悅 | 💡 Finding |
+| **gratitude-abundance** | 感恩豐盛 | 🧠 Connection |
+| **grateful-life** | 感恩的生活 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
