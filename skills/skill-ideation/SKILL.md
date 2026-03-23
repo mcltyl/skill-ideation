@@ -5437,6 +5437,116 @@ Agent 應該：
 | **self-compassion-others** | 對他人的慈悲 | 🛠️ Extension |
 | **compassion-culture** | 慈悲文化 | 🛠️ Building |
 
+## 226. Building Financial Habits 💰
+
+*建立財務習慣*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **financial-habits-basics** | 財務習慣基礎 | 📚 Understanding |
+| **financial-habits-importance** | 財務習慣重要性 | 📚 Why |
+| **budgeting-habit** | 預算習慣 | 🛠️ Practice |
+| **saving-habit** | 儲蓄習慣 | 🛠️ Practice |
+| **investing-habit** | 投資習慣 | 🛠️ Practice |
+| **tracking-habit** | 追蹤習慣 | 🛠️ Practice |
+| **spending-review** | 消費回顧 | 🛠️ Practice |
+| **financial-automation** | 財務自動化 | 🛠️ System |
+| **financial-goals-habit** | 財務目標習慣 | 🛠️ Practice |
+| **financial-education** | 財務教育 | 🛠️ Practice |
+| **financial-discussion** | 財務討論 | 🛠️ Practice |
+| **financial-mindset** | 財務心態 | 🧠 Development |
+| **financial-boundaries** | 財務邊界 | 🛠️ Setting |
+| **financial-flexibility** | 財務彈性 | 💡 Balance |
+| **financial-review** | 財務回顧 | 🛠️ Practice |
+
+## 227. Navigating Career Uncertainty 🧭
+
+*導航職涯不確定*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **career-uncertainty-basics** | 職涯不確定基礎 | 📚 Understanding |
+| **career-uncertainty-emotions** | 職涯不確定情緒 | 🧠 Processing |
+| **career-uncertainty-navigation** | 職涯不確定導航 | 🛠️ Framework |
+| **career-exploration** | 職涯探索 | 🛠️ Process |
+| **career-experimentation** | 職涯實驗 | 🛠️ Practice |
+| **career-pivoting** | 職涯轉向 | 🛠️ Decision |
+| **career-options** | 職涯選項 | 🛠️ Generation |
+| **career-decision** | 職涯決策 | 🛠️ Framework |
+| **career-patience** | 職涯耐心 | 🧠 Practice |
+| **career-support** | 職涯支持 | 🛠️ Resources |
+| **career-identity** | 職涯身份 | 🧠 Navigation |
+| **career-values** | 職涯價值觀 | 🛠️ Alignment |
+| **career-flexibility** | 職涯彈性 | 💡 Philosophy |
+| **career-trust** | 職涯信任 | 🧠 Practice |
+| **career-growth-uncertainty** | 不確定中的成長 | 💡 Philosophy |
+
+## 228. Building Healthy Digital Habits 📱
+
+*建立健康數位習慣*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **digital-habits-basics** | 數位習慣基礎 | 📚 Understanding |
+| **digital-habits-assessment** | 數位習慣評估 | 🛠️ Tool |
+| **digital-habits-goals** | 數位習慣目標 | 🛠️ Setting |
+| **screen-time-management** | 螢幕時間管理 | 🛠️ Practice |
+| **notification-management** | 通知管理 | 🛠️ Practice |
+| **social-media-habits** | 社群媒體習慣 | 🛠️ Practice |
+| **phone-habits** | 手機習慣 | 🛠️ Practice |
+| **email-habits** | Email 習慣 | 🛠️ Practice |
+| **digital-boundaries** | 數位邊界 | 🛠️ Setting |
+| **digital-breaks** | 數位休息 | 🛠️ Practice |
+| **digital-detox** | 數位排毒 | 🛠️ Practice |
+| **digital-mindfulness** | 數位正念 | 🛠️ Practice |
+| **digital-intention** | 數位意圖 | 💡 Philosophy |
+| **digital-family** | 數位家庭 | 🛠️ Navigation |
+| **digital-balance** | 數位平衡 | 💡 Goal |
+
+## 229. Developing a Reading Habit 📚
+
+*發展閱讀習慣*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **reading-habit-basics** | 閱讀習慣基礎 | 📚 Understanding |
+| **reading-habit-importance** | 閱讀習慣重要性 | 📚 Why |
+| **reading-habit-building** | 閱讀習慣建立 | 🛠️ Process |
+| **reading-habit-time** | 閱讀時間 | 🛠️ Finding |
+| **reading-habit-place** | 閱讀地點 | 🛠️ Design |
+| **reading-habit-selection** | 書籍選擇 | 🛠️ Process |
+| **reading-habit-tracking** | 閱讀追蹤 | 🛠️ Tool |
+| **reading-habit-goals** | 閱讀目標 | 🛠️ Setting |
+| **reading-habit-obstacles** | 閱讀障礙 | 🧠 Overcoming |
+| **reading-habit-formats** | 閱讀格式 | 🛠️ Options |
+| **reading-habit-retention** | 閱讀記憶 | 🛠️ Technique |
+| **reading-habit-application** | 閱讀應用 | 🛠️ Practice |
+| **reading-habit-sharing** | 閱讀分享 | 🛠️ Practice |
+| **reading-habit-balance** | 閱讀平衡 | 💡 Balance |
+| **reading-habit-joy** | 閱讀喜悅 | 💡 Purpose |
+
+## 230. Developing an Exercise Habit 🏃
+
+*發展運動習慣*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **exercise-habit-basics** | 運動習慣基礎 | 📚 Understanding |
+| **exercise-habit-importance** | 運動習慣重要性 | 📚 Why |
+| **exercise-habit-building** | 運動習慣建立 | 🛠️ Process |
+| **exercise-habit-start** | 運動習慣開始 | 🛠️ Beginner |
+| **exercise-habit-type** | 運動類型選擇 | 🛠️ Decision |
+| **exercise-habit-time** | 運動時間 | 🛠️ Finding |
+| **exercise-habit-consistency** | 運動一致性 | 🛠️ Practice |
+| **exercise-habit-tracking** | 運動追蹤 | 🛠️ Tool |
+| **exercise-habit-obstacles** | 運動障礙 | 🧠 Overcoming |
+| **exercise-habit-motivation** | 運動動力 | 🧠 Sources |
+| **exercise-habit-identity** | 運動身份 | 🧠 Building |
+| **exercise-habit-social** | 社交運動 | 🛠️ Option |
+| **exercise-habit-rest** | 運動休息 | 🛠️ Practice |
+| **exercise-habit-enjoyment** | 運動享受 | 💡 Goal |
+| **exercise-habit-sustainable** | 永續運動 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
