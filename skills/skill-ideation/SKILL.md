@@ -1337,6 +1337,116 @@ Agent 應該：
 | **anniversary-meaning** | 紀念日的意義 | 💡 Reflection |
 | **time-markers** | 時間標記的力量 | 💡 Philosophy |
 
+## 46. Aging Parents & Caregiving 👴
+
+*父母老了，我們怎麼辦*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **role-reversal** | 角色互換：照顧曾經照顧你的人 | 🧠 Psychology |
+| **difficult-conversations-parents** | 跟父母談難開口的事 | 🛠️ Practical |
+| **parents-driving** | 該不該讓爸媽開車 | 🛠️ Decision |
+| **parents-health-decline** | 父母健康走下坡 | 🧠 Processing |
+| **caregiver-burnout** | 照顧者倦怠 | 🧠 Psychology |
+| **sibling-care-division** | 手足分工照顧 | 🛠️ Practical |
+| **long-distance-caregiving** | 遠距照顧 | 🛠️ Practical |
+| **parents-money-talk** | 跟父母談財務 | 🛠️ Practical |
+| **memory-loss-early** | 早期記憶衰退的徵兆 | 📚 Awareness |
+| **assisted-living-decision** | 安養機構的決定 | 🛠️ Decision |
+| **end-of-life-planning** | 臨終規劃對話 | 🛠️ Practical |
+| **grief-before-death** | 預期性悲傷 | 🧠 Psychology |
+| **parent-death-preparation** | 為父母離世做準備 | 🧠 Preparation |
+| **inheritance-family** | 遺產與家庭關係 | 🛠️ Navigation |
+| **honoring-legacy** | 如何紀念父母 | 💡 Reflection |
+
+## 47. Financial Transitions 💸
+
+*人生財務轉折點*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **first-paycheck** | 第一份薪水怎麼用 | 🛠️ Practical |
+| **emergency-fund** | 緊急預備金：多少才夠 | 🛠️ Framework |
+| **debt-payoff-psychology** | 還債的心理學 | 🧠 Psychology |
+| **first-investment** | 第一次投資 | 🛠️ Practical |
+| **salary-negotiation-first** | 第一次談薪水 | 🛠️ Technique |
+| **lifestyle-inflation** | 生活方式膨脹 | 🧠 Awareness |
+| **marriage-money** | 結婚與財務 | 🛠️ Practical |
+| **divorce-financial** | 離婚的財務面 | 🛠️ Practical |
+| **layoff-financial** | 被裁員後的財務管理 | 🛠️ Emergency |
+| **windfall-management** | 突然有錢怎麼辦 | 🛠️ Framework |
+| **retirement-planning-young** | 年輕人的退休規劃 | 🛠️ Framework |
+| **financial-independence** | 財務獨立定義 | 💡 Philosophy |
+| **supporting-family** | 支持家人財務 | 🛠️ Boundaries |
+| **money-in-relationships** | 感情中談錢 | 🛠️ Practical |
+| **teaching-kids-money** | 教孩子理財 | 🛠️ Practical |
+
+## 48. Social Anxiety & Awkwardness 😬
+
+*社交焦慮的具體情境*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **party-survival** | 派對生存術（內向者版）| 🛠️ Practical |
+| **networking-dread** | Networking 的恐懼 | 🧠 Psychology |
+| **conversation-starters** | 對話開場白 | 🛠️ Technique |
+| **conversation-enders** | 優雅結束對話 | 🛠️ Technique |
+| **one-on-one-anxiety** | 一對一的焦慮 | 🧠 Psychology |
+| **group-conversation** | 多人對話怎麼插話 | 🛠️ Technique |
+| **zoom-anxiety** | 視訊會議焦慮 | 🧠 Psychology |
+| **phone-call-fear** | 講電話的恐懼 | 🧠 Psychology |
+| **email-anxiety** | 寄出 email 的焦慮 | 🧠 Psychology |
+| **rejection-sensitivity** | 過度敏感於拒絕 | 🧠 Psychology |
+| **social-recovery** | 社交後的恢復 | 🛠️ Practice |
+| **awkward-moments** | 尷尬時刻的處理 | 🛠️ Technique |
+| **forgetting-context** | 忘記在哪認識的人 | 🛠️ Recovery |
+| **social-scripts** | 社交腳本 | 🛠️ Framework |
+| **authentic-small-talk** | 真誠的閒聊 | 🛠️ Technique |
+
+## 49. Creative Blocks & Artistic Practice 🎨
+
+*創作者的特定挑戰*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **blank-page-syndrome** | 空白頁症候群 | 🧠 Psychology |
+| **perfectionism-art** | 創作的完美主義 | 🧠 Pattern |
+| **imposter-artist** | 藝術家的冒牌者症候群 | 🧠 Psychology |
+| **creative-routine** | 創作例行公事 | 🛠️ Practice |
+| **inspiration-waiting** | 等待靈感的迷思 | 💡 Counter |
+| **creative-exhaustion** | 創作耗竭 | 🧠 Recovery |
+| **comparison-other-artists** | 跟其他創作者比較 | 🧠 Psychology |
+| **selling-art-guilt** | 賣作品的罪惡感 | 🧠 Psychology |
+| **hobby-vs-profession** | 興趣變工作後的掙扎 | 🧠 Transition |
+| **creative-feedback** | 如何接受創作回饋 | 🛠️ Skill |
+| **artist-statement** | 藝術家自述怎麼寫 | 🛠️ Practical |
+| **creative-community** | 找到創作社群 | 🛠️ Practical |
+| **side-project-guilt** | Side project 罪惡感 | 🧠 Psychology |
+| **creative-rest** | 創意休息 | 💡 Philosophy |
+| **finishing-projects** | 完成作品的困難 | 🧠 Pattern |
+
+## 50. Physical & Mental Health Intersection 🧠💪
+
+*身心健康的交集*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **mind-body-connection** | 身心連結基礎 | 📚 Understanding |
+| **chronic-pain-mental** | 慢性疼痛的心理面 | 🧠 Connection |
+| **anxiety-physical** | 焦慮的身體表現 | 📚 Awareness |
+| **depression-body** | 憂鬱如何影響身體 | 📚 Understanding |
+| **exercise-mental-health** | 運動與心理健康 | 🔬 Science |
+| **sleep-mental-health** | 睡眠與心理健康 | 🔬 Science |
+| **gut-brain** | 腸腦軸 | 🔬 Science |
+| **inflammation-mood** | 發炎與情緒 | 🔬 Science |
+| **chronic-illness-mental** | 慢性病的心理負擔 | 🧠 Connection |
+| **medical-trauma** | 醫療創傷 | 🧠 Psychology |
+| **health-anxiety** | 健康焦慮（疑病症）| 🧠 Psychology |
+| **body-image** | 身體意象 | 🧠 Psychology |
+| **movement-mood** | 動一動改變心情 | 🛠️ Practice |
+| **breath-stress** | 呼吸與壓力 | 🛠️ Technique |
+| **somatic-therapy-basics** | 身體取向療法入門 | 📚 Understanding |
+
 ---
 
 # QUALITY FILTERS
