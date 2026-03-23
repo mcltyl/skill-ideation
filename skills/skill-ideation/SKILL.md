@@ -3893,6 +3893,116 @@ Agent 應該：
 | **self-apology** | 對自己道歉 | 🛠️ Practice |
 | **apology-culture** | 道歉文化 | 🌍 Context |
 
+## 156. Waiting in Uncertainty ⏳
+
+*在不確定中等待*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **uncertainty-basics** | 不確定性基礎 | 📚 Understanding |
+| **waiting-psychology** | 等待心理學 | 📚 Science |
+| **uncertainty-anxiety** | 不確定性焦慮 | 🧠 Pattern |
+| **waiting-well** | 好好等待 | 🛠️ Practice |
+| **productive-waiting** | 生產性等待 | 🛠️ Technique |
+| **waiting-job-response** | 等待工作回覆 | 🛠️ Application |
+| **waiting-medical** | 等待醫療結果 | 🧠 Application |
+| **waiting-relationship** | 等待關係答案 | 🧠 Application |
+| **waiting-decisions** | 等待他人決策 | 🛠️ Application |
+| **uncertainty-tolerance** | 不確定性容忍 | 🧠 Building |
+| **uncertainty-reframe** | 重新框架不確定 | 🧠 Technique |
+| **waiting-support** | 等待中的支持 | 🛠️ Resources |
+| **waiting-self-care** | 等待中的自我照顧 | 🛠️ Practice |
+| **waiting-distraction** | 等待中的分心 | 🛠️ Strategy |
+| **embracing-uncertainty** | 擁抱不確定 | 💡 Philosophy |
+
+## 157. Dealing with Rejection 💔
+
+*處理拒絕*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **rejection-basics** | 拒絕基礎 | 📚 Understanding |
+| **rejection-psychology** | 拒絕心理學 | 📚 Science |
+| **rejection-pain** | 拒絕的痛 | 🧠 Processing |
+| **rejection-job** | 工作拒絕 | 🛠️ Application |
+| **rejection-dating** | 約會拒絕 | 🧠 Application |
+| **rejection-creative** | 創意作品拒絕 | 🧠 Application |
+| **rejection-friendship** | 友誼拒絕 | 🧠 Application |
+| **rejection-recovery** | 拒絕恢復 | 🛠️ Process |
+| **rejection-reframe** | 重新框架拒絕 | 🧠 Technique |
+| **rejection-lessons** | 從拒絕學習 | 🛠️ Practice |
+| **rejection-resilience** | 拒絕韌性 | 🧠 Building |
+| **rejection-fear** | 拒絕恐懼 | 🧠 Pattern |
+| **rejection-exposure** | 拒絕暴露 | 🛠️ Practice |
+| **rejection-support** | 拒絕後支持 | 🛠️ Resources |
+| **rejection-growth** | 拒絕促進成長 | 💡 Philosophy |
+
+## 158. Celebrating Success 🎉
+
+*慶祝成功*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **celebration-basics** | 慶祝基礎 | 📚 Understanding |
+| **celebration-importance** | 慶祝的重要性 | 📚 Why |
+| **celebration-resistance** | 慶祝抗拒 | 🧠 Pattern |
+| **what-to-celebrate** | 什麼值得慶祝 | 🛠️ Framework |
+| **how-to-celebrate** | 怎麼慶祝 | 🛠️ Ideas |
+| **celebration-solo** | 獨自慶祝 | 🛠️ Practice |
+| **celebration-shared** | 共同慶祝 | 🛠️ Practice |
+| **celebration-small** | 小慶祝 | 🛠️ Practice |
+| **celebration-big** | 大慶祝 | 🛠️ Practice |
+| **celebration-guilt** | 慶祝罪惡感 | 🧠 Processing |
+| **celebration-humility** | 謙卑的慶祝 | 💡 Balance |
+| **celebrating-others** | 慶祝他人 | 🛠️ Practice |
+| **celebration-rituals** | 慶祝儀式 | 🛠️ Creation |
+| **savoring-success** | 品味成功 | 🛠️ Practice |
+| **celebration-memory** | 慶祝記憶 | 🛠️ Preservation |
+
+## 159. Admitting You're Wrong 🙋‍♂️
+
+*承認錯誤*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **admitting-wrong-basics** | 承認錯誤基礎 | 📚 Understanding |
+| **admitting-wrong-fear** | 承認錯誤的恐懼 | 🧠 Psychology |
+| **admitting-wrong-benefits** | 承認錯誤的好處 | 📚 Motivation |
+| **how-to-admit** | 怎麼承認 | 🛠️ Technique |
+| **when-to-admit** | 何時承認 | 🛠️ Timing |
+| **admitting-wrong-work** | 工作中承認錯誤 | 🛠️ Application |
+| **admitting-wrong-relationships** | 關係中承認錯誤 | 🛠️ Application |
+| **admitting-wrong-public** | 公開承認錯誤 | 🛠️ Application |
+| **ego-admitting** | 自我和承認錯誤 | 🧠 Challenge |
+| **admitting-wrong-growth** | 承認錯誤促進成長 | 💡 Philosophy |
+| **admitting-wrong-trust** | 承認錯誤建立信任 | 💡 Benefit |
+| **admitting-wrong-model** | 榜樣承認錯誤 | 🛠️ Practice |
+| **admitting-wrong-children** | 對孩子承認錯誤 | 🛠️ Application |
+| **admitting-wrong-culture** | 承認錯誤的文化 | 🌍 Context |
+| **moving-on-wrong** | 承認錯誤後前進 | 🛠️ Process |
+
+## 160. Setting Expectations 📋
+
+*設定期望*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **expectations-basics** | 期望基礎 | 📚 Understanding |
+| **expectations-communication** | 期望溝通 | 🛠️ Technique |
+| **expectations-self** | 自我期望 | 🧠 Setting |
+| **expectations-others** | 對他人的期望 | 🛠️ Setting |
+| **expectations-work** | 工作期望 | 🛠️ Application |
+| **expectations-relationships** | 關係期望 | 🛠️ Application |
+| **expectations-realistic** | 現實期望 | 🛠️ Assessment |
+| **expectations-unrealistic** | 不現實期望 | 🧠 Awareness |
+| **expectations-mismatch** | 期望不符 | 🧠 Navigation |
+| **expectations-adjustment** | 期望調整 | 🛠️ Practice |
+| **expectations-disappointment** | 期望失望 | 🧠 Processing |
+| **expectations-flexibility** | 期望彈性 | 💡 Balance |
+| **expectations-boundaries** | 期望和邊界 | 🛠️ Connection |
+| **expectations-culture** | 期望和文化 | 🌍 Context |
+| **managing-expectations** | 管理期望 | 🛠️ Framework |
+
 ---
 
 # QUALITY FILTERS
