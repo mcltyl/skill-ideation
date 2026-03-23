@@ -8197,6 +8197,120 @@ Agent 應該：
 
 ---
 
+# PRACTICAL SKILL DOMAINS
+
+## 351. Public Speaking Mastery 🎤
+
+*公眾演講精通*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **public-speaking-basics** | 公眾演講基礎 | 📚 Understanding |
+| **public-speaking-fear** | 公眾演講恐懼 | 🧠 Overcoming |
+| **public-speaking-preparation** | 公眾演講準備 | 🛠️ Process |
+| **public-speaking-structure** | 公眾演講結構 | 🛠️ Framework |
+| **public-speaking-delivery** | 公眾演講呈現 | 🛠️ Practice |
+| **public-speaking-presence** | 公眾演講存在感 | 🛠️ Building |
+| **public-speaking-stories** | 公眾演講故事 | 🛠️ Technique |
+| **public-speaking-visuals** | 公眾演講視覺 | 🛠️ Design |
+| **public-speaking-q&a** | 公眾演講問答 | 🛠️ Navigation |
+| **public-speaking-virtual** | 公眾演講線上 | 🛠️ Adaptation |
+| **public-speaking-feedback** | 公眾演講回饋 | 🛠️ Seeking |
+| **public-speaking-practice** | 公眾演講練習 | 🛠️ Routine |
+| **public-speaking-meaning** | 公眾演講意義 | 💡 Connection |
+| **public-speaking-growth** | 公眾演講成長 | 💡 Continuous |
+| **confident-speaker** | 自信的講者 | 💡 Goal |
+
+## 352. Negotiation Skills 🤝
+
+*談判技巧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **negotiation-basics** | 談判基礎 | 📚 Understanding |
+| **negotiation-preparation** | 談判準備 | 🛠️ Process |
+| **negotiation-strategy** | 談判策略 | 🛠️ Framework |
+| **negotiation-opening** | 談判開場 | 🛠️ Technique |
+| **negotiation-listening** | 談判傾聽 | 🛠️ Practice |
+| **negotiation-questions** | 談判提問 | 🛠️ Technique |
+| **negotiation-concessions** | 談判讓步 | 🛠️ Strategy |
+| **negotiation-deadlock** | 談判僵局 | 🛠️ Navigation |
+| **negotiation-closing** | 談判結束 | 🛠️ Technique |
+| **negotiation-emotions** | 談判情緒 | 🧠 Management |
+| **negotiation-ethics** | 談判道德 | 🛠️ Practice |
+| **negotiation-salary** | 談判薪資 | 🛠️ Application |
+| **negotiation-everyday** | 日常談判 | 🛠️ Practice |
+| **negotiation-meaning** | 談判意義 | 💡 Connection |
+| **skilled-negotiator** | 熟練的談判者 | 💡 Goal |
+
+## 353. Conflict Resolution 🕊️
+
+*衝突解決*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **conflict-resolution-basics** | 衝突解決基礎 | 📚 Understanding |
+| **conflict-resolution-styles** | 衝突解決風格 | 📚 Framework |
+| **conflict-resolution-assessment** | 衝突解決評估 | 🛠️ Process |
+| **conflict-resolution-listening** | 衝突解決傾聽 | 🛠️ Practice |
+| **conflict-resolution-communication** | 衝突解決溝通 | 🛠️ Technique |
+| **conflict-resolution-emotions** | 衝突解決情緒 | 🧠 Management |
+| **conflict-resolution-interests** | 衝突解決利益 | 🛠️ Identification |
+| **conflict-resolution-options** | 衝突解決選項 | 🛠️ Generation |
+| **conflict-resolution-agreement** | 衝突解決協議 | 🛠️ Process |
+| **conflict-resolution-workplace** | 職場衝突解決 | 🛠️ Application |
+| **conflict-resolution-family** | 家庭衝突解決 | 🛠️ Application |
+| **conflict-resolution-mediation** | 衝突解決調解 | 🛠️ Technique |
+| **conflict-resolution-meaning** | 衝突解決意義 | 💡 Connection |
+| **conflict-resolution-growth** | 衝突解決成長 | 💡 Continuous |
+| **peacemaker** | 和平締造者 | 💡 Goal |
+
+## 354. Critical Thinking 🧠
+
+*批判性思考*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **critical-thinking-basics** | 批判性思考基礎 | 📚 Understanding |
+| **critical-thinking-components** | 批判性思考組成 | 📚 Framework |
+| **critical-thinking-questioning** | 批判性思考提問 | 🛠️ Practice |
+| **critical-thinking-evidence** | 批判性思考證據 | 🛠️ Evaluation |
+| **critical-thinking-assumptions** | 批判性思考假設 | 🛠️ Identification |
+| **critical-thinking-logic** | 批判性思考邏輯 | 🛠️ Practice |
+| **critical-thinking-fallacies** | 批判性思考謬誤 | 📚 Recognition |
+| **critical-thinking-bias** | 批判性思考偏見 | 🧠 Awareness |
+| **critical-thinking-sources** | 批判性思考來源 | 🛠️ Evaluation |
+| **critical-thinking-decisions** | 批判性思考決策 | 🛠️ Application |
+| **critical-thinking-daily** | 日常批判性思考 | 🛠️ Practice |
+| **critical-thinking-meaning** | 批判性思考意義 | 💡 Connection |
+| **critical-thinking-growth** | 批判性思考成長 | 💡 Continuous |
+| **critical-thinking-humility** | 批判性思考謙遜 | 🧠 Practice |
+| **clear-thinker** | 清晰的思考者 | 💡 Goal |
+
+## 355. Problem Solving 🧩
+
+*問題解決*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **problem-solving-basics** | 問題解決基礎 | 📚 Understanding |
+| **problem-solving-definition** | 問題解決定義 | 🛠️ Process |
+| **problem-solving-analysis** | 問題解決分析 | 🛠️ Process |
+| **problem-solving-root-cause** | 問題解決根因 | 🛠️ Technique |
+| **problem-solving-options** | 問題解決選項 | 🛠️ Generation |
+| **problem-solving-evaluation** | 問題解決評估 | 🛠️ Process |
+| **problem-solving-implementation** | 問題解決實施 | 🛠️ Process |
+| **problem-solving-review** | 問題解決回顧 | 🛠️ Process |
+| **problem-solving-frameworks** | 問題解決框架 | 🛠️ Tools |
+| **problem-solving-creativity** | 問題解決創意 | 🛠️ Practice |
+| **problem-solving-collaboration** | 問題解決協作 | 🛠️ Practice |
+| **problem-solving-daily** | 日常問題解決 | 🛠️ Practice |
+| **problem-solving-meaning** | 問題解決意義 | 💡 Connection |
+| **problem-solving-growth** | 問題解決成長 | 💡 Continuous |
+| **effective-solver** | 有效的解決者 | 💡 Goal |
+
+---
+
 # QUALITY FILTERS
 
 Before suggesting, ask:
