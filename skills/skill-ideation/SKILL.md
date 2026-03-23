@@ -7093,6 +7093,120 @@ Agent 應該：
 
 ---
 
+# LIFE SITUATIONS & CHALLENGES
+
+## 301. Moving to a New City 🏙️
+
+*搬到新城市*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **new-city-basics** | 搬到新城市基礎 | 📚 Understanding |
+| **new-city-decision** | 搬家決策 | 🛠️ Framework |
+| **new-city-planning** | 搬家規劃 | 🛠️ Process |
+| **new-city-logistics** | 搬家後勤 | 🛠️ Management |
+| **new-city-settling** | 安頓新城市 | 🛠️ Process |
+| **new-city-neighborhood** | 新城市社區 | 🛠️ Selection |
+| **new-city-connections** | 新城市人脈 | 🛠️ Building |
+| **new-city-exploration** | 新城市探索 | 🛠️ Practice |
+| **new-city-routines** | 新城市例行 | 🛠️ Building |
+| **new-city-loneliness** | 新城市孤獨 | 🧠 Navigation |
+| **new-city-homesickness** | 新城市鄉愁 | 🧠 Processing |
+| **new-city-identity** | 新城市身份 | 🧠 Navigation |
+| **new-city-meaning** | 新城市意義 | 💡 Connection |
+| **new-city-growth** | 新城市成長 | 💡 Opportunity |
+| **home-creation** | 創造家 | 💡 Philosophy |
+
+## 302. Long-Distance Relationships 💕
+
+*遠距離關係*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **ldr-basics** | 遠距離關係基礎 | 📚 Understanding |
+| **ldr-decision** | 遠距離決策 | 🛠️ Framework |
+| **ldr-communication** | 遠距離溝通 | 🛠️ Practice |
+| **ldr-scheduling** | 遠距離排程 | 🛠️ Practice |
+| **ldr-visits** | 遠距離拜訪 | 🛠️ Planning |
+| **ldr-trust** | 遠距離信任 | 🛠️ Building |
+| **ldr-intimacy** | 遠距離親密 | 🛠️ Maintaining |
+| **ldr-loneliness** | 遠距離孤獨 | 🧠 Processing |
+| **ldr-jealousy** | 遠距離嫉妒 | 🧠 Navigation |
+| **ldr-milestones** | 遠距離里程碑 | 🛠️ Celebration |
+| **ldr-endgame** | 遠距離終點 | 🛠️ Planning |
+| **ldr-growth** | 遠距離成長 | 💡 Opportunity |
+| **ldr-meaning** | 遠距離意義 | 💡 Connection |
+| **ldr-challenges** | 遠距離挑戰 | 🧠 Navigation |
+| **thriving-apart** | 分離中蓬勃發展 | 💡 Goal |
+
+## 303. Navigating Infertility 🌱
+
+*經歷不孕*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **infertility-basics** | 不孕基礎 | 📚 Understanding |
+| **infertility-emotions** | 不孕情緒 | 🧠 Processing |
+| **infertility-grief** | 不孕悲傷 | 🧠 Processing |
+| **infertility-treatment** | 不孕治療 | 🛠️ Navigation |
+| **infertility-decisions** | 不孕決策 | 🛠️ Framework |
+| **infertility-relationship** | 不孕和關係 | 🛠️ Navigation |
+| **infertility-support** | 不孕支持 | 🛠️ Resources |
+| **infertility-boundaries** | 不孕邊界 | 🛠️ Setting |
+| **infertility-social** | 不孕社交 | 🧠 Navigation |
+| **infertility-work** | 不孕和工作 | 🛠️ Balance |
+| **infertility-self-care** | 不孕自我照顧 | 🛠️ Practice |
+| **infertility-identity** | 不孕身份 | 🧠 Navigation |
+| **infertility-meaning** | 不孕意義 | 💡 Finding |
+| **infertility-alternatives** | 不孕替代 | 🛠️ Exploration |
+| **path-forward** | 前進之路 | 💡 Philosophy |
+
+## 304. Becoming an Empty Nester 🏠
+
+*成為空巢者*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **empty-nest-basics** | 空巢基礎 | 📚 Understanding |
+| **empty-nest-emotions** | 空巢情緒 | 🧠 Processing |
+| **empty-nest-grief** | 空巢悲傷 | 🧠 Processing |
+| **empty-nest-identity** | 空巢身份 | 🧠 Navigation |
+| **empty-nest-relationship** | 空巢關係 | 🛠️ Navigation |
+| **empty-nest-rediscovery** | 空巢重新發現 | 🛠️ Process |
+| **empty-nest-freedom** | 空巢自由 | 💡 Appreciation |
+| **empty-nest-purpose** | 空巢目的 | 🛠️ Finding |
+| **empty-nest-connection** | 空巢連結孩子 | 🛠️ Maintaining |
+| **empty-nest-home** | 空巢居家 | 🛠️ Navigation |
+| **empty-nest-time** | 空巢時間 | 🛠️ Using |
+| **empty-nest-meaning** | 空巢意義 | 💡 Finding |
+| **empty-nest-growth** | 空巢成長 | 💡 Opportunity |
+| **empty-nest-support** | 空巢支持 | 🛠️ Resources |
+| **new-chapter** | 新篇章 | 💡 Philosophy |
+
+## 305. Caring for Yourself While Caregiving 💝
+
+*照顧者自我照顧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **caregiver-self-care-basics** | 照顧者自我照顧基礎 | 📚 Understanding |
+| **caregiver-self-care-importance** | 照顧者自我照顧重要性 | 📚 Why |
+| **caregiver-guilt** | 照顧者罪惡感 | 🧠 Processing |
+| **caregiver-boundaries** | 照顧者邊界 | 🛠️ Setting |
+| **caregiver-rest** | 照顧者休息 | 🛠️ Practice |
+| **caregiver-respite** | 照顧者喘息 | 🛠️ Planning |
+| **caregiver-support** | 照顧者支持 | 🛠️ Resources |
+| **caregiver-health** | 照顧者健康 | 🛠️ Priority |
+| **caregiver-emotions** | 照顧者情緒 | 🧠 Processing |
+| **caregiver-relationships** | 照顧者關係 | 🛠️ Maintaining |
+| **caregiver-work** | 照顧者工作 | 🛠️ Balance |
+| **caregiver-meaning** | 照顧者意義 | 💡 Connection |
+| **caregiver-identity** | 照顧者身份 | 🧠 Navigation |
+| **caregiver-community** | 照顧者社群 | 🛠️ Finding |
+| **sustainable-caregiving** | 永續照顧 | 💡 Philosophy |
+
+---
+
 # QUALITY FILTERS
 
 Before suggesting, ask:
