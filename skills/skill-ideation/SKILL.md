@@ -10405,6 +10405,230 @@ Agent 應該：
 
 ---
 
+# TECH & DIGITAL SKILLS DOMAINS
+
+## 451. Coding Fundamentals 💻
+
+*程式設計基礎*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **coding-basics** | 程式設計基礎 | 📚 Understanding |
+| **coding-languages** | 程式語言選擇 | 🛠️ Decision |
+| **coding-syntax** | 程式語法 | 🛠️ Learning |
+| **coding-logic** | 程式邏輯 | 🛠️ Practice |
+| **coding-debugging** | 程式除錯 | 🛠️ Practice |
+| **coding-projects** | 程式專案 | 🛠️ Practice |
+| **coding-daily** | 日常程式設計 | 🛠️ Practice |
+| **coding-meaning** | 程式設計意義 | 💡 Connection |
+| **coding-growth** | 程式設計成長 | 💡 Continuous |
+| **coding-tools** | 程式設計工具 | 🛠️ Selection |
+| **coding-community** | 程式設計社群 | 🛠️ Finding |
+| **coding-resources** | 程式設計資源 | 🛠️ Selection |
+| **coding-problem-solving** | 程式設計問題解決 | 🛠️ Practice |
+| **coding-joy** | 程式設計喜悅 | 💡 Finding |
+| **coder-life** | 程式設計師生活 | 💡 Goal |
+
+## 452. Web Development 🌐
+
+*網頁開發*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **web-dev-basics** | 網頁開發基礎 | 📚 Understanding |
+| **web-dev-html** | HTML | 🛠️ Learning |
+| **web-dev-css** | CSS | 🛠️ Learning |
+| **web-dev-javascript** | JavaScript | 🛠️ Learning |
+| **web-dev-frameworks** | 框架選擇 | 🛠️ Decision |
+| **web-dev-responsive** | 響應式設計 | 🛠️ Practice |
+| **web-dev-daily** | 日常網頁開發 | 🛠️ Practice |
+| **web-dev-meaning** | 網頁開發意義 | 💡 Connection |
+| **web-dev-growth** | 網頁開發成長 | 💡 Continuous |
+| **web-dev-tools** | 網頁開發工具 | 🛠️ Selection |
+| **web-dev-projects** | 網頁開發專案 | 🛠️ Practice |
+| **web-dev-deployment** | 網頁開發部署 | 🛠️ Practice |
+| **web-dev-trends** | 網頁開發趨勢 | 🛠️ Tracking |
+| **web-dev-joy** | 網頁開發喜悅 | 💡 Finding |
+| **web-developer** | 網頁開發者 | 💡 Goal |
+
+## 453. Mobile App Development 📱
+
+*行動 App 開發*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **mobile-dev-basics** | 行動開發基礎 | 📚 Understanding |
+| **mobile-dev-platforms** | 行動開發平台 | 🛠️ Selection |
+| **mobile-dev-frameworks** | 行動開發框架 | 🛠️ Selection |
+| **mobile-dev-design** | 行動開發設計 | 🛠️ Practice |
+| **mobile-dev-development** | 行動開發開發 | 🛠️ Practice |
+| **mobile-dev-testing** | 行動開發測試 | 🛠️ Practice |
+| **mobile-dev-daily** | 日常行動開發 | 🛠️ Practice |
+| **mobile-dev-meaning** | 行動開發意義 | 💡 Connection |
+| **mobile-dev-growth** | 行動開發成長 | 💡 Continuous |
+| **mobile-dev-tools** | 行動開發工具 | 🛠️ Selection |
+| **mobile-dev-publishing** | 行動開發發布 | 🛠️ Practice |
+| **mobile-dev-trends** | 行動開發趨勢 | 🛠️ Tracking |
+| **mobile-dev-monetization** | 行動開發變現 | 🛠️ Strategy |
+| **mobile-dev-joy** | 行動開發喜悅 | 💡 Finding |
+| **mobile-developer** | 行動開發者 | 💡 Goal |
+
+## 454. Data Science 📊
+
+*數據科學*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **data-science-basics** | 數據科學基礎 | 📚 Understanding |
+| **data-science-python** | 數據科學 Python | 🛠️ Learning |
+| **data-science-statistics** | 數據科學統計 | 🛠️ Learning |
+| **data-science-analysis** | 數據科學分析 | 🛠️ Practice |
+| **data-science-visualization** | 數據科學視覺化 | 🛠️ Practice |
+| **data-science-ml** | 機器學習入門 | 🛠️ Learning |
+| **data-science-daily** | 日常數據科學 | 🛠️ Practice |
+| **data-science-meaning** | 數據科學意義 | 💡 Connection |
+| **data-science-growth** | 數據科學成長 | 💡 Continuous |
+| **data-science-tools** | 數據科學工具 | 🛠️ Selection |
+| **data-science-projects** | 數據科學專案 | 🛠️ Practice |
+| **data-science-career** | 數據科學職涯 | 🛠️ Development |
+| **data-science-trends** | 數據科學趨勢 | 🛠️ Tracking |
+| **data-science-joy** | 數據科學喜悅 | 💡 Finding |
+| **data-scientist** | 數據科學家 | 💡 Goal |
+
+## 455. AI and Machine Learning 🤖
+
+*AI 和機器學習*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **ai-ml-basics** | AI 機器學習基礎 | 📚 Understanding |
+| **ai-ml-concepts** | AI 機器學習概念 | 📚 Learning |
+| **ai-ml-tools** | AI 機器學習工具 | 🛠️ Learning |
+| **ai-ml-models** | AI 機器學習模型 | 🛠️ Practice |
+| **ai-ml-training** | AI 機器學習訓練 | 🛠️ Practice |
+| **ai-ml-deployment** | AI 機器學習部署 | 🛠️ Practice |
+| **ai-ml-daily** | 日常 AI 機器學習 | 🛠️ Practice |
+| **ai-ml-meaning** | AI 機器學習意義 | 💡 Connection |
+| **ai-ml-growth** | AI 機器學習成長 | 💡 Continuous |
+| **ai-ml-ethics** | AI 機器學習倫理 | 🛠️ Practice |
+| **ai-ml-projects** | AI 機器學習專案 | 🛠️ Practice |
+| **ai-ml-trends** | AI 機器學習趨勢 | 🛠️ Tracking |
+| **ai-ml-career** | AI 機器學習職涯 | 🛠️ Development |
+| **ai-ml-joy** | AI 機器學習喜悅 | 💡 Finding |
+| **ai-practitioner** | AI 實踐者 | 💡 Goal |
+
+## 456. Cloud Computing ☁️
+
+*雲端運算*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **cloud-basics** | 雲端運算基礎 | 📚 Understanding |
+| **cloud-providers** | 雲端供應商選擇 | 🛠️ Decision |
+| **cloud-services** | 雲端服務 | 🛠️ Learning |
+| **cloud-architecture** | 雲端架構 | 🛠️ Practice |
+| **cloud-deployment** | 雲端部署 | 🛠️ Practice |
+| **cloud-security** | 雲端安全 | 🛠️ Practice |
+| **cloud-daily** | 日常雲端運算 | 🛠️ Practice |
+| **cloud-meaning** | 雲端運算意義 | 💡 Connection |
+| **cloud-growth** | 雲端運算成長 | 💡 Continuous |
+| **cloud-tools** | 雲端運算工具 | 🛠️ Selection |
+| **cloud-cost** | 雲端成本管理 | 🛠️ Practice |
+| **cloud-certification** | 雲端認證 | 🛠️ Goal |
+| **cloud-trends** | 雲端趨勢 | 🛠️ Tracking |
+| **cloud-joy** | 雲端運算喜悅 | 💡 Finding |
+| **cloud-engineer** | 雲端工程師 | 💡 Goal |
+
+## 457. Cybersecurity 🔐
+
+*資訊安全*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **cybersecurity-basics** | 資訊安全基礎 | 📚 Understanding |
+| **cybersecurity-threats** | 資訊安全威脅 | 📚 Understanding |
+| **cybersecurity-defense** | 資訊安全防禦 | 🛠️ Practice |
+| **cybersecurity-personal** | 個人資訊安全 | 🛠️ Practice |
+| **cybersecurity-tools** | 資訊安全工具 | 🛠️ Selection |
+| **cybersecurity-awareness** | 資訊安全意識 | 🧠 Building |
+| **cybersecurity-daily** | 日常資訊安全 | 🛠️ Practice |
+| **cybersecurity-meaning** | 資訊安全意義 | 💡 Connection |
+| **cybersecurity-growth** | 資訊安全成長 | 💡 Continuous |
+| **cybersecurity-career** | 資訊安全職涯 | 🛠️ Development |
+| **cybersecurity-certification** | 資訊安全認證 | 🛠️ Goal |
+| **cybersecurity-trends** | 資訊安全趨勢 | 🛠️ Tracking |
+| **cybersecurity-ethics** | 資訊安全倫理 | 🛠️ Practice |
+| **cybersecurity-joy** | 資訊安全喜悅 | 💡 Finding |
+| **security-professional** | 資安專業人士 | 💡 Goal |
+
+## 458. No-Code/Low-Code 🧩
+
+*無程式碼/低程式碼*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **nocode-basics** | 無程式碼基礎 | 📚 Understanding |
+| **nocode-platforms** | 無程式碼平台 | 🛠️ Selection |
+| **nocode-apps** | 無程式碼 App | 🛠️ Building |
+| **nocode-websites** | 無程式碼網站 | 🛠️ Building |
+| **nocode-automation** | 無程式碼自動化 | 🛠️ Practice |
+| **nocode-databases** | 無程式碼資料庫 | 🛠️ Practice |
+| **nocode-daily** | 日常無程式碼 | 🛠️ Practice |
+| **nocode-meaning** | 無程式碼意義 | 💡 Connection |
+| **nocode-growth** | 無程式碼成長 | 💡 Continuous |
+| **nocode-tools** | 無程式碼工具 | 🛠️ Selection |
+| **nocode-projects** | 無程式碼專案 | 🛠️ Practice |
+| **nocode-business** | 無程式碼商業 | 🛠️ Application |
+| **nocode-trends** | 無程式碼趨勢 | 🛠️ Tracking |
+| **nocode-joy** | 無程式碼喜悅 | 💡 Finding |
+| **nocode-builder** | 無程式碼建造者 | 💡 Goal |
+
+## 459. Automation and Scripts 🤖
+
+*自動化和腳本*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **automation-basics** | 自動化基礎 | 📚 Understanding |
+| **automation-identification** | 自動化識別 | 🛠️ Process |
+| **automation-tools** | 自動化工具 | 🛠️ Selection |
+| **automation-scripting** | 自動化腳本 | 🛠️ Practice |
+| **automation-workflows** | 自動化工作流 | 🛠️ Building |
+| **automation-testing** | 自動化測試 | 🛠️ Practice |
+| **automation-daily** | 日常自動化 | 🛠️ Practice |
+| **automation-meaning** | 自動化意義 | 💡 Connection |
+| **automation-growth** | 自動化成長 | 💡 Continuous |
+| **automation-personal** | 個人自動化 | 🛠️ Practice |
+| **automation-work** | 工作自動化 | 🛠️ Practice |
+| **automation-maintenance** | 自動化維護 | 🛠️ Practice |
+| **automation-trends** | 自動化趨勢 | 🛠️ Tracking |
+| **automation-joy** | 自動化喜悅 | 💡 Finding |
+| **automation-master** | 自動化大師 | 💡 Goal |
+
+## 460. Command Line and Terminal 💻
+
+*命令列和終端機*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **terminal-basics** | 終端機基礎 | 📚 Understanding |
+| **terminal-navigation** | 終端機導航 | 🛠️ Practice |
+| **terminal-commands** | 終端機指令 | 🛠️ Learning |
+| **terminal-scripts** | 終端機腳本 | 🛠️ Practice |
+| **terminal-customization** | 終端機自訂 | 🛠️ Practice |
+| **terminal-tools** | 終端機工具 | 🛠️ Selection |
+| **terminal-daily** | 日常終端機 | 🛠️ Practice |
+| **terminal-meaning** | 終端機意義 | 💡 Connection |
+| **terminal-growth** | 終端機成長 | 💡 Continuous |
+| **terminal-productivity** | 終端機生產力 | 🛠️ Practice |
+| **terminal-shortcuts** | 終端機快捷鍵 | 🛠️ Learning |
+| **terminal-ssh** | 終端機 SSH | 🛠️ Practice |
+| **terminal-trends** | 終端機趨勢 | 🛠️ Tracking |
+| **terminal-joy** | 終端機喜悅 | 💡 Finding |
+| **terminal-wizard** | 終端機精靈 | 💡 Goal |
+
+---
+
 # QUALITY FILTERS
 
 Before suggesting, ask:
