@@ -11513,6 +11513,230 @@ Agent 應該：
 
 ---
 
+# PHILOSOPHY & INNER WORK DOMAINS
+
+## 501. Stoicism 🏛️
+
+*斯多葛主義*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **stoicism-basics** | 斯多葛主義基礎 | 📚 Understanding |
+| **stoicism-principles** | 斯多葛主義原則 | 📚 Learning |
+| **stoicism-dichotomy** | 斯多葛主義二分法 | 🧠 Practice |
+| **stoicism-morning** | 斯多葛主義早晨 | 🛠️ Practice |
+| **stoicism-evening** | 斯多葛主義晚間 | 🛠️ Practice |
+| **stoicism-adversity** | 斯多葛主義逆境 | 🧠 Application |
+| **stoicism-daily** | 日常斯多葛主義 | 🛠️ Practice |
+| **stoicism-meaning** | 斯多葛主義意義 | 💡 Connection |
+| **stoicism-growth** | 斯多葛主義成長 | 💡 Continuous |
+| **stoicism-journaling** | 斯多葛主義日記 | 🛠️ Practice |
+| **stoicism-community** | 斯多葛主義社群 | 🛠️ Finding |
+| **stoicism-readings** | 斯多葛主義閱讀 | 🛠️ Selection |
+| **stoicism-joy** | 斯多葛主義喜悅 | 💡 Finding |
+| **stoicism-modern** | 現代斯多葛主義 | 🛠️ Application |
+| **stoic-life** | 斯多葛生活 | 💡 Goal |
+
+## 502. Existentialism 🔮
+
+*存在主義*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **existentialism-basics** | 存在主義基礎 | 📚 Understanding |
+| **existentialism-freedom** | 存在主義自由 | 🧠 Understanding |
+| **existentialism-responsibility** | 存在主義責任 | 🧠 Acceptance |
+| **existentialism-authenticity** | 存在主義真誠 | 🧠 Practice |
+| **existentialism-meaning** | 存在主義意義 | 🧠 Creation |
+| **existentialism-anxiety** | 存在主義焦慮 | 🧠 Navigation |
+| **existentialism-daily** | 日常存在主義 | 🛠️ Practice |
+| **existentialism-connection** | 存在主義連結 | 💡 Connection |
+| **existentialism-growth** | 存在主義成長 | 💡 Continuous |
+| **existentialism-readings** | 存在主義閱讀 | 🛠️ Selection |
+| **existentialism-community** | 存在主義社群 | 🛠️ Finding |
+| **existentialism-art** | 存在主義藝術 | 🛠️ Exploration |
+| **existentialism-joy** | 存在主義喜悅 | 💡 Finding |
+| **existentialism-action** | 存在主義行動 | 🛠️ Practice |
+| **authentic-existence** | 真誠的存在 | 💡 Goal |
+
+## 503. Buddhism and Zen 🧘
+
+*佛教和禪宗*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **buddhism-basics** | 佛教基礎 | 📚 Understanding |
+| **buddhism-four-truths** | 佛教四聖諦 | 📚 Learning |
+| **buddhism-eightfold** | 佛教八正道 | 📚 Learning |
+| **buddhism-meditation** | 佛教冥想 | 🛠️ Practice |
+| **buddhism-mindfulness** | 佛教正念 | 🛠️ Practice |
+| **zen-practice** | 禪宗練習 | 🛠️ Practice |
+| **buddhism-daily** | 日常佛教 | 🛠️ Practice |
+| **buddhism-meaning** | 佛教意義 | 💡 Connection |
+| **buddhism-growth** | 佛教成長 | 💡 Continuous |
+| **buddhism-readings** | 佛教閱讀 | 🛠️ Selection |
+| **buddhism-community** | 佛教社群 | 🛠️ Finding |
+| **buddhism-retreat** | 佛教禪修營 | 🛠️ Experience |
+| **buddhism-joy** | 佛教喜悅 | 💡 Finding |
+| **buddhism-compassion** | 佛教慈悲 | 🛠️ Practice |
+| **awakened-life** | 覺醒的生活 | 💡 Goal |
+
+## 504. Taoism 道
+
+*道家*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **taoism-basics** | 道家基礎 | 📚 Understanding |
+| **taoism-tao** | 道家道 | 📚 Learning |
+| **taoism-wu-wei** | 道家無為 | 🧠 Practice |
+| **taoism-balance** | 道家平衡 | 🛠️ Practice |
+| **taoism-nature** | 道家自然 | 🛠️ Connection |
+| **taoism-simplicity** | 道家簡單 | 🛠️ Practice |
+| **taoism-daily** | 日常道家 | 🛠️ Practice |
+| **taoism-meaning** | 道家意義 | 💡 Connection |
+| **taoism-growth** | 道家成長 | 💡 Continuous |
+| **taoism-readings** | 道家閱讀 | 🛠️ Selection |
+| **taoism-community** | 道家社群 | 🛠️ Finding |
+| **taoism-art** | 道家藝術 | 🛠️ Exploration |
+| **taoism-joy** | 道家喜悅 | 💡 Finding |
+| **taoism-flow** | 道家流動 | 🛠️ Practice |
+| **taoist-life** | 道家生活 | 💡 Goal |
+
+## 505. Philosophy of Mind 🧠
+
+*心靈哲學*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **philosophy-mind-basics** | 心靈哲學基礎 | 📚 Understanding |
+| **philosophy-mind-consciousness** | 心靈哲學意識 | 📚 Exploration |
+| **philosophy-mind-self** | 心靈哲學自我 | 📚 Exploration |
+| **philosophy-mind-free-will** | 心靈哲學自由意志 | 📚 Exploration |
+| **philosophy-mind-perception** | 心靈哲學感知 | 📚 Understanding |
+| **philosophy-mind-thought** | 心靈哲學思維 | 📚 Understanding |
+| **philosophy-mind-daily** | 日常心靈哲學 | 🛠️ Practice |
+| **philosophy-mind-meaning** | 心靈哲學意義 | 💡 Connection |
+| **philosophy-mind-growth** | 心靈哲學成長 | 💡 Continuous |
+| **philosophy-mind-readings** | 心靈哲學閱讀 | 🛠️ Selection |
+| **philosophy-mind-discussion** | 心靈哲學討論 | 🛠️ Practice |
+| **philosophy-mind-meditation** | 心靈哲學冥想 | 🛠️ Practice |
+| **philosophy-mind-joy** | 心靈哲學喜悅 | 💡 Finding |
+| **philosophy-mind-application** | 心靈哲學應用 | 🛠️ Practice |
+| **philosophical-life** | 哲學生活 | 💡 Goal |
+
+## 506. Ethics and Moral Philosophy 🌿
+
+*倫理學和道德哲學*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **ethics-basics** | 倫理學基礎 | 📚 Understanding |
+| **ethics-frameworks** | 倫理學框架 | 📚 Learning |
+| **ethics-dilemmas** | 倫理學困境 | 🧠 Navigation |
+| **ethics-decision** | 倫理學決策 | 🛠️ Practice |
+| **ethics-personal** | 個人倫理 | 🛠️ Development |
+| **ethics-professional** | 職業倫理 | 🛠️ Practice |
+| **ethics-daily** | 日常倫理 | 🛠️ Practice |
+| **ethics-meaning** | 倫理意義 | 💡 Connection |
+| **ethics-growth** | 倫理成長 | 💡 Continuous |
+| **ethics-readings** | 倫理閱讀 | 🛠️ Selection |
+| **ethics-discussion** | 倫理討論 | 🛠️ Practice |
+| **ethics-community** | 倫理社群 | 🛠️ Finding |
+| **ethics-joy** | 倫理喜悅 | 💡 Finding |
+| **ethics-integrity** | 倫理誠信 | 🛠️ Practice |
+| **ethical-life** | 倫理生活 | 💡 Goal |
+
+## 507. Shadow Work 🌑
+
+*陰影工作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **shadow-work-basics** | 陰影工作基礎 | 📚 Understanding |
+| **shadow-work-jung** | 陰影工作榮格 | 📚 Learning |
+| **shadow-work-recognition** | 陰影工作識別 | 🧠 Practice |
+| **shadow-work-integration** | 陰影工作整合 | 🧠 Practice |
+| **shadow-work-journaling** | 陰影工作日記 | 🛠️ Practice |
+| **shadow-work-triggers** | 陰影工作觸發 | 🧠 Awareness |
+| **shadow-work-daily** | 日常陰影工作 | 🛠️ Practice |
+| **shadow-work-meaning** | 陰影工作意義 | 💡 Connection |
+| **shadow-work-growth** | 陰影工作成長 | 💡 Continuous |
+| **shadow-work-support** | 陰影工作支持 | 🛠️ Resources |
+| **shadow-work-compassion** | 陰影工作慈悲 | 🧠 Practice |
+| **shadow-work-readings** | 陰影工作閱讀 | 🛠️ Selection |
+| **shadow-work-joy** | 陰影工作喜悅 | 💡 Finding |
+| **shadow-work-wholeness** | 陰影工作完整 | 💡 Goal |
+| **integrated-self** | 整合的自我 | 💡 Goal |
+
+## 508. Inner Child Work 👶
+
+*內在小孩工作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **inner-child-basics** | 內在小孩基礎 | 📚 Understanding |
+| **inner-child-recognition** | 內在小孩識別 | 🧠 Practice |
+| **inner-child-connection** | 內在小孩連結 | 🛠️ Practice |
+| **inner-child-healing** | 內在小孩療癒 | 🧠 Practice |
+| **inner-child-reparenting** | 內在小孩重新養育 | 🧠 Practice |
+| **inner-child-play** | 內在小孩遊戲 | 🛠️ Practice |
+| **inner-child-daily** | 日常內在小孩 | 🛠️ Practice |
+| **inner-child-meaning** | 內在小孩意義 | 💡 Connection |
+| **inner-child-growth** | 內在小孩成長 | 💡 Continuous |
+| **inner-child-support** | 內在小孩支持 | 🛠️ Resources |
+| **inner-child-journaling** | 內在小孩日記 | 🛠️ Practice |
+| **inner-child-visualization** | 內在小孩視覺化 | 🛠️ Practice |
+| **inner-child-joy** | 內在小孩喜悅 | 💡 Finding |
+| **inner-child-compassion** | 內在小孩慈悲 | 🧠 Practice |
+| **healed-inner-child** | 療癒的內在小孩 | 💡 Goal |
+
+## 509. Attachment Theory 🔗
+
+*依附理論*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **attachment-basics** | 依附理論基礎 | 📚 Understanding |
+| **attachment-styles** | 依附風格 | 📚 Learning |
+| **attachment-recognition** | 依附識別 | 🧠 Practice |
+| **attachment-patterns** | 依附模式 | 🧠 Awareness |
+| **attachment-healing** | 依附療癒 | 🧠 Practice |
+| **attachment-secure** | 安全依附 | 🧠 Development |
+| **attachment-daily** | 日常依附 | 🛠️ Practice |
+| **attachment-meaning** | 依附意義 | 💡 Connection |
+| **attachment-growth** | 依附成長 | 💡 Continuous |
+| **attachment-relationships** | 依附關係 | 🛠️ Application |
+| **attachment-support** | 依附支持 | 🛠️ Resources |
+| **attachment-readings** | 依附閱讀 | 🛠️ Selection |
+| **attachment-joy** | 依附喜悅 | 💡 Finding |
+| **attachment-compassion** | 依附慈悲 | 🧠 Practice |
+| **secure-attachment** | 安全依附 | 💡 Goal |
+
+## 510. Values Clarification 🎯
+
+*價值觀澄清*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **values-basics** | 價值觀基礎 | 📚 Understanding |
+| **values-identification** | 價值觀識別 | 🛠️ Process |
+| **values-prioritization** | 價值觀優先 | 🛠️ Practice |
+| **values-alignment** | 價值觀對齊 | 🛠️ Practice |
+| **values-conflict** | 價值觀衝突 | 🧠 Navigation |
+| **values-decision** | 價值觀決策 | 🛠️ Practice |
+| **values-daily** | 日常價值觀 | 🛠️ Practice |
+| **values-meaning** | 價值觀意義 | 💡 Connection |
+| **values-growth** | 價值觀成長 | 💡 Continuous |
+| **values-review** | 價值觀審查 | 🛠️ Practice |
+| **values-communication** | 價值觀溝通 | 🛠️ Practice |
+| **values-journaling** | 價值觀日記 | 🛠️ Practice |
+| **values-joy** | 價值觀喜悅 | 💡 Finding |
+| **values-integrity** | 價值觀誠信 | 🛠️ Practice |
+| **values-aligned-life** | 價值觀對齊的生活 | 💡 Goal |
+
+---
+
 # QUALITY FILTERS
 
 Before suggesting, ask:
