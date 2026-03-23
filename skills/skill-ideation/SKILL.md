@@ -2789,6 +2789,116 @@ Agent 應該：
 | **creator-economy** | 創作者經濟 | 📚 Understanding |
 | **authentic-content** | 真誠內容 | 💡 Philosophy |
 
+## 106. Feedback (Giving & Receiving) 🔄
+
+*回饋（給予和接受）*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **feedback-basics** | 回饋基礎 | 📚 Understanding |
+| **giving-feedback** | 給予回饋 | 🛠️ Technique |
+| **receiving-feedback** | 接受回饋 | 🛠️ Technique |
+| **feedback-sandwich** | 三明治回饋（及其問題）| 📚 Critique |
+| **direct-feedback** | 直接回饋 | 🛠️ Technique |
+| **feedback-timing** | 回饋時機 | 🛠️ Judgment |
+| **feedback-frequency** | 回饋頻率 | 🛠️ Practice |
+| **feedback-culture** | 回饋文化 | 🛠️ Building |
+| **negative-feedback** | 負面回饋 | 🛠️ Handling |
+| **positive-feedback** | 正面回饋 | 🛠️ Practice |
+| **feedback-defensiveness** | 回饋防衛 | 🧠 Awareness |
+| **actionable-feedback** | 可執行的回饋 | 🛠️ Framework |
+| **feedback-request** | 請求回饋 | 🛠️ Technique |
+| **anonymous-feedback** | 匿名回饋 | 🛠️ Tool |
+| **feedback-implementation** | 回饋執行 | 🛠️ Process |
+
+## 107. Delegation 📋
+
+*授權*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **delegation-basics** | 授權基礎 | 📚 Framework |
+| **what-to-delegate** | 什麼可以授權 | 🛠️ Framework |
+| **delegation-resistance** | 授權抗拒 | 🧠 Pattern |
+| **letting-go-control** | 放下控制 | 🧠 Psychology |
+| **delegation-communication** | 授權溝通 | 🛠️ Technique |
+| **delegation-follow-up** | 授權跟進 | 🛠️ Practice |
+| **delegation-trust** | 授權信任 | 🧠 Building |
+| **delegation-micromanage** | 授權 vs 微管理 | 🧠 Balance |
+| **delegation-feedback** | 授權回饋 | 🛠️ Practice |
+| **delegation-failure** | 授權失敗 | 🛠️ Recovery |
+| **delegation-growth** | 授權促進成長 | 💡 Philosophy |
+| **reverse-delegation** | 反向授權 | 🧠 Awareness |
+| **delegation-personal** | 個人生活授權 | 🛠️ Application |
+| **delegation-systems** | 授權系統 | 🛠️ Framework |
+| **empowerment-delegation** | 授權賦能 | 💡 Philosophy |
+
+## 108. Meetings 📅
+
+*會議*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **meeting-basics** | 會議基礎 | 📚 Framework |
+| **meeting-necessity** | 這需要開會嗎 | 🛠️ Decision |
+| **meeting-preparation** | 會議準備 | 🛠️ Practice |
+| **meeting-facilitation** | 會議引導 | 🛠️ Skill |
+| **meeting-agenda** | 會議議程 | 🛠️ Tool |
+| **meeting-time-box** | 會議時間控制 | 🛠️ Technique |
+| **meeting-participation** | 會議參與 | 🛠️ Technique |
+| **meeting-notes** | 會議紀錄 | 🛠️ Practice |
+| **meeting-follow-up** | 會議跟進 | 🛠️ Practice |
+| **one-on-one** | 一對一會議 | 🛠️ Framework |
+| **stand-up-meetings** | 站立會議 | 🛠️ Format |
+| **virtual-meetings** | 虛擬會議 | 🛠️ Adaptation |
+| **meeting-fatigue** | 會議疲勞 | 🧠 Prevention |
+| **meeting-free-time** | 無會議時間 | 🛠️ Practice |
+| **meeting-culture** | 會議文化 | 🛠️ Improvement |
+
+## 109. Project Management (Personal) 📊
+
+*個人專案管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **personal-pm-basics** | 個人專案管理基礎 | 📚 Framework |
+| **task-breakdown** | 任務拆解 | 🛠️ Technique |
+| **prioritization** | 優先排序 | 🛠️ Framework |
+| **deadline-setting** | 截止日設定 | 🛠️ Technique |
+| **progress-tracking** | 進度追蹤 | 🛠️ Practice |
+| **project-planning** | 專案規劃 | 🛠️ Process |
+| **scope-creep** | 範圍蔓延 | 🧠 Awareness |
+| **project-obstacles** | 專案障礙 | 🛠️ Navigation |
+| **project-review** | 專案回顧 | 🛠️ Practice |
+| **tool-selection** | 工具選擇 | 🛠️ Decision |
+| **documentation** | 文件化 | 🛠️ Practice |
+| **milestone-celebration** | 里程碑慶祝 | 🛠️ Practice |
+| **project-abandonment** | 專案放棄 | 🧠 Decision |
+| **parallel-projects** | 平行專案 | 🛠️ Management |
+| **project-reflection** | 專案反思 | 🛠️ Practice |
+
+## 110. Creativity Techniques 💡
+
+*創意技巧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **creativity-basics** | 創意基礎 | 📚 Understanding |
+| **brainstorming** | 腦力激盪 | 🛠️ Technique |
+| **mind-mapping** | 心智圖 | 🛠️ Tool |
+| **lateral-thinking** | 水平思考 | 🛠️ Technique |
+| **constraints-creativity** | 限制激發創意 | 💡 Philosophy |
+| **random-input** | 隨機輸入 | 🛠️ Technique |
+| **analogical-thinking** | 類比思考 | 🛠️ Technique |
+| **six-hats** | 六頂思考帽 | 🛠️ Framework |
+| **scamper** | SCAMPER | 🛠️ Framework |
+| **reverse-thinking** | 逆向思考 | 🛠️ Technique |
+| **creative-environment** | 創意環境 | 🛠️ Setup |
+| **creative-habits** | 創意習慣 | 🛠️ Practice |
+| **idea-capture** | 想法捕捉 | 🛠️ System |
+| **idea-selection** | 想法篩選 | 🛠️ Framework |
+| **creative-collaboration** | 創意協作 | 🛠️ Technique |
+
 ---
 
 # QUALITY FILTERS
