@@ -7975,6 +7975,116 @@ Agent 應該：
 | **wealth-support** | 財富支持 | 🛠️ Building |
 | **meaningful-wealth** | 有意義的財富 | 💡 Goal |
 
+## 341. Navigating Poverty 💪
+
+*經歷貧困*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **poverty-navigation-basics** | 貧困導航基礎 | 📚 Understanding |
+| **poverty-survival** | 貧困生存 | 🛠️ Practice |
+| **poverty-resources** | 貧困資源 | 🛠️ Finding |
+| **poverty-community** | 貧困社群 | 🛠️ Building |
+| **poverty-mental-health** | 貧困心理健康 | 🛠️ Priority |
+| **poverty-children** | 貧困孩子 | 🛠️ Navigation |
+| **poverty-education** | 貧困教育 | 🛠️ Access |
+| **poverty-career** | 貧困職涯 | 🛠️ Building |
+| **poverty-shame** | 貧困羞恥 | 🧠 Processing |
+| **poverty-advocacy** | 貧困倡議 | 🛠️ Practice |
+| **poverty-meaning** | 貧困意義 | 💡 Finding |
+| **poverty-growth** | 貧困成長 | 💡 Opportunity |
+| **poverty-resilience** | 貧困韌性 | 🧠 Building |
+| **poverty-escape** | 脫貧 | 🛠️ Strategy |
+| **rising-up** | 崛起 | 💡 Philosophy |
+
+## 342. Navigating Unemployment 📉
+
+*經歷失業*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **unemployment-basics** | 失業基礎 | 📚 Understanding |
+| **unemployment-emotions** | 失業情緒 | 🧠 Processing |
+| **unemployment-identity** | 失業身份 | 🧠 Navigation |
+| **unemployment-routine** | 失業例行 | 🛠️ Building |
+| **unemployment-finances** | 失業財務 | 🛠️ Management |
+| **unemployment-resources** | 失業資源 | 🛠️ Finding |
+| **unemployment-job-search** | 失業求職 | 🛠️ Strategy |
+| **unemployment-skills** | 失業技能 | 🛠️ Building |
+| **unemployment-relationships** | 失業關係 | 🛠️ Navigation |
+| **unemployment-mental-health** | 失業心理健康 | 🛠️ Priority |
+| **unemployment-meaning** | 失業意義 | 💡 Finding |
+| **unemployment-growth** | 失業成長 | 💡 Opportunity |
+| **unemployment-resilience** | 失業韌性 | 🧠 Building |
+| **unemployment-support** | 失業支持 | 🛠️ Resources |
+| **bouncing-back** | 反彈 | 💡 Philosophy |
+
+## 343. Navigating Layoff 📦
+
+*經歷裁員*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **layoff-basics** | 裁員基礎 | 📚 Understanding |
+| **layoff-emotions** | 裁員情緒 | 🧠 Processing |
+| **layoff-immediate** | 裁員立即 | 🛠️ Actions |
+| **layoff-finances** | 裁員財務 | 🛠️ Management |
+| **layoff-severance** | 裁員遣散 | 🛠️ Negotiation |
+| **layoff-identity** | 裁員身份 | 🧠 Navigation |
+| **layoff-relationships** | 裁員關係 | 🛠️ Navigation |
+| **layoff-job-search** | 裁員求職 | 🛠️ Strategy |
+| **layoff-reflection** | 裁員反思 | 🧠 Practice |
+| **layoff-meaning** | 裁員意義 | 💡 Finding |
+| **layoff-growth** | 裁員成長 | 💡 Opportunity |
+| **layoff-resilience** | 裁員韌性 | 🧠 Building |
+| **layoff-support** | 裁員支持 | 🛠️ Resources |
+| **layoff-network** | 裁員人脈 | 🛠️ Leveraging |
+| **new-beginning** | 新開始 | 💡 Philosophy |
+
+## 344. Navigating Demotion 📉
+
+*經歷降職*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **demotion-basics** | 降職基礎 | 📚 Understanding |
+| **demotion-emotions** | 降職情緒 | 🧠 Processing |
+| **demotion-identity** | 降職身份 | 🧠 Navigation |
+| **demotion-decision** | 降職決策 | 🛠️ Framework |
+| **demotion-communication** | 降職溝通 | 🛠️ Practice |
+| **demotion-relationships** | 降職關係 | 🛠️ Navigation |
+| **demotion-performance** | 降職表現 | 🛠️ Addressing |
+| **demotion-recovery** | 降職恢復 | 🛠️ Strategy |
+| **demotion-meaning** | 降職意義 | 💡 Finding |
+| **demotion-growth** | 降職成長 | 💡 Opportunity |
+| **demotion-lessons** | 降職教訓 | 💡 Learning |
+| **demotion-resilience** | 降職韌性 | 🧠 Building |
+| **demotion-support** | 降職支持 | 🛠️ Resources |
+| **demotion-next** | 降職下一步 | 🛠️ Planning |
+| **rebuilding-career** | 重建職涯 | 💡 Philosophy |
+
+## 345. Navigating Business Failure 📊
+
+*經歷商業失敗*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **business-failure-basics** | 商業失敗基礎 | 📚 Understanding |
+| **business-failure-emotions** | 商業失敗情緒 | 🧠 Processing |
+| **business-failure-identity** | 商業失敗身份 | 🧠 Navigation |
+| **business-failure-finances** | 商業失敗財務 | 🛠️ Management |
+| **business-failure-relationships** | 商業失敗關係 | 🛠️ Navigation |
+| **business-failure-lessons** | 商業失敗教訓 | 💡 Learning |
+| **business-failure-communication** | 商業失敗溝通 | 🛠️ Practice |
+| **business-failure-shame** | 商業失敗羞恥 | 🧠 Processing |
+| **business-failure-meaning** | 商業失敗意義 | 💡 Finding |
+| **business-failure-growth** | 商業失敗成長 | 💡 Opportunity |
+| **business-failure-next** | 商業失敗下一步 | 🛠️ Planning |
+| **business-failure-resilience** | 商業失敗韌性 | 🧠 Building |
+| **business-failure-support** | 商業失敗支持 | 🛠️ Resources |
+| **business-failure-retry** | 商業失敗再試 | 🛠️ Decision |
+| **failing-forward** | 向前失敗 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
