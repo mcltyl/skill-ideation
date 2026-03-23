@@ -4223,6 +4223,116 @@ Agent 應該：
 | **confidence-setback** | 信心挫折 | 🧠 Recovery |
 | **quiet-confidence** | 安靜的信心 | 💡 Style |
 
+## 171. Navigating Office Politics 🏢
+
+*處理辦公室政治*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **office-politics-basics** | 辦公室政治基礎 | 📚 Understanding |
+| **office-politics-awareness** | 政治覺察 | 🧠 Recognition |
+| **office-politics-navigation** | 政治導航 | 🛠️ Strategy |
+| **office-alliances** | 辦公室同盟 | 🛠️ Building |
+| **office-enemies** | 辦公室敵人 | 🧠 Navigation |
+| **staying-neutral** | 保持中立 | 🛠️ Strategy |
+| **taking-sides** | 選邊站 | 🛠️ Decision |
+| **office-gossip** | 辦公室八卦 | 🧠 Navigation |
+| **office-credit** | 功勞歸屬 | 🛠️ Navigation |
+| **office-blame** | 責任歸屬 | 🛠️ Navigation |
+| **office-visibility** | 能見度 | 🛠️ Strategy |
+| **office-politics-ethics** | 政治道德 | 🧠 Boundary |
+| **avoiding-politics** | 避免政治 | 🛠️ Attempt |
+| **political-self-care** | 政治中的自我照顧 | 🛠️ Practice |
+| **thriving-politics** | 政治中茁壯 | 💡 Goal |
+
+## 172. Managing Up 📈
+
+*向上管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **managing-up-basics** | 向上管理基礎 | 📚 Understanding |
+| **managing-up-importance** | 向上管理重要性 | 📚 Why |
+| **understanding-boss** | 了解老闆 | 🛠️ Practice |
+| **boss-communication** | 和老闆溝通 | 🛠️ Technique |
+| **boss-expectations** | 老闆期望 | 🛠️ Alignment |
+| **boss-feedback** | 老闆回饋 | 🛠️ Seeking |
+| **making-boss-look-good** | 讓老闆好看 | 🛠️ Strategy |
+| **bad-boss** | 壞老闆 | 🧠 Survival |
+| **micromanager** | 微管理者 | 🛠️ Navigation |
+| **absent-boss** | 缺席老闆 | 🛠️ Navigation |
+| **new-boss** | 新老闆 | 🛠️ Adaptation |
+| **boss-conflict** | 和老闆衝突 | 🛠️ Resolution |
+| **boss-trust** | 老闆信任 | 🛠️ Building |
+| **boss-career** | 老闆和職涯 | 🛠️ Leverage |
+| **managing-up-limits** | 向上管理的限制 | 🧠 Awareness |
+
+## 173. Taking Initiative 🚀
+
+*主動出擊*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **initiative-basics** | 主動性基礎 | 📚 Understanding |
+| **initiative-importance** | 主動性重要性 | 📚 Why |
+| **initiative-building** | 建立主動性 | 🛠️ Process |
+| **initiative-practice** | 主動性練習 | 🛠️ Practice |
+| **seeing-opportunities** | 看見機會 | 🧠 Skill |
+| **taking-action** | 採取行動 | 🛠️ Practice |
+| **initiative-work** | 工作主動性 | 🛠️ Application |
+| **initiative-personal** | 個人生活主動性 | 🛠️ Application |
+| **initiative-fear** | 主動的恐懼 | 🧠 Overcoming |
+| **initiative-permission** | 不等許可 | 💡 Mindset |
+| **initiative-mistakes** | 主動的錯誤 | 🧠 Learning |
+| **initiative-boundaries** | 主動的邊界 | 🧠 Awareness |
+| **initiative-culture** | 主動文化 | 🛠️ Building |
+| **teaching-initiative** | 教授主動性 | 🛠️ Practice |
+| **initiative-leadership** | 主動和領導 | 💡 Connection |
+
+## 174. Owning Your Mistakes 🙋
+
+*承擔錯誤*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **owning-mistakes-basics** | 承擔錯誤基礎 | 📚 Understanding |
+| **owning-vs-hiding** | 承擔 vs 隱藏 | 📚 Distinction |
+| **owning-mistakes-benefits** | 承擔錯誤的好處 | 📚 Motivation |
+| **owning-mistakes-process** | 承擔錯誤過程 | 🛠️ Framework |
+| **owning-mistakes-work** | 工作中承擔錯誤 | 🛠️ Application |
+| **owning-mistakes-relationships** | 關係中承擔錯誤 | 🛠️ Application |
+| **public-mistakes** | 公開錯誤 | 🛠️ Handling |
+| **repeated-mistakes** | 重複錯誤 | 🧠 Pattern |
+| **learning-from-mistakes** | 從錯誤學習 | 🛠️ Practice |
+| **mistake-documentation** | 錯誤記錄 | 🛠️ Practice |
+| **mistake-prevention** | 錯誤預防 | 🛠️ Strategy |
+| **mistake-culture** | 錯誤文化 | 🛠️ Building |
+| **others-mistakes** | 他人的錯誤 | 🧠 Response |
+| **forgiving-own-mistakes** | 原諒自己的錯誤 | 🧠 Practice |
+| **mistake-growth** | 錯誤促進成長 | 💡 Philosophy |
+
+## 175. Dealing with Criticism at Work 📝
+
+*處理工作中的批評*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **work-criticism-basics** | 工作批評基礎 | 📚 Understanding |
+| **work-criticism-types** | 工作批評種類 | 📚 Framework |
+| **work-criticism-receiving** | 接受工作批評 | 🛠️ Technique |
+| **work-criticism-processing** | 處理工作批評 | 🧠 Process |
+| **work-criticism-action** | 批評到行動 | 🛠️ Bridge |
+| **work-criticism-unfair** | 不公平工作批評 | 🛠️ Response |
+| **work-criticism-public** | 公開工作批評 | 🛠️ Handling |
+| **performance-review** | 績效評估 | 🛠️ Navigation |
+| **continuous-feedback** | 持續回饋 | 🛠️ Practice |
+| **feedback-seeking** | 主動求回饋 | 🛠️ Practice |
+| **criticism-from-peers** | 同事批評 | 🛠️ Navigation |
+| **criticism-from-subordinates** | 下屬批評 | 🛠️ Navigation |
+| **work-criticism-emotions** | 工作批評情緒 | 🧠 Management |
+| **criticism-growth-mindset** | 批評和成長心態 | 🧠 Connection |
+| **giving-work-criticism** | 給予工作批評 | 🛠️ Technique |
+
 ---
 
 # QUALITY FILTERS
