@@ -7535,6 +7535,116 @@ Agent 應該：
 | **digital-nomad-sustainability** | 數位遊牧永續 | 🛠️ Strategy |
 | **intentional-nomadism** | 有意識的遊牧 | 💡 Philosophy |
 
+## 321. Expat Life 🌐
+
+*海外生活*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **expat-basics** | 海外生活基礎 | 📚 Understanding |
+| **expat-decision** | 海外生活決策 | 🛠️ Framework |
+| **expat-preparation** | 海外生活準備 | 🛠️ Process |
+| **expat-adjustment** | 海外生活調適 | 🛠️ Process |
+| **expat-culture-shock** | 海外生活文化衝擊 | 🧠 Navigation |
+| **expat-language** | 海外生活語言 | 🛠️ Learning |
+| **expat-community** | 海外生活社群 | 🛠️ Building |
+| **expat-relationships** | 海外生活關係 | 🛠️ Navigation |
+| **expat-identity** | 海外生活身份 | 🧠 Navigation |
+| **expat-home** | 海外生活家鄉 | 🧠 Connection |
+| **expat-return** | 海外生活返回 | 🛠️ Decision |
+| **expat-meaning** | 海外生活意義 | 💡 Connection |
+| **expat-growth** | 海外生活成長 | 💡 Opportunity |
+| **expat-challenges** | 海外生活挑戰 | 🧠 Navigation |
+| **thriving-abroad** | 海外蓬勃發展 | 💡 Goal |
+
+## 322. Third Culture Kid Identity 🌏
+
+*第三文化小孩身份*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **tck-basics** | 第三文化小孩基礎 | 📚 Understanding |
+| **tck-identity** | 第三文化小孩身份 | 🧠 Navigation |
+| **tck-belonging** | 第三文化小孩歸屬 | 🧠 Finding |
+| **tck-grief** | 第三文化小孩悲傷 | 🧠 Processing |
+| **tck-relationships** | 第三文化小孩關係 | 🛠️ Navigation |
+| **tck-roots** | 第三文化小孩根源 | 🧠 Navigation |
+| **tck-home** | 第三文化小孩家 | 🧠 Definition |
+| **tck-strengths** | 第三文化小孩優勢 | 💡 Appreciation |
+| **tck-challenges** | 第三文化小孩挑戰 | 🧠 Navigation |
+| **tck-community** | 第三文化小孩社群 | 🛠️ Finding |
+| **tck-parenting** | 第三文化小孩育兒 | 🛠️ Navigation |
+| **tck-career** | 第三文化小孩職涯 | 🛠️ Leveraging |
+| **tck-meaning** | 第三文化小孩意義 | 💡 Finding |
+| **tck-integration** | 第三文化小孩整合 | 🛠️ Process |
+| **global-citizen** | 世界公民 | 💡 Identity |
+
+## 323. Immigration Journey 🛂
+
+*移民旅程*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **immigration-basics** | 移民基礎 | 📚 Understanding |
+| **immigration-decision** | 移民決策 | 🛠️ Framework |
+| **immigration-process** | 移民過程 | 🛠️ Navigation |
+| **immigration-adjustment** | 移民調適 | 🛠️ Process |
+| **immigration-language** | 移民語言 | 🛠️ Learning |
+| **immigration-employment** | 移民就業 | 🛠️ Navigation |
+| **immigration-community** | 移民社群 | 🛠️ Building |
+| **immigration-identity** | 移民身份 | 🧠 Navigation |
+| **immigration-culture** | 移民文化 | 🧠 Navigation |
+| **immigration-family** | 移民家庭 | 🛠️ Navigation |
+| **immigration-grief** | 移民悲傷 | 🧠 Processing |
+| **immigration-meaning** | 移民意義 | 💡 Connection |
+| **immigration-growth** | 移民成長 | 💡 Opportunity |
+| **immigration-challenges** | 移民挑戰 | 🧠 Navigation |
+| **new-home** | 新家 | 💡 Building |
+
+## 324. Repatriation 🔙
+
+*回國*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **repatriation-basics** | 回國基礎 | 📚 Understanding |
+| **repatriation-decision** | 回國決策 | 🛠️ Framework |
+| **repatriation-planning** | 回國規劃 | 🛠️ Process |
+| **repatriation-adjustment** | 回國調適 | 🛠️ Process |
+| **repatriation-reverse-culture-shock** | 回國逆向文化衝擊 | 🧠 Navigation |
+| **repatriation-relationships** | 回國關係 | 🛠️ Navigation |
+| **repatriation-career** | 回國職涯 | 🛠️ Navigation |
+| **repatriation-identity** | 回國身份 | 🧠 Navigation |
+| **repatriation-belonging** | 回國歸屬 | 🧠 Finding |
+| **repatriation-grief** | 回國悲傷 | 🧠 Processing |
+| **repatriation-integration** | 回國整合 | 🛠️ Process |
+| **repatriation-meaning** | 回國意義 | 💡 Finding |
+| **repatriation-growth** | 回國成長 | 💡 Opportunity |
+| **repatriation-challenges** | 回國挑戰 | 🧠 Navigation |
+| **coming-home** | 回家 | 💡 Redefining |
+
+## 325. Cross-Cultural Relationships 💕
+
+*跨文化關係*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **cross-cultural-basics** | 跨文化關係基礎 | 📚 Understanding |
+| **cross-cultural-communication** | 跨文化溝通 | 🛠️ Practice |
+| **cross-cultural-values** | 跨文化價值觀 | 🛠️ Navigation |
+| **cross-cultural-family** | 跨文化家庭 | 🛠️ Navigation |
+| **cross-cultural-traditions** | 跨文化傳統 | 🛠️ Integration |
+| **cross-cultural-language** | 跨文化語言 | 🛠️ Navigation |
+| **cross-cultural-children** | 跨文化孩子 | 🛠️ Raising |
+| **cross-cultural-conflicts** | 跨文化衝突 | 🛠️ Resolution |
+| **cross-cultural-identity** | 跨文化身份 | 🧠 Navigation |
+| **cross-cultural-community** | 跨文化社群 | 🛠️ Building |
+| **cross-cultural-strengths** | 跨文化優勢 | 💡 Appreciation |
+| **cross-cultural-challenges** | 跨文化挑戰 | 🧠 Navigation |
+| **cross-cultural-meaning** | 跨文化意義 | 💡 Connection |
+| **cross-cultural-growth** | 跨文化成長 | 💡 Opportunity |
+| **bridging-cultures** | 橋接文化 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
