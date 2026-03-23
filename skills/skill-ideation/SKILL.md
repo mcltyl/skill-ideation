@@ -6871,6 +6871,116 @@ Agent 應該：
 | **executive-presence-growth** | 高管氣質成長 | 🛠️ Continuous |
 | **natural-presence** | 自然的存在感 | 💡 Goal |
 
+## 291. Board Participation 📊
+
+*董事會參與*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **board-basics** | 董事會基礎 | 📚 Understanding |
+| **board-types** | 董事會種類 | 📚 Framework |
+| **board-joining** | 加入董事會 | 🛠️ Process |
+| **board-preparation** | 董事會準備 | 🛠️ Practice |
+| **board-responsibilities** | 董事會責任 | 📚 Understanding |
+| **board-contribution** | 董事會貢獻 | 🛠️ Practice |
+| **board-relationships** | 董事會關係 | 🛠️ Building |
+| **board-meetings** | 董事會會議 | 🛠️ Navigation |
+| **board-governance** | 董事會治理 | 📚 Understanding |
+| **board-ethics** | 董事會道德 | 🛠️ Practice |
+| **board-growth** | 董事會成長 | 🛠️ Strategy |
+| **board-meaning** | 董事會意義 | 💡 Connection |
+| **nonprofit-board** | 非營利董事會 | 🛠️ Specifics |
+| **corporate-board** | 企業董事會 | 🛠️ Specifics |
+| **effective-director** | 有效董事 | 💡 Goal |
+
+## 292. Mentorship 🤝
+
+*導師制*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **mentorship-basics** | 導師制基礎 | 📚 Understanding |
+| **finding-mentor** | 尋找導師 | 🛠️ Process |
+| **being-mentee** | 做學生 | 🛠️ Practice |
+| **mentor-relationship** | 導師關係 | 🛠️ Building |
+| **mentor-communication** | 導師溝通 | 🛠️ Practice |
+| **mentor-goals** | 導師目標 | 🛠️ Setting |
+| **mentor-meetings** | 導師會議 | 🛠️ Practice |
+| **mentor-boundaries** | 導師邊界 | 🛠️ Setting |
+| **mentor-gratitude** | 導師感謝 | 🛠️ Practice |
+| **being-mentor** | 做導師 | 🛠️ Practice |
+| **mentor-legacy** | 導師遺產 | 💡 Connection |
+| **peer-mentorship** | 同儕導師 | 🛠️ Type |
+| **reverse-mentorship** | 反向導師 | 🛠️ Type |
+| **group-mentorship** | 群組導師 | 🛠️ Type |
+| **mentorship-meaning** | 導師意義 | 💡 Philosophy |
+
+## 293. Career Sponsorship 🚀
+
+*職涯贊助*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **sponsorship-basics** | 職涯贊助基礎 | 📚 Understanding |
+| **sponsorship-vs-mentorship** | 贊助 vs 導師 | 📚 Distinction |
+| **finding-sponsor** | 尋找贊助人 | 🛠️ Process |
+| **earning-sponsorship** | 贏得贊助 | 🛠️ Practice |
+| **sponsor-relationship** | 贊助關係 | 🛠️ Building |
+| **sponsor-visibility** | 贊助能見度 | 🛠️ Practice |
+| **sponsor-advocacy** | 贊助倡議 | 📚 Understanding |
+| **sponsor-opportunities** | 贊助機會 | 🛠️ Navigation |
+| **being-sponsor** | 做贊助人 | 🛠️ Practice |
+| **sponsor-reciprocity** | 贊助互惠 | 🛠️ Understanding |
+| **sponsor-diversity** | 贊助多元 | 🛠️ Importance |
+| **sponsor-limits** | 贊助限制 | 🧠 Awareness |
+| **sponsor-meaning** | 贊助意義 | 💡 Connection |
+| **sponsor-gratitude** | 贊助感謝 | 🛠️ Practice |
+| **paying-forward** | 回饋 | 💡 Philosophy |
+
+## 294. Professional Development 📚
+
+*專業發展*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **professional-dev-basics** | 專業發展基礎 | 📚 Understanding |
+| **professional-dev-planning** | 專業發展規劃 | 🛠️ Process |
+| **professional-dev-goals** | 專業發展目標 | 🛠️ Setting |
+| **professional-dev-skills** | 專業發展技能 | 🛠️ Identification |
+| **professional-dev-learning** | 專業發展學習 | 🛠️ Practice |
+| **professional-dev-courses** | 專業發展課程 | 🛠️ Selection |
+| **professional-dev-certifications** | 專業發展證照 | 🛠️ Navigation |
+| **professional-dev-conferences** | 專業發展研討會 | 🛠️ Participation |
+| **professional-dev-reading** | 專業發展閱讀 | 🛠️ Practice |
+| **professional-dev-networking** | 專業發展人脈 | 🛠️ Building |
+| **professional-dev-time** | 專業發展時間 | 🛠️ Management |
+| **professional-dev-budget** | 專業發展預算 | 🛠️ Planning |
+| **professional-dev-application** | 專業發展應用 | 🛠️ Practice |
+| **professional-dev-meaning** | 專業發展意義 | 💡 Connection |
+| **lifelong-learning** | 終身學習 | 💡 Philosophy |
+
+## 295. Industry Expertise 🎓
+
+*行業專業*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **industry-expertise-basics** | 行業專業基礎 | 📚 Understanding |
+| **industry-expertise-building** | 行業專業建立 | 🛠️ Process |
+| **industry-expertise-depth** | 行業專業深度 | 🛠️ Development |
+| **industry-expertise-breadth** | 行業專業廣度 | 🛠️ Expansion |
+| **industry-expertise-trends** | 行業趨勢 | 🛠️ Tracking |
+| **industry-expertise-network** | 行業人脈 | 🛠️ Building |
+| **industry-expertise-voice** | 行業聲音 | 🛠️ Developing |
+| **industry-expertise-writing** | 行業寫作 | 🛠️ Practice |
+| **industry-expertise-speaking** | 行業演講 | 🛠️ Practice |
+| **industry-expertise-consulting** | 行業顧問 | 🛠️ Option |
+| **industry-expertise-teaching** | 行業教學 | 🛠️ Option |
+| **industry-expertise-community** | 行業社群 | 🛠️ Contribution |
+| **industry-expertise-meaning** | 行業專業意義 | 💡 Connection |
+| **industry-expertise-evolution** | 行業專業演變 | 🛠️ Continuous |
+| **recognized-expert** | 被認可的專家 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
