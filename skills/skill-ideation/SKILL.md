@@ -4113,6 +4113,116 @@ Agent 應該：
 | **disagreement-aftermath** | 不同意後 | 🛠️ Navigation |
 | **productive-disagreement** | 有生產力的不同意 | 💡 Goal |
 
+## 166. Showing Appreciation 🙏
+
+*表達感謝*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **appreciation-basics** | 感謝基礎 | 📚 Understanding |
+| **appreciation-importance** | 感謝的重要性 | 📚 Why |
+| **appreciation-ways** | 感謝方式 | 🛠️ List |
+| **appreciation-words** | 感謝的話 | 🛠️ Framework |
+| **appreciation-actions** | 感謝的行動 | 🛠️ List |
+| **appreciation-work** | 工作中感謝 | 🛠️ Application |
+| **appreciation-relationships** | 關係中感謝 | 🛠️ Application |
+| **appreciation-timing** | 感謝時機 | 🛠️ Judgment |
+| **appreciation-specific** | 具體感謝 | 🛠️ Technique |
+| **appreciation-regular** | 定期感謝 | 🛠️ Practice |
+| **appreciation-unexpected** | 意外感謝 | 🛠️ Practice |
+| **appreciation-culture** | 感謝文化 | 🛠️ Building |
+| **receiving-appreciation** | 接受感謝 | 🛠️ Practice |
+| **appreciation-journal** | 感謝日記 | 🛠️ Tool |
+| **appreciation-impact** | 感謝的影響 | 💡 Philosophy |
+
+## 167. Making Introductions 🤝
+
+*介紹他人*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **introduction-basics** | 介紹基礎 | 📚 Understanding |
+| **introduction-etiquette** | 介紹禮儀 | 🛠️ Framework |
+| **introduction-order** | 介紹順序 | 🛠️ Rule |
+| **introduction-context** | 介紹脈絡 | 🛠️ Technique |
+| **introduction-connection** | 介紹連結 | 🛠️ Technique |
+| **introduction-work** | 工作介紹 | 🛠️ Application |
+| **introduction-social** | 社交介紹 | 🛠️ Application |
+| **self-introduction** | 自我介紹 | 🛠️ Technique |
+| **elevator-pitch** | 電梯簡報 | 🛠️ Technique |
+| **introduction-email** | Email 介紹 | 🛠️ Application |
+| **introduction-follow-up** | 介紹後跟進 | 🛠️ Practice |
+| **introduction-forgetting** | 忘記名字 | 🛠️ Recovery |
+| **introduction-awkward** | 尷尬介紹 | 🛠️ Navigation |
+| **introduction-cultural** | 跨文化介紹 | 🌍 Context |
+| **introduction-online** | 線上介紹 | 🛠️ Application |
+
+## 168. Ending Conversations 👋
+
+*結束對話*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **ending-basics** | 結束對話基礎 | 📚 Understanding |
+| **ending-gracefully** | 優雅結束 | 🛠️ Technique |
+| **ending-signals** | 結束信號 | 🧠 Recognition |
+| **ending-phrases** | 結束用語 | 🛠️ List |
+| **ending-stuck** | 卡住的對話 | 🛠️ Escape |
+| **ending-boring** | 無聊的對話 | 🛠️ Exit |
+| **ending-rambler** | 話癆 | 🛠️ Navigation |
+| **ending-phone** | 結束電話 | 🛠️ Application |
+| **ending-video** | 結束視訊 | 🛠️ Application |
+| **ending-text** | 結束訊息對話 | 🛠️ Application |
+| **ending-networking** | 結束社交對話 | 🛠️ Application |
+| **ending-date** | 結束約會對話 | 🛠️ Application |
+| **ending-abrupt** | 突然結束 | 🧠 Awareness |
+| **ending-follow-up** | 結束後跟進 | 🛠️ Practice |
+| **ending-reluctant** | 不想結束 | 🧠 Navigation |
+
+## 169. Dealing with Loneliness 💔
+
+*處理孤獨*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **loneliness-basics** | 孤獨基礎 | 📚 Understanding |
+| **loneliness-vs-solitude** | 孤獨 vs 獨處 | 📚 Distinction |
+| **loneliness-psychology** | 孤獨心理學 | 📚 Science |
+| **loneliness-awareness** | 孤獨覺察 | 🧠 Recognition |
+| **loneliness-causes** | 孤獨原因 | 🧠 Identification |
+| **loneliness-processing** | 處理孤獨 | 🧠 Process |
+| **loneliness-connection** | 孤獨和連結 | 🛠️ Practice |
+| **loneliness-self-care** | 孤獨中的自我照顧 | 🛠️ Practice |
+| **loneliness-action** | 孤獨到行動 | 🛠️ Bridge |
+| **loneliness-new-city** | 新城市的孤獨 | 🛠️ Application |
+| **loneliness-relationships** | 關係中的孤獨 | 🧠 Paradox |
+| **loneliness-social-media** | 社群媒體孤獨 | 🧠 Pattern |
+| **loneliness-support** | 孤獨支持 | 🛠️ Resources |
+| **loneliness-growth** | 孤獨促進成長 | 💡 Philosophy |
+| **loneliness-epidemic** | 孤獨流行病 | 🌍 Context |
+
+## 170. Building Confidence 💪
+
+*建立信心*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **confidence-basics** | 信心基礎 | 📚 Understanding |
+| **confidence-vs-arrogance** | 信心 vs 傲慢 | 📚 Distinction |
+| **confidence-building** | 建立信心 | 🛠️ Process |
+| **confidence-practice** | 信心練習 | 🛠️ Practice |
+| **confidence-body** | 身體信心 | 🛠️ Practice |
+| **confidence-voice** | 聲音信心 | 🛠️ Practice |
+| **confidence-mindset** | 信心心態 | 🧠 Framework |
+| **confidence-evidence** | 信心證據 | 🛠️ Collection |
+| **confidence-fake-it** | 假裝直到成真 | 🛠️ Technique |
+| **confidence-work** | 工作信心 | 🛠️ Application |
+| **confidence-social** | 社交信心 | 🛠️ Application |
+| **confidence-dating** | 約會信心 | 🛠️ Application |
+| **confidence-speaking** | 演講信心 | 🛠️ Application |
+| **confidence-setback** | 信心挫折 | 🧠 Recovery |
+| **quiet-confidence** | 安靜的信心 | 💡 Style |
+
 ---
 
 # QUALITY FILTERS
