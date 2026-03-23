@@ -1498,6 +1498,73 @@ Skip ideas that are:
 
 ---
 
+# ADVANCED TECHNIQUES
+
+## Combo Brainstorming
+
+跨類別組合產生更獨特的 ideas：
+
+| Combo | Result |
+|-------|--------|
+| **Micro-Moment + Career** | first-day-new-job, post-interview-spiral |
+| **Psychology + Finance** | money-scripts, scarcity-mindset |
+| **Culture + Relationship** | asian-family-dating-pressure |
+| **Contrarian + Productivity** | doing-nothing-productive |
+| **Body + Psychology** | anxiety-physical-symptoms |
+| **LGBTQ+ + Career** | coming-out-workplace |
+| **Immigration + Identity** | third-culture-identity |
+| **Seasonal + Psychology** | winter-depression, monday-dread |
+
+**公式：** `[情境 Category] + [主題 Category] = Specific Skill`
+
+## Depth vs Breadth
+
+| 策略 | 何時用 |
+|------|--------|
+| **Go Deep** | 使用者給了明確方向 → 在那個方向挖 20 個 ideas |
+| **Go Broad** | 使用者沒有方向 → 從 5 個不同 category 各取 3-4 個 |
+| **Go Adjacent** | 使用者給了一個 idea → 找相鄰、相反、進階版 |
+
+## From Idea to Skill Spec
+
+一個 idea 變成 skill 需要回答：
+
+```
+## [Skill Name]
+
+### Who
+- 誰會用這個？（具體描述）
+
+### When
+- 什麼時候會需要？（觸發情境）
+
+### Problem
+- 目前怎麼解決？為什麼不夠好？
+
+### Solution
+- 這個 skill 提供什麼？
+
+### Structure
+- 框架/步驟/checklist
+
+### Examples
+- 真實情境示範
+
+### Anti-patterns
+- 常見錯誤
+```
+
+## Session Planning
+
+| 時間 | 建議 |
+|------|------|
+| **5 min brainstorm** | 1 category, 10 ideas, no filter |
+| **15 min deep dive** | 1 direction from user, exhaust all angles |
+| **30 min exploration** | 5 categories, cross-pollinate, find gems |
+| **Scheduled (daily)** | Rotate categories, track what's been covered |
+
+---
+
 # EXAMPLES OF GOOD SKILLS
 
 | Skill | Why It Works |
@@ -1508,6 +1575,10 @@ Skip ideas that are:
 | **git-unfuck** | Narrow scope, immediate utility |
 | **stoic-daily** | Ancient wisdom + modern application |
 | **coffee-brewing** | Niche but passionate audience |
+| **saying-no** | Single skill, immediate utility |
+| **imposter-antidote** | Common struggle, actionable reframe |
+| **first-week-fired** | Specific moment, high need |
+| **30-crisis** | Life stage specific, universal within demographic |
 
 ---
 
