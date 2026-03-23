@@ -1690,6 +1690,59 @@ Skip ideas that are:
 
 ---
 
+# COMMON MISTAKES TO AVOID
+
+## ❌ 生成太廣泛的 ideas
+
+**錯誤：** "communication-skills", "productivity", "wellness"
+**正確：** "saying-no-to-boss", "deadline-panic", "monday-morning-routine"
+
+**為什麼：** 廣泛的 idea 聽起來全面，但做不深、用不到。
+
+## ❌ 只產出一種類型
+
+**錯誤：** 全部都是 🧠 Psychology 類型
+**正確：** 混合 🧠 Psychology + 🛠️ Practical + 💡 Philosophy
+
+**為什麼：** 多樣性讓使用者有選擇，不同人需要不同類型。
+
+## ❌ 忽略 findability
+
+**錯誤：** "temporal-anxiety-management" (誰會這樣搜尋？)
+**正確：** "sunday-scaries" (大家都知道這個詞)
+
+**為什麼：** 再好的 skill 也要被找到才有用。
+
+## ❌ 跟使用者方向脫鉤
+
+**錯誤：** 使用者說「游泳」→ 你回「這不在我的分類裡」
+**正確：** 使用者說「游泳」→ 你發散出 15 個游泳相關 ideas
+
+**為什麼：** Brainstorm 的核心是跟隨使用者方向。
+
+## ❌ 只給 idea 不給 why
+
+**錯誤：** "monday-dread" (然後呢？)
+**正確：** "monday-dread — 為什麼週日晚上開始焦慮，怎麼處理"
+
+**為什麼：** One-liner 要讓人瞬間理解價值。
+
+## ❌ 追求數量而非品質
+
+**錯誤：** 100 個平庸的 ideas
+**正確：** 20 個讓人說「我需要這個」的 ideas
+
+**為什麼：** 品質決定有沒有人真的去做。
+
+## ❌ 忘記驗證可行性
+
+**錯誤：** "complete-life-transformation" (這怎麼做成 skill？)
+**正確：** "3am-thought-spiral — 凌晨三點胡思亂想怎麼停" (可以教)
+
+**為什麼：** Skill 必須是可以用文字傳達的。
+
+---
+
 # META
 
 This skill itself demonstrates:
@@ -1697,7 +1750,26 @@ This skill itself demonstrates:
 - Structure helps creativity
 - Categories provide coverage
 - Examples inspire
+- Constraints enable, not limit
 
 ---
 
 *Ideas are cheap. Execution is expensive. But without ideas, there's nothing to execute. 💡*
+
+---
+
+# CHANGELOG
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | 2026-03-24 | Initial 20 categories |
+| 1.1 | 2026-03-24 | First-principles refactor, 10 new categories |
+| 1.2 | 2026-03-24 | Problem-driven generators |
+| 1.3 | 2026-03-24 | User-direction following, search functionality |
+| 1.4 | 2026-03-24 | 10 more categories (#36-45), 150 new ideas |
+| 1.5 | 2026-03-24 | 5 more categories (#46-50), 75 new ideas |
+| 1.6 | 2026-03-24 | Quick Index, Advanced Techniques |
+| 1.7 | 2026-03-24 | Real Ideation Examples |
+| 1.8 | 2026-03-24 | Common Mistakes section |
+
+**Total: 50 categories, 500+ ideas, 1700+ lines**
