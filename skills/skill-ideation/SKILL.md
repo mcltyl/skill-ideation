@@ -1640,6 +1640,116 @@ Agent 應該：
 | **civic-duty** | 公民責任的意義 | 💡 Philosophy |
 | **disagreement-democracy** | 民主中的分歧 | 💡 Philosophy |
 
+## 56. Freelancing & Self-Employment 💼
+
+*自由工作者的挑戰*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **freelance-transition** | 從員工變自由工作者 | 🧠 Transition |
+| **freelance-pricing** | 自由工作者定價 | 🛠️ Framework |
+| **client-management** | 客戶管理 | 🛠️ Practical |
+| **scope-creep** | 範圍蔓延處理 | 🛠️ Technique |
+| **invoice-chasing** | 追款的藝術 | 🛠️ Practical |
+| **freelance-dry-spell** | 沒案子的焦慮 | 🧠 Psychology |
+| **freelance-isolation** | 自由工作者的孤獨 | 🧠 Psychology |
+| **work-life-freelance** | 自由工作者的界線 | 🛠️ Boundaries |
+| **freelance-taxes** | 自由工作者稅務 | 🛠️ Practical |
+| **portfolio-building** | 作品集建立 | 🛠️ Practical |
+| **rate-raising** | 漲價的時機與方式 | 🛠️ Technique |
+| **bad-client-exit** | 跟爛客戶分手 | 🛠️ Technique |
+| **freelance-burnout** | 自由工作者倦怠 | 🧠 Recovery |
+| **steady-income** | 收入穩定化策略 | 🛠️ Strategy |
+| **freelance-identity** | 自由工作者的身份認同 | 🧠 Identity |
+
+## 57. Decision Making & Problem Solving 🧩
+
+*決策和問題解決*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **decision-fatigue** | 決策疲勞 | 🧠 Understanding |
+| **analysis-paralysis** | 分析癱瘓 | 🧠 Pattern |
+| **reversible-irreversible** | 可逆 vs 不可逆決策 | 🧠 Framework |
+| **regret-minimization** | 後悔最小化框架 | 🧠 Framework |
+| **pros-cons-beyond** | 超越優缺點分析 | 🛠️ Framework |
+| **gut-vs-logic** | 直覺 vs 邏輯 | 🧠 Balance |
+| **sunk-cost** | 沉沒成本謬誤 | 🧠 Awareness |
+| **opportunity-cost** | 機會成本思考 | 🧠 Framework |
+| **decision-journal** | 決策日誌 | 🛠️ Practice |
+| **asking-advice** | 如何尋求建議 | 🛠️ Technique |
+| **fast-slow-decisions** | 快決策 vs 慢決策 | 🧠 Framework |
+| **group-decisions** | 群體決策 | 🛠️ Technique |
+| **living-with-decisions** | 與決策共處 | 🧠 Psychology |
+| **changing-mind** | 改變心意的正當性 | 💡 Permission |
+| **problem-framing** | 問題框架 | 🧠 Technique |
+
+## 58. Energy Management ⚡
+
+*能量而非時間*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **energy-audit** | 能量審計 | 🛠️ Assessment |
+| **energy-drains** | 能量消耗源 | 🧠 Awareness |
+| **energy-gains** | 能量補充源 | 🧠 Awareness |
+| **ultradian-rhythms** | 超晝夜節律 | 🔬 Science |
+| **peak-performance-hours** | 巔峰時段 | 🛠️ Discovery |
+| **energy-batch** | 能量批次處理 | 🛠️ Technique |
+| **context-switching-cost** | 切換成本 | 🧠 Awareness |
+| **rest-types** | 休息的種類 | 📚 Understanding |
+| **active-rest** | 積極休息 | 🛠️ Practice |
+| **recovery-rituals** | 恢復儀式 | 🛠️ Practice |
+| **social-energy** | 社交能量管理 | 🛠️ Practical |
+| **emotional-energy** | 情緒能量管理 | 🛠️ Practical |
+| **mental-energy** | 心智能量管理 | 🛠️ Practical |
+| **physical-energy** | 身體能量管理 | 🛠️ Practical |
+| **energy-protection** | 能量保護 | 🛠️ Boundaries |
+
+## 59. Habits & Behavior Change 🔄
+
+*習慣養成和行為改變*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **habit-formation** | 習慣形成的科學 | 🔬 Science |
+| **habit-stacking** | 習慣堆疊 | 🛠️ Technique |
+| **tiny-habits** | 微小習慣 | 🛠️ Framework |
+| **habit-triggers** | 習慣觸發點 | 🧠 Understanding |
+| **breaking-habits** | 打破壞習慣 | 🛠️ Technique |
+| **identity-habits** | 身份認同習慣 | 🧠 Framework |
+| **environment-design** | 環境設計 | 🛠️ Technique |
+| **habit-tracking** | 習慣追蹤 | 🛠️ Practical |
+| **streak-psychology** | 連續記錄心理學 | 🧠 Psychology |
+| **missing-once** | 斷一次怎麼辦 | 🛠️ Recovery |
+| **motivation-vs-discipline** | 動機 vs 紀律 | 💡 Philosophy |
+| **behavior-change-stages** | 行為改變階段 | 📚 Framework |
+| **accountability** | 問責機制 | 🛠️ Practical |
+| **reward-systems** | 獎勵系統 | 🛠️ Technique |
+| **plateau-habits** | 習慣停滯期 | 🧠 Pattern |
+
+## 60. Aging & Life Stages 🌳
+
+*人生階段的智慧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **20s-exploration** | 20 幾歲的探索期 | 🧠 Understanding |
+| **30s-foundation** | 30 幾歲的基礎期 | 🧠 Understanding |
+| **40s-mastery** | 40 幾歲的精進期 | 🧠 Understanding |
+| **50s-harvest** | 50 幾歲的收穫期 | 🧠 Understanding |
+| **60s-legacy** | 60 幾歲的傳承期 | 🧠 Understanding |
+| **age-appropriate** | 年齡適切的迷思 | 💡 Counter |
+| **late-bloomer** | 晚熟者 | 💡 Permission |
+| **early-achiever** | 早成者的壓力 | 🧠 Psychology |
+| **second-act** | 人生第二幕 | 🧠 Transition |
+| **reinvention** | 自我重塑 | 🧠 Framework |
+| **wisdom-acquisition** | 智慧的累積 | 💡 Philosophy |
+| **generativity** | 生成性：留下什麼 | 💡 Philosophy |
+| **mortality-awareness** | 死亡意識 | 💡 Philosophy |
+| **living-fully** | 充實地活 | 💡 Philosophy |
+| **age-discrimination** | 年齡歧視 | 🧠 Awareness |
+
 ---
 
 # QUALITY FILTERS
