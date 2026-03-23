@@ -10849,6 +10849,230 @@ Agent 應該：
 
 ---
 
+# BUSINESS & ENTREPRENEURSHIP DOMAINS
+
+## 471. Entrepreneurship Mindset 🚀
+
+*創業心態*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **entrepreneur-mindset-basics** | 創業心態基礎 | 📚 Understanding |
+| **entrepreneur-mindset-risk** | 創業心態風險 | 🧠 Management |
+| **entrepreneur-mindset-resilience** | 創業心態韌性 | 🧠 Building |
+| **entrepreneur-mindset-growth** | 創業心態成長 | 🧠 Development |
+| **entrepreneur-mindset-action** | 創業心態行動 | 🛠️ Practice |
+| **entrepreneur-mindset-learning** | 創業心態學習 | 🛠️ Practice |
+| **entrepreneur-mindset-daily** | 日常創業心態 | 🛠️ Practice |
+| **entrepreneur-mindset-meaning** | 創業心態意義 | 💡 Connection |
+| **entrepreneur-mindset-grit** | 創業心態毅力 | 🧠 Building |
+| **entrepreneur-mindset-vision** | 創業心態願景 | 🛠️ Development |
+| **entrepreneur-mindset-failure** | 創業心態失敗 | 🧠 Processing |
+| **entrepreneur-mindset-pivot** | 創業心態轉向 | 🛠️ Practice |
+| **entrepreneur-mindset-joy** | 創業心態喜悅 | 💡 Finding |
+| **entrepreneur-mindset-balance** | 創業心態平衡 | 💡 Balance |
+| **entrepreneurial-life** | 創業生活 | 💡 Goal |
+
+## 472. Startup Basics 🌱
+
+*新創基礎*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **startup-basics** | 新創基礎 | 📚 Understanding |
+| **startup-idea** | 新創點子 | 🛠️ Validation |
+| **startup-market** | 新創市場 | 🛠️ Research |
+| **startup-team** | 新創團隊 | 🛠️ Building |
+| **startup-mvp** | 新創 MVP | 🛠️ Development |
+| **startup-funding** | 新創募資 | 🛠️ Practice |
+| **startup-daily** | 日常新創 | 🛠️ Practice |
+| **startup-meaning** | 新創意義 | 💡 Connection |
+| **startup-growth** | 新創成長 | 🛠️ Strategy |
+| **startup-legal** | 新創法律 | 🛠️ Practice |
+| **startup-culture** | 新創文化 | 🛠️ Building |
+| **startup-metrics** | 新創指標 | 🛠️ Tracking |
+| **startup-pivot** | 新創轉向 | 🛠️ Decision |
+| **startup-joy** | 新創喜悅 | 💡 Finding |
+| **startup-founder** | 新創創辦人 | 💡 Goal |
+
+## 473. Small Business Management 🏪
+
+*小型企業管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **small-business-basics** | 小型企業基礎 | 📚 Understanding |
+| **small-business-planning** | 小型企業規劃 | 🛠️ Practice |
+| **small-business-operations** | 小型企業營運 | 🛠️ Practice |
+| **small-business-finance** | 小型企業財務 | 🛠️ Practice |
+| **small-business-marketing** | 小型企業行銷 | 🛠️ Practice |
+| **small-business-hiring** | 小型企業招聘 | 🛠️ Practice |
+| **small-business-daily** | 日常小型企業 | 🛠️ Practice |
+| **small-business-meaning** | 小型企業意義 | 💡 Connection |
+| **small-business-growth** | 小型企業成長 | 🛠️ Strategy |
+| **small-business-legal** | 小型企業法律 | 🛠️ Practice |
+| **small-business-systems** | 小型企業系統 | 🛠️ Building |
+| **small-business-customer** | 小型企業客戶 | 🛠️ Service |
+| **small-business-joy** | 小型企業喜悅 | 💡 Finding |
+| **small-business-balance** | 小型企業平衡 | 💡 Balance |
+| **small-business-owner** | 小型企業主 | 💡 Goal |
+
+## 474. Freelancing 💼
+
+*自由接案*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **freelancing-basics** | 自由接案基礎 | 📚 Understanding |
+| **freelancing-niche** | 自由接案利基 | 🛠️ Selection |
+| **freelancing-portfolio** | 自由接案作品集 | 🛠️ Building |
+| **freelancing-pricing** | 自由接案定價 | 🛠️ Practice |
+| **freelancing-clients** | 自由接案客戶 | 🛠️ Acquisition |
+| **freelancing-contracts** | 自由接案合約 | 🛠️ Practice |
+| **freelancing-daily** | 日常自由接案 | 🛠️ Practice |
+| **freelancing-meaning** | 自由接案意義 | 💡 Connection |
+| **freelancing-growth** | 自由接案成長 | 💡 Continuous |
+| **freelancing-finance** | 自由接案財務 | 🛠️ Management |
+| **freelancing-boundaries** | 自由接案邊界 | 🛠️ Setting |
+| **freelancing-tools** | 自由接案工具 | 🛠️ Selection |
+| **freelancing-joy** | 自由接案喜悅 | 💡 Finding |
+| **freelancing-balance** | 自由接案平衡 | 💡 Balance |
+| **successful-freelancer** | 成功的自由工作者 | 💡 Goal |
+
+## 475. Consulting 🎯
+
+*顧問*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **consulting-basics** | 顧問基礎 | 📚 Understanding |
+| **consulting-expertise** | 顧問專業 | 🛠️ Development |
+| **consulting-positioning** | 顧問定位 | 🛠️ Practice |
+| **consulting-pricing** | 顧問定價 | 🛠️ Practice |
+| **consulting-clients** | 顧問客戶 | 🛠️ Acquisition |
+| **consulting-delivery** | 顧問交付 | 🛠️ Practice |
+| **consulting-daily** | 日常顧問 | 🛠️ Practice |
+| **consulting-meaning** | 顧問意義 | 💡 Connection |
+| **consulting-growth** | 顧問成長 | 💡 Continuous |
+| **consulting-proposals** | 顧問提案 | 🛠️ Practice |
+| **consulting-relationships** | 顧問關係 | 🛠️ Building |
+| **consulting-tools** | 顧問工具 | 🛠️ Selection |
+| **consulting-joy** | 顧問喜悅 | 💡 Finding |
+| **consulting-balance** | 顧問平衡 | 💡 Balance |
+| **trusted-consultant** | 可信賴的顧問 | 💡 Goal |
+
+## 476. Sales Skills 💰
+
+*銷售技巧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **sales-basics** | 銷售基礎 | 📚 Understanding |
+| **sales-psychology** | 銷售心理 | 📚 Understanding |
+| **sales-prospecting** | 銷售開發 | 🛠️ Practice |
+| **sales-presentation** | 銷售簡報 | 🛠️ Practice |
+| **sales-objections** | 銷售異議 | 🛠️ Handling |
+| **sales-closing** | 銷售成交 | 🛠️ Practice |
+| **sales-daily** | 日常銷售 | 🛠️ Practice |
+| **sales-meaning** | 銷售意義 | 💡 Connection |
+| **sales-growth** | 銷售成長 | 💡 Continuous |
+| **sales-relationships** | 銷售關係 | 🛠️ Building |
+| **sales-follow-up** | 銷售跟進 | 🛠️ Practice |
+| **sales-tools** | 銷售工具 | 🛠️ Selection |
+| **sales-joy** | 銷售喜悅 | 💡 Finding |
+| **sales-ethics** | 銷售道德 | 🛠️ Practice |
+| **sales-professional** | 銷售專業人士 | 💡 Goal |
+
+## 477. Marketing Fundamentals 📣
+
+*行銷基礎*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **marketing-basics** | 行銷基礎 | 📚 Understanding |
+| **marketing-strategy** | 行銷策略 | 🛠️ Planning |
+| **marketing-research** | 行銷研究 | 🛠️ Practice |
+| **marketing-positioning** | 行銷定位 | 🛠️ Practice |
+| **marketing-channels** | 行銷通路 | 🛠️ Selection |
+| **marketing-content** | 行銷內容 | 🛠️ Practice |
+| **marketing-daily** | 日常行銷 | 🛠️ Practice |
+| **marketing-meaning** | 行銷意義 | 💡 Connection |
+| **marketing-growth** | 行銷成長 | 💡 Continuous |
+| **marketing-analytics** | 行銷分析 | 🛠️ Practice |
+| **marketing-automation** | 行銷自動化 | 🛠️ Practice |
+| **marketing-tools** | 行銷工具 | 🛠️ Selection |
+| **marketing-joy** | 行銷喜悅 | 💡 Finding |
+| **marketing-trends** | 行銷趨勢 | 🛠️ Tracking |
+| **marketing-professional** | 行銷專業人士 | 💡 Goal |
+
+## 478. Brand Building 🏷️
+
+*品牌建立*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **brand-building-basics** | 品牌建立基礎 | 📚 Understanding |
+| **brand-building-strategy** | 品牌建立策略 | 🛠️ Planning |
+| **brand-building-identity** | 品牌建立識別 | 🛠️ Development |
+| **brand-building-voice** | 品牌建立聲音 | 🛠️ Development |
+| **brand-building-visual** | 品牌建立視覺 | 🛠️ Development |
+| **brand-building-story** | 品牌建立故事 | 🛠️ Crafting |
+| **brand-building-daily** | 日常品牌建立 | 🛠️ Practice |
+| **brand-building-meaning** | 品牌建立意義 | 💡 Connection |
+| **brand-building-growth** | 品牌建立成長 | 💡 Continuous |
+| **brand-building-consistency** | 品牌建立一致 | 🛠️ Practice |
+| **brand-building-community** | 品牌建立社群 | 🛠️ Building |
+| **brand-building-tools** | 品牌建立工具 | 🛠️ Selection |
+| **brand-building-joy** | 品牌建立喜悅 | 💡 Finding |
+| **brand-building-evolution** | 品牌建立演進 | 🛠️ Practice |
+| **brand-builder** | 品牌建立者 | 💡 Goal |
+
+## 479. Customer Experience 🤝
+
+*客戶體驗*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **cx-basics** | 客戶體驗基礎 | 📚 Understanding |
+| **cx-mapping** | 客戶體驗地圖 | 🛠️ Practice |
+| **cx-touchpoints** | 客戶體驗接觸點 | 🛠️ Practice |
+| **cx-feedback** | 客戶體驗回饋 | 🛠️ Collection |
+| **cx-improvement** | 客戶體驗改善 | 🛠️ Practice |
+| **cx-personalization** | 客戶體驗個人化 | 🛠️ Practice |
+| **cx-daily** | 日常客戶體驗 | 🛠️ Practice |
+| **cx-meaning** | 客戶體驗意義 | 💡 Connection |
+| **cx-growth** | 客戶體驗成長 | 💡 Continuous |
+| **cx-metrics** | 客戶體驗指標 | 🛠️ Tracking |
+| **cx-culture** | 客戶體驗文化 | 🛠️ Building |
+| **cx-tools** | 客戶體驗工具 | 🛠️ Selection |
+| **cx-joy** | 客戶體驗喜悅 | 💡 Finding |
+| **cx-recovery** | 客戶體驗恢復 | 🛠️ Practice |
+| **cx-champion** | 客戶體驗冠軍 | 💡 Goal |
+
+## 480. Operations Management ⚙️
+
+*營運管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **operations-basics** | 營運管理基礎 | 📚 Understanding |
+| **operations-processes** | 營運管理流程 | 🛠️ Design |
+| **operations-efficiency** | 營運管理效率 | 🛠️ Improvement |
+| **operations-quality** | 營運管理品質 | 🛠️ Assurance |
+| **operations-inventory** | 營運管理庫存 | 🛠️ Management |
+| **operations-supply** | 營運管理供應 | 🛠️ Management |
+| **operations-daily** | 日常營運管理 | 🛠️ Practice |
+| **operations-meaning** | 營運管理意義 | 💡 Connection |
+| **operations-growth** | 營運管理成長 | 💡 Continuous |
+| **operations-metrics** | 營運管理指標 | 🛠️ Tracking |
+| **operations-automation** | 營運管理自動化 | 🛠️ Practice |
+| **operations-tools** | 營運管理工具 | 🛠️ Selection |
+| **operations-joy** | 營運管理喜悅 | 💡 Finding |
+| **operations-scaling** | 營運管理規模 | 🛠️ Practice |
+| **operations-expert** | 營運管理專家 | 💡 Goal |
+
+---
+
 # QUALITY FILTERS
 
 Before suggesting, ask:
