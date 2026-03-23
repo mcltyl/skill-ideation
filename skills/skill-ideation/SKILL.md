@@ -3009,6 +3009,116 @@ Agent 應該：
 | **language-anxiety** | 語言焦慮 | 🧠 Psychology |
 | **multilingual-maintenance** | 多語維護 | 🛠️ Practice |
 
+## 116. Critical Thinking 🔍
+
+*批判性思維*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **critical-thinking-basics** | 批判性思維基礎 | 📚 Framework |
+| **questioning-assumptions** | 質疑假設 | 🛠️ Technique |
+| **evidence-evaluation** | 證據評估 | 🛠️ Technique |
+| **logical-fallacies** | 邏輯謬誤 | 📚 Reference |
+| **argument-analysis** | 論證分析 | 🛠️ Technique |
+| **source-evaluation** | 來源評估 | 🛠️ Technique |
+| **bias-awareness** | 偏見覺察 | 🧠 Awareness |
+| **confirmation-bias** | 確認偏誤 | 🧠 Understanding |
+| **devil-advocate** | 魔鬼代言人 | 🛠️ Technique |
+| **steelmanning** | 鋼鐵人論證 | 🛠️ Technique |
+| **nuanced-thinking** | 細緻思考 | 🧠 Practice |
+| **intellectual-humility** | 智識謙卑 | 💡 Philosophy |
+| **changing-mind** | 改變心意 | 🧠 Practice |
+| **critical-reading** | 批判性閱讀 | 🛠️ Technique |
+| **teaching-critical** | 教授批判性思維 | 🛠️ Practice |
+
+## 117. Systems Thinking 🔄
+
+*系統思維*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **systems-thinking-basics** | 系統思維基礎 | 📚 Framework |
+| **interconnections** | 相互連結 | 🧠 Understanding |
+| **feedback-loops** | 回饋循環 | 📚 Concept |
+| **leverage-points** | 槓桿點 | 🛠️ Identification |
+| **unintended-consequences** | 意外後果 | 🧠 Awareness |
+| **root-cause-analysis** | 根本原因分析 | 🛠️ Technique |
+| **mental-models** | 心智模型 | 📚 Framework |
+| **holistic-view** | 整體觀 | 🧠 Practice |
+| **complexity-thinking** | 複雜性思維 | 🧠 Understanding |
+| **emergent-properties** | 湧現特性 | 📚 Concept |
+| **boundaries-systems** | 系統邊界 | 🧠 Awareness |
+| **system-mapping** | 系統映射 | 🛠️ Tool |
+| **dynamic-thinking** | 動態思維 | 🧠 Practice |
+| **long-term-thinking** | 長期思維 | 🧠 Practice |
+| **systems-in-daily-life** | 日常生活中的系統 | 🛠️ Application |
+
+## 118. Problem Definition 🎯
+
+*問題定義*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **problem-definition-basics** | 問題定義基礎 | 📚 Framework |
+| **problem-vs-symptom** | 問題 vs 症狀 | 🧠 Distinction |
+| **problem-framing** | 問題框架 | 🛠️ Technique |
+| **reframing-problems** | 重新框架問題 | 🛠️ Technique |
+| **problem-scope** | 問題範圍 | 🛠️ Definition |
+| **problem-breakdown** | 問題拆解 | 🛠️ Technique |
+| **five-whys** | 五個為什麼 | 🛠️ Technique |
+| **problem-statement** | 問題陳述 | 🛠️ Technique |
+| **problem-prioritization** | 問題優先排序 | 🛠️ Framework |
+| **false-problems** | 假問題 | 🧠 Awareness |
+| **problem-ownership** | 問題所有權 | 🧠 Clarity |
+| **problem-constraints** | 問題限制 | 🛠️ Identification |
+| **problem-context** | 問題脈絡 | 🧠 Understanding |
+| **problem-stakeholders** | 問題利害關係人 | 🛠️ Mapping |
+| **problem-validation** | 問題驗證 | 🛠️ Process |
+
+## 119. Data & Analytics (Personal) 📊
+
+*個人數據和分析*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **personal-data** | 個人數據 | 📚 Overview |
+| **quantified-self** | 量化自我 | 📚 Movement |
+| **data-tracking** | 數據追蹤 | 🛠️ Practice |
+| **data-interpretation** | 數據解讀 | 🛠️ Skill |
+| **health-data** | 健康數據 | 🛠️ Application |
+| **finance-data** | 財務數據 | 🛠️ Application |
+| **productivity-data** | 生產力數據 | 🛠️ Application |
+| **data-visualization** | 數據視覺化 | 🛠️ Skill |
+| **data-patterns** | 數據模式 | 🛠️ Recognition |
+| **data-action** | 數據到行動 | 🛠️ Process |
+| **over-tracking** | 過度追蹤 | 🧠 Awareness |
+| **data-privacy** | 數據隱私 | 🧠 Awareness |
+| **data-honesty** | 數據誠實 | 🧠 Practice |
+| **data-review** | 數據回顧 | 🛠️ Practice |
+| **data-simplicity** | 數據簡化 | 💡 Philosophy |
+
+## 120. Future Thinking & Planning 🔮
+
+*未來思維和規劃*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **future-thinking-basics** | 未來思維基礎 | 📚 Framework |
+| **scenario-planning** | 情境規劃 | 🛠️ Technique |
+| **backcasting** | 回溯規劃 | 🛠️ Technique |
+| **trend-spotting** | 趨勢識別 | 🛠️ Skill |
+| **uncertainty-navigation** | 不確定性導航 | 🧠 Framework |
+| **long-term-planning** | 長期規劃 | 🛠️ Practice |
+| **life-planning** | 人生規劃 | 🛠️ Framework |
+| **career-planning** | 職涯規劃 | 🛠️ Framework |
+| **financial-planning** | 財務規劃 | 🛠️ Framework |
+| **contingency-planning** | 應變計劃 | 🛠️ Practice |
+| **flexibility-planning** | 規劃中的彈性 | 💡 Balance |
+| **vision-setting** | 願景設定 | 🛠️ Practice |
+| **future-anxiety** | 未來焦慮 | 🧠 Psychology |
+| **present-vs-future** | 當下 vs 未來 | 💡 Balance |
+| **adaptive-planning** | 適應性規劃 | 🛠️ Framework |
+
 ---
 
 # QUALITY FILTERS
