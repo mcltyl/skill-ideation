@@ -8085,6 +8085,116 @@ Agent 應該：
 | **business-failure-retry** | 商業失敗再試 | 🛠️ Decision |
 | **failing-forward** | 向前失敗 | 💡 Philosophy |
 
+## 346. Navigating Scandal/Reputation Crisis 🔥
+
+*經歷醜聞/聲譽危機*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **reputation-crisis-basics** | 聲譽危機基礎 | 📚 Understanding |
+| **reputation-crisis-emotions** | 聲譽危機情緒 | 🧠 Processing |
+| **reputation-crisis-assessment** | 聲譽危機評估 | 🛠️ Process |
+| **reputation-crisis-response** | 聲譽危機回應 | 🛠️ Strategy |
+| **reputation-crisis-communication** | 聲譽危機溝通 | 🛠️ Practice |
+| **reputation-crisis-accountability** | 聲譽危機問責 | 🛠️ Practice |
+| **reputation-crisis-relationships** | 聲譽危機關係 | 🛠️ Navigation |
+| **reputation-crisis-recovery** | 聲譽危機恢復 | 🛠️ Strategy |
+| **reputation-crisis-meaning** | 聲譽危機意義 | 💡 Finding |
+| **reputation-crisis-growth** | 聲譽危機成長 | 💡 Opportunity |
+| **reputation-crisis-lessons** | 聲譽危機教訓 | 💡 Learning |
+| **reputation-crisis-resilience** | 聲譽危機韌性 | 🧠 Building |
+| **reputation-crisis-support** | 聲譽危機支持 | 🛠️ Resources |
+| **reputation-crisis-rebuild** | 聲譽危機重建 | 🛠️ Process |
+| **redemption** | 救贖 | 💡 Philosophy |
+
+## 347. Navigating Legal Trouble 🔒
+
+*經歷法律麻煩*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **legal-trouble-basics** | 法律麻煩基礎 | 📚 Understanding |
+| **legal-trouble-emotions** | 法律麻煩情緒 | 🧠 Processing |
+| **legal-trouble-immediate** | 法律麻煩立即 | 🛠️ Actions |
+| **legal-trouble-representation** | 法律麻煩代表 | 🛠️ Finding |
+| **legal-trouble-finances** | 法律麻煩財務 | 🛠️ Management |
+| **legal-trouble-relationships** | 法律麻煩關係 | 🛠️ Navigation |
+| **legal-trouble-mental-health** | 法律麻煩心理健康 | 🛠️ Priority |
+| **legal-trouble-navigation** | 法律麻煩導航 | 🛠️ Process |
+| **legal-trouble-meaning** | 法律麻煩意義 | 💡 Finding |
+| **legal-trouble-growth** | 法律麻煩成長 | 💡 Opportunity |
+| **legal-trouble-lessons** | 法律麻煩教訓 | 💡 Learning |
+| **legal-trouble-resilience** | 法律麻煩韌性 | 🧠 Building |
+| **legal-trouble-support** | 法律麻煩支持 | 🛠️ Resources |
+| **legal-trouble-aftermath** | 法律麻煩後果 | 🛠️ Navigation |
+| **second-chance** | 第二次機會 | 💡 Philosophy |
+
+## 348. Navigating Health Scare 🏥
+
+*經歷健康驚嚇*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **health-scare-basics** | 健康驚嚇基礎 | 📚 Understanding |
+| **health-scare-emotions** | 健康驚嚇情緒 | 🧠 Processing |
+| **health-scare-immediate** | 健康驚嚇立即 | 🛠️ Actions |
+| **health-scare-information** | 健康驚嚇資訊 | 🛠️ Gathering |
+| **health-scare-decisions** | 健康驚嚇決策 | 🛠️ Framework |
+| **health-scare-support** | 健康驚嚇支持 | 🛠️ Building |
+| **health-scare-relationships** | 健康驚嚇關係 | 🛠️ Navigation |
+| **health-scare-work** | 健康驚嚇工作 | 🛠️ Navigation |
+| **health-scare-meaning** | 健康驚嚇意義 | 💡 Finding |
+| **health-scare-growth** | 健康驚嚇成長 | 💡 Opportunity |
+| **health-scare-lessons** | 健康驚嚇教訓 | 💡 Learning |
+| **health-scare-resilience** | 健康驚嚇韌性 | 🧠 Building |
+| **health-scare-clarity** | 健康驚嚇清晰 | 💡 Gift |
+| **health-scare-recovery** | 健康驚嚇恢復 | 🛠️ Process |
+| **embracing-life** | 擁抱生命 | 💡 Philosophy |
+
+## 349. Navigating Natural Disaster 🌊
+
+*經歷天災*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **disaster-basics** | 天災基礎 | 📚 Understanding |
+| **disaster-immediate** | 天災立即 | 🛠️ Actions |
+| **disaster-safety** | 天災安全 | 🛠️ Priority |
+| **disaster-resources** | 天災資源 | 🛠️ Finding |
+| **disaster-emotions** | 天災情緒 | 🧠 Processing |
+| **disaster-loss** | 天災損失 | 🧠 Processing |
+| **disaster-rebuilding** | 天災重建 | 🛠️ Process |
+| **disaster-community** | 天災社群 | 🛠️ Building |
+| **disaster-relationships** | 天災關係 | 🛠️ Navigation |
+| **disaster-meaning** | 天災意義 | 💡 Finding |
+| **disaster-growth** | 天災成長 | 💡 Opportunity |
+| **disaster-resilience** | 天災韌性 | 🧠 Building |
+| **disaster-support** | 天災支持 | 🛠️ Resources |
+| **disaster-preparation** | 天災準備 | 🛠️ Future |
+| **rebuilding-stronger** | 重建更強 | 💡 Philosophy |
+
+## 350. Living Your Truth 🌟
+
+*活出真實*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **truth-living-basics** | 活出真實基礎 | 📚 Understanding |
+| **truth-discovery** | 真實發現 | 🧠 Process |
+| **truth-values** | 真實價值觀 | 🛠️ Clarification |
+| **truth-alignment** | 真實對齊 | 🛠️ Practice |
+| **truth-expression** | 真實表達 | 🛠️ Practice |
+| **truth-courage** | 真實勇氣 | 🧠 Building |
+| **truth-vulnerability** | 真實脆弱 | 🛠️ Practice |
+| **truth-relationships** | 真實關係 | 🛠️ Navigation |
+| **truth-work** | 真實工作 | 🛠️ Navigation |
+| **truth-obstacles** | 真實障礙 | 🧠 Navigation |
+| **truth-meaning** | 真實意義 | 💡 Connection |
+| **truth-growth** | 真實成長 | 💡 Continuous |
+| **truth-joy** | 真實喜悅 | 💡 Finding |
+| **truth-freedom** | 真實自由 | 💡 Experience |
+| **authentic-life** | 真誠的人生 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
