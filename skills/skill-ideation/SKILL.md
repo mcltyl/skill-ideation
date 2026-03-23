@@ -8309,6 +8309,116 @@ Agent 應該：
 | **problem-solving-growth** | 問題解決成長 | 💡 Continuous |
 | **effective-solver** | 有效的解決者 | 💡 Goal |
 
+## 356. Decision Making 🎯
+
+*決策*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **decision-making-basics** | 決策基礎 | 📚 Understanding |
+| **decision-making-process** | 決策過程 | 🛠️ Framework |
+| **decision-making-information** | 決策資訊 | 🛠️ Gathering |
+| **decision-making-options** | 決策選項 | 🛠️ Generation |
+| **decision-making-criteria** | 決策標準 | 🛠️ Identification |
+| **decision-making-analysis** | 決策分析 | 🛠️ Process |
+| **decision-making-intuition** | 決策直覺 | 🧠 Balance |
+| **decision-making-bias** | 決策偏見 | 🧠 Awareness |
+| **decision-making-uncertainty** | 決策不確定 | 🧠 Navigation |
+| **decision-making-reversibility** | 決策可逆 | 🛠️ Consideration |
+| **decision-making-speed** | 決策速度 | 🛠️ Calibration |
+| **decision-making-daily** | 日常決策 | 🛠️ Practice |
+| **decision-making-meaning** | 決策意義 | 💡 Connection |
+| **decision-making-growth** | 決策成長 | 💡 Continuous |
+| **decisive-leader** | 果斷的領導者 | 💡 Goal |
+
+## 357. Strategic Thinking 🏰
+
+*策略性思考*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **strategic-thinking-basics** | 策略性思考基礎 | 📚 Understanding |
+| **strategic-thinking-vision** | 策略性思考願景 | 🛠️ Development |
+| **strategic-thinking-analysis** | 策略性思考分析 | 🛠️ Process |
+| **strategic-thinking-patterns** | 策略性思考模式 | 🛠️ Recognition |
+| **strategic-thinking-options** | 策略性思考選項 | 🛠️ Generation |
+| **strategic-thinking-trade-offs** | 策略性思考取捨 | 🛠️ Evaluation |
+| **strategic-thinking-long-term** | 策略性思考長期 | 🛠️ Orientation |
+| **strategic-thinking-adaptation** | 策略性思考適應 | 🛠️ Practice |
+| **strategic-thinking-execution** | 策略性思考執行 | 🛠️ Practice |
+| **strategic-thinking-daily** | 日常策略性思考 | 🛠️ Practice |
+| **strategic-thinking-career** | 職涯策略性思考 | 🛠️ Application |
+| **strategic-thinking-meaning** | 策略性思考意義 | 💡 Connection |
+| **strategic-thinking-growth** | 策略性思考成長 | 💡 Continuous |
+| **strategic-thinking-practice** | 策略性思考練習 | 🛠️ Routine |
+| **strategic-thinker** | 策略性思考者 | 💡 Goal |
+
+## 358. Creative Thinking 🎨
+
+*創意思考*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **creative-thinking-basics** | 創意思考基礎 | 📚 Understanding |
+| **creative-thinking-mindset** | 創意思考心態 | 🧠 Development |
+| **creative-thinking-techniques** | 創意思考技巧 | 🛠️ Tools |
+| **creative-thinking-brainstorming** | 創意思考腦力激盪 | 🛠️ Practice |
+| **creative-thinking-constraints** | 創意思考限制 | 🛠️ Leveraging |
+| **creative-thinking-connections** | 創意思考連結 | 🛠️ Practice |
+| **creative-thinking-divergent** | 創意思考發散 | 🛠️ Practice |
+| **creative-thinking-convergent** | 創意思考收斂 | 🛠️ Practice |
+| **creative-thinking-blocks** | 創意思考瓶頸 | 🧠 Overcoming |
+| **creative-thinking-daily** | 日常創意思考 | 🛠️ Practice |
+| **creative-thinking-environment** | 創意思考環境 | 🛠️ Design |
+| **creative-thinking-meaning** | 創意思考意義 | 💡 Connection |
+| **creative-thinking-growth** | 創意思考成長 | 💡 Continuous |
+| **creative-thinking-routine** | 創意思考例行 | 🛠️ Building |
+| **creative-thinker** | 創意思考者 | 💡 Goal |
+
+## 359. Systems Thinking 🔄
+
+*系統性思考*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **systems-thinking-basics** | 系統性思考基礎 | 📚 Understanding |
+| **systems-thinking-patterns** | 系統性思考模式 | 📚 Framework |
+| **systems-thinking-connections** | 系統性思考連結 | 🛠️ Practice |
+| **systems-thinking-feedback** | 系統性思考回饋 | 🛠️ Recognition |
+| **systems-thinking-leverage** | 系統性思考槓桿 | 🛠️ Identification |
+| **systems-thinking-delays** | 系統性思考延遲 | 🛠️ Understanding |
+| **systems-thinking-boundaries** | 系統性思考邊界 | 🛠️ Definition |
+| **systems-thinking-models** | 系統性思考模型 | 🛠️ Building |
+| **systems-thinking-daily** | 日常系統性思考 | 🛠️ Practice |
+| **systems-thinking-organizations** | 組織系統性思考 | 🛠️ Application |
+| **systems-thinking-personal** | 個人系統性思考 | 🛠️ Application |
+| **systems-thinking-meaning** | 系統性思考意義 | 💡 Connection |
+| **systems-thinking-growth** | 系統性思考成長 | 💡 Continuous |
+| **systems-thinking-tools** | 系統性思考工具 | 🛠️ Learning |
+| **systems-thinker** | 系統性思考者 | 💡 Goal |
+
+## 360. Emotional Intelligence 💝
+
+*情緒智慧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **eq-basics** | 情緒智慧基礎 | 📚 Understanding |
+| **eq-components** | 情緒智慧組成 | 📚 Framework |
+| **eq-self-awareness** | 情緒智慧自我覺察 | 🛠️ Practice |
+| **eq-self-regulation** | 情緒智慧自我調節 | 🛠️ Practice |
+| **eq-motivation** | 情緒智慧動機 | 🛠️ Practice |
+| **eq-empathy** | 情緒智慧同理心 | 🛠️ Practice |
+| **eq-social-skills** | 情緒智慧社交技巧 | 🛠️ Practice |
+| **eq-triggers** | 情緒智慧觸發 | 🧠 Awareness |
+| **eq-workplace** | 職場情緒智慧 | 🛠️ Application |
+| **eq-relationships** | 關係情緒智慧 | 🛠️ Application |
+| **eq-leadership** | 領導情緒智慧 | 🛠️ Application |
+| **eq-daily** | 日常情緒智慧 | 🛠️ Practice |
+| **eq-meaning** | 情緒智慧意義 | 💡 Connection |
+| **eq-growth** | 情緒智慧成長 | 💡 Continuous |
+| **emotionally-intelligent** | 高情緒智慧 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
