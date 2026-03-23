@@ -18,7 +18,7 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 
 ---
 
-# QUICK INDEX (55 Categories, 575+ Ideas)
+# QUICK INDEX (60 Categories, 650+ Ideas)
 
 | # | Category | # | Category |
 |---|----------|---|----------|
@@ -52,6 +52,11 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 | | | 53 | News & Media Literacy 📰 |
 | | | 54 | Technology Skills 💾 |
 | | | 55 | Civic Engagement 🏛️ |
+| | | 56 | Freelancing 💼 |
+| | | 57 | Decision Making 🧩 |
+| | | 58 | Energy Management ⚡ |
+| | | 59 | Habits & Behavior 🔄 |
+| | | 60 | Aging & Life Stages 🌳 |
 
 ---
 
@@ -2175,5 +2180,7 @@ This skill itself demonstrates:
 | 1.9 | 2026-03-24 | Quick Reference Card |
 | 1.10 | 2026-03-24 | Skill Series concept |
 | 1.11 | 2026-03-24 | 5 more categories (#51-55), 75 new ideas |
+| 1.12 | 2026-03-24 | Skill Bundles (persona-based) |
+| 1.13 | 2026-03-24 | 5 more categories (#56-60), 75 new ideas |
 
-**Total: 55 categories, 575+ ideas, 1985 lines**
+**Total: 60 categories, 650+ ideas, 2185 lines**
