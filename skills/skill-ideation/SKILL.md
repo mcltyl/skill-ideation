@@ -4773,6 +4773,116 @@ Agent 應該：
 | **purpose-daily** | 日常目的 | 🛠️ Practice |
 | **purpose-peace** | 目的和平靜 | 💡 Philosophy |
 
+## 196. Practicing Gratitude 🙏
+
+*練習感恩*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **gratitude-basics** | 感恩基礎 | 📚 Understanding |
+| **gratitude-science** | 感恩科學 | 📚 Science |
+| **gratitude-practice** | 感恩練習 | 🛠️ Practice |
+| **gratitude-journal** | 感恩日記 | 🛠️ Tool |
+| **gratitude-daily** | 日常感恩 | 🛠️ Practice |
+| **gratitude-depth** | 深度感恩 | 🛠️ Practice |
+| **gratitude-hard-times** | 困難時期的感恩 | 🧠 Challenge |
+| **gratitude-relationships** | 關係中的感恩 | 🛠️ Application |
+| **gratitude-work** | 工作中的感恩 | 🛠️ Application |
+| **gratitude-expression** | 感恩表達 | 🛠️ Practice |
+| **gratitude-vs-toxic** | 感恩 vs 有毒正向 | 📚 Distinction |
+| **gratitude-resistance** | 感恩抗拒 | 🧠 Overcoming |
+| **gratitude-habit** | 感恩習慣 | 🛠️ Building |
+| **gratitude-culture** | 感恩文化 | 🛠️ Building |
+| **gratitude-transformation** | 感恩轉化 | 💡 Philosophy |
+
+## 197. Practicing Mindfulness 🧘
+
+*練習正念*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **mindfulness-basics** | 正念基礎 | 📚 Understanding |
+| **mindfulness-science** | 正念科學 | 📚 Science |
+| **mindfulness-practice** | 正念練習 | 🛠️ Practice |
+| **mindfulness-meditation** | 正念冥想 | 🛠️ Practice |
+| **mindfulness-daily** | 日常正念 | 🛠️ Practice |
+| **mindfulness-eating** | 正念飲食 | 🛠️ Application |
+| **mindfulness-walking** | 正念行走 | 🛠️ Application |
+| **mindfulness-work** | 工作正念 | 🛠️ Application |
+| **mindfulness-stress** | 壓力正念 | 🛠️ Application |
+| **mindfulness-emotions** | 情緒正念 | 🛠️ Application |
+| **mindfulness-body** | 身體正念 | 🛠️ Practice |
+| **mindfulness-thoughts** | 思維正念 | 🛠️ Practice |
+| **mindfulness-beginner** | 初學者正念 | 🛠️ Start |
+| **mindfulness-obstacles** | 正念障礙 | 🧠 Overcoming |
+| **mindfulness-integration** | 正念整合 | 💡 Goal |
+
+## 198. Building Habits 🔄
+
+*建立習慣*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **habits-basics** | 習慣基礎 | 📚 Understanding |
+| **habits-science** | 習慣科學 | 📚 Science |
+| **habits-loop** | 習慣迴路 | 📚 Framework |
+| **habits-building** | 建立習慣 | 🛠️ Process |
+| **habits-breaking** | 打破習慣 | 🛠️ Process |
+| **habits-stacking** | 習慣堆疊 | 🛠️ Technique |
+| **habits-cues** | 習慣線索 | 🛠️ Design |
+| **habits-rewards** | 習慣獎勵 | 🛠️ Design |
+| **habits-environment** | 習慣環境 | 🛠️ Design |
+| **habits-small** | 小習慣 | 🛠️ Start |
+| **habits-consistency** | 習慣一致性 | 🛠️ Practice |
+| **habits-tracking** | 習慣追蹤 | 🛠️ Tool |
+| **habits-failure** | 習慣失敗 | 🧠 Recovery |
+| **habits-identity** | 習慣和身份 | 🧠 Connection |
+| **habits-transformation** | 習慣轉化 | 💡 Goal |
+
+## 199. Practicing Self-Care 🛁
+
+*練習自我照顧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **self-care-basics** | 自我照顧基礎 | 📚 Understanding |
+| **self-care-importance** | 自我照顧重要性 | 📚 Why |
+| **self-care-types** | 自我照顧種類 | 📚 Framework |
+| **self-care-physical** | 身體自我照顧 | 🛠️ Practice |
+| **self-care-emotional** | 情緒自我照顧 | 🛠️ Practice |
+| **self-care-mental** | 心理自我照顧 | 🛠️ Practice |
+| **self-care-social** | 社交自我照顧 | 🛠️ Practice |
+| **self-care-spiritual** | 靈性自我照顧 | 🛠️ Practice |
+| **self-care-daily** | 日常自我照顧 | 🛠️ Practice |
+| **self-care-boundaries** | 自我照顧邊界 | 🛠️ Connection |
+| **self-care-guilt** | 自我照顧罪惡感 | 🧠 Overcoming |
+| **self-care-time** | 自我照顧時間 | 🛠️ Finding |
+| **self-care-budget** | 自我照顧預算 | 🛠️ Practical |
+| **self-care-vs-selfishness** | 自我照顧 vs 自私 | 📚 Distinction |
+| **sustainable-self-care** | 永續自我照顧 | 💡 Goal |
+
+## 200. Living Intentionally 🎯
+
+*有意識生活*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **intentional-basics** | 有意識生活基礎 | 📚 Understanding |
+| **intentional-definition** | 有意識定義 | 📚 Philosophy |
+| **intentional-practice** | 有意識練習 | 🛠️ Practice |
+| **intentional-values** | 有意識價值觀 | 🛠️ Alignment |
+| **intentional-time** | 有意識時間 | 🛠️ Practice |
+| **intentional-relationships** | 有意識關係 | 🛠️ Practice |
+| **intentional-work** | 有意識工作 | 🛠️ Practice |
+| **intentional-spending** | 有意識消費 | 🛠️ Practice |
+| **intentional-digital** | 有意識數位 | 🛠️ Practice |
+| **intentional-choices** | 有意識選擇 | 🛠️ Framework |
+| **intentional-daily** | 有意識日常 | 🛠️ Practice |
+| **intentional-review** | 有意識回顧 | 🛠️ Practice |
+| **intentional-obstacles** | 有意識障礙 | 🧠 Overcoming |
+| **intentional-simplicity** | 有意識簡單 | 💡 Connection |
+| **intentional-life** | 有意識人生 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
