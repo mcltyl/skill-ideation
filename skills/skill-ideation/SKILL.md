@@ -1563,6 +1563,60 @@ Skip ideas that are:
 
 **公式：** `[情境 Category] + [主題 Category] = Specific Skill`
 
+## Skill Series（系列化）
+
+相關 skills 可以組成系列，增加深度和可發現性：
+
+### Career Lifecycle Series
+```
+1. first-job-survival
+2. promotion-negotiation
+3. managing-up
+4. becoming-manager
+5. career-pivot
+6. resignation-graceful
+7. unemployment-identity
+8. career-comeback
+```
+
+### Relationship Lifecycle Series
+```
+1. first-date-anxiety
+2. early-relationship-mistakes
+3. moving-in-together
+4. fighting-fair
+5. long-term-maintenance
+6. breakup-recovery
+7. dating-again
+```
+
+### Life Stages Series
+```
+1. 20s-exploration
+2. quarter-life-crisis
+3. 30s-reckoning
+4. midlife-audit
+5. empty-nest
+6. retirement-identity
+7. aging-gracefully
+```
+
+### Difficult Conversations Series
+```
+1. saying-no
+2. giving-feedback
+3. receiving-feedback
+4. asking-for-raise
+5. setting-boundaries
+6. apologizing
+7. confronting
+```
+
+**為什麼做系列：**
+- 使用者找到一個，會發現整個系列
+- 系列本身就是 marketing
+- 深度 > 廣度（做好一個系列比做很多單獨 skills 有價值）
+
 ## Depth vs Breadth
 
 | 策略 | 何時用 |
