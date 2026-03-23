@@ -3449,6 +3449,116 @@ Agent 應該：
 | **self-awareness-growth** | 覺察促進成長 | 💡 Philosophy |
 | **too-much-self-awareness** | 過度自我覺察 | 🧠 Balance |
 
+## 136. Focus on What Matters 🎯
+
+*專注於重要的事*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **what-matters** | 什麼是重要的 | 🧠 Discovery |
+| **priority-clarity** | 優先順序清晰 | 🛠️ Framework |
+| **essential-vs-urgent** | 重要 vs 緊急 | 📚 Distinction |
+| **saying-no-focus** | 為專注說不 | 🛠️ Practice |
+| **distraction-elimination** | 消除干擾 | 🛠️ Practice |
+| **deep-focus** | 深度專注 | 🛠️ Practice |
+| **focus-protection** | 專注保護 | 🛠️ Practice |
+| **focus-rituals** | 專注儀式 | 🛠️ Practice |
+| **focus-recovery** | 專注恢復 | 🛠️ Practice |
+| **multi-tasking-myth** | 多工迷思 | 📚 Debunk |
+| **single-tasking** | 單工處理 | 🛠️ Practice |
+| **focus-environment** | 專注環境 | 🛠️ Setup |
+| **focus-time** | 專注時間 | 🛠️ Scheduling |
+| **focus-goals** | 專注目標 | 🛠️ Alignment |
+| **focus-review** | 專注回顧 | 🛠️ Practice |
+
+## 137. Adaptability 🦎
+
+*適應力*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **adaptability-basics** | 適應力基礎 | 📚 Understanding |
+| **adaptability-mindset** | 適應力心態 | 🧠 Framework |
+| **adaptability-practice** | 適應力練習 | 🛠️ Practice |
+| **change-response** | 改變反應 | 🧠 Awareness |
+| **flexibility-thinking** | 彈性思維 | 🧠 Practice |
+| **pivoting** | 轉向 | 🛠️ Skill |
+| **uncertainty-navigation** | 不確定性導航 | 🧠 Skill |
+| **learning-agility** | 學習敏捷 | 🧠 Skill |
+| **comfort-zone** | 舒適圈 | 🧠 Expansion |
+| **adaptability-work** | 工作中的適應力 | 🛠️ Application |
+| **adaptability-relationships** | 關係中的適應力 | 🛠️ Application |
+| **adaptability-limits** | 適應力的限制 | 🧠 Awareness |
+| **forced-adaptation** | 被迫適應 | 🧠 Navigation |
+| **proactive-adaptation** | 主動適應 | 🛠️ Practice |
+| **adaptability-growth** | 適應力成長 | 💡 Philosophy |
+
+## 138. Simplicity 🍃
+
+*簡單*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **simplicity-basics** | 簡單基礎 | 📚 Understanding |
+| **simplicity-practice** | 簡單練習 | 🛠️ Practice |
+| **simplifying-life** | 簡化生活 | 🛠️ Process |
+| **simplifying-work** | 簡化工作 | 🛠️ Process |
+| **simplifying-decisions** | 簡化決策 | 🛠️ Technique |
+| **simplifying-communication** | 簡化溝通 | 🛠️ Technique |
+| **simplicity-thinking** | 簡單思維 | 🧠 Practice |
+| **essentialism** | 本質主義 | 📚 Philosophy |
+| **less-is-more** | 少即是多 | 💡 Philosophy |
+| **complexity-awareness** | 複雜性覺察 | 🧠 Awareness |
+| **simplicity-design** | 簡單設計 | 🛠️ Application |
+| **simplicity-relationships** | 關係中的簡單 | 🛠️ Application |
+| **simplicity-possessions** | 物品的簡單 | 🛠️ Application |
+| **simplicity-schedule** | 日程的簡單 | 🛠️ Application |
+| **simplicity-peace** | 簡單帶來平靜 | 💡 Philosophy |
+
+## 139. Growth Mindset 🌱
+
+*成長心態*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **growth-mindset-basics** | 成長心態基礎 | 📚 Framework |
+| **fixed-vs-growth** | 固定 vs 成長心態 | 📚 Distinction |
+| **growth-mindset-practice** | 成長心態練習 | 🛠️ Practice |
+| **embracing-challenges** | 擁抱挑戰 | 🧠 Practice |
+| **learning-from-criticism** | 從批評學習 | 🧠 Practice |
+| **effort-value** | 努力的價值 | 💡 Philosophy |
+| **failure-learning** | 失敗學習 | 🧠 Practice |
+| **others-success** | 他人的成功 | 🧠 Reframe |
+| **yet-power** | 「還沒」的力量 | 🛠️ Technique |
+| **growth-language** | 成長語言 | 🛠️ Practice |
+| **growth-environment** | 成長環境 | 🛠️ Creation |
+| **growth-mindset-children** | 孩子的成長心態 | 🛠️ Teaching |
+| **growth-mindset-work** | 工作中的成長心態 | 🛠️ Application |
+| **growth-mindset-limits** | 成長心態的限制 | 🧠 Awareness |
+| **growth-mindset-integration** | 成長心態整合 | 🛠️ Practice |
+
+## 140. Balance (Life) ⚖️
+
+*平衡（人生）*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **balance-basics** | 平衡基礎 | 📚 Understanding |
+| **balance-myth** | 平衡的迷思 | 📚 Critique |
+| **integration-over-balance** | 整合而非平衡 | 💡 Alternative |
+| **work-life-balance** | 工作生活平衡 | 🛠️ Framework |
+| **seasons-balance** | 人生季節 | 💡 Philosophy |
+| **priorities-balance** | 優先順序平衡 | 🛠️ Framework |
+| **energy-balance** | 能量平衡 | 🛠️ Practice |
+| **time-balance** | 時間平衡 | 🛠️ Practice |
+| **relationship-balance** | 關係平衡 | 🛠️ Practice |
+| **self-others-balance** | 自我他人平衡 | 🛠️ Practice |
+| **balance-assessment** | 平衡評估 | 🛠️ Tool |
+| **rebalancing** | 重新平衡 | 🛠️ Process |
+| **balance-guilt** | 平衡罪惡感 | 🧠 Psychology |
+| **good-enough-balance** | 夠好的平衡 | 💡 Permission |
+| **dynamic-balance** | 動態平衡 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
