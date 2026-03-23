@@ -8419,6 +8419,116 @@ Agent 應該：
 | **eq-growth** | 情緒智慧成長 | 💡 Continuous |
 | **emotionally-intelligent** | 高情緒智慧 | 💡 Goal |
 
+## 361. Active Listening 👂
+
+*積極傾聽*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **active-listening-basics** | 積極傾聽基礎 | 📚 Understanding |
+| **active-listening-barriers** | 積極傾聽障礙 | 🧠 Awareness |
+| **active-listening-attention** | 積極傾聽專注 | 🛠️ Practice |
+| **active-listening-nonverbal** | 積極傾聽非語言 | 🛠️ Practice |
+| **active-listening-questions** | 積極傾聽提問 | 🛠️ Practice |
+| **active-listening-paraphrasing** | 積極傾聽複述 | 🛠️ Practice |
+| **active-listening-empathy** | 積極傾聽同理 | 🛠️ Practice |
+| **active-listening-silence** | 積極傾聽沉默 | 🛠️ Practice |
+| **active-listening-workplace** | 職場積極傾聽 | 🛠️ Application |
+| **active-listening-relationships** | 關係積極傾聽 | 🛠️ Application |
+| **active-listening-daily** | 日常積極傾聽 | 🛠️ Practice |
+| **active-listening-meaning** | 積極傾聽意義 | 💡 Connection |
+| **active-listening-growth** | 積極傾聽成長 | 💡 Continuous |
+| **active-listening-practice** | 積極傾聽練習 | 🛠️ Routine |
+| **masterful-listener** | 傾聽大師 | 💡 Goal |
+
+## 362. Persuasion and Influence 🎭
+
+*說服和影響*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **persuasion-basics** | 說服基礎 | 📚 Understanding |
+| **persuasion-principles** | 說服原則 | 📚 Framework |
+| **persuasion-credibility** | 說服信譽 | 🛠️ Building |
+| **persuasion-emotion** | 說服情緒 | 🛠️ Practice |
+| **persuasion-logic** | 說服邏輯 | 🛠️ Practice |
+| **persuasion-stories** | 說服故事 | 🛠️ Practice |
+| **persuasion-reciprocity** | 說服互惠 | 🛠️ Practice |
+| **persuasion-social-proof** | 說服社會認同 | 🛠️ Practice |
+| **persuasion-scarcity** | 說服稀缺 | 🛠️ Practice |
+| **persuasion-ethics** | 說服道德 | 🛠️ Practice |
+| **persuasion-daily** | 日常說服 | 🛠️ Practice |
+| **persuasion-workplace** | 職場說服 | 🛠️ Application |
+| **persuasion-meaning** | 說服意義 | 💡 Connection |
+| **persuasion-growth** | 說服成長 | 💡 Continuous |
+| **influential-communicator** | 有影響力的溝通者 | 💡 Goal |
+
+## 363. Feedback Skills 📝
+
+*回饋技巧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **feedback-basics** | 回饋基礎 | 📚 Understanding |
+| **feedback-giving** | 給予回饋 | 🛠️ Practice |
+| **feedback-receiving** | 接受回饋 | 🛠️ Practice |
+| **feedback-structure** | 回饋結構 | 🛠️ Framework |
+| **feedback-timing** | 回饋時機 | 🛠️ Calibration |
+| **feedback-specificity** | 回饋具體 | 🛠️ Practice |
+| **feedback-positive** | 正面回饋 | 🛠️ Practice |
+| **feedback-constructive** | 建設性回饋 | 🛠️ Practice |
+| **feedback-emotions** | 回饋情緒 | 🧠 Management |
+| **feedback-workplace** | 職場回饋 | 🛠️ Application |
+| **feedback-relationships** | 關係回饋 | 🛠️ Application |
+| **feedback-daily** | 日常回饋 | 🛠️ Practice |
+| **feedback-meaning** | 回饋意義 | 💡 Connection |
+| **feedback-growth** | 回饋成長 | 💡 Continuous |
+| **feedback-master** | 回饋大師 | 💡 Goal |
+
+## 364. Coaching Skills 🏋️
+
+*教練技巧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **coaching-basics** | 教練基礎 | 📚 Understanding |
+| **coaching-mindset** | 教練心態 | 🧠 Development |
+| **coaching-questions** | 教練提問 | 🛠️ Practice |
+| **coaching-listening** | 教練傾聽 | 🛠️ Practice |
+| **coaching-goals** | 教練目標 | 🛠️ Practice |
+| **coaching-accountability** | 教練問責 | 🛠️ Practice |
+| **coaching-obstacles** | 教練障礙 | 🛠️ Navigation |
+| **coaching-progress** | 教練進度 | 🛠️ Tracking |
+| **coaching-workplace** | 職場教練 | 🛠️ Application |
+| **coaching-personal** | 個人教練 | 🛠️ Application |
+| **coaching-daily** | 日常教練 | 🛠️ Practice |
+| **coaching-meaning** | 教練意義 | 💡 Connection |
+| **coaching-growth** | 教練成長 | 💡 Continuous |
+| **coaching-ethics** | 教練道德 | 🛠️ Practice |
+| **effective-coach** | 有效的教練 | 💡 Goal |
+
+## 365. Facilitation Skills 👥
+
+*引導技巧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **facilitation-basics** | 引導基礎 | 📚 Understanding |
+| **facilitation-preparation** | 引導準備 | 🛠️ Process |
+| **facilitation-opening** | 引導開場 | 🛠️ Practice |
+| **facilitation-engagement** | 引導參與 | 🛠️ Practice |
+| **facilitation-questions** | 引導提問 | 🛠️ Practice |
+| **facilitation-dynamics** | 引導動態 | 🛠️ Management |
+| **facilitation-conflict** | 引導衝突 | 🛠️ Navigation |
+| **facilitation-decision** | 引導決策 | 🛠️ Practice |
+| **facilitation-closing** | 引導收尾 | 🛠️ Practice |
+| **facilitation-virtual** | 線上引導 | 🛠️ Adaptation |
+| **facilitation-daily** | 日常引導 | 🛠️ Practice |
+| **facilitation-meaning** | 引導意義 | 💡 Connection |
+| **facilitation-growth** | 引導成長 | 💡 Continuous |
+| **facilitation-tools** | 引導工具 | 🛠️ Learning |
+| **skilled-facilitator** | 熟練的引導者 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
