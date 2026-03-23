@@ -1755,6 +1755,116 @@ Agent 應該：
 | **living-fully** | 充實地活 | 💡 Philosophy |
 | **age-discrimination** | 年齡歧視 | 🧠 Awareness |
 
+## 61. Gratitude & Appreciation 🙏
+
+*感恩的科學和實踐*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **gratitude-science** | 感恩的科學基礎 | 🔬 Science |
+| **gratitude-journal** | 感恩日誌 | 🛠️ Practice |
+| **gratitude-fatigue** | 感恩疲勞 | 🧠 Pattern |
+| **toxic-positivity** | 毒性正向 | 🧠 Awareness |
+| **appreciation-expression** | 表達感謝的方式 | 🛠️ Technique |
+| **gratitude-in-hard-times** | 困難時期的感恩 | 🧠 Challenge |
+| **savoring** | 品味美好時刻 | 🛠️ Practice |
+| **taking-for-granted** | 習以為常的覺察 | 🧠 Awareness |
+| **appreciation-at-work** | 職場感謝 | 🛠️ Practical |
+| **gratitude-letters** | 感謝信 | 🛠️ Practice |
+| **receiving-gratitude** | 接受感謝 | 🛠️ Technique |
+| **gratitude-vs-guilt** | 感恩 vs 罪惡感 | 🧠 Distinction |
+| **simple-pleasures** | 簡單的快樂 | 💡 Philosophy |
+| **contentment** | 知足 | 💡 Philosophy |
+| **enough-appreciation** | 夠了就是夠了 | 💡 Philosophy |
+
+## 62. Boundaries (Deep Dive) 🚧
+
+*邊界的深入探討*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **boundary-types** | 邊界的種類 | 📚 Framework |
+| **boundary-signals** | 邊界被越過的信號 | 🧠 Awareness |
+| **boundary-setting** | 設立邊界 | 🛠️ Technique |
+| **boundary-communication** | 溝通邊界 | 🛠️ Technique |
+| **boundary-enforcement** | 執行邊界 | 🛠️ Technique |
+| **boundary-guilt** | 設邊界的罪惡感 | 🧠 Psychology |
+| **porous-boundaries** | 滲透性邊界 | 🧠 Pattern |
+| **rigid-boundaries** | 僵化邊界 | 🧠 Pattern |
+| **healthy-boundaries** | 健康邊界的特徵 | 📚 Understanding |
+| **boundary-in-family** | 家庭邊界 | 🛠️ Context |
+| **boundary-at-work** | 工作邊界 | 🛠️ Context |
+| **boundary-in-friendship** | 友誼邊界 | 🛠️ Context |
+| **boundary-with-self** | 自我邊界 | 🧠 Understanding |
+| **boundary-repair** | 邊界修復 | 🛠️ Recovery |
+| **teaching-boundaries** | 教孩子邊界 | 🛠️ Practical |
+
+## 63. Emotional Regulation 🎭
+
+*情緒調節*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **emotion-basics** | 情緒基礎 | 📚 Understanding |
+| **emotion-wheel** | 情緒輪 | 🛠️ Tool |
+| **emotion-naming** | 情緒命名 | 🛠️ Technique |
+| **emotion-acceptance** | 情緒接納 | 🧠 Framework |
+| **emotion-suppression** | 情緒壓抑的代價 | 🧠 Awareness |
+| **emotion-expression** | 情緒表達 | 🛠️ Technique |
+| **anger-management** | 憤怒管理 | 🛠️ Practical |
+| **sadness-allow** | 允許悲傷 | 💡 Permission |
+| **anxiety-toolbox** | 焦慮工具箱 | 🛠️ Practical |
+| **shame-resilience** | 羞恥韌性 | 🧠 Recovery |
+| **emotional-flooding** | 情緒淹沒 | 🧠 Understanding |
+| **co-regulation** | 共同調節 | 🧠 Relationship |
+| **self-soothing** | 自我安撫 | 🛠️ Technique |
+| **window-of-tolerance** | 容忍窗口 | 📚 Framework |
+| **emotional-intelligence** | 情緒智力 | 📚 Framework |
+
+## 64. Self-Talk & Inner Critic 🗣️
+
+*內在對話*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **inner-critic** | 內在批評者 | 🧠 Understanding |
+| **self-talk-awareness** | 自我對話覺察 | 🧠 Awareness |
+| **negative-self-talk** | 負面自我對話 | 🧠 Pattern |
+| **reframing** | 重新框架 | 🛠️ Technique |
+| **self-compassion-talk** | 自我慈悲對話 | 🛠️ Practice |
+| **thought-challenging** | 挑戰想法 | 🛠️ Technique |
+| **cognitive-distortions** | 認知扭曲 | 📚 Understanding |
+| **positive-affirmations** | 正向肯定的限制 | 🧠 Awareness |
+| **neutral-self-talk** | 中性自我對話 | 🛠️ Alternative |
+| **self-encouragement** | 自我鼓勵 | 🛠️ Practice |
+| **inner-mentor** | 內在導師 | 🧠 Framework |
+| **parts-work** | 部分工作 | 📚 Framework |
+| **voice-of-reason** | 理性之聲 | 🛠️ Access |
+| **rumination-stop** | 反芻思維停止 | 🛠️ Technique |
+| **worry-time** | 擔憂時間 | 🛠️ Technique |
+
+## 65. Trust & Vulnerability 💝
+
+*信任和脆弱*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **trust-building** | 信任建立 | 🛠️ Process |
+| **trust-repair** | 信任修復 | 🛠️ Process |
+| **trust-issues** | 信任問題 | 🧠 Understanding |
+| **vulnerability-courage** | 脆弱的勇氣 | 💡 Philosophy |
+| **vulnerability-timing** | 脆弱的時機 | 🛠️ Judgment |
+| **appropriate-vulnerability** | 適當的脆弱 | 🛠️ Calibration |
+| **self-disclosure** | 自我揭露 | 🛠️ Technique |
+| **being-seen** | 被看見的恐懼 | 🧠 Psychology |
+| **authenticity-cost** | 真實的代價 | 🧠 Trade-off |
+| **trust-yourself** | 相信自己 | 🧠 Foundation |
+| **over-trusting** | 過度信任 | 🧠 Pattern |
+| **under-trusting** | 信任不足 | 🧠 Pattern |
+| **betrayal-recovery** | 背叛恢復 | 🧠 Recovery |
+| **trustworthiness** | 值得信賴 | 💡 Reflection |
+| **safe-people** | 安全的人 | 🛠️ Recognition |
+
 ---
 
 # QUALITY FILTERS
