@@ -4885,6 +4885,120 @@ Agent 應該：
 
 ---
 
+# ADVANCED LIFE NAVIGATION CATEGORIES
+
+## 201. Dealing with Perfectionism 🎯
+
+*處理完美主義*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **perfectionism-basics** | 完美主義基礎 | 📚 Understanding |
+| **perfectionism-types** | 完美主義種類 | 📚 Framework |
+| **perfectionism-recognition** | 完美主義認識 | 🧠 Recognition |
+| **perfectionism-costs** | 完美主義代價 | 🧠 Awareness |
+| **perfectionism-origins** | 完美主義起源 | 🧠 Understanding |
+| **perfectionism-overcoming** | 克服完美主義 | 🛠️ Process |
+| **perfectionism-techniques** | 完美主義技巧 | 🛠️ List |
+| **good-enough** | 夠好就好 | 💡 Philosophy |
+| **perfectionism-work** | 工作完美主義 | 🛠️ Application |
+| **perfectionism-relationships** | 關係完美主義 | 🧠 Application |
+| **perfectionism-parenting** | 育兒完美主義 | 🧠 Application |
+| **perfectionism-progress** | 完美主義和進步 | 🛠️ Balance |
+| **perfectionism-failure** | 完美主義和失敗 | 🧠 Connection |
+| **healthy-striving** | 健康追求 | 💡 Alternative |
+| **perfectionism-compassion** | 完美主義和自我慈悲 | 🛠️ Connection |
+
+## 202. Managing Procrastination ⏰
+
+*管理拖延*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **procrastination-basics** | 拖延基礎 | 📚 Understanding |
+| **procrastination-psychology** | 拖延心理學 | 📚 Science |
+| **procrastination-types** | 拖延種類 | 📚 Framework |
+| **procrastination-recognition** | 拖延認識 | 🧠 Recognition |
+| **procrastination-causes** | 拖延原因 | 🧠 Identification |
+| **procrastination-overcoming** | 克服拖延 | 🛠️ Process |
+| **procrastination-techniques** | 拖延技巧 | 🛠️ List |
+| **procrastination-starts** | 開始的技巧 | 🛠️ Technique |
+| **procrastination-momentum** | 拖延動能 | 🛠️ Technique |
+| **procrastination-environment** | 拖延環境 | 🛠️ Design |
+| **procrastination-emotions** | 拖延和情緒 | 🧠 Connection |
+| **procrastination-perfectionism** | 拖延和完美主義 | 🧠 Connection |
+| **procrastination-fear** | 拖延和恐懼 | 🧠 Connection |
+| **productive-procrastination** | 有生產力的拖延 | 💡 Reframe |
+| **procrastination-compassion** | 拖延和自我慈悲 | 🛠️ Practice |
+
+## 203. Dealing with Comparison 📊
+
+*處理比較*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **comparison-basics** | 比較基礎 | 📚 Understanding |
+| **comparison-psychology** | 比較心理學 | 📚 Science |
+| **comparison-triggers** | 比較觸發 | 🧠 Identification |
+| **comparison-costs** | 比較代價 | 🧠 Awareness |
+| **comparison-social-media** | 社群媒體比較 | 🧠 Application |
+| **comparison-work** | 工作比較 | 🧠 Application |
+| **comparison-relationships** | 關係比較 | 🧠 Application |
+| **comparison-stopping** | 停止比較 | 🛠️ Technique |
+| **comparison-reframe** | 比較重構 | 🧠 Technique |
+| **comparison-to-inspiration** | 比較到啟發 | 🛠️ Transformation |
+| **comparison-to-self** | 和自己比較 | 💡 Alternative |
+| **comparison-gratitude** | 比較和感恩 | 🛠️ Practice |
+| **comparison-boundaries** | 比較邊界 | 🛠️ Setting |
+| **comparison-compassion** | 比較和自我慈悲 | 🛠️ Practice |
+| **healthy-comparison** | 健康比較 | 💡 Framework |
+
+## 204. Finding Motivation 🔥
+
+*找到動力*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **motivation-basics** | 動力基礎 | 📚 Understanding |
+| **motivation-types** | 動力種類 | 📚 Framework |
+| **intrinsic-motivation** | 內在動力 | 📚 Type |
+| **extrinsic-motivation** | 外在動力 | 📚 Type |
+| **motivation-finding** | 找到動力 | 🛠️ Process |
+| **motivation-sustaining** | 維持動力 | 🛠️ Practice |
+| **motivation-techniques** | 動力技巧 | 🛠️ List |
+| **motivation-environment** | 動力環境 | 🛠️ Design |
+| **motivation-goals** | 動力和目標 | 🛠️ Connection |
+| **motivation-values** | 動力和價值觀 | 🛠️ Connection |
+| **motivation-loss** | 失去動力 | 🧠 Processing |
+| **motivation-recovery** | 動力恢復 | 🛠️ Process |
+| **motivation-vs-discipline** | 動力 vs 紀律 | 📚 Balance |
+| **motivation-work** | 工作動力 | 🛠️ Application |
+| **motivation-life** | 人生動力 | 💡 Philosophy |
+
+## 205. Dealing with FOMO 📱
+
+*處理 FOMO*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **fomo-basics** | FOMO 基礎 | 📚 Understanding |
+| **fomo-psychology** | FOMO 心理學 | 📚 Science |
+| **fomo-recognition** | FOMO 認識 | 🧠 Recognition |
+| **fomo-triggers** | FOMO 觸發 | 🧠 Identification |
+| **fomo-costs** | FOMO 代價 | 🧠 Awareness |
+| **fomo-social-media** | 社群媒體 FOMO | 🧠 Application |
+| **fomo-events** | 活動 FOMO | 🧠 Application |
+| **fomo-career** | 職涯 FOMO | 🧠 Application |
+| **fomo-overcoming** | 克服 FOMO | 🛠️ Process |
+| **fomo-techniques** | FOMO 技巧 | 🛠️ List |
+| **jomo** | JOMO（錯過的喜悅）| 💡 Alternative |
+| **fomo-boundaries** | FOMO 邊界 | 🛠️ Setting |
+| **fomo-values** | FOMO 和價值觀 | 🛠️ Alignment |
+| **fomo-presence** | FOMO 和臨在 | 🛠️ Practice |
+| **fomo-contentment** | FOMO 和知足 | 💡 Philosophy |
+
+---
+
 # QUALITY FILTERS
 
 Before suggesting, ask:
