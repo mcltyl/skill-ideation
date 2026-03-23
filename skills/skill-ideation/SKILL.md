@@ -5877,6 +5877,116 @@ Agent 應該：
 | **meaningful-work-career** | 有意義職涯 | 🛠️ Strategy |
 | **work-as-calling** | 工作作為召喚 | 💡 Philosophy |
 
+## 246. Building Legacy 🏛️
+
+*建立遺產*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **legacy-basics** | 遺產基礎 | 📚 Understanding |
+| **legacy-definition** | 遺產定義 | 📚 Philosophy |
+| **legacy-reflection** | 遺產反思 | 🧠 Process |
+| **legacy-discovery** | 遺產發現 | 🛠️ Process |
+| **legacy-creation** | 遺產創造 | 🛠️ Process |
+| **legacy-values** | 遺產價值觀 | 🛠️ Connection |
+| **legacy-impact** | 遺產影響 | 🛠️ Connection |
+| **legacy-family** | 家庭遺產 | 🛠️ Application |
+| **legacy-professional** | 專業遺產 | 🛠️ Application |
+| **legacy-community** | 社區遺產 | 🛠️ Application |
+| **legacy-daily** | 日常遺產 | 🛠️ Practice |
+| **legacy-long-term** | 長期遺產 | 🛠️ Planning |
+| **legacy-pressure** | 遺產壓力 | 🧠 Release |
+| **legacy-evolution** | 遺產演變 | 🛠️ Process |
+| **living-legacy** | 活著的遺產 | 💡 Philosophy |
+
+## 247. Embracing Impermanence 🍂
+
+*擁抱無常*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **impermanence-basics** | 無常基礎 | 📚 Understanding |
+| **impermanence-philosophy** | 無常哲學 | 📚 Philosophy |
+| **impermanence-acceptance** | 無常接受 | 🧠 Process |
+| **impermanence-practice** | 無常練習 | 🛠️ Practice |
+| **impermanence-relationships** | 關係無常 | 🧠 Application |
+| **impermanence-career** | 職涯無常 | 🧠 Application |
+| **impermanence-health** | 健康無常 | 🧠 Application |
+| **impermanence-loss** | 無常和失去 | 🧠 Connection |
+| **impermanence-grief** | 無常和悲傷 | 🧠 Connection |
+| **impermanence-appreciation** | 無常和欣賞 | 💡 Connection |
+| **impermanence-presence** | 無常和臨在 | 💡 Connection |
+| **impermanence-fear** | 無常恐懼 | 🧠 Processing |
+| **impermanence-freedom** | 無常自由 | 💡 Benefit |
+| **impermanence-beauty** | 無常之美 | 💡 Philosophy |
+| **peaceful-impermanence** | 平靜的無常 | 💡 Goal |
+
+## 248. Finding Contentment 😊
+
+*找到知足*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **contentment-basics** | 知足基礎 | 📚 Understanding |
+| **contentment-vs-complacency** | 知足 vs 自滿 | 📚 Distinction |
+| **contentment-practice** | 知足練習 | 🛠️ Practice |
+| **contentment-gratitude** | 知足和感恩 | 🛠️ Connection |
+| **contentment-enough** | 夠了 | 💡 Philosophy |
+| **contentment-wanting** | 知足和渴望 | 🧠 Balance |
+| **contentment-comparison** | 知足和比較 | 🧠 Navigation |
+| **contentment-possessions** | 知足和物品 | 🛠️ Practice |
+| **contentment-achievements** | 知足和成就 | 🧠 Practice |
+| **contentment-relationships** | 知足和關係 | 🛠️ Application |
+| **contentment-work** | 知足和工作 | 🛠️ Application |
+| **contentment-daily** | 日常知足 | 🛠️ Practice |
+| **contentment-obstacles** | 知足障礙 | 🧠 Overcoming |
+| **contentment-growth** | 知足和成長 | 💡 Balance |
+| **lasting-contentment** | 持久知足 | 💡 Goal |
+
+## 249. Developing Wisdom 🦉
+
+*發展智慧*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **wisdom-basics** | 智慧基礎 | 📚 Understanding |
+| **wisdom-vs-knowledge** | 智慧 vs 知識 | 📚 Distinction |
+| **wisdom-sources** | 智慧來源 | 📚 Reference |
+| **wisdom-development** | 智慧發展 | 🛠️ Process |
+| **wisdom-practice** | 智慧練習 | 🛠️ Practice |
+| **wisdom-experience** | 經驗智慧 | 🛠️ Learning |
+| **wisdom-reflection** | 反思智慧 | 🛠️ Practice |
+| **wisdom-others** | 他人智慧 | 🛠️ Learning |
+| **wisdom-traditions** | 傳統智慧 | 📚 Resource |
+| **wisdom-application** | 智慧應用 | 🛠️ Practice |
+| **wisdom-decisions** | 智慧決策 | 🛠️ Application |
+| **wisdom-relationships** | 智慧關係 | 🛠️ Application |
+| **wisdom-sharing** | 智慧分享 | 🛠️ Practice |
+| **wisdom-humility** | 智慧謙卑 | 💡 Connection |
+| **everyday-wisdom** | 日常智慧 | 💡 Goal |
+
+## 250. Living a Good Life 🌟
+
+*過好的人生*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **good-life-basics** | 好人生基礎 | 📚 Understanding |
+| **good-life-definition** | 好人生定義 | 📚 Philosophy |
+| **good-life-reflection** | 好人生反思 | 🧠 Process |
+| **good-life-values** | 好人生價值觀 | 🛠️ Foundation |
+| **good-life-priorities** | 好人生優先 | 🛠️ Alignment |
+| **good-life-relationships** | 好人生關係 | 🛠️ Component |
+| **good-life-work** | 好人生工作 | 🛠️ Component |
+| **good-life-health** | 好人生健康 | 🛠️ Component |
+| **good-life-growth** | 好人生成長 | 🛠️ Component |
+| **good-life-contribution** | 好人生貢獻 | 🛠️ Component |
+| **good-life-joy** | 好人生喜悅 | 🛠️ Component |
+| **good-life-peace** | 好人生平靜 | 🛠️ Component |
+| **good-life-daily** | 日常好人生 | 🛠️ Practice |
+| **good-life-review** | 好人生回顧 | 🛠️ Practice |
+| **your-good-life** | 你的好人生 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
