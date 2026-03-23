@@ -1732,6 +1732,82 @@ Skip ideas that are:
 - 系列本身就是 marketing
 - 深度 > 廣度（做好一個系列比做很多單獨 skills 有價值）
 
+## Skill Bundles（人群適配）
+
+不同人群需要的 skills 組合：
+
+### 🎓 New Graduate Bundle
+```
+- first-job-survival
+- salary-negotiation-first
+- email-etiquette
+- managing-up
+- imposter-antidote
+- networking-authentic
+- apartment-hunting
+- adulting-finance
+```
+
+### 👨‍💼 New Manager Bundle
+```
+- becoming-manager
+- giving-feedback
+- difficult-conversations
+- 1-on-1-effective
+- team-motivation
+- conflict-mediation
+- delegation-trust
+- firing-gracefully
+```
+
+### 🌏 Expat Bundle
+```
+- culture-shock-phases
+- visa-anxiety
+- local-integration
+- making-friends-abroad
+- language-learning-adult
+- homesickness
+- reverse-culture-shock
+- career-abroad
+```
+
+### 💑 Relationship Bundle
+```
+- attachment-styles
+- fighting-fair
+- communication-couples
+- boundary-setting
+- love-languages
+- relationship-maintenance
+- breakup-recovery
+- dating-again
+```
+
+### 🧘 Mental Health Bundle
+```
+- anxiety-toolkit
+- depression-basics
+- therapy-shopping
+- self-compassion
+- boundary-setting
+- burnout-recovery
+- emotional-regulation
+- triggers-management
+```
+
+### 🎨 Creator Bundle
+```
+- creative-block
+- imposter-artist
+- sharing-work
+- feedback-handling
+- creative-routine
+- hobby-to-profession
+- pricing-creative-work
+- creative-burnout
+```
+
 ## Depth vs Breadth
 
 | 策略 | 何時用 |
