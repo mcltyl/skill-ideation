@@ -3119,6 +3119,116 @@ Agent 應該：
 | **present-vs-future** | 當下 vs 未來 | 💡 Balance |
 | **adaptive-planning** | 適應性規劃 | 🛠️ Framework |
 
+## 121. Negotiation 🤝
+
+*談判*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **negotiation-basics** | 談判基礎 | 📚 Framework |
+| **negotiation-mindset** | 談判心態 | 🧠 Framework |
+| **win-win-negotiation** | 雙贏談判 | 🛠️ Approach |
+| **batna** | BATNA（最佳替代方案）| 📚 Concept |
+| **anchoring-negotiation** | 談判錨定 | 🛠️ Technique |
+| **listening-negotiation** | 談判中的聆聽 | 🛠️ Technique |
+| **salary-negotiation** | 薪資談判 | 🛠️ Application |
+| **price-negotiation** | 價格談判 | 🛠️ Application |
+| **relationship-negotiation** | 關係中的談判 | 🛠️ Application |
+| **saying-no-negotiation** | 談判中說不 | 🛠️ Technique |
+| **concessions** | 讓步策略 | 🛠️ Technique |
+| **deadlock** | 僵局突破 | 🛠️ Technique |
+| **emotion-negotiation** | 談判中的情緒 | 🧠 Management |
+| **preparation-negotiation** | 談判準備 | 🛠️ Process |
+| **closing-negotiation** | 談判收尾 | 🛠️ Technique |
+
+## 122. Storytelling 📖
+
+*故事敘述*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **storytelling-basics** | 故事敘述基礎 | 📚 Framework |
+| **story-structure** | 故事結構 | 📚 Framework |
+| **hook-writing** | 開場鉤子 | 🛠️ Technique |
+| **character-creation** | 角色塑造 | 🛠️ Technique |
+| **conflict-story** | 故事中的衝突 | 📚 Element |
+| **emotional-connection** | 情感連結 | 🛠️ Technique |
+| **personal-stories** | 個人故事 | 🛠️ Application |
+| **business-storytelling** | 商業故事 | 🛠️ Application |
+| **data-storytelling** | 數據故事 | 🛠️ Application |
+| **visual-storytelling** | 視覺故事 | 🛠️ Application |
+| **oral-storytelling** | 口述故事 | 🛠️ Technique |
+| **story-finding** | 找到故事 | 🛠️ Process |
+| **story-editing** | 故事編輯 | 🛠️ Process |
+| **story-practice** | 故事練習 | 🛠️ Practice |
+| **story-vulnerability** | 故事中的脆弱 | 💡 Philosophy |
+
+## 123. Active Listening 👂
+
+*主動聆聽*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **active-listening-basics** | 主動聆聽基礎 | 📚 Framework |
+| **presence-listening** | 聆聽中的臨在 | 🛠️ Practice |
+| **non-judgment-listening** | 不評判的聆聽 | 🛠️ Practice |
+| **reflecting** | 反映 | 🛠️ Technique |
+| **paraphrasing** | 換句話說 | 🛠️ Technique |
+| **clarifying** | 澄清 | 🛠️ Technique |
+| **summarizing** | 總結 | 🛠️ Technique |
+| **body-language-listening** | 聆聽的肢體語言 | 🛠️ Practice |
+| **silence-listening** | 沉默的力量 | 🛠️ Practice |
+| **emotional-listening** | 情緒聆聽 | 🛠️ Technique |
+| **listening-barriers** | 聆聽障礙 | 🧠 Awareness |
+| **listening-vs-waiting** | 聆聽 vs 等著說話 | 🧠 Distinction |
+| **listening-in-conflict** | 衝突中的聆聽 | 🛠️ Application |
+| **listening-practice** | 聆聽練習 | 🛠️ Practice |
+| **listening-feedback** | 聆聽回饋 | 🛠️ Assessment |
+
+## 124. Empathy 💗
+
+*同理心*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **empathy-basics** | 同理心基礎 | 📚 Understanding |
+| **empathy-vs-sympathy** | 同理心 vs 同情心 | 📚 Distinction |
+| **cognitive-empathy** | 認知同理 | 📚 Type |
+| **emotional-empathy** | 情緒同理 | 📚 Type |
+| **empathy-practice** | 同理心練習 | 🛠️ Practice |
+| **perspective-taking** | 觀點取替 | 🛠️ Technique |
+| **empathy-limits** | 同理心的限制 | 🧠 Awareness |
+| **empathy-fatigue** | 同理心疲勞 | 🧠 Pattern |
+| **empathy-boundaries** | 同理心邊界 | 🛠️ Practice |
+| **empathy-action** | 同理心到行動 | 🛠️ Bridge |
+| **self-empathy** | 自我同理 | 🛠️ Practice |
+| **empathy-difficult-people** | 對難相處的人同理 | 🛠️ Challenge |
+| **empathy-communication** | 同理心溝通 | 🛠️ Technique |
+| **teaching-empathy** | 教授同理心 | 🛠️ Practice |
+| **empathy-culture** | 同理心文化 | 🛠️ Building |
+
+## 125. Patience & Waiting ⏳
+
+*耐心和等待*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **patience-basics** | 耐心基礎 | 📚 Understanding |
+| **patience-practice** | 耐心練習 | 🛠️ Practice |
+| **waiting-well** | 好好等待 | 🛠️ Practice |
+| **impatience-awareness** | 不耐煩覺察 | 🧠 Awareness |
+| **delayed-gratification** | 延遲滿足 | 🧠 Skill |
+| **patience-vs-passivity** | 耐心 vs 被動 | 📚 Distinction |
+| **patience-with-self** | 對自己的耐心 | 🛠️ Practice |
+| **patience-with-others** | 對他人的耐心 | 🛠️ Practice |
+| **patience-with-process** | 對過程的耐心 | 🛠️ Practice |
+| **active-waiting** | 主動等待 | 🛠️ Practice |
+| **uncertainty-patience** | 不確定中的耐心 | 🧠 Challenge |
+| **patience-in-growth** | 成長中的耐心 | 💡 Philosophy |
+| **patience-triggers** | 不耐煩觸發點 | 🧠 Awareness |
+| **patience-techniques** | 耐心技巧 | 🛠️ Techniques |
+| **patience-wisdom** | 耐心的智慧 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
