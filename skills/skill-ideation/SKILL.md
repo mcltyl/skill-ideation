@@ -5767,6 +5767,116 @@ Agent 應該：
 | **inner-peace-mind** | 心靈平靜 | 🛠️ Practice |
 | **lasting-peace** | 持久平靜 | 💡 Goal |
 
+## 241. Living with Intention 🎯
+
+*有意圖地生活*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **intention-basics** | 意圖基礎 | 📚 Understanding |
+| **intention-importance** | 意圖重要性 | 📚 Why |
+| **intention-setting** | 設定意圖 | 🛠️ Practice |
+| **intention-daily** | 日常意圖 | 🛠️ Practice |
+| **intention-activities** | 活動意圖 | 🛠️ Practice |
+| **intention-relationships** | 關係意圖 | 🛠️ Application |
+| **intention-work** | 工作意圖 | 🛠️ Application |
+| **intention-vs-goals** | 意圖 vs 目標 | 📚 Distinction |
+| **intention-alignment** | 意圖對齊 | 🛠️ Practice |
+| **intention-review** | 意圖回顧 | 🛠️ Practice |
+| **intention-obstacles** | 意圖障礙 | 🧠 Overcoming |
+| **intention-flexibility** | 意圖彈性 | 💡 Balance |
+| **intention-mindfulness** | 意圖正念 | 🛠️ Connection |
+| **intention-values** | 意圖價值觀 | 🛠️ Connection |
+| **intentional-life** | 有意圖的人生 | 💡 Philosophy |
+
+## 242. Finding Flow States 🌊
+
+*找到心流狀態*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **flow-basics** | 心流基礎 | 📚 Understanding |
+| **flow-science** | 心流科學 | 📚 Science |
+| **flow-conditions** | 心流條件 | 📚 Framework |
+| **flow-triggers** | 心流觸發 | 🛠️ Identification |
+| **flow-activities** | 心流活動 | 🛠️ Identification |
+| **flow-work** | 工作心流 | 🛠️ Application |
+| **flow-creativity** | 創意心流 | 🛠️ Application |
+| **flow-sports** | 運動心流 | 🛠️ Application |
+| **flow-cultivation** | 心流培養 | 🛠️ Practice |
+| **flow-environment** | 心流環境 | 🛠️ Design |
+| **flow-obstacles** | 心流障礙 | 🧠 Overcoming |
+| **flow-balance** | 心流平衡 | 💡 Balance |
+| **flow-addiction** | 心流成癮 | 🧠 Awareness |
+| **flow-daily** | 日常心流 | 🛠️ Integration |
+| **flow-life** | 心流人生 | 💡 Philosophy |
+
+## 243. Developing Grit 💎
+
+*發展毅力*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **grit-basics** | 毅力基礎 | 📚 Understanding |
+| **grit-science** | 毅力科學 | 📚 Science |
+| **grit-components** | 毅力組成 | 📚 Framework |
+| **grit-development** | 毅力發展 | 🛠️ Process |
+| **grit-practice** | 毅力練習 | 🛠️ Practice |
+| **grit-passion** | 毅力和熱情 | 🛠️ Connection |
+| **grit-perseverance** | 毅力和堅持 | 🛠️ Connection |
+| **grit-goals** | 毅力和目標 | 🛠️ Connection |
+| **grit-obstacles** | 毅力障礙 | 🧠 Overcoming |
+| **grit-failure** | 毅力和失敗 | 🧠 Navigation |
+| **grit-growth-mindset** | 毅力和成長心態 | 🛠️ Connection |
+| **grit-balance** | 毅力平衡 | 💡 Balance |
+| **grit-vs-stubbornness** | 毅力 vs 固執 | 📚 Distinction |
+| **grit-examples** | 毅力榜樣 | 💡 Inspiration |
+| **sustainable-grit** | 永續毅力 | 💡 Philosophy |
+
+## 244. Embracing Vulnerability 💔
+
+*擁抱脆弱*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **vulnerability-basics** | 脆弱基礎 | 📚 Understanding |
+| **vulnerability-importance** | 脆弱重要性 | 📚 Why |
+| **vulnerability-courage** | 脆弱和勇氣 | 💡 Connection |
+| **vulnerability-practice** | 脆弱練習 | 🛠️ Practice |
+| **vulnerability-fear** | 脆弱恐懼 | 🧠 Processing |
+| **vulnerability-shame** | 脆弱和羞恥 | 🧠 Processing |
+| **vulnerability-relationships** | 關係中的脆弱 | 🛠️ Application |
+| **vulnerability-work** | 工作中的脆弱 | 🛠️ Application |
+| **vulnerability-creativity** | 創意中的脆弱 | 🛠️ Application |
+| **vulnerability-boundaries** | 脆弱和邊界 | 🛠️ Balance |
+| **vulnerability-trust** | 脆弱和信任 | 🛠️ Connection |
+| **vulnerability-connection** | 脆弱和連結 | 💡 Connection |
+| **vulnerability-strength** | 脆弱和力量 | 💡 Paradox |
+| **vulnerability-modeling** | 脆弱榜樣 | 🛠️ Practice |
+| **vulnerable-living** | 脆弱的生活 | 💡 Philosophy |
+
+## 245. Creating Meaningful Work 💼
+
+*創造有意義的工作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **meaningful-work-basics** | 有意義工作基礎 | 📚 Understanding |
+| **meaningful-work-definition** | 有意義工作定義 | 📚 Philosophy |
+| **meaningful-work-discovery** | 有意義工作發現 | 🛠️ Process |
+| **meaningful-work-creation** | 有意義工作創造 | 🛠️ Process |
+| **meaningful-work-current** | 當前工作意義 | 🛠️ Finding |
+| **meaningful-work-alignment** | 工作價值觀對齊 | 🛠️ Assessment |
+| **meaningful-work-impact** | 工作影響 | 🛠️ Connection |
+| **meaningful-work-growth** | 工作成長 | 🛠️ Connection |
+| **meaningful-work-relationships** | 工作關係 | 🛠️ Connection |
+| **meaningful-work-autonomy** | 工作自主 | 🛠️ Connection |
+| **meaningful-work-obstacles** | 有意義工作障礙 | 🧠 Overcoming |
+| **meaningful-work-balance** | 有意義工作平衡 | 💡 Balance |
+| **meaningful-work-evolution** | 有意義工作演變 | 🛠️ Process |
+| **meaningful-work-career** | 有意義職涯 | 🛠️ Strategy |
+| **work-as-calling** | 工作作為召喚 | 💡 Philosophy |
+
 ---
 
 # QUALITY FILTERS
