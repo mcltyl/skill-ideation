@@ -18,7 +18,7 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 
 ---
 
-# QUICK INDEX (100 Categories, 1250+ Ideas)
+# QUICK INDEX (105 Categories, 1325+ Ideas)
 
 | # | Category | # | Category |
 |---|----------|---|----------|
@@ -3223,6 +3223,7 @@ This skill itself demonstrates:
 | 1.18 | 2026-03-24 | 5 more categories (#81-85), 75 new ideas |
 | 1.19 | 2026-03-24 | 5 more categories (#86-90), 75 new ideas |
 | 1.20 | 2026-03-24 | 5 more categories (#91-95), 75 new ideas |
-| 1.21 | 2026-03-24 | 🎉 FINAL 5 categories (#96-100), 75 new ideas |
+| 1.21 | 2026-03-24 | 🎉 100 categories milestone (#96-100) |
+| 1.22 | 2026-03-24 | Bonus: 5 more categories (#101-105), 75 new ideas |
 
-**🎉 FINAL: 100 categories, 1250+ ideas, 3100+ lines**
+**🎉 CURRENT: 105 categories, 1325+ ideas, 3230+ lines**
