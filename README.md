@@ -31,7 +31,7 @@ Instead of listing categories, we start with questions:
 - What do you explain to others repeatedly?
 - What took you years to figure out?
 
-### 📦 30+ Category Prompts (300+ Ideas)
+### 📦 50 Category Prompts (500+ Ideas)
 
 Each category includes specific ideas, not just suggestions:
 
@@ -50,6 +50,10 @@ Each category includes specific ideas, not just suggestions:
 | **Money Psychology** | money-scripts, scarcity-mindset, enough-number |
 | **Space & Environment** | clutter-psychology, third-place, home-feeling |
 | **Creativity** | creative-block, ugly-first-draft, sharing-work |
+| **LGBTQ+ Experience** | coming-out-timing, chosen-family, queer-aging |
+| **Immigration & Expat** | visa-anxiety, third-culture-kid, reverse-culture-shock |
+| **Startup** | founder-loneliness, pivoting, co-founder-conflict |
+| **Social Anxiety** | party-survival, conversation-starters, phone-call-fear |
 | ...and more | Travel, Parenting, Geopolitics, Fashion, Food, Health... |
 
 ### 🔧 Generation Techniques
