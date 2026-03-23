@@ -3559,6 +3559,116 @@ Agent 應該：
 | **good-enough-balance** | 夠好的平衡 | 💡 Permission |
 | **dynamic-balance** | 動態平衡 | 💡 Philosophy |
 
+## 141. Kindness 💕
+
+*善良*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **kindness-basics** | 善良基礎 | 📚 Understanding |
+| **kindness-practice** | 善良練習 | 🛠️ Practice |
+| **random-kindness** | 隨機善良 | 🛠️ Practice |
+| **self-kindness** | 自我善良 | 🛠️ Practice |
+| **kindness-boundaries** | 善良的邊界 | 🧠 Balance |
+| **kindness-vs-nice** | 善良 vs 討好 | 📚 Distinction |
+| **kindness-difficult** | 對難相處的人善良 | 🧠 Challenge |
+| **kindness-ripple** | 善良漣漪 | 💡 Philosophy |
+| **kindness-benefits** | 善良的好處 | 📚 Science |
+| **teaching-kindness** | 教授善良 | 🛠️ Practice |
+| **kindness-work** | 工作中的善良 | 🛠️ Application |
+| **kindness-strangers** | 對陌生人善良 | 🛠️ Practice |
+| **kindness-self-care** | 善良作為自我照顧 | 💡 Connection |
+| **kindness-culture** | 善良文化 | 🛠️ Building |
+| **kindness-activism** | 善良行動主義 | 💡 Philosophy |
+
+## 142. Generosity 🎁
+
+*慷慨*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **generosity-basics** | 慷慨基礎 | 📚 Understanding |
+| **generosity-practice** | 慷慨練習 | 🛠️ Practice |
+| **generosity-types** | 慷慨種類 | 📚 Framework |
+| **time-generosity** | 時間的慷慨 | 🛠️ Type |
+| **attention-generosity** | 注意力的慷慨 | 🛠️ Type |
+| **money-generosity** | 金錢的慷慨 | 🛠️ Type |
+| **knowledge-generosity** | 知識的慷慨 | 🛠️ Type |
+| **generosity-boundaries** | 慷慨的邊界 | 🧠 Balance |
+| **generosity-receiving** | 接受慷慨 | 🛠️ Practice |
+| **generosity-reciprocity** | 慷慨和互惠 | 🧠 Understanding |
+| **generosity-motivation** | 慷慨動機 | 🧠 Reflection |
+| **generosity-joy** | 慷慨的喜悅 | 💡 Experience |
+| **generosity-scarcity** | 匱乏中的慷慨 | 🧠 Challenge |
+| **teaching-generosity** | 教授慷慨 | 🛠️ Practice |
+| **generosity-legacy** | 慷慨的遺產 | 💡 Philosophy |
+
+## 143. Responsibility 📋
+
+*責任*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **responsibility-basics** | 責任基礎 | 📚 Understanding |
+| **taking-responsibility** | 承擔責任 | 🛠️ Practice |
+| **responsibility-vs-blame** | 責任 vs 責備 | 📚 Distinction |
+| **personal-responsibility** | 個人責任 | 🛠️ Framework |
+| **responsibility-boundaries** | 責任邊界 | 🧠 Clarity |
+| **over-responsibility** | 過度責任 | 🧠 Pattern |
+| **under-responsibility** | 責任不足 | 🧠 Pattern |
+| **responsibility-work** | 工作中的責任 | 🛠️ Application |
+| **responsibility-relationships** | 關係中的責任 | 🛠️ Application |
+| **responsibility-emotions** | 情緒責任 | 🧠 Understanding |
+| **responsibility-actions** | 行動責任 | 🛠️ Practice |
+| **responsibility-words** | 言語責任 | 🛠️ Practice |
+| **shared-responsibility** | 共同責任 | 🛠️ Navigation |
+| **responsibility-delegation** | 責任授權 | 🛠️ Practice |
+| **responsibility-growth** | 責任促進成長 | 💡 Philosophy |
+
+## 144. Integrity ⭐
+
+*正直*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **integrity-basics** | 正直基礎 | 📚 Understanding |
+| **integrity-practice** | 正直練習 | 🛠️ Practice |
+| **values-alignment** | 價值觀對齊 | 🛠️ Assessment |
+| **keeping-word** | 信守承諾 | 🛠️ Practice |
+| **integrity-test** | 正直測試 | 🧠 Framework |
+| **integrity-pressure** | 壓力下的正直 | 🧠 Challenge |
+| **integrity-work** | 工作中的正直 | 🛠️ Application |
+| **integrity-relationships** | 關係中的正直 | 🛠️ Application |
+| **integrity-self** | 對自己的正直 | 🛠️ Practice |
+| **integrity-repair** | 正直修復 | 🛠️ Process |
+| **integrity-cost** | 正直的代價 | 🧠 Awareness |
+| **integrity-reward** | 正直的回報 | 💡 Philosophy |
+| **teaching-integrity** | 教授正直 | 🛠️ Practice |
+| **integrity-culture** | 正直文化 | 🛠️ Building |
+| **integrity-leadership** | 正直領導 | 🛠️ Application |
+
+## 145. Accountability 📊
+
+*問責*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **accountability-basics** | 問責基礎 | 📚 Understanding |
+| **self-accountability** | 自我問責 | 🛠️ Practice |
+| **accountability-partner** | 問責夥伴 | 🛠️ System |
+| **accountability-systems** | 問責系統 | 🛠️ Framework |
+| **accountability-vs-blame** | 問責 vs 責備 | 📚 Distinction |
+| **accountability-work** | 工作中的問責 | 🛠️ Application |
+| **accountability-goals** | 目標問責 | 🛠️ Application |
+| **accountability-habits** | 習慣問責 | 🛠️ Application |
+| **accountability-communication** | 問責溝通 | 🛠️ Technique |
+| **accountability-culture** | 問責文化 | 🛠️ Building |
+| **avoiding-accountability** | 逃避問責 | 🧠 Pattern |
+| **healthy-accountability** | 健康的問責 | 💡 Balance |
+| **accountability-support** | 問責支持 | 🛠️ Resources |
+| **public-accountability** | 公開問責 | 🛠️ Technique |
+| **accountability-grace** | 問責中的恩典 | 💡 Balance |
+
 ---
 
 # QUALITY FILTERS
