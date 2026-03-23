@@ -10627,6 +10627,226 @@ Agent 應該：
 | **terminal-joy** | 終端機喜悅 | 💡 Finding |
 | **terminal-wizard** | 終端機精靈 | 💡 Goal |
 
+## 461. Version Control (Git) 🗃️
+
+*版本控制 (Git)*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **git-basics** | Git 基礎 | 📚 Understanding |
+| **git-workflow** | Git 工作流 | 🛠️ Practice |
+| **git-branching** | Git 分支 | 🛠️ Practice |
+| **git-merging** | Git 合併 | 🛠️ Practice |
+| **git-collaboration** | Git 協作 | 🛠️ Practice |
+| **git-tools** | Git 工具 | 🛠️ Selection |
+| **git-daily** | 日常 Git | 🛠️ Practice |
+| **git-meaning** | Git 意義 | 💡 Connection |
+| **git-growth** | Git 成長 | 💡 Continuous |
+| **git-github** | GitHub | 🛠️ Practice |
+| **git-best-practices** | Git 最佳實踐 | 🛠️ Practice |
+| **git-troubleshooting** | Git 疑難排解 | 🛠️ Practice |
+| **git-advanced** | Git 進階 | 🛠️ Learning |
+| **git-joy** | Git 喜悅 | 💡 Finding |
+| **git-master** | Git 大師 | 💡 Goal |
+
+## 462. API Integration 🔌
+
+*API 整合*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **api-basics** | API 基礎 | 📚 Understanding |
+| **api-rest** | REST API | 🛠️ Learning |
+| **api-authentication** | API 認證 | 🛠️ Practice |
+| **api-requests** | API 請求 | 🛠️ Practice |
+| **api-responses** | API 回應 | 🛠️ Practice |
+| **api-tools** | API 工具 | 🛠️ Selection |
+| **api-daily** | 日常 API | 🛠️ Practice |
+| **api-meaning** | API 意義 | 💡 Connection |
+| **api-growth** | API 成長 | 💡 Continuous |
+| **api-documentation** | API 文件 | 🛠️ Reading |
+| **api-debugging** | API 除錯 | 🛠️ Practice |
+| **api-design** | API 設計 | 🛠️ Practice |
+| **api-trends** | API 趨勢 | 🛠️ Tracking |
+| **api-joy** | API 喜悅 | 💡 Finding |
+| **api-expert** | API 專家 | 💡 Goal |
+
+## 463. Database Management 🗄️
+
+*資料庫管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **database-basics** | 資料庫基礎 | 📚 Understanding |
+| **database-sql** | SQL | 🛠️ Learning |
+| **database-design** | 資料庫設計 | 🛠️ Practice |
+| **database-queries** | 資料庫查詢 | 🛠️ Practice |
+| **database-optimization** | 資料庫優化 | 🛠️ Practice |
+| **database-tools** | 資料庫工具 | 🛠️ Selection |
+| **database-daily** | 日常資料庫 | 🛠️ Practice |
+| **database-meaning** | 資料庫意義 | 💡 Connection |
+| **database-growth** | 資料庫成長 | 💡 Continuous |
+| **database-nosql** | NoSQL | 🛠️ Learning |
+| **database-backup** | 資料庫備份 | 🛠️ Practice |
+| **database-security** | 資料庫安全 | 🛠️ Practice |
+| **database-trends** | 資料庫趨勢 | 🛠️ Tracking |
+| **database-joy** | 資料庫喜悅 | 💡 Finding |
+| **database-admin** | 資料庫管理員 | 💡 Goal |
+
+## 464. UI/UX Design 🎨
+
+*UI/UX 設計*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **uiux-basics** | UI/UX 基礎 | 📚 Understanding |
+| **uiux-research** | UI/UX 研究 | 🛠️ Practice |
+| **uiux-wireframing** | UI/UX 線框圖 | 🛠️ Practice |
+| **uiux-prototyping** | UI/UX 原型 | 🛠️ Practice |
+| **uiux-visual** | UI/UX 視覺 | 🛠️ Practice |
+| **uiux-tools** | UI/UX 工具 | 🛠️ Selection |
+| **uiux-daily** | 日常 UI/UX | 🛠️ Practice |
+| **uiux-meaning** | UI/UX 意義 | 💡 Connection |
+| **uiux-growth** | UI/UX 成長 | 💡 Continuous |
+| **uiux-testing** | UI/UX 測試 | 🛠️ Practice |
+| **uiux-accessibility** | UI/UX 無障礙 | 🛠️ Practice |
+| **uiux-trends** | UI/UX 趨勢 | 🛠️ Tracking |
+| **uiux-portfolio** | UI/UX 作品集 | 🛠️ Building |
+| **uiux-joy** | UI/UX 喜悅 | 💡 Finding |
+| **uiux-designer** | UI/UX 設計師 | 💡 Goal |
+
+## 465. Graphic Design 🖼️
+
+*平面設計*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **graphic-design-basics** | 平面設計基礎 | 📚 Understanding |
+| **graphic-design-principles** | 平面設計原則 | 📚 Learning |
+| **graphic-design-color** | 平面設計顏色 | 🛠️ Practice |
+| **graphic-design-typography** | 平面設計字體 | 🛠️ Practice |
+| **graphic-design-layout** | 平面設計排版 | 🛠️ Practice |
+| **graphic-design-tools** | 平面設計工具 | 🛠️ Selection |
+| **graphic-design-daily** | 日常平面設計 | 🛠️ Practice |
+| **graphic-design-meaning** | 平面設計意義 | 💡 Connection |
+| **graphic-design-growth** | 平面設計成長 | 💡 Continuous |
+| **graphic-design-branding** | 平面設計品牌 | 🛠️ Practice |
+| **graphic-design-social** | 平面設計社群 | 🛠️ Practice |
+| **graphic-design-portfolio** | 平面設計作品集 | 🛠️ Building |
+| **graphic-design-trends** | 平面設計趨勢 | 🛠️ Tracking |
+| **graphic-design-joy** | 平面設計喜悅 | 💡 Finding |
+| **graphic-designer** | 平面設計師 | 💡 Goal |
+
+## 466. Video Editing 🎬
+
+*影片剪輯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **video-editing-basics** | 影片剪輯基礎 | 📚 Understanding |
+| **video-editing-software** | 影片剪輯軟體 | 🛠️ Selection |
+| **video-editing-cutting** | 影片剪輯剪切 | 🛠️ Practice |
+| **video-editing-transitions** | 影片剪輯轉場 | 🛠️ Practice |
+| **video-editing-audio** | 影片剪輯音頻 | 🛠️ Practice |
+| **video-editing-color** | 影片剪輯調色 | 🛠️ Practice |
+| **video-editing-daily** | 日常影片剪輯 | 🛠️ Practice |
+| **video-editing-meaning** | 影片剪輯意義 | 💡 Connection |
+| **video-editing-growth** | 影片剪輯成長 | 💡 Continuous |
+| **video-editing-effects** | 影片剪輯特效 | 🛠️ Practice |
+| **video-editing-export** | 影片剪輯輸出 | 🛠️ Practice |
+| **video-editing-workflow** | 影片剪輯工作流 | 🛠️ Building |
+| **video-editing-trends** | 影片剪輯趨勢 | 🛠️ Tracking |
+| **video-editing-joy** | 影片剪輯喜悅 | 💡 Finding |
+| **video-editor** | 影片剪輯師 | 💡 Goal |
+
+## 467. Audio Production 🎧
+
+*音頻製作*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **audio-production-basics** | 音頻製作基礎 | 📚 Understanding |
+| **audio-production-software** | 音頻製作軟體 | 🛠️ Selection |
+| **audio-production-recording** | 音頻製作錄音 | 🛠️ Practice |
+| **audio-production-editing** | 音頻製作剪輯 | 🛠️ Practice |
+| **audio-production-mixing** | 音頻製作混音 | 🛠️ Practice |
+| **audio-production-mastering** | 音頻製作母帶 | 🛠️ Practice |
+| **audio-production-daily** | 日常音頻製作 | 🛠️ Practice |
+| **audio-production-meaning** | 音頻製作意義 | 💡 Connection |
+| **audio-production-growth** | 音頻製作成長 | 💡 Continuous |
+| **audio-production-equipment** | 音頻製作設備 | 🛠️ Selection |
+| **audio-production-effects** | 音頻製作特效 | 🛠️ Practice |
+| **audio-production-workflow** | 音頻製作工作流 | 🛠️ Building |
+| **audio-production-trends** | 音頻製作趨勢 | 🛠️ Tracking |
+| **audio-production-joy** | 音頻製作喜悅 | 💡 Finding |
+| **audio-producer** | 音頻製作人 | 💡 Goal |
+
+## 468. 3D Modeling 🎮
+
+*3D 建模*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **3d-modeling-basics** | 3D 建模基礎 | 📚 Understanding |
+| **3d-modeling-software** | 3D 建模軟體 | 🛠️ Selection |
+| **3d-modeling-techniques** | 3D 建模技巧 | 🛠️ Learning |
+| **3d-modeling-texturing** | 3D 建模材質 | 🛠️ Practice |
+| **3d-modeling-lighting** | 3D 建模燈光 | 🛠️ Practice |
+| **3d-modeling-rendering** | 3D 建模渲染 | 🛠️ Practice |
+| **3d-modeling-daily** | 日常 3D 建模 | 🛠️ Practice |
+| **3d-modeling-meaning** | 3D 建模意義 | 💡 Connection |
+| **3d-modeling-growth** | 3D 建模成長 | 💡 Continuous |
+| **3d-modeling-animation** | 3D 建模動畫 | 🛠️ Practice |
+| **3d-modeling-portfolio** | 3D 建模作品集 | 🛠️ Building |
+| **3d-modeling-trends** | 3D 建模趨勢 | 🛠️ Tracking |
+| **3d-modeling-printing** | 3D 列印 | 🛠️ Practice |
+| **3d-modeling-joy** | 3D 建模喜悅 | 💡 Finding |
+| **3d-artist** | 3D 藝術家 | 💡 Goal |
+
+## 469. Prompt Engineering 🤖
+
+*提示工程*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **prompt-engineering-basics** | 提示工程基礎 | 📚 Understanding |
+| **prompt-engineering-models** | 提示工程模型 | 📚 Understanding |
+| **prompt-engineering-techniques** | 提示工程技巧 | 🛠️ Learning |
+| **prompt-engineering-iteration** | 提示工程迭代 | 🛠️ Practice |
+| **prompt-engineering-testing** | 提示工程測試 | 🛠️ Practice |
+| **prompt-engineering-optimization** | 提示工程優化 | 🛠️ Practice |
+| **prompt-engineering-daily** | 日常提示工程 | 🛠️ Practice |
+| **prompt-engineering-meaning** | 提示工程意義 | 💡 Connection |
+| **prompt-engineering-growth** | 提示工程成長 | 💡 Continuous |
+| **prompt-engineering-tools** | 提示工程工具 | 🛠️ Selection |
+| **prompt-engineering-applications** | 提示工程應用 | 🛠️ Practice |
+| **prompt-engineering-ethics** | 提示工程倫理 | 🛠️ Practice |
+| **prompt-engineering-trends** | 提示工程趨勢 | 🛠️ Tracking |
+| **prompt-engineering-joy** | 提示工程喜悅 | 💡 Finding |
+| **prompt-engineer** | 提示工程師 | 💡 Goal |
+
+## 470. Digital Minimalism 📵
+
+*數位極簡主義*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **digital-minimalism-basics** | 數位極簡主義基礎 | 📚 Understanding |
+| **digital-minimalism-audit** | 數位極簡主義審計 | 🛠️ Process |
+| **digital-minimalism-declutter** | 數位極簡主義斷捨離 | 🛠️ Practice |
+| **digital-minimalism-apps** | 數位極簡主義 App | 🛠️ Selection |
+| **digital-minimalism-notifications** | 數位極簡主義通知 | 🛠️ Management |
+| **digital-minimalism-boundaries** | 數位極簡主義邊界 | 🛠️ Setting |
+| **digital-minimalism-daily** | 日常數位極簡主義 | 🛠️ Practice |
+| **digital-minimalism-meaning** | 數位極簡主義意義 | 💡 Connection |
+| **digital-minimalism-growth** | 數位極簡主義成長 | 💡 Continuous |
+| **digital-minimalism-focus** | 數位極簡主義專注 | 🛠️ Practice |
+| **digital-minimalism-offline** | 數位極簡主義離線 | 🛠️ Practice |
+| **digital-minimalism-balance** | 數位極簡主義平衡 | 💡 Balance |
+| **digital-minimalism-joy** | 數位極簡主義喜悅 | 💡 Finding |
+| **digital-minimalism-sustainability** | 數位極簡主義永續 | 🛠️ Practice |
+| **digital-minimalist** | 數位極簡主義者 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
