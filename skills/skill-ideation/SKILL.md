@@ -5547,6 +5547,116 @@ Agent 應該：
 | **exercise-habit-enjoyment** | 運動享受 | 💡 Goal |
 | **exercise-habit-sustainable** | 永續運動 | 💡 Philosophy |
 
+## 231. Developing a Meditation Practice 🧘
+
+*發展冥想練習*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **meditation-basics** | 冥想基礎 | 📚 Understanding |
+| **meditation-types** | 冥想種類 | 📚 Framework |
+| **meditation-start** | 冥想開始 | 🛠️ Beginner |
+| **meditation-time** | 冥想時間 | 🛠️ Finding |
+| **meditation-place** | 冥想地點 | 🛠️ Design |
+| **meditation-posture** | 冥想姿勢 | 🛠️ Practical |
+| **meditation-guidance** | 冥想指導 | 🛠️ Resources |
+| **meditation-consistency** | 冥想一致性 | 🛠️ Practice |
+| **meditation-obstacles** | 冥想障礙 | 🧠 Overcoming |
+| **meditation-wandering** | 冥想走神 | 🧠 Navigation |
+| **meditation-expectations** | 冥想期望 | 🧠 Management |
+| **meditation-benefits** | 冥想好處 | 📚 Understanding |
+| **meditation-integration** | 冥想整合 | 🛠️ Practice |
+| **meditation-community** | 冥想社群 | 🛠️ Option |
+| **meditation-deepening** | 冥想深化 | 🛠️ Process |
+
+## 232. Developing a Journaling Practice ✍️
+
+*發展日記練習*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **journaling-basics** | 日記基礎 | 📚 Understanding |
+| **journaling-types** | 日記種類 | 📚 Framework |
+| **journaling-start** | 日記開始 | 🛠️ Beginner |
+| **journaling-prompts** | 日記提示 | 🛠️ List |
+| **journaling-time** | 日記時間 | 🛠️ Finding |
+| **journaling-consistency** | 日記一致性 | 🛠️ Practice |
+| **journaling-obstacles** | 日記障礙 | 🧠 Overcoming |
+| **journaling-perfectionism** | 日記完美主義 | 🧠 Release |
+| **journaling-benefits** | 日記好處 | 📚 Understanding |
+| **journaling-reflection** | 日記反思 | 🛠️ Practice |
+| **journaling-gratitude** | 感恩日記 | 🛠️ Type |
+| **journaling-morning** | 晨間日記 | 🛠️ Type |
+| **journaling-evening** | 晚間日記 | 🛠️ Type |
+| **journaling-digital-analog** | 數位 vs 類比 | 🛠️ Decision |
+| **journaling-review** | 日記回顧 | 🛠️ Practice |
+
+## 233. Building Social Connections 🤝
+
+*建立社交連結*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **social-connection-basics** | 社交連結基礎 | 📚 Understanding |
+| **social-connection-importance** | 社交連結重要性 | 📚 Why |
+| **social-connection-building** | 社交連結建立 | 🛠️ Process |
+| **social-connection-maintenance** | 社交連結維護 | 🛠️ Practice |
+| **social-connection-depth** | 社交連結深度 | 🛠️ Development |
+| **social-connection-initiation** | 社交連結發起 | 🛠️ Practice |
+| **social-connection-vulnerability** | 社交連結脆弱 | 🛠️ Practice |
+| **social-connection-quality** | 社交連結品質 | 🛠️ Assessment |
+| **social-connection-quantity** | 社交連結數量 | 🛠️ Balance |
+| **social-connection-energy** | 社交連結能量 | 🛠️ Management |
+| **social-connection-introvert** | 內向者社交連結 | 🛠️ Adaptation |
+| **social-connection-digital** | 數位社交連結 | 🛠️ Navigation |
+| **social-connection-local** | 在地社交連結 | 🛠️ Building |
+| **social-connection-boundaries** | 社交連結邊界 | 🛠️ Setting |
+| **meaningful-connection** | 有意義連結 | 💡 Goal |
+
+## 234. Practicing Active Rest 🛋️
+
+*練習積極休息*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **active-rest-basics** | 積極休息基礎 | 📚 Understanding |
+| **active-rest-importance** | 積極休息重要性 | 📚 Why |
+| **active-rest-types** | 積極休息種類 | 📚 Framework |
+| **active-rest-practice** | 積極休息練習 | 🛠️ Practice |
+| **rest-vs-laziness** | 休息 vs 懶惰 | 📚 Distinction |
+| **rest-guilt** | 休息罪惡感 | 🧠 Processing |
+| **rest-planning** | 休息規劃 | 🛠️ Practice |
+| **rest-boundaries** | 休息邊界 | 🛠️ Setting |
+| **rest-quality** | 休息品質 | 🛠️ Assessment |
+| **micro-rest** | 微休息 | 🛠️ Practice |
+| **rest-recovery** | 休息恢復 | 🛠️ Connection |
+| **rest-creativity** | 休息創意 | 💡 Connection |
+| **rest-productivity** | 休息生產力 | 💡 Connection |
+| **rest-culture** | 休息文化 | 🌍 Context |
+| **sustainable-rest** | 永續休息 | 💡 Philosophy |
+
+## 235. Managing Energy Levels ⚡
+
+*管理能量水平*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **energy-management-basics** | 能量管理基礎 | 📚 Understanding |
+| **energy-vs-time** | 能量 vs 時間 | 📚 Framework |
+| **energy-assessment** | 能量評估 | 🛠️ Tool |
+| **energy-sources** | 能量來源 | 🛠️ Identification |
+| **energy-drains** | 能量消耗 | 🧠 Identification |
+| **energy-physical** | 身體能量 | 🛠️ Management |
+| **energy-emotional** | 情緒能量 | 🛠️ Management |
+| **energy-mental** | 心理能量 | 🛠️ Management |
+| **energy-spiritual** | 靈性能量 | 🛠️ Management |
+| **energy-daily** | 日常能量 | 🛠️ Planning |
+| **energy-weekly** | 每週能量 | 🛠️ Planning |
+| **energy-recovery** | 能量恢復 | 🛠️ Practice |
+| **energy-boundaries** | 能量邊界 | 🛠️ Setting |
+| **energy-optimization** | 能量優化 | 🛠️ Strategy |
+| **sustainable-energy** | 永續能量 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
