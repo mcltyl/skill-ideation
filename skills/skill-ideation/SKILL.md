@@ -18,7 +18,7 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 
 ---
 
-# QUICK INDEX (50 Categories, 500+ Ideas)
+# QUICK INDEX (55 Categories, 575+ Ideas)
 
 | # | Category | # | Category |
 |---|----------|---|----------|
@@ -47,6 +47,11 @@ Generate skill ideas that solve real problems — not just "topics that sound co
 | 23 | Identity Transitions 🔄 | 48 | Social Anxiety 😬 |
 | 24 | Personality Patterns 🔮 | 49 | Creative Blocks 🎨 |
 | 25 | Abstract Concepts 💭 | 50 | Mind-Body Health 🧠💪 |
+| | | 51 | Pet Ownership 🐕 |
+| | | 52 | Hobbies & Interests 🎮 |
+| | | 53 | News & Media Literacy 📰 |
+| | | 54 | Technology Skills 💾 |
+| | | 55 | Civic Engagement 🏛️ |
 
 ---
 
