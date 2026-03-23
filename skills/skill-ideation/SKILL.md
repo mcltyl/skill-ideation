@@ -9413,6 +9413,116 @@ Agent 應該：
 | **anxiety-support** | 焦慮支持 | 🛠️ Resources |
 | **anxiety-calm** | 平靜 | 💡 Goal |
 
+## 406. Depression Management 🌧️
+
+*憂鬱管理*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **depression-basics** | 憂鬱基礎 | 📚 Understanding |
+| **depression-recognition** | 憂鬱識別 | 🧠 Awareness |
+| **depression-treatment** | 憂鬱治療 | 🛠️ Options |
+| **depression-daily** | 日常憂鬱管理 | 🛠️ Practice |
+| **depression-routine** | 憂鬱例行 | 🛠️ Building |
+| **depression-movement** | 憂鬱運動 | 🛠️ Practice |
+| **depression-connection** | 憂鬱連結 | 🛠️ Practice |
+| **depression-thoughts** | 憂鬱思維 | 🧠 Management |
+| **depression-meaning** | 憂鬱意義 | 💡 Finding |
+| **depression-support** | 憂鬱支持 | 🛠️ Resources |
+| **depression-growth** | 憂鬱成長 | 💡 Continuous |
+| **depression-tools** | 憂鬱工具 | 🛠️ Selection |
+| **depression-hope** | 憂鬱希望 | 🧠 Maintaining |
+| **depression-self-compassion** | 憂鬱自我慈悲 | 🛠️ Practice |
+| **depression-recovery** | 憂鬱恢復 | 💡 Goal |
+
+## 407. Mindfulness Practice 🧘
+
+*正念練習*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **mindfulness-basics** | 正念基礎 | 📚 Understanding |
+| **mindfulness-science** | 正念科學 | 📚 Science |
+| **mindfulness-meditation** | 正念冥想 | 🛠️ Practice |
+| **mindfulness-breathing** | 正念呼吸 | 🛠️ Practice |
+| **mindfulness-body** | 正念身體 | 🛠️ Practice |
+| **mindfulness-eating** | 正念飲食 | 🛠️ Practice |
+| **mindfulness-walking** | 正念行走 | 🛠️ Practice |
+| **mindfulness-daily** | 日常正念 | 🛠️ Practice |
+| **mindfulness-obstacles** | 正念障礙 | 🧠 Overcoming |
+| **mindfulness-meaning** | 正念意義 | 💡 Connection |
+| **mindfulness-growth** | 正念成長 | 💡 Continuous |
+| **mindfulness-tools** | 正念工具 | 🛠️ Selection |
+| **mindfulness-community** | 正念社群 | 🛠️ Finding |
+| **mindfulness-integration** | 正念整合 | 🛠️ Practice |
+| **mindful-living** | 正念生活 | 💡 Goal |
+
+## 408. Breath Work 🌬️
+
+*呼吸練習*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **breathwork-basics** | 呼吸練習基礎 | 📚 Understanding |
+| **breathwork-science** | 呼吸練習科學 | 📚 Science |
+| **breathwork-techniques** | 呼吸練習技巧 | 🛠️ Practice |
+| **breathwork-calming** | 平靜呼吸 | 🛠️ Practice |
+| **breathwork-energizing** | 提神呼吸 | 🛠️ Practice |
+| **breathwork-box** | 盒式呼吸 | 🛠️ Technique |
+| **breathwork-4-7-8** | 4-7-8 呼吸 | 🛠️ Technique |
+| **breathwork-daily** | 日常呼吸練習 | 🛠️ Practice |
+| **breathwork-meaning** | 呼吸練習意義 | 💡 Connection |
+| **breathwork-growth** | 呼吸練習成長 | 💡 Continuous |
+| **breathwork-tools** | 呼吸練習工具 | 🛠️ Selection |
+| **breathwork-integration** | 呼吸練習整合 | 🛠️ Practice |
+| **breathwork-advanced** | 進階呼吸練習 | 🛠️ Exploration |
+| **breathwork-community** | 呼吸練習社群 | 🛠️ Finding |
+| **breath-mastery** | 呼吸精通 | 💡 Goal |
+
+## 409. Yoga Practice 🧘‍♀️
+
+*瑜伽練習*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **yoga-basics** | 瑜伽基礎 | 📚 Understanding |
+| **yoga-styles** | 瑜伽風格 | 📚 Framework |
+| **yoga-poses** | 瑜伽體式 | 🛠️ Learning |
+| **yoga-sequence** | 瑜伽序列 | 🛠️ Building |
+| **yoga-breath** | 瑜伽呼吸 | 🛠️ Practice |
+| **yoga-meditation** | 瑜伽冥想 | 🛠️ Practice |
+| **yoga-daily** | 日常瑜伽 | 🛠️ Practice |
+| **yoga-home** | 居家瑜伽 | 🛠️ Practice |
+| **yoga-meaning** | 瑜伽意義 | 💡 Connection |
+| **yoga-growth** | 瑜伽成長 | 💡 Continuous |
+| **yoga-tools** | 瑜伽工具 | 🛠️ Selection |
+| **yoga-community** | 瑜伽社群 | 🛠️ Finding |
+| **yoga-philosophy** | 瑜伽哲學 | 📚 Exploration |
+| **yoga-integration** | 瑜伽整合 | 🛠️ Practice |
+| **yogic-life** | 瑜伽生活 | 💡 Goal |
+
+## 410. Running and Endurance 🏃
+
+*跑步和耐力*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **running-basics** | 跑步基礎 | 📚 Understanding |
+| **running-form** | 跑步姿勢 | 🛠️ Practice |
+| **running-training** | 跑步訓練 | 🛠️ Planning |
+| **running-endurance** | 跑步耐力 | 🛠️ Building |
+| **running-speed** | 跑步速度 | 🛠️ Development |
+| **running-recovery** | 跑步恢復 | 🛠️ Practice |
+| **running-injury** | 跑步傷害 | 🛠️ Prevention |
+| **running-daily** | 日常跑步 | 🛠️ Practice |
+| **running-meaning** | 跑步意義 | 💡 Connection |
+| **running-growth** | 跑步成長 | 💡 Continuous |
+| **running-tools** | 跑步工具 | 🛠️ Selection |
+| **running-community** | 跑步社群 | 🛠️ Finding |
+| **running-races** | 跑步比賽 | 🛠️ Participation |
+| **running-mental** | 跑步心理 | 🧠 Development |
+| **runner-life** | 跑者生活 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
