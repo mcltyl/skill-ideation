@@ -6761,6 +6761,116 @@ Agent 應該：
 | **gap-year-stigma** | 空檔年污名 | 🧠 Navigation |
 | **intentional-break** | 有意識的休息 | 💡 Philosophy |
 
+## 286. Freelancing Lifestyle 🏠
+
+*自由工作生活*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **freelancing-basics** | 自由工作基礎 | 📚 Understanding |
+| **freelancing-start** | 自由工作開始 | 🛠️ Process |
+| **freelancing-clients** | 自由工作客戶 | 🛠️ Finding |
+| **freelancing-pricing** | 自由工作定價 | 🛠️ Strategy |
+| **freelancing-contracts** | 自由工作合約 | 🛠️ Navigation |
+| **freelancing-income** | 自由工作收入 | 🛠️ Management |
+| **freelancing-taxes** | 自由工作稅務 | 🛠️ Navigation |
+| **freelancing-boundaries** | 自由工作邊界 | 🛠️ Setting |
+| **freelancing-isolation** | 自由工作孤立 | 🧠 Management |
+| **freelancing-burnout** | 自由工作倦怠 | 🧠 Prevention |
+| **freelancing-balance** | 自由工作平衡 | 🛠️ Practice |
+| **freelancing-growth** | 自由工作成長 | 🛠️ Strategy |
+| **freelancing-meaning** | 自由工作意義 | 💡 Connection |
+| **freelancing-community** | 自由工作社群 | 🛠️ Building |
+| **sustainable-freelancing** | 永續自由工作 | 💡 Philosophy |
+
+## 287. Solopreneur Journey 🚀
+
+*個人創業旅程*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **solopreneur-basics** | 個人創業基礎 | 📚 Understanding |
+| **solopreneur-start** | 個人創業開始 | 🛠️ Process |
+| **solopreneur-idea** | 個人創業點子 | 🛠️ Validation |
+| **solopreneur-product** | 個人創業產品 | 🛠️ Building |
+| **solopreneur-marketing** | 個人創業行銷 | 🛠️ Strategy |
+| **solopreneur-sales** | 個人創業銷售 | 🛠️ Practice |
+| **solopreneur-finances** | 個人創業財務 | 🛠️ Management |
+| **solopreneur-isolation** | 個人創業孤立 | 🧠 Management |
+| **solopreneur-burnout** | 個人創業倦怠 | 🧠 Prevention |
+| **solopreneur-balance** | 個人創業平衡 | 🛠️ Practice |
+| **solopreneur-growth** | 個人創業成長 | 🛠️ Strategy |
+| **solopreneur-meaning** | 個人創業意義 | 💡 Connection |
+| **solopreneur-community** | 個人創業社群 | 🛠️ Building |
+| **solopreneur-scaling** | 個人創業擴展 | 🛠️ Decision |
+| **sustainable-solopreneur** | 永續個人創業 | 💡 Philosophy |
+
+## 288. Portfolio Career 📂
+
+*組合式職涯*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **portfolio-career-basics** | 組合式職涯基礎 | 📚 Understanding |
+| **portfolio-career-design** | 組合式職涯設計 | 🛠️ Process |
+| **portfolio-career-components** | 組合式職涯組成 | 🛠️ Selection |
+| **portfolio-career-balance** | 組合式職涯平衡 | 🛠️ Management |
+| **portfolio-career-income** | 組合式職涯收入 | 🛠️ Diversification |
+| **portfolio-career-time** | 組合式職涯時間 | 🛠️ Management |
+| **portfolio-career-energy** | 組合式職涯能量 | 🛠️ Management |
+| **portfolio-career-identity** | 組合式職涯身份 | 🧠 Navigation |
+| **portfolio-career-transitions** | 組合式職涯轉換 | 🛠️ Navigation |
+| **portfolio-career-communication** | 組合式職涯溝通 | 🛠️ Practice |
+| **portfolio-career-meaning** | 組合式職涯意義 | 💡 Connection |
+| **portfolio-career-growth** | 組合式職涯成長 | 🛠️ Strategy |
+| **portfolio-career-challenges** | 組合式職涯挑戰 | 🧠 Navigation |
+| **portfolio-career-benefits** | 組合式職涯好處 | 💡 Appreciation |
+| **sustainable-portfolio** | 永續組合式職涯 | 💡 Philosophy |
+
+## 289. Leadership Development 👑
+
+*領導力發展*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **leadership-dev-basics** | 領導力發展基礎 | 📚 Understanding |
+| **leadership-dev-self-awareness** | 領導力自我覺察 | 🛠️ Foundation |
+| **leadership-dev-skills** | 領導力技能 | 🛠️ Development |
+| **leadership-dev-practice** | 領導力實踐 | 🛠️ Practice |
+| **leadership-dev-feedback** | 領導力回饋 | 🛠️ Seeking |
+| **leadership-dev-coaching** | 領導力教練 | 🛠️ Option |
+| **leadership-dev-mentoring** | 領導力指導 | 🛠️ Option |
+| **leadership-dev-reading** | 領導力閱讀 | 🛠️ Practice |
+| **leadership-dev-experience** | 領導力經驗 | 🛠️ Building |
+| **leadership-dev-challenges** | 領導力挑戰 | 🧠 Navigation |
+| **leadership-dev-failure** | 領導力失敗 | 🧠 Learning |
+| **leadership-dev-growth** | 領導力成長 | 🛠️ Continuous |
+| **leadership-dev-meaning** | 領導力意義 | 💡 Connection |
+| **leadership-dev-values** | 領導力價值觀 | 🛠️ Alignment |
+| **authentic-leadership** | 真誠領導 | 💡 Goal |
+
+## 290. Executive Presence 💼
+
+*高管氣質*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **executive-presence-basics** | 高管氣質基礎 | 📚 Understanding |
+| **executive-presence-components** | 高管氣質組成 | 📚 Framework |
+| **executive-presence-gravitas** | 高管氣質魄力 | 🛠️ Development |
+| **executive-presence-communication** | 高管氣質溝通 | 🛠️ Development |
+| **executive-presence-appearance** | 高管氣質外表 | 🛠️ Consideration |
+| **executive-presence-confidence** | 高管氣質信心 | 🛠️ Building |
+| **executive-presence-composure** | 高管氣質沉著 | 🛠️ Practice |
+| **executive-presence-visibility** | 高管氣質能見度 | 🛠️ Strategy |
+| **executive-presence-meetings** | 高管氣質會議 | 🛠️ Practice |
+| **executive-presence-presentations** | 高管氣質簡報 | 🛠️ Practice |
+| **executive-presence-networking** | 高管氣質社交 | 🛠️ Practice |
+| **executive-presence-authenticity** | 高管氣質真誠 | 💡 Balance |
+| **executive-presence-feedback** | 高管氣質回饋 | 🛠️ Seeking |
+| **executive-presence-growth** | 高管氣質成長 | 🛠️ Continuous |
+| **natural-presence** | 自然的存在感 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
