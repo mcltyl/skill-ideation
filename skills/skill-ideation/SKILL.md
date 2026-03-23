@@ -4003,6 +4003,116 @@ Agent 應該：
 | **expectations-culture** | 期望和文化 | 🌍 Context |
 | **managing-expectations** | 管理期望 | 🛠️ Framework |
 
+## 161. Giving Compliments 💐
+
+*讚美*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **compliments-basics** | 讚美基礎 | 📚 Understanding |
+| **sincere-compliments** | 真誠讚美 | 🛠️ Technique |
+| **compliments-types** | 讚美種類 | 📚 Framework |
+| **compliments-work** | 工作中讚美 | 🛠️ Application |
+| **compliments-relationships** | 關係中讚美 | 🛠️ Application |
+| **compliments-strangers** | 對陌生人讚美 | 🛠️ Practice |
+| **compliments-specific** | 具體讚美 | 🛠️ Technique |
+| **compliments-timing** | 讚美時機 | 🛠️ Judgment |
+| **receiving-compliments** | 接受讚美 | 🛠️ Practice |
+| **deflecting-compliments** | 躲避讚美 | 🧠 Pattern |
+| **compliments-culture** | 讚美文化 | 🌍 Context |
+| **compliments-gender** | 讚美和性別 | 🧠 Awareness |
+| **compliments-appearance** | 外表讚美 | 🧠 Navigation |
+| **compliments-effort** | 努力讚美 | 🛠️ Preference |
+| **compliments-practice** | 讚美練習 | 🛠️ Practice |
+
+## 162. Small Talk Mastery 💬
+
+*閒聊精通*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **small-talk-basics** | 閒聊基礎 | 📚 Understanding |
+| **small-talk-purpose** | 閒聊的目的 | 📚 Why |
+| **small-talk-topics** | 閒聊話題 | 🛠️ List |
+| **small-talk-starters** | 閒聊開場 | 🛠️ List |
+| **small-talk-flow** | 閒聊流動 | 🛠️ Technique |
+| **small-talk-depth** | 閒聊深度 | 🛠️ Progression |
+| **small-talk-exit** | 閒聊離開 | 🛠️ Technique |
+| **small-talk-introverts** | 內向者的閒聊 | 🛠️ Adaptation |
+| **small-talk-networking** | 社交活動閒聊 | 🛠️ Application |
+| **small-talk-work** | 工作中閒聊 | 🛠️ Application |
+| **small-talk-elevator** | 電梯閒聊 | 🛠️ Application |
+| **small-talk-avoidance** | 閒聊迴避 | 🧠 Pattern |
+| **small-talk-anxiety** | 閒聊焦慮 | 🧠 Management |
+| **small-talk-practice** | 閒聊練習 | 🛠️ Practice |
+| **small-talk-cultural** | 跨文化閒聊 | 🌍 Context |
+
+## 163. Dealing with Envy 💚
+
+*處理嫉妒*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **envy-basics** | 嫉妒基礎 | 📚 Understanding |
+| **envy-psychology** | 嫉妒心理學 | 📚 Science |
+| **envy-vs-jealousy** | 嫉妒 vs 妒忌 | 📚 Distinction |
+| **envy-awareness** | 嫉妒覺察 | 🧠 Recognition |
+| **envy-triggers** | 嫉妒觸發點 | 🧠 Identification |
+| **envy-processing** | 處理嫉妒 | 🧠 Process |
+| **envy-information** | 嫉妒作為資訊 | 💡 Reframe |
+| **envy-motivation** | 嫉妒作為動力 | 💡 Reframe |
+| **envy-social-media** | 社群媒體嫉妒 | 🧠 Application |
+| **envy-career** | 職涯嫉妒 | 🧠 Application |
+| **envy-relationships** | 關係嫉妒 | 🧠 Application |
+| **envy-to-admiration** | 嫉妒到欣賞 | 🛠️ Transformation |
+| **being-envied** | 被嫉妒 | 🧠 Navigation |
+| **envy-gratitude** | 嫉妒和感恩 | 🛠️ Practice |
+| **healthy-comparison** | 健康比較 | 💡 Framework |
+
+## 164. Handling Awkward Situations 😬
+
+*處理尷尬情況*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **awkward-basics** | 尷尬基礎 | 📚 Understanding |
+| **awkward-psychology** | 尷尬心理學 | 📚 Science |
+| **awkward-recovery** | 尷尬恢復 | 🛠️ Technique |
+| **awkward-acceptance** | 接受尷尬 | 🧠 Practice |
+| **awkward-humor** | 尷尬幽默 | 🛠️ Technique |
+| **forgetting-names** | 忘記名字 | 🛠️ Recovery |
+| **awkward-silence** | 尷尬沉默 | 🛠️ Navigation |
+| **awkward-compliment** | 尷尬讚美 | 🛠️ Response |
+| **awkward-overshare** | 過度分享 | 🛠️ Recovery |
+| **witnessing-awkward** | 目睹尷尬 | 🛠️ Response |
+| **creating-awkward** | 製造尷尬 | 🧠 Awareness |
+| **awkward-exit** | 尷尬離場 | 🛠️ Technique |
+| **awkward-text** | 尷尬訊息 | 🛠️ Recovery |
+| **awkward-prevention** | 尷尬預防 | 🛠️ Strategy |
+| **embracing-awkward** | 擁抱尷尬 | 💡 Philosophy |
+
+## 165. Expressing Disagreement 🗣️
+
+*表達不同意*
+
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| **disagreement-basics** | 不同意基礎 | 📚 Understanding |
+| **disagreement-fear** | 不同意的恐懼 | 🧠 Psychology |
+| **disagreement-constructive** | 建設性不同意 | 🛠️ Technique |
+| **disagreement-language** | 不同意語言 | 🛠️ Framework |
+| **disagreement-work** | 工作中不同意 | 🛠️ Application |
+| **disagreement-relationships** | 關係中不同意 | 🛠️ Application |
+| **disagreement-authority** | 對權威不同意 | 🛠️ Navigation |
+| **disagreement-group** | 群體中不同意 | 🛠️ Navigation |
+| **disagreement-culture** | 不同意和文化 | 🌍 Context |
+| **disagreement-timing** | 不同意時機 | 🛠️ Judgment |
+| **disagreement-method** | 不同意方式 | 🛠️ Selection |
+| **respectful-disagreement** | 尊重的不同意 | 🛠️ Practice |
+| **agreeing-to-disagree** | 同意不同意 | 🛠️ Practice |
+| **disagreement-aftermath** | 不同意後 | 🛠️ Navigation |
+| **productive-disagreement** | 有生產力的不同意 | 💡 Goal |
+
 ---
 
 # QUALITY FILTERS
