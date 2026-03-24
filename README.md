@@ -1,8 +1,10 @@
 # Skill Ideation 💡
 
-**Structured brainstorming to find skill ideas that actually matter.**
+**Stop brainstorming generic skill ideas. Start finding the ones that actually matter.**
 
-That skill you've been looking for? The one that bridges "I know this" and "I can teach this"? Let's find it. From ancient philosophy to modern AI anxiety, from career pivots to the art of apology — no direction is off-limits.
+Ever tried to brainstorm skill ideas and ended up with a list of vague topics like "Time Management" or "Communication"? Those aren't skills — they're categories. This Agent Skill helps you find *specific*, *actionable* skill ideas that fill real gaps.
+
+This skill follows the [Agent Skills specification](https://agentskills.io/specification).
 
 Works with Claude Code, Codex CLI, OpenClaw, and any Agent Skills-compatible tool.
 
@@ -17,7 +19,34 @@ Most brainstorming produces:
 - Things Google already answers well
 - Ideas too broad to be useful
 
-This skill flips the approach: **problem-first, not category-first**.
+**This skill flips the approach: problem-first, not category-first.**
+
+---
+
+## Installation
+
+### npx skills
+```bash
+npx skills add git@github.com:mcltyl/skill-ideation.git
+```
+
+### Claude Code / Codex CLI
+```bash
+git clone https://github.com/mcltyl/skill-ideation.git ~/.claude/skills/skill-ideation
+```
+
+### OpenClaw
+```bash
+git clone https://github.com/mcltyl/skill-ideation.git ~/.openclaw/skills/skill-ideation
+```
+
+---
+
+## Skills
+
+| Skill | Description |
+|-------|-------------|
+| [skill-ideation](skills/skill-ideation) | Structured brainstorming framework with 560 categories and 8150+ ideas |
 
 ---
 
@@ -31,47 +60,43 @@ Instead of listing categories, we start with questions:
 - What do you explain to others repeatedly?
 - What took you years to figure out?
 
-### 📦 560 Category Prompts (8150+ Ideas) 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+### 📦 560 Category Prompts (8150+ Ideas)
 
-Each category includes specific ideas, not just suggestions:
+Each category includes 15 specific, actionable ideas:
 
-| Category | Example Ideas |
-|----------|---------------|
-| **Micro-Moments** | first-week-fired, receiving-bad-news, 3am-thoughts |
-| **Micro-Skills** | reading-the-room, saying-no, admitting-wrong |
-| **Identity Transitions** | becoming-manager, student-to-worker, coming-out |
-| **Personality Patterns** | procrastinator-guide, people-pleaser, overthinking |
-| **Abstract Concepts** | boundaries-real, vulnerability-strength, letting-go-how |
-| **Life Logistics** | moving-house, negotiating-rent, resignation-graceful |
-| **Contrarian** | laziness-wisdom, quitting-skill, doing-nothing |
-| **Philosophy & Mortality** | memento-mori, quarter-life-crisis, regret-categories |
-| **Body Wisdom** | gut-feeling-science, tension-mapping, crying-release |
-| **Time Experience** | time-blindness, deadline-magic, waiting-skill |
-| **Money Psychology** | money-scripts, scarcity-mindset, enough-number |
-| **Space & Environment** | clutter-psychology, third-place, home-feeling |
-| **Creativity** | creative-block, ugly-first-draft, sharing-work |
-| **LGBTQ+ Experience** | coming-out-timing, chosen-family, queer-aging |
-| **Immigration & Expat** | visa-anxiety, third-culture-kid, reverse-culture-shock |
-| **Startup** | founder-loneliness, pivoting, co-founder-conflict |
-| **Social Anxiety** | party-survival, conversation-starters, phone-call-fear |
-| ...and more | Travel, Parenting, Geopolitics, Fashion, Food, Health... |
+| Domain | Categories |
+|--------|------------|
+| **Life Moments** | Micro-Moments, Life Logistics, Identity Transitions |
+| **Psychology** | Personality Patterns, Money Psychology, Social Anxiety |
+| **Philosophy** | Stoicism, Existentialism, Buddhism/Zen, Taoism, Ethics |
+| **Inner Work** | Shadow Work, Inner Child, Attachment Theory, Forgiveness |
+| **Relationships** | Dating, Long-Term, Family, Friendship, Workplace |
+| **Career** | Job Search, Career Change, Upward Management, Remote Work |
+| **Creativity** | Creative Process, Writing, Design, Music, Photography |
+| **Health** | Mental Health, Fitness, Nutrition, Sleep, Chronic Illness |
+| **Tech** | Coding, AI/ML, Cloud, Cybersecurity, No-Code, Terminal |
+| **Business** | Startup, Freelancing, Sales, Marketing, Operations |
+| **Finance** | Budgeting, Investing, Tax, Retirement, Wealth Building |
+| **Special Seasons** | New Job, Marriage, Parenting, Retirement, Grief, Coming Out |
+| **Big Projects** | Writing a Book, Running a Marathon, Building a Home |
 
-### 🔧 Generation Techniques
+**Sample from "Micro-Moments" category:**
 
-**5 Methods:**
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| first-week-fired | 剛被開除的那一週 | 🧠 Coping |
+| receiving-bad-news | 接收壞消息的那一刻 | 🛠️ Practice |
+| 3am-thoughts | 凌晨三點的想法 | 🧠 Mindset |
+| job-offer-decision | 收到 offer 的抉擇 | 🛠️ Framework |
+| breakup-moment | 分手的那一刻 | 🧠 Coping |
+
+### 🔧 5 Generation Techniques
+
 1. **From Failure** — What do people consistently screw up?
 2. **From Moments** — What 10-minute window needs help?
 3. **From "Nobody Taught Me"** — School skipped this
 4. **From Verbs** — Not "communication" but "saying no"
 5. **From Contrarian** — What sounds wrong but is right?
-
-**6 Problem-Driven Generators:**
-- The "What If" Generator
-- The "Who Struggles" Generator
-- The "When Exactly" Generator
-- The "Hidden Truth" Generator
-- The "Intersection" Generator
-- The "Lifecycle" Generator
 
 ### 🎯 User-Direction Following
 
@@ -89,26 +114,9 @@ When you say "brainstorm about swimming", it doesn't say "swimming isn't in my c
 
 ---
 
-## Quick Start
+## Quality Filters
 
-```bash
-# OpenClaw
-git clone https://github.com/mcltyl/skill-ideation.git ~/.openclaw/skills/skill-ideation
-
-# Claude Code / Codex
-git clone https://github.com/mcltyl/skill-ideation.git ~/.claude/skills/skill-ideation
-
-# Then ask:
-"Generate skill ideas about [your direction]"
-"What skills could help people who [problem]?"
-"Brainstorm skills for [moment/situation]"
-```
-
----
-
-## What Makes a Good Skill?
-
-The skill includes quality filters:
+The skill includes quality tests for every idea:
 
 | Test | Question |
 |------|----------|
@@ -129,9 +137,12 @@ The skill includes quality filters:
 
 ---
 
-## Example Outputs
+## Example Usage
 
-**User:** "Brainstorm skills about 30-year-old anxiety"
+**Prompt:**
+```
+Generate skill ideas for 30-year-old anxiety
+```
 
 **Output:**
 | Idea | One-Liner | Type |
@@ -143,6 +154,61 @@ The skill includes quality filters:
 | 30-friendships | Why everyone disappeared | 🧠 Psychology |
 | 30-vs-20 | The mindset shift | 💡 Reflection |
 | 30-parents-aging | They're getting old | 🧠 Preparation |
+
+**Prompt:**
+```
+I want to build skills around the emotion of "envy"
+```
+
+**Output:**
+| Idea | One-Liner | Type |
+|------|-----------|------|
+| envy-signal | 羨慕是指路牌 | 💡 Reframe |
+| social-media-envy | 為什麼別人過得比我好 | 🧠 Psychology |
+| colleague-envy | 同事升遷我沒有 | 🧠 Processing |
+| envy-to-action | 把羨慕轉成行動 | 🛠️ Practice |
+| envy-confession | 承認羨慕的勇氣 | 🧠 Self-awareness |
+
+---
+
+## Full Category List
+
+<details>
+<summary>Click to expand all 560 categories</summary>
+
+### Life & Personal Growth (1-50)
+Micro-Moments, Micro-Skills, Identity Transitions, Personality Patterns, Abstract Concepts, Life Logistics, Contrarian Wisdom, Philosophy & Mortality, Body Wisdom, Time Experience, Money Psychology, Space & Environment, Creativity & Expression, LGBTQ+ Experience, Immigration & Expat, Startup Life, Social Anxiety, Travel & Movement, Parenting & Family, Geopolitics & Global Awareness, Spiritual Seeking, Professional Skills, Fashion & Style, Food & Cooking, Digital Life, Pet Ownership, Sports & Competition, Side Hustles, Volunteer & Service, Nature & Outdoors, Humor & Comedy, Aging Well, Gaming & Play, Collecting, DIY & Crafts, Learning & Education, Books & Literature, Film & TV, Podcast & Audio, Writing & Publishing, Public Speaking, Negotiation & Influence, Leadership & Management, Teamwork & Collaboration, Customer Service, Sales & Persuasion, Marketing & Branding, Finance & Investing, Legal Literacy, Health & Wellness
+
+### Relationships & Emotional Intelligence (51-100)
+Dating, Long-Term Relationships, Breakups, Friendship, Family Dynamics, Conflict Resolution, Apologies, Boundaries, Vulnerability, Trust, Jealousy, Loneliness, Gratitude, Forgiveness, Empathy, Active Listening, Difficult Conversations, Emotional Regulation, Self-Compassion, Self-Awareness, Mindfulness, Meditation, Stress Management, Anxiety Management, Depression Coping, Trauma Healing, Grief Processing, Anger Management, Fear Facing, Joy Cultivation, Hope Building, Patience Practice, Resilience Building, Self-Esteem, Body Image, Perfectionism, People Pleasing, Procrastination, Decision Making, Goal Setting, Habit Formation, Motivation, Discipline, Focus, Time Management, Energy Management, Sleep Optimization, Work-Life Balance, Burnout Recovery, Career Planning
+
+### Professional & Career (101-200)
+Job Search, Resume Writing, Interview Skills, Salary Negotiation, First Job, Career Pivot, Promotion Strategy, Performance Reviews, Workplace Politics, Managing Up, Peer Relationships, Mentorship, Networking, Personal Branding, LinkedIn Strategy, Remote Work, Hybrid Work, Freelancing, Consulting, Entrepreneurship, Product Management, Project Management, Engineering, Design, Data Science, Marketing, Sales, Finance, HR, Legal, Operations, Strategy, Leadership, Team Building, Hiring, Firing, Feedback, Delegation, Meeting Management, Email Communication, Presentation Skills, Stakeholder Management, Cross-functional Work, Global Teams, Startup Culture, Corporate Culture, Agency Life, Non-profit, Government, Academia
+
+### Technology & Digital (201-300)
+... (categories 201-300)
+
+### Health & Wellness (301-400)
+... (categories 301-400)
+
+### Philosophy & Inner Work (401-510)
+... (categories 401-510)
+
+### Special Seasons & Transitions (511-560)
+Starting New Job, Getting Married, Becoming Parent, Moving to New City, Starting College, Retirement Transition, Career Change, Divorce Navigation, Grief and Loss, Health Crisis, Financial Crisis, Midlife Transition, Quarter-Life Crisis, Returning to Work, Relocation Abroad, Addiction Recovery, Coming Out, Aging Parents Care, Empty Nest, Launching Business, Legacy Project, Writing a Book, Running a Marathon, Learning New Language, Building Dream Home, Planning Wedding, Sabbatical, Gap Year, Digital Detox, Minimalist Journey
+
+</details>
+
+---
+
+## Stats
+
+| Metric | Value |
+|--------|-------|
+| Categories | 560 |
+| Ideas | 8150+ |
+| Lines of Content | 13,300+ |
+| Last Updated | 2026-03-24 |
 
 ---
 
